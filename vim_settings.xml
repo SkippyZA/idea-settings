@@ -9,17 +9,17 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/conversion-report-spec.js" timestamp="1463914850912">
+      <file name="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/conversion-report-spec.js" timestamp="1463927909975">
         <mark key="'" line="16" column="4" />
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
-        <mark key="^" line="26" column="5" />
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1463913183138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/report-getstats-repsonse.json" timestamp="1463913394066">
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/report-getstats-repsonse.json" timestamp="1463926186062">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="16" />
         <mark key="^" line="22" column="15" />
@@ -122,8 +122,8 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/lib/category-identifier-spec.js" timestamp="1463311072496">
-        <mark key="[" line="18" column="17" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/lib/category-identifier-spec.js" timestamp="1463928071442">
+        <mark key="[" line="22" column="22" />
         <mark key="]" line="19" column="18" />
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
@@ -156,11 +156,11 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/services/sync-service-spec.js" timestamp="1463333685772">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="26" column="10" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/services/sync-service-spec.js" timestamp="1463928120132">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="87" column="21" />
+        <mark key="^" line="87" column="21" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/pom.xml" timestamp="1463464877580">
         <mark key="[" line="32" column="0" />
@@ -314,11 +314,11 @@
       <file name="$USER_HOME$/Development/yazimedia/spec/source/has-offers-source-spec.js" timestamp="1463310034673">
         <mark key="[" line="19" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1463311023525">
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="69" column="5" />
-        <mark key="^" line="69" column="5" />
-        <mark key="." line="69" column="5" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1463928052965">
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="72" column="17" />
+        <mark key="^" line="72" column="17" />
+        <mark key="." line="72" column="17" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/currency/config/RestContextConfig.java" timestamp="1462791288940">
         <mark key="[" line="32" column="28" />
@@ -332,22 +332,22 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1463840578405">
-        <mark key="[" line="65" column="26" />
-        <mark key="]" line="65" column="26" />
-        <mark key="." line="65" column="26" />
-        <mark key="^" line="65" column="26" />
+      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1463927996580">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/resources/application.properties" timestamp="1463472546855">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/conversion-report.js" timestamp="1463914770913">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/conversion-report.js" timestamp="1463927880731">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="62" column="87" />
+        <mark key="o" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/rest/GroundZero.java" timestamp="1462137615864">
         <mark key="[" line="20" column="0" />
@@ -453,11 +453,10 @@
         <mark key="^" line="7" column="101" />
         <mark key="." line="7" column="101" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1463912888634">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
-        <mark key="^" line="36" column="28" />
+      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1463927981741">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/repository/ScrapingRepositoryImplTest.java" timestamp="1463484322839">
         <mark key="[" line="65" column="21" />
@@ -569,8 +568,11 @@
         <mark key="." line="20" column="92" />
         <mark key="^" line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/models/offer-spec.js" timestamp="1463311083879">
-        <mark key="[" line="9" column="29" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/models/offer-spec.js" timestamp="1463928019473">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1463829244506">
         <mark key="[" line="19" column="23" />
@@ -841,8 +843,8 @@
       <jump line="16" column="4" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/conversion-report-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>array</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcGF5b3V0OiBKb2kubnVtYmVyKCksCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -861,49 +863,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>spy</text>
+        <text>moment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRyYXdEYXRlOwoK</text>
       </register>
-      <register name="1" type="4">
-        <text>array</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcGF5b3V0OiBKb2kubnVtYmVyKCksCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>n</text>
+      <register name="2" type="2">
+        <text encoding="base64">fSkudGhlbih4ID0+IGNvbnNvbGUubG9nKCkpOwoK</text>
       </register>
-      <register name="3" type="4">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">aGFzT2ZmZXJzQnJhbmQucmVwb3J0LmdldFN0YXRzKHsKICBmaWVsZHM6IFsgJ1N0YXQuY29udmVyc2lvbnMnLCAnT2ZmZXIucmVmX2lkJyBdLAogIGdyb3VwczogWyAnT2ZmZXIubmFtZScgXSwKICBkYXRhX3N0YXJ0OiAnMjAxNi0wNS0yMCcsCiAgZGF0YV9lbmQ6ICcyMDE2LTA1LTIyJywKICB0b3RhbHM6IHRydWUsCiAgbGltaXQ6IDEwMDAwMAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29udmVyc2lvbnMpOwo=</text>
+      <register name="4" type="4">
+        <text>data</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>response</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="8" type="4">
+        <text>x</text>
       </register>
-      <register name="9" type="4">
-        <text>Array</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>25</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spy</last-search>
+      <last-search>moment</last-search>
       <last-offset />
-      <last-pattern>spy</last-pattern>
+      <last-pattern>moment</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -914,6 +916,7 @@
         <entry>incent</entry>
         <entry>debug</entry>
         <entry>spy</entry>
+        <entry>moment</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
@@ -926,7 +929,6 @@
         <entry>73</entry>
         <entry>3</entry>
         <entry>5</entry>
-        <entry>t.</entry>
         <entry>9</entry>
         <entry>10</entry>
         <entry>wq</entry>
@@ -934,8 +936,9 @@
         <entry>q</entry>
         <entry>1</entry>
         <entry>23</entry>
-        <entry>w</entry>
         <entry>25</entry>
+        <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
