@@ -1,0 +1,912 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/test/java/com/syzygy/currency/library/model/ExchangeRateTest.java" timestamp="1461243552024">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/conversion-report-spec.js" timestamp="1463840706006">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/lib-errors/src/main/java/com/syzygy/errors/Errors.java" timestamp="1462794722013">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/model/Currency.java" timestamp="1460995411188">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/repository/DeploybotDeploymentRepository.java" timestamp="1462137080271">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/controller/GlobalControllerExceptionHandler.java" timestamp="1463733888371">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/lib-errors/src/main/java/com/syzygy/library/errors/config/RestContextConfig.java" timestamp="1462792692346">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/pom.xml" timestamp="1463464860354">
+        <mark key="[" line="50" column="25" />
+        <mark key="]" line="56" column="11" />
+        <mark key="." line="56" column="11" />
+        <mark key="^" line="56" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyService.java" timestamp="1462874028316">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="26" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/webapp/GroundZero.java" timestamp="1462138314786">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="20" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/logging-pom/pom.xml" timestamp="1462361295389">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/test-service/src/main/java/com/sysygy/testservice/config/ServletConfig.java" timestamp="1460971758016">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/model/Repository.java" timestamp="1462133471733">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/EuroJackpotResultScraper.java" timestamp="1463733160692">
+        <mark key="[" line="37" column="120" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/repository/EuroJackpotScraperTest.java" timestamp="1463733396708">
+        <mark key="[" line="66" column="21" />
+        <mark key="]" line="66" column="47" />
+        <mark key="." line="66" column="47" />
+        <mark key="^" line="66" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/services/process-pipeline-spec.js" timestamp="1463840392268">
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/super-pom/pom.xml" timestamp="1461328917586">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="72" column="22" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/sync-service.js" timestamp="1463333713974">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="38" column="66" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-rest/src/main/java/za/co/codecomplex/groundzero/GroundZero.java" timestamp="1462135765330">
+        <mark key="[" line="18" column="88" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/lib/category-identifier-spec.js" timestamp="1463311072496">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/administration-controller.js" timestamp="1463238256036">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/error/CurrencyException.java" timestamp="1463471894150">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepositoryImpl.java" timestamp="1461134631844">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="36" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scrape/eurojackpot/EurojackpotResult.java" timestamp="1462896049031">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="47" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/error/model/ErrorHandlerAdvisor.java" timestamp="1462786777307">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/services/sync-service-spec.js" timestamp="1463333685772">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="26" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/pom.xml" timestamp="1463464877580">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/resources/static/js/bootstrap.js" timestamp="1462120023707">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/views/match/list.jade" timestamp="1463344989473">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/currency/config/ServiceConfig.java" timestamp="1462878875791">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/index.js" timestamp="1463236113682">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/model/CurrencyDTO.java" timestamp="1460994789067">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/lib-errors/src/main/java/com/syzygy/library/errors/ErrorInitializer.java" timestamp="1462519700704">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/EuroJackpotResult.java" timestamp="1462950957040">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/GameResult.java" timestamp="1462952350342">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="29" column="78" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/error/controller/ErrorHandlerAdvisor.java" timestamp="1462786498626">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/models/source.js" timestamp="1463231738631">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/model/ScrapeResultTest.java" timestamp="1463466101024">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="51" />
+        <mark key="^" line="26" column="51" />
+        <mark key="." line="26" column="51" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/GroundZero.java" timestamp="1462127797068">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/lib-logging/pom.xml" timestamp="1462450935343">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="13" column="92" />
+        <mark key="^" line="13" column="92" />
+        <mark key="." line="13" column="92" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1460544628999">
+        <mark key="[" line="69" column="33" />
+        <mark key="]" line="69" column="36" />
+        <mark key="." line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/model/Deployment.java" timestamp="1462133000527">
+        <mark key="[" line="90" column="35" />
+        <mark key="]" line="90" column="35" />
+        <mark key="." line="90" column="35" />
+        <mark key="^" line="74" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/library/repository/DeploybotDeploymentRepository.java" timestamp="1462137609995">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/repository/Deployment.java" timestamp="1462130556722">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/match-routes.js" timestamp="1463336339086">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/ExchangeRateRepositoryImpl.java" timestamp="1461152195694">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="14" />
+        <mark key="^" line="56" column="27" />
+        <mark key="." line="25" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-quickpick/pom.xml" timestamp="1462265051269">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/pom.xml" timestamp="1461658308597">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/test-service/pom.xml" timestamp="1460986345051">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/source/has-offers-source-spec.js" timestamp="1463310034673">
+        <mark key="[" line="19" column="73" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1463311023525">
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="69" column="5" />
+        <mark key="^" line="69" column="5" />
+        <mark key="." line="69" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/currency/config/RestContextConfig.java" timestamp="1462791288940">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="29" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/model/Environment.java" timestamp="1462133385317">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1463840578405">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="26" />
+        <mark key="." line="65" column="26" />
+        <mark key="^" line="65" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/resources/application.properties" timestamp="1463472546855">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/conversion-report.js" timestamp="1463855282415">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/rest/GroundZero.java" timestamp="1462137615864">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/DrawResult.java" timestamp="1463563979240">
+        <mark key="[" line="81" column="15" />
+        <mark key="]" line="81" column="15" />
+        <mark key="." line="81" column="15" />
+        <mark key="^" line="81" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/resources/EuroJackpotTestResponse.html" timestamp="1463478286489">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/library/model/ExchangeRate.java" timestamp="1462880418559">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/error/ErrorCodes.java" timestamp="1462791269555">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/test-service/src/main/resources/application.properties" timestamp="1460620327481">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/service/DeploymentStatus.java" timestamp="1462134470291">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1463833265208">
+        <mark key="[" line="14" column="63" />
+        <mark key="]" line="14" column="67" />
+        <mark key="^" line="14" column="67" />
+        <mark key="." line="14" column="67" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyService.java" timestamp="1460997970650">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-rest/pom.xml" timestamp="1462137231387">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1463840051924" />
+      <file name="$USER_HOME$/Development/GroundZero/pom.xml" timestamp="1462138104829">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/ExchangeRateRepository.java" timestamp="1461145655149">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/model/DeploymentState.java" timestamp="1462132515829">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/wro/wro.xml" timestamp="1462119119554">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/README.md" timestamp="1460998153214">
+        <mark key="[" line="4" column="78" />
+        <mark key="]" line="4" column="78" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="78" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" timestamp="1462883331966">
+        <mark key="[" line="44" column="118" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
+        <mark key="^" line="45" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/library/repository/ExchangeRateRepository.java" timestamp="1462874471810">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="7" column="101" />
+        <mark key="^" line="7" column="101" />
+        <mark key="." line="7" column="101" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1463255883222">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/repository/ScrapingRepositoryImplTest.java" timestamp="1463484322839">
+        <mark key="[" line="65" column="21" />
+        <mark key="]" line="65" column="21" />
+        <mark key="." line="65" column="21" />
+        <mark key="^" line="65" column="70" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/currency/GlobalControllerExceptionHandler.java" timestamp="1463472567120">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/models/source-sync.js" timestamp="1463322636493">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/repository/DeploymentRepository.java" timestamp="1462134542379">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/lib-errors/pom.xml" timestamp="1462792699970">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/model/ReferenceRates.java" timestamp="1461146131508">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="42" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/super-pom/README.md" timestamp="1460548312570">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scrape/DrawResult.java" timestamp="1462895028053">
+        <mark key="[" line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/model/ConvertedCurrency.java" timestamp="1461221723510">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/lib-errors/src/main/java/com/syzygy/library/errors/config/exception/CurrencyExcpetion.java" timestamp="1462792845630">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/DrawWithBonusResult.java" timestamp="1463564105651">
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="31" />
+        <mark key="." line="61" column="31" />
+        <mark key="^" line="61" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/resources/static/js/hello.js" timestamp="1462118202493">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/error/controller/ExceptionHandlerAdvisor.java" timestamp="1462780657582">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="45" />
+        <mark key="^" line="22" column="62" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/UiApplication.java" timestamp="1462127080050">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/error/model/RestError.java" timestamp="1462788458014">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/logging-pom/src/main/java/com/syzygy/logging/LoggerInitializer.java" timestamp="1462349587232">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/match-controller.js" timestamp="1463345287120">
+        <mark key="[" line="17" column="84" />
+        <mark key="]" line="17" column="84" />
+        <mark key="^" line="17" column="93" />
+        <mark key="." line="17" column="84" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/resources/log4j.properties" timestamp="1463472028456">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/test-service/src/main/java/com/syzygy/testservice/TestService.java" timestamp="1460618339219">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/controller/CurrencyController.java" timestamp="1461150631089">
+        <mark key="[" line="20" column="92" />
+        <mark key="]" line="20" column="92" />
+        <mark key="." line="20" column="92" />
+        <mark key="^" line="60" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/models/offer-spec.js" timestamp="1463311083879">
+        <mark key="[" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1463829244506">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/find-all-to-offer-spec.js" timestamp="1463308298228">
+        <mark key="[" line="39" column="7" />
+        <mark key="]" line="39" column="9" />
+        <mark key="^" line="39" column="9" />
+        <mark key="." line="39" column="9" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/sonar-project.properties" timestamp="1461586807600">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/src/main/resources/static/index.html" timestamp="1462120826189">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/model/ExchangeRate.java" timestamp="1461243496832">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1463836656551">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="31" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/test/java/com/syzygy/currency/library/service/CurrencyServiceImplTest.java" timestamp="1461228779472">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/pom.xml" timestamp="1463471956496">
+        <mark key="[" line="30" column="48" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/default-controller.js" timestamp="1463235332807">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/resources/application.properties" timestamp="1461098352332">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/error/DocumentParseException.java" timestamp="1463471900848">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingServiceImpl.java" timestamp="1462950633469">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/PayoutTable.java" timestamp="1463564146563">
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="31" />
+        <mark key="." line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/logging-pom/src/main/java/com/syzygy/logging/config/LoggerConfig.java" timestamp="1462349311133">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-web/pom.xml" timestamp="1463403484139">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/pom.xml" timestamp="1462136834109">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/logging-pom/src/main/resources/log4j.properties" timestamp="1462347802822">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="9" column="87" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/controller/ScrapingController.java" timestamp="1463470759788">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepository.java" timestamp="1461134758449">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/ResultScraper.java" timestamp="1463398129936">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/GameWithBonusResult.java" timestamp="1462952391595">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1462967515610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/currency/controller/ErrorHandlerAdvisor.java" timestamp="1462787118956">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="72" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/test-service/src/main/resources/newrelic.yml" timestamp="1460972089660">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="12" column="55" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/PayoutTier.java" timestamp="1463564261679">
+        <mark key="[" line="88" column="26" />
+        <mark key="]" line="88" column="31" />
+        <mark key="." line="88" column="31" />
+        <mark key="^" line="88" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/currency/CurrencyServiceApplication.java" timestamp="1462883606987">
+        <mark key="[" line="8" column="84" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/TestService/pom.xml" timestamp="1460551580951">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/model/Project.java" timestamp="1462133632748">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="44" column="38" />
+        <mark key="." line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/CurrencyService.java" timestamp="1461066995881">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/resources/application.properties" timestamp="1461098091644">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/config/ScrapingConfig.java" timestamp="1463466040166">
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="58" column="33" />
+        <mark key="." line="58" column="33" />
+        <mark key="^" line="58" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/pom.xml" timestamp="1463472255579">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/pom.xml" timestamp="1463471948290">
+        <mark key="[" line="57" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyService.java" timestamp="1461150415206">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="41" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/views/layout.jade" timestamp="1463342074848">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/CurrencyService.java" timestamp="1460997936694">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/test/java/com/syzygy/currency/library/repository/EcbExchangeRateRepositoryTest.java" timestamp="1461312064160">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="59" column="20" />
+        <mark key="^" line="59" column="20" />
+        <mark key="." line="59" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/error/ScrapeException.java" timestamp="1463391914499">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="/fragment.java" timestamp="1463733465235">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/views/source/list.jade" timestamp="1463336964523">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/java/com/syzygy/currency/config/RestConfigContext.java" timestamp="1462787737960">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="33" column="16" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-service/pom.xml" />
+      <jump line="37" column="12" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepositoryImpl.java" />
+      <jump line="15" column="65" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/controller/CurrencyController.java" />
+      <jump line="22" column="40" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/controller/CurrencyController.java" />
+      <jump line="15" column="12" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/config/ServiceConfig.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/CurrencyService.java" />
+      <jump line="30" column="38" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/config/ServiceConfig.java" />
+      <jump line="62" column="29" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" />
+      <jump line="43" column="99" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" />
+      <jump line="60" column="52" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" />
+      <jump line="6" column="17" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" />
+      <jump line="59" column="120" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" />
+      <jump line="47" column="9" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/service/CurrencyServiceImpl.java" />
+      <jump line="36" column="16" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/test/java/com/syzygy/currency/library/service/CurrencyServiceImplTest.java" />
+      <jump line="38" column="26" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/EcbExchangeRateRepository.java" />
+      <jump line="74" column="41" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/EcbExchangeRateRepository.java" />
+      <jump line="2" column="49" filename="$USER_HOME$/Development/Syzygy/currency-service/currency-web/src/main/java/com/syzygy/currency/CurrencyServiceApplication.java" />
+      <jump line="3" column="22" filename="$USER_HOME$/Development/GroundZero/src/main/wro/wro.properties" />
+      <jump line="7" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" />
+      <jump line="8" column="12" filename="$USER_HOME$/Development/Syzygy/svc-currency/currency-web/src/main/resources/application.properties" />
+      <jump line="53" column="8" filename="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/library/repository/EcbExchangeRateRepository.java" />
+      <jump line="16" column="12" filename="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/DrawPayout.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/EuroJackpotResultScraper.java" />
+      <jump line="26" column="94" filename="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/EuroJackpotResultScraper.java" />
+      <jump line="160" column="32" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="8" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/Development/yazimedia/src/frontend/controllers/match-controller.js" />
+      <jump line="46" column="42" filename="$USER_HOME$/Development/yazimedia/src/frontend/views/match/list.jade" />
+      <jump line="69" column="41" filename="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/repository/EuroJackpotScraperTest.java" />
+      <jump line="71" column="27" filename="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/repository/EuroJackpotScraperTest.java" />
+      <jump line="83" column="78" filename="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/EuroJackpotResultScraper.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/repository/EuroJackpotScraperTest.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnYK</text>
+      </register>
+      <register name="-" type="4">
+        <text>hasOffersApi =</text>
+      </register>
+      <register name="/" type="4">
+        <text>debug</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRyYXdEYXRlOwoK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnYK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGFzc2VydAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>hasOffersApi =</text>
+      </register>
+      <register name="5" type="4">
+        <text>.</text>
+      </register>
+      <register name="6" type="4">
+        <text>this</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29udmVyc2lvblJlcG9ydCA9IG5ldyBDb252ZXJzaW9uUmVwb3J0KHRoaXMuKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>.js</text>
+      </register>
+      <register name="9" type="4">
+        <text>.js</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>debug</last-search>
+      <last-offset />
+      <last-pattern>debug</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>BigDecimal</entry>
+        <entry encoding="base64">XDxqc01pblw+</entry>
+        <entry>incent</entry>
+        <entry>debug</entry>
+      </history-search>
+      <history-cmd>
+        <entry>34</entry>
+        <entry>18</entry>
+        <entry>20</entry>
+        <entry>38</entry>
+        <entry>22</entry>
+        <entry>36</entry>
+        <entry>89</entry>
+        <entry>66</entry>
+        <entry>23</entry>
+        <entry>r</entry>
+        <entry>70</entry>
+        <entry>72</entry>
+        <entry>T.</entry>
+        <entry>87</entry>
+        <entry>83</entry>
+        <entry>73</entry>
+        <entry>3</entry>
+        <entry>5</entry>
+        <entry>t.</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift meta pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

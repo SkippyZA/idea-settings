@@ -1,0 +1,20 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <password>dfcbdfcedfc7dfc3dfc4</password>
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <option name="login" value="admin" />
+          <option name="name" value="Local Docker" />
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <password>dffddfdedff3dfcedfe8dfc9dfc1df9ddfdbdfccdfc7dfe4</password>
+          <option name="hostUrl" value="http://cis.dev.gli.network:9000" />
+          <option name="login" value="steven" />
+          <option name="name" value="GLI SonarQube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Replace string concatenation with template string" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+  </component>
+</application>
