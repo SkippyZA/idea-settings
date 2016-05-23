@@ -36,11 +36,11 @@
         <mark key="]" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464005466650">
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="39" column="22" />
-        <mark key="^" line="39" column="22" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464006990812">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="38" column="51" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/repository/DeploybotDeploymentRepository.java" timestamp="1462137080271">
         <mark key="[" line="9" column="37" />
@@ -704,11 +704,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464005373125">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="33" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464006561535">
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="9" />
+        <mark key="." line="50" column="9" />
+        <mark key="^" line="54" column="59" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepository.java" timestamp="1461134758449">
         <mark key="[" line="7" column="27" />
@@ -921,7 +921,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new Exception(&quot;&quot;)</text>
+        <text>(expected = Exception.class)</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -932,29 +932,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2VUaHJvdyh4IC0+IHsgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOyB9KTsK</text>
+      <register name="2" type="4">
+        <text>(expected = Exception.class)</text>
       </register>
-      <register name="3" type="4">
-        <text>new Exception(&quot;&quot;)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkcmF3Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoeCAtPiB7U3lzdGVtLm91dC5wcmludGxuKHgpOyByZXR1cm4gdHJ1ZTsgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2VUaHJvdyh4IC0+IHsgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOyB9KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZmFsc2UsIHRydWUpOwo=</text>
+      <register name="8" type="4">
+        <text>new Exception(&quot;&quot;)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
