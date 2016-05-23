@@ -16,7 +16,7 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1463913183138">
+      <file name="/a.dummy" timestamp="1464002983633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/report-getstats-repsonse.json" timestamp="1463926186062">
@@ -36,11 +36,11 @@
         <mark key="]" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464001304488">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464003072713">
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/repository/DeploybotDeploymentRepository.java" timestamp="1462137080271">
         <mark key="[" line="9" column="37" />
@@ -269,11 +269,11 @@
         <mark key="^" line="13" column="92" />
         <mark key="." line="13" column="92" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/config/ScrapingConfig.java" timestamp="1464001457117">
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="64" column="41" />
-        <mark key="." line="64" column="41" />
-        <mark key="^" line="64" column="41" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/config/ScrapingConfig.java" timestamp="1464002767319">
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1460544628999">
         <mark key="[" line="69" column="33" />
@@ -903,7 +903,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKHNjcmFwZXIgLT4gewo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -922,7 +922,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ScrapingService</text>
+        <text>stream</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -931,34 +931,34 @@
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRyYXdEYXRlOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKHNjcmFwZXIgLT4gewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>ScrapingService</text>
+        <text>stream</text>
       </register>
       <register name="4" type="4">
-        <text>ResultScraper</text>
+        <text>parallelStream</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJlc3VsdFNjcmFwZXI+IGdldFNjcmFwZXJzKCkgewogICAgICAgIHJldHVybiBzY3JhcGVyczsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="4">
-        <text>GameResult</text>
+        <text>ScrapingService</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gCiAgICA=</text>
+        <text>ResultScraper</text>
       </register>
       <register name=":" type="4">
-        <text>6</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -989,7 +989,6 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>15</entry>
         <entry>23</entry>
-        <entry>w</entry>
         <entry>44</entry>
         <entry>12</entry>
         <entry>7</entry>
@@ -998,6 +997,7 @@
         <entry>t.</entry>
         <entry>31</entry>
         <entry>6</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
