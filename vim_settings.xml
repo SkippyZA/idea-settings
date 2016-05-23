@@ -704,12 +704,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464010158813">
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464022013992">
         <mark key="'" line="75" column="61" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
+        <mark key="[" line="90" column="31" />
+        <mark key="]" line="98" column="47" />
+        <mark key="." line="98" column="47" />
+        <mark key="^" line="98" column="47" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepository.java" timestamp="1461134758449">
         <mark key="[" line="7" column="27" />
@@ -904,7 +904,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -923,7 +923,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resultSet</text>
+        <text encoding="base64">MSA=</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -932,34 +932,34 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>resultSet</text>
+        <text encoding="base64">MSA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmVzdWx0U2V0LCByZXN1bHRzLmdldFJlc3VsdFNldCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>getResultSet</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBEcgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>resultSet</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>resultSet</text>
       </register>
-      <register name="9" type="4">
-        <text>(expected = Exception.class)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmVzdWx0U2V0LCByZXN1bHRzLmdldFJlc3VsdFNldCgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -979,7 +979,6 @@
         <entry>moment</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
         <entry>35</entry>
         <entry>90</entry>
         <entry>3</entry>
@@ -997,8 +996,9 @@
         <entry>12</entry>
         <entry>11</entry>
         <entry>49</entry>
-        <entry>w</entry>
         <entry>t.</entry>
+        <entry encoding="base64">JzwsJz44OQ==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
