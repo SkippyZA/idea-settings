@@ -415,11 +415,20 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/ScrapeObservable.java" timestamp="1463994111022">
+        <mark key="[" line="4" column="50" />
+      </file>
       <file name="$USER_HOME$/Development/GroundZero/groundzero-rest/pom.xml" timestamp="1462137231387">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="17" column="7" />
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/scraper/ScrapeObservableTest.java" timestamp="1463995708110">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/pom.xml" timestamp="1462138104829">
         <mark key="[" line="24" column="18" />
@@ -814,7 +823,7 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1463733465235">
+      <file name="/fragment.java" timestamp="1463994112721">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/views/source/list.jade" timestamp="1463336964523">
@@ -872,7 +881,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ2FtZVNjcmFwZVJlcXVlc3QuZ2V0UGh5c2ljYWxHYW1lTmFtZSgpLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JhcGVPYnNlcnZhYmxlLgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -891,7 +900,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Enaum</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -900,31 +909,31 @@
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRyYXdEYXRlOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ2FtZVNjcmFwZVJlcXVlc3QuZ2V0UGh5c2ljYWxHYW1lTmFtZSgpLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JhcGVPYnNlcnZhYmxlLgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ2FtZVNjcmFwZVJlcXVlc3QudG9TdHJpbmcoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGdhbWVTY3JhcGVSZXF1ZXN0LmdldFBoeXNpY2FsR2FtZU5hbWUoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
-      <register name="3" type="4">
-        <text>Enaum</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzY3JhcGVPYnNlcnZhYmxlLm5vdGlmeSgpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>phsycial</text>
+        <text>false</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IChmYWxzZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljCg==</text>
+      <register name="6" type="4">
+        <text>observable</text>
       </register>
       <register name="7" type="4">
-        <text>euroJackpot</text>
+        <text>arg</text>
       </register>
-      <register name="8" type="4">
-        <text>_</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>EURO_JACKPOT</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>t.</text>
