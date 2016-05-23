@@ -704,11 +704,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464006561535">
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="50" column="9" />
-        <mark key="." line="50" column="9" />
-        <mark key="^" line="54" column="59" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464010158813">
+        <mark key="'" line="75" column="61" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepository.java" timestamp="1461134758449">
         <mark key="[" line="7" column="27" />
@@ -899,6 +900,7 @@
       <jump line="8" column="44" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/conversion-report-spec.js" />
       <jump line="16" column="4" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/conversion-report-spec.js" />
       <jump line="27" column="5" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/scraper/ScrapeObservableTest.java" />
+      <jump line="75" column="61" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -921,43 +923,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(expected = Exception.class)</text>
+        <text>resultSet</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRyYXdEYXRlOwoK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>(expected = Exception.class)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3Cg==</text>
+      <register name="3" type="4">
+        <text>resultSet</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmVzdWx0U2V0LCByZXN1bHRzLmdldFJlc3VsdFNldCgpKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mCg==</text>
+      <register name="5" type="4">
+        <text>getResultSet</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>resultSet</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2VUaHJvdyh4IC0+IHsgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>new Exception(&quot;&quot;)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoKTsK</text>
+      <register name="9" type="4">
+        <text>(expected = Exception.class)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -989,7 +991,6 @@
         <entry>7</entry>
         <entry>2</entry>
         <entry>43</entry>
-        <entry>t.</entry>
         <entry>31</entry>
         <entry>6</entry>
         <entry>26</entry>
@@ -997,6 +998,7 @@
         <entry>11</entry>
         <entry>49</entry>
         <entry>w</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
