@@ -717,12 +717,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464092821807">
-        <mark key="'" line="75" column="61" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="7" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464123816591">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="38" />
+        <mark key="." line="49" column="38" />
+        <mark key="^" line="104" column="7" />
       </file>
       <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ResultValidator.java" timestamp="1464089372536">
         <mark key="[" line="10" column="30" />
@@ -933,10 +933,18 @@
       <jump line="27" column="5" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/scraper/ScrapeObservableTest.java" />
       <jump line="75" column="61" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
       <jump line="39" column="27" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ResultAggregationTest.java" />
+      <jump line="49" column="38" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="3" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="4" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="5" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="6" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="7" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="0" column="8" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
+      <register name="&quot;" type="4">
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -955,49 +963,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2NyYXBlciA=</text>
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
       <register name="/" type="4">
-        <text>moment</text>
+        <text>com.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
+      <register name="1" type="4">
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXp5Z3kuc2NyYXBpbmcubGlicmFyeS5zZXJ2aWNlLlNjcmFwaW5nU2VydmljZTsK</text>
+      <register name="2" type="4">
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXp5Z3kuc2NyYXBpbmcubGlicmFyeS5zY3JhcGVyLkV1cm9KYWNrcG90UmVzdWx0U2NyYXBlcjsKaW1wb3J0IGNvbS5zeXp5Z3kuc2NyYXBpbmcubGlicmFyeS5zY3JhcGVyLlNjcmFwZXI7Cg==</text>
+      <register name="3" type="4">
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXp5Z3kuc2NyYXBpbmcuY29udHJvbGxlci5TY3JhcGluZ0NvbnRyb2xsZXI7CmltcG9ydCBjb20uc3l6eWd5LnNjcmFwaW5nLmxpYnJhcnkuZXJyb3IuU2NyYXBlRXhjZXB0aW9uOwo=</text>
+      <register name="4" type="4">
+        <text>library.service.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5pbXBsLmNsaWVudC5IdHRwQ2xpZW50QnVpbGRlcjsK</text>
+      <register name="5" type="4">
+        <text>com.syzygy.scraping.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YWJpbmQuU2VyaWFsaXphdGlvbkZlYXR1cmU7Cg==</text>
+      <register name="6" type="4">
+        <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIE9iamVjdCBtYXBwZXIgdG8gbWFwIG9iamVjdHMgdG8gYW5kIGZyb20gSlNPTi4KICAgICAqCiAgICAgKiBAcmV0dXJuIG9iamVjdCBtYXBwZXIKICAgICAqLwogICAgQEJlYW4KICAgIHB1YmxpYyBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyKCkgewogICAgICAgIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICAgICAgLy8gV2hlbiBzZXJpYWxpemluZyBkYXRlcywgb3V0cHV0IHRoZW0gYXMgSVNPIHN0cmluZ3MgcmF0aGVyIHRoYW4gZGF0ZSBvYmplY3RzCiAgICAgICAgbWFwcGVyLmRpc2FibGUoU2VyaWFsaXphdGlvbkZlYXR1cmUuV1JJVEVfREFURVNfQVNfVElNRVNUQU1QUyk7CgogICAgICAgIHJldHVybiBtYXBwZXI7CiAgICB9CgogICAgLyoqCiAgICAgKiBIdHRwIGNsaWVudCBmb3IgSFRUUCByZXF1ZXN0cy4KICAgICAqCiAgICAgKiBAcmV0dXJuIGh0dHAgY2xpZW50CiAgICAgKi8KICAgIEBCZWFuCiAgICBwdWJsaWMgSHR0cENsaWVudCBodHRwQ2xpZW50KCkgewogICAgICAgIHJldHVybiBIdHRwQ2xpZW50QnVpbGRlci5jcmVhdGUoKS5idWlsZCgpOwogICAgfQo=</text>
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="8" type="4">
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVzdWx0IHNjcmFwZXIgZm9yIEV1cm8gSmFja3BvdC4KICAgICAqCiAgICAgKiBAcGFyYW0gaHR0cENsaWVudCBodHRwIGNsaWVudAogICAgICogQHJldHVybiBldXJvIGphY2twb3Qgc2NyYXBlcgogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIFNjcmFwZXIgZXVyb0phY2twb3RSZXN1bHRTY3JhcGVyKGZpbmFsIEh0dHBDbGllbnQgaHR0cENsaWVudCkgewogICAgICAgIHJldHVybiBuZXcgRXVyb0phY2twb3RSZXN1bHRTY3JhcGVyKGh0dHBDbGllbnQpOwogICAgfQoKICAgIC8qKgogICAgICogU2NyYXBpbmcgc2VydmljZSBmb3IgcmV0cmlldmFsIGFuZCBjb25zZW5zdXMgb2YgcmVzdWx0cy4KICAgICAqCiAgICAgKiBAcGFyYW0gc2NyYXBlcnMgbGlzdCBvZiBzY3JhcGVycwogICAgICogQHJldHVybiBzY3JhcGluZyBzZXJ2aWNlCiAgICAgKi8KICAgIEBCZWFuCiAgICBwdWJsaWMgU2NyYXBpbmdTZXJ2aWNlIHNjcmFwaW5nU2VydmljZShmaW5hbCBMaXN0PFNjcmFwZXI+IHNjcmFwZXJzKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTY3JhcGluZ1NlcnZpY2Uoc2NyYXBlcnMpOwogICAgfQoKICAgIC8qKgogICAgICogU2NyYXBlIGNvbnRyb2xsZXIuCiAgICAgKgogICAgICogQHBhcmFtIHNjcmFwaW5nU2VydmljZSBzY3JhcGVyIHNlcnZpY2UKICAgICAqIEByZXR1cm4gc2NyYXBpbmcgY29udHJvbGxlcgogICAgICogQHRocm93cyBTY3JhcGVFeGNlcHRpb24KICAgICAqLwogICAgQEJlYW4KICAgIHB1YmxpYyBTY3JhcGluZ0NvbnRyb2xsZXIgc2NyYXBpbmdDb250cm9sbGVyKGZpbmFsIFNjcmFwaW5nU2VydmljZSBzY3JhcGluZ1NlcnZpY2UpIHRocm93cyBTY3JhcGVFeGNlcHRpb24gewogICAgICAgIHJldHVybiBuZXcgU2NyYXBpbmdDb250cm9sbGVyKHNjcmFwaW5nU2VydmljZSk7CiAgICB9</text>
+        <text>com.syzygy.scraping.library.service.</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
       </register>
     </registers>
     <search>
-      <last-search>moment</last-search>
+      <last-search>com.</last-search>
       <last-offset />
-      <last-pattern>moment</last-pattern>
+      <last-pattern>com.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1009,6 +1017,7 @@
         <entry>debug</entry>
         <entry>spy</entry>
         <entry>moment</entry>
+        <entry>com.</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
