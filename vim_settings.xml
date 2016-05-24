@@ -16,7 +16,7 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1464002983633">
+      <file name="/a.dummy" timestamp="1464077661871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/report-getstats-repsonse.json" timestamp="1463926186062">
@@ -31,11 +31,11 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464006990812">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="38" column="51" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464077737888">
+        <mark key="[" line="54" column="113" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="15" />
+        <mark key="^" line="55" column="15" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/repository/DeploybotDeploymentRepository.java" timestamp="1462137080271">
         <mark key="[" line="9" column="37" />
@@ -524,12 +524,12 @@
         <mark key="^" line="9" column="87" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464032521767">
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" timestamp="1464077896565">
         <mark key="'" line="75" column="61" />
-        <mark key="[" line="104" column="64" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="111" column="18" />
+        <mark key="[" line="112" column="60" />
+        <mark key="]" line="114" column="59" />
+        <mark key="." line="114" column="59" />
+        <mark key="^" line="114" column="59" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepository.java" timestamp="1461134758449">
         <mark key="[" line="7" column="27" />
@@ -720,7 +720,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmUK</text>
+        <text encoding="base64">ICAgICAgICBQYXlvdXRUYWJsZSBwYXlvdXRUYWJsZSA9IG1vY2soUGF5b3V0VGFibGUuY2xhc3MpOwoK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -739,7 +739,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -748,31 +748,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmUK</text>
+        <text encoding="base64">ICAgICAgICBQYXlvdXRUYWJsZSBwYXlvdXRUYWJsZSA9IG1vY2soUGF5b3V0VGFibGUuY2xhc3MpOwoK</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>Exception</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
+        <text encoding="base64">RXhjZXB0aW9uIA==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmUK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">RHJhd1Jlc3VsdCByZXN1bHRzIA==</text>
+        <text />
       </register>
       <register name="7" type="4">
-        <text>DrawResult results = service</text>
+        <text>;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
