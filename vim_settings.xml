@@ -16,9 +16,6 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1464077661871">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/report-getstats-repsonse.json" timestamp="1463926186062">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="16" />
@@ -31,11 +28,8 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464080628959">
-        <mark key="[" line="54" column="113" />
-        <mark key="]" line="55" column="15" />
-        <mark key="." line="55" column="15" />
-        <mark key="^" line="55" column="15" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ScrapingService.java" timestamp="1464091509849">
+        <mark key="[" line="51" column="51" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/groundzero-library/src/main/java/za/co/codecomplex/groundzero/library/repository/DeploybotDeploymentRepository.java" timestamp="1462137080271">
         <mark key="[" line="9" column="37" />
@@ -172,6 +166,12 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/error/InvalidResultException.java" timestamp="1464089012494">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+      </file>
       <file name="$USER_HOME$/Development/Syzygy/lib-errors/src/main/java/com/syzygy/library/errors/ErrorInitializer.java" timestamp="1462519700704">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="29" />
@@ -214,11 +214,11 @@
         <mark key="^" line="13" column="92" />
         <mark key="." line="13" column="92" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/config/ScrapingConfig.java" timestamp="1464002767319">
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="50" column="35" />
-        <mark key="." line="50" column="35" />
-        <mark key="^" line="50" column="35" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/config/ScrapingConfig.java" timestamp="1464090446670">
+        <mark key="[" line="76" column="37" />
+        <mark key="]" line="76" column="44" />
+        <mark key="." line="76" column="44" />
+        <mark key="^" line="76" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1460544628999">
         <mark key="[" line="69" column="33" />
@@ -280,11 +280,6 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1463927996580">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/DrawResult.java" timestamp="1463563979240">
         <mark key="[" line="81" column="15" />
         <mark key="]" line="81" column="15" />
@@ -315,10 +310,11 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/controller/ScrapingController.java" timestamp="1463990977016">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-web/src/main/java/com/syzygy/scraping/controller/ScrapingController.java" timestamp="1464090568018">
+        <mark key="[" line="43" column="100" />
+        <mark key="]" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+        <mark key="^" line="44" column="7" />
       </file>
       <file name="/fragment.js" timestamp="1463914306281">
         <mark key="[" line="0" column="0" />
@@ -347,6 +343,7 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1463840051924" />
       <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/scraper/ScrapeObservableTest.java" timestamp="1463997299023">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="53" />
@@ -371,6 +368,7 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/ScrapingService.java" timestamp="1464091215379" />
       <file name="$USER_HOME$/Development/GroundZero/src/main/wro/wro.xml" timestamp="1462119119554">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="6" column="53" />
@@ -389,11 +387,11 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ResultAggregationTest.java" timestamp="1464082616398">
-        <mark key="[" line="64" column="58" />
-        <mark key="]" line="65" column="7" />
-        <mark key="^" line="65" column="7" />
-        <mark key="." line="65" column="7" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ResultAggregationTest.java" timestamp="1464089214646">
+        <mark key="[" line="74" column="11" />
+        <mark key="]" line="74" column="26" />
+        <mark key="^" line="74" column="26" />
+        <mark key="." line="74" column="26" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-currency/currency-library/src/main/java/com/syzygy/currency/library/repository/ExchangeRateRepository.java" timestamp="1462874471810">
         <mark key="[" line="8" column="3" />
@@ -537,6 +535,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="115" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ResultValidator.java" timestamp="1464089372536">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/main/java/com/syzygy/currency/library/repository/CurrencyRepository.java" timestamp="1461134758449">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="5" column="21" />
@@ -654,11 +658,11 @@
         <mark key="^" line="59" column="20" />
         <mark key="." line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ResultAggregation.java" timestamp="1464081514014">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="20" column="38" />
+      <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ResultAggregation.java" timestamp="1464089226524">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/scraper/EuroJackpotResultScraper.java" timestamp="1463989421606">
         <mark key="[" line="89" column="15" />
@@ -732,8 +736,8 @@
       <jump line="39" column="27" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ResultAggregationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;Unable to fetch results for game: &quot; + gameName.toString(), ex);</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -752,7 +756,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RHJhd1dpdGhCb251c1Jlc3VsdCA=</text>
+        <text>&quot;Unable to fetch results for game: &quot; + gameName.toString(), ex);</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -760,35 +764,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;Unable to fetch results for game: &quot; + gameName.toString(), ex);</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uU3RyZWFtOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">RHJhd1dpdGhCb251c1Jlc3VsdCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>DrawResult</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEludmFsaWRSZXN1bHRFeGNlcHRpb24oIlVuYWJsZSB0byByZXRyaWV2ZSByZXN1bHRzIGZvciBnYW1lOiAiICsgZ2FtZU5hbWUudG9TdHJpbmcoKSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">RHJhd1Jlc3VsdCA=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">cmVzdWx0MSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBzY3JhcGVycwovLyAgICAgICAgICAgICAgICAucGFyYWxsZWxTdHJlYW0oKQovLyAgICAgICAgICAgICAgICAuZmlsdGVyKHNjcmFwZXIgLT4gc2NyYXBlci5nZXRHYW1lTmFtZSgpID09IGdhbWVOYW1lKQovLyAgICAgICAgICAgICAgICAubWFwKHNjcmFwZXIgLT4gewovLyAgICAgICAgICAgICAgICAgICAgdHJ5IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2NyYXBlci5nZXRSZXN1bHRzKCk7Ci8vICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChTY3JhcGVFeGNlcHRpb24gZSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJFcnJvciBmZXRjaGluZyByZXN1bHRzIiwgZSk7Ci8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYXlvdXQK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="9" type="4">
-        <text>6</text>
+        <text>Runteim</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text>13</text>
       </register>
     </registers>
     <search>
@@ -808,26 +812,26 @@
         <entry>moment</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry>15</entry>
-        <entry>23</entry>
-        <entry>44</entry>
-        <entry>7</entry>
-        <entry>2</entry>
-        <entry>31</entry>
-        <entry>6</entry>
         <entry>12</entry>
         <entry>11</entry>
         <entry>49</entry>
         <entry encoding="base64">JzwsJz44OQ==</entry>
         <entry>25</entry>
-        <entry>13</entry>
         <entry>26</entry>
         <entry>r.</entry>
         <entry>t.</entry>
-        <entry>w</entry>
         <entry>43</entry>
         <entry>55</entry>
+        <entry>79</entry>
+        <entry>86</entry>
+        <entry>w</entry>
+        <entry>64</entry>
+        <entry>2</entry>
+        <entry>32</entry>
+        <entry>60</entry>
+        <entry>4</entry>
+        <entry>45</entry>
+        <entry>13</entry>
       </history-cmd>
       <history-expr />
       <history-input />
