@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="load env file" description="Load the env file from the project root" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="source env" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="./" />
+    </exec>
+  </tool>
+</toolSet>
