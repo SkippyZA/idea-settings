@@ -16,7 +16,7 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1464271337467">
+      <file name="/a.dummy" timestamp="1464286628282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/report-getstats-repsonse.json" timestamp="1463926186062">
@@ -42,11 +42,11 @@
         <mark key="." line="54" column="33" />
         <mark key="^" line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/frontend/src/components/dash/DeploymentStatus.vue" timestamp="1464035001966">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="7" column="56" />
+      <file name="$USER_HOME$/Development/groundzero/frontend/src/components/dash/DeploymentStatus.vue" timestamp="1464288576309">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="40" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/library/deploybot/model/DeploybotListResponse.java" timestamp="1462814987659">
         <mark key="[" line="38" column="37" />
@@ -84,6 +84,11 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/resources/application.properties" timestamp="1464287280641">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/Syzygy/super-pom/pom.xml" timestamp="1461328917586">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -95,6 +100,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/DeploybotDeploymentStatus.java" timestamp="1464288992816">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/DeploybotDeploymentRepository.java" timestamp="1462907840399">
         <mark key="'" line="35" column="92" />
@@ -119,6 +129,12 @@
         <mark key="]" line="37" column="29" />
         <mark key="." line="37" column="29" />
         <mark key="^" line="47" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/webapp/GroundZero.java" timestamp="1464289206919">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+        <mark key="^" line="15" column="6" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/pom.xml" timestamp="1463464877580">
         <mark key="[" line="32" column="0" />
@@ -148,17 +164,20 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/repository/DeploymentStatusRepository.java" timestamp="1464276165672">
+        <mark key="[" line="9" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/model/GameResult.java" timestamp="1462952350342">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="29" column="78" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/webapp/config/ContextConfig.java" timestamp="1464271334048">
-        <mark key="[" line="51" column="92" />
-        <mark key="]" line="51" column="92" />
-        <mark key="^" line="51" column="92" />
-        <mark key="." line="51" column="92" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/webapp/config/ContextConfig.java" timestamp="1464289092549">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="37" column="35" />
       </file>
       <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/model/DeploymentStatus.java" timestamp="1464023540227">
         <mark key="[" line="11" column="18" />
@@ -226,11 +245,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/webapp/config/ServiceConfig.java" timestamp="1464267057207">
-        <mark key="[" line="70" column="62" />
-        <mark key="]" line="70" column="67" />
-        <mark key="." line="70" column="67" />
-        <mark key="^" line="70" column="67" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/webapp/config/ServiceConfig.java" timestamp="1464276194238">
+        <mark key="[" line="69" column="45" />
+        <mark key="]" line="69" column="45" />
+        <mark key="." line="69" column="45" />
+        <mark key="^" line="69" column="45" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1463928052965">
         <mark key="[" line="71" column="19" />
@@ -279,17 +298,17 @@
         <mark key="." line="44" column="7" />
         <mark key="^" line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/repository/DeploymentRepository.java" timestamp="1464023122566">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/repository/DeploymentRepository.java" timestamp="1464275180805">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/service/DeploymentStatusService.java" timestamp="1464271464071">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/service/DeploymentStatusService.java" timestamp="1464288955660">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="36" />
+        <mark key="^" line="31" column="36" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1463833265208">
         <mark key="[" line="14" column="63" />
@@ -422,16 +441,19 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/model/DeploybotListResponse.java" timestamp="1464285942012">
+        <mark key="[" line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/library/groundzero/repository/DeploybotDeploymentRepository.java" timestamp="1462738124036">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/frontend/src/components/DeploymentWidget.vue" timestamp="1464205624635">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="49" />
-        <mark key="^" line="28" column="49" />
-        <mark key="." line="28" column="49" />
+      <file name="$USER_HOME$/Development/groundzero/frontend/src/components/DeploymentWidget.vue" timestamp="1464288734645">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="61" />
+        <mark key="^" line="3" column="61" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/groundzero-library/pom.xml" timestamp="1462136834109">
         <mark key="[" line="19" column="0" />
@@ -626,12 +648,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/pom.xml" timestamp="1464027097886">
-        <mark key="'" line="40" column="34" />
-        <mark key="[" line="19" column="79" />
-        <mark key="]" line="19" column="76" />
-        <mark key="." line="19" column="76" />
-        <mark key="^" line="19" column="76" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/pom.xml" timestamp="1464286622864">
+        <mark key="'" line="41" column="34" />
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="119" column="25" />
+        <mark key="." line="119" column="25" />
+        <mark key="^" line="119" column="25" />
       </file>
       <file name="$USER_HOME$/Development/Syzygy/svc-scraping/pom.xml" timestamp="1463464860354">
         <mark key="[" line="50" column="25" />
@@ -644,6 +666,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="26" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/Deploybot.java" timestamp="1464276143953">
+        <mark key="'" line="30" column="87" />
+        <mark key="[" line="26" column="58" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Development/GroundZero/src/main/java/za/co/codecomplex/groundzero/webapp/GroundZero.java" timestamp="1462138314786">
         <mark key="[" line="28" column="0" />
@@ -1028,6 +1057,12 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/DeploybotDeploymentStatusRepository.java" timestamp="1464276468275">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/Syzygy/currency-service/currency-library/src/test/java/com/syzygy/currency/library/service/CurrencyServiceImplTest.java" timestamp="1461228779472">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -1167,11 +1202,11 @@
         <mark key="^" line="13" column="41" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/webapp/controller/ProjectController.java" timestamp="1464026662639">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="42" />
-        <mark key="." line="27" column="42" />
-        <mark key="^" line="26" column="56" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/webapp/controller/ProjectController.java" timestamp="1464289153056">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/main/java/com/syzygy/scraping/library/service/ResultAggregation.java" timestamp="1464089226524">
         <mark key="[" line="9" column="13" />
@@ -1235,10 +1270,12 @@
       <jump line="7" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
       <jump line="0" column="8" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
       <jump line="2" column="7" filename="$USER_HOME$/Development/syzygy/svc-scraping/scraping-library/src/test/java/com/syzygy/scraping/library/service/ScrapingServiceTest.java" />
+      <jump line="29" column="87" filename="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/Deploybot.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/DeploybotDeploymentStatus.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogIAogKiAgCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1257,49 +1294,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>deploymentRepository</text>
+        <text encoding="base64">IGZvcg==</text>
       </register>
       <register name="/" type="4">
-        <text>com.</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9ja1NjcmFwZXIxLmdldEJvbnVzYm9udXNSZXN1bHRTZXQsIHJlc3VsdHMuZ2V0Qm9udXNSZXN1bHRTZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogIAogKiAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>deploymentRepository</text>
+        <text encoding="base64">IGZvcg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRlcGxveW1lbnRSZXBvc2l0b3J5ID0gZGVwbG95bWVudFJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5UaW1lVW5pdDsKICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>deploybot deploybot api</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
       </register>
-      <register name="7" type="4">
-        <text>deploybot</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHphLmNvLmNvZGVjb21wbGV4Lmdyb3VuZHplcm8ubGlicmFyeS5kZXBsb3lib3QubW9kZWwuRGVwbG95Ym90RGVwbG95bWVudDsK</text>
       </register>
-      <register name="8" type="4">
-        <text>deploybot</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZWFibGU7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">RGVwbG95Ym90IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLkxvZzsK</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>9</text>
       </register>
     </registers>
     <search>
-      <last-search>com.</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>com.</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1316,16 +1353,9 @@
         <entry>demo</entry>
         <entry>jackson</entry>
         <entry>moment</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
-        <entry>60</entry>
-        <entry>72</entry>
-        <entry>77</entry>
-        <entry>6</entry>
-        <entry>9</entry>
-        <entry>62</entry>
-        <entry>1</entry>
         <entry>11</entry>
         <entry>22</entry>
         <entry>23</entry>
@@ -1333,11 +1363,19 @@
         <entry>t.</entry>
         <entry>7</entry>
         <entry>15</entry>
-        <entry>30</entry>
         <entry>29</entry>
-        <entry>w</entry>
         <entry>4</entry>
+        <entry>30</entry>
+        <entry>10</entry>
+        <entry>39</entry>
         <entry>3</entry>
+        <entry>33</entry>
+        <entry>49</entry>
+        <entry>61</entry>
+        <entry>58</entry>
+        <entry>w</entry>
+        <entry>43</entry>
+        <entry>9</entry>
       </history-cmd>
       <history-expr />
       <history-input />
