@@ -15,6 +15,7 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/new.json" timestamp="1464349782450" />
       <file name="$USER_HOME$/Development/test-amqplib/src/app.js" timestamp="1456759451280">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="35" />
@@ -42,10 +43,10 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1464340917146">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1464349401809">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/server.ts" timestamp="1456852358075">
         <mark key="[" line="13" column="0" />
@@ -369,6 +370,7 @@
       <file name="$USER_HOME$/Development/api-gateway-front/package.json" timestamp="1463515844942">
         <mark key="'" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/package.json" timestamp="1464349382334" />
       <file name="$USER_HOME$/Development/IDT-Poc/project-service/node_modules/seneca-mongo-store/mongo-store.js" timestamp="1457898504538">
         <mark key="[" line="104" column="49" />
         <mark key="]" line="105" column="13" />
