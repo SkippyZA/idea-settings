@@ -33,11 +33,19 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1464341641983">
+        <mark key="'" line="33" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/seneca-test/client.js" timestamp="1457410948394">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="13" column="8" />
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1464340917146">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/server.ts" timestamp="1456852358075">
         <mark key="[" line="13" column="0" />
@@ -133,6 +141,7 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/services/process-pipeline-spec.js" timestamp="1464341764338" />
       <file name="$USER_HOME$/Development/groundzero-front/package.json" timestamp="1463500070708">
         <mark key="[" line="34" column="35" />
         <mark key="]" line="36" column="0" />
@@ -150,6 +159,7 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/node_modules/request/index.js" timestamp="1464341793546" />
       <file name="$USER_HOME$/Development/api-gateway-front/.eslintrc.js" timestamp="1458574823717">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="17" column="1" />
@@ -179,6 +189,12 @@
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/proxied-request-spec.js" timestamp="1464341751773">
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="50" column="42" />
+        <mark key="^" line="50" column="54" />
+        <mark key="." line="50" column="42" />
       </file>
       <file name="$USER_HOME$/Development/Microservice/src/test.js" timestamp="1457291767355">
         <mark key="[" line="10" column="0" />
@@ -226,7 +242,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1464339403035" />
+      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1464340840334" />
       <file name="$USER_HOME$/Development/seneca-test/server.js" timestamp="1457679933373">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -457,16 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="$USER_HOME$/Development/GithubThumbStatusCheck/src/app.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Development/GithubThumbStatusCheck/src/app.js" />
-      <jump line="43" column="9" filename="$USER_HOME$/Development/GithubThumbStatusCheck/src/ffs.js" />
-      <jump line="17" column="8" filename="$USER_HOME$/Development/GithubThumbStatusCheck/src/ffs.js" />
-      <jump line="21" column="9" filename="$USER_HOME$/Development/GithubThumbStatusCheck/src/ffs.js" />
-      <jump line="29" column="27" filename="$USER_HOME$/Development/GithubThumbStatusCheck/src/ffs.js" />
-      <jump line="4" column="8" filename="$USER_HOME$/Development/GithubThumbStatusCheck/src/ffs.js" />
-      <jump line="95" column="52" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
-      <jump line="56" column="59" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
-      <jump line="28" column="64" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
       <jump line="66" column="0" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
       <jump line="65" column="9" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
       <jump line="22" column="34" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
@@ -557,64 +563,73 @@
       <jump line="17" column="33" filename="$USER_HOME$/Development/api-gateway-front/src/components/manage-api/ManageApi.vue" />
       <jump line="37" column="43" filename="$USER_HOME$/Development/api-gateway-front/src/components/manage-api/ManageApi.vue" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/groundzero-front/src/components/deploy-status/StatusBlock.vue" />
+      <jump line="66" column="8" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="75" column="87" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="83" column="68" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="107" column="31" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="108" column="30" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="116" column="40" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="4" column="25" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="11" column="5" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="15" column="49" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZT0idGV4dC9zY3NzIiA=</text>
+        <text>'hello world');</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZT0idGV4dC9zY3NzIiA=</text>
+        <text>'hello world');</text>
       </register>
       <register name="/" type="4">
-        <text>sass</text>
+        <text>request</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dHlwZT0idGV4dC9zY3NzIiA=</text>
+        <text>'hello world');</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cmVsPSJzdHlsZXNoZWV0L3Njc3MiIA==</text>
+        <text>null</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29uc3QgcmVzID0g</text>
       </register>
-      <register name="4" type="4">
-        <text>rel=&quot;stylesheet/scss&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vICAgICB9CiAgICAvLyAgIH0pOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text />
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vICAgICBpZiAoZXJyKSB7CiAgICAvLyAgICAgICBkb25lLmZhaWwoZXJyKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dHlwZT0idGV4dC9zY3NzIiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vICAgICBkb25lKCk7CiAgICAvLyAgIH0sIGVyciA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vICAgICBhc3NlcnQuZGVlcEVxdWFsKHJlc3BvbnNlQnVmZmVyLCByZXNwb25zZUJvZHkpOwogICAgLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAmIC50ZXN0IHsK</text>
+        <text encoding="base64">ICAgIC8vICAgLnRoZW4ocmVzcG9uc2VCdWZmZXIgPT4gewogICAgLy8gICAgIGFzc2VydChyZXNwb25zZUJ1ZmZlciBpbnN0YW5jZW9mIE9iamVjdCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIGV4YW1wbGVUYXJnZXQKICAgIC8vICAgLmV4YW1wbGUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>48</text>
       </register>
     </registers>
     <search>
-      <last-search>sass</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>sass</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>, R</entry>
         <entry>assertQueue</entry>
         <entry>consume</entry>
         <entry>public prefetch</entry>
@@ -634,11 +649,11 @@
         <entry>observer</entry>
         <entry>},</entry>
         <entry>sass</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
         <entry>33</entry>
-        <entry>48</entry>
         <entry>d.</entry>
         <entry>5</entry>
         <entry>17</entry>
@@ -656,6 +671,7 @@
         <entry>22</entry>
         <entry>21</entry>
         <entry>w</entry>
+        <entry>48</entry>
       </history-cmd>
       <history-expr />
       <history-input />
