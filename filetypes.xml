@@ -1,8 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping ext="marker" type="PLAIN_TEXT" />
-      <mapping ext="less" type="PLAIN_TEXT" />
+      <mapping pattern="License" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="default" type="TSLint" />
     </extensionMap>
   </component>
 </application>

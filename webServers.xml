@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="86844712-e650-482d-bf9c-5911508353a5" name="csgo-marketwatch" url="http://csgo-marketwatch.tk">
+        <fileTransfer host="csgo-marketwatch.tk" port="21" username="steamwatch-ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
