@@ -107,7 +107,12 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464594089272" />
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464598362677">
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="67" column="78" />
+        <mark key="." line="67" column="78" />
+        <mark key="^" line="67" column="78" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="21" />
@@ -229,8 +234,12 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464595709156">
-        <mark key="[" line="48" column="25" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464597210263">
+        <mark key="'" line="72" column="46" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="67" column="65" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_direct.js" timestamp="1464119681510">
         <mark key="[" line="4" column="0" />
@@ -242,6 +251,12 @@
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/services/identity-processor-spec.js" timestamp="1464597299843">
+        <mark key="[" line="23" column="74" />
+        <mark key="]" line="23" column="74" />
+        <mark key="." line="23" column="74" />
+        <mark key="^" line="23" column="74" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/client.ts" timestamp="1456851984461">
         <mark key="[" line="5" column="0" />
@@ -397,6 +412,12 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1464598137743">
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="59" column="22" />
+        <mark key="^" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/RxAmqpLib.ts" timestamp="1457291257405">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="21" />
@@ -486,15 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="2" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
-      <jump line="27" column="10" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
-      <jump line="17" column="45" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
-      <jump line="20" column="81" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
-      <jump line="19" column="42" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
-      <jump line="30" column="63" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
-      <jump line="16" column="4" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
-      <jump line="24" column="62" filename="$USER_HOME$/Development/rx-amqplib/src/examples/client.ts" />
-      <jump line="12" column="32" filename="$USER_HOME$/Development/rx-amqplib/src/examples/client.ts" />
       <jump line="23" column="39" filename="$USER_HOME$/Development/rx-amqplib/src/examples/client.ts" />
       <jump line="75" column="105" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
       <jump line="93" column="14" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
@@ -586,64 +598,72 @@
       <jump line="33" column="53" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/proxied-request-spec.js" />
       <jump line="56" column="53" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/proxied-request-spec.js" />
       <jump line="59" column="7" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="42" column="32" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="46" column="26" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="64" column="23" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="80" column="31" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="87" column="28" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="89" column="22" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="97" column="20" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="103" column="46" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vICAgfSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>lodash</text>
+        <text>destination</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vICAgfSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>lodash</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vICAgICBpZDogaWQsCiAgICAvLyAgICAgY291bnRyeV9jb2RlOiBjb3VudHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+        <text encoding="base64">ICAgIC8vICAgLmZyb20ob2ZmZXIuY291bnRyaWVzKQogICAgLy8gICAuZmxhdE1hcChjb3VudHJ5ID0+IHRoaXMuaGFzT2ZmZXJzQXBpLm9mZmVyLmFkZFRhcmdldENvdW50cnkoewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvLyByZXR1cm4gcnguT2JzZXJ2YWJsZQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cmVzcG9zbmUg</text>
+        <text>map</text>
       </register>
-      <register name="6" type="4">
-        <text>x</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgKiBUT0RPIGFkdmVydGlzZXJfaWQgaXMgaGFyZGNvZGVkIGZvciBub3cuCiAgICoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lodash</last-search>
+      <last-search>destination</last-search>
       <last-offset />
-      <last-pattern>lodash</last-pattern>
+      <last-pattern>destination</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>public prefetch</entry>
         <entry>18</entry>
         <entry>replyTo</entry>
         <entry>prefetch</entry>
@@ -663,16 +683,9 @@
         <entry>request</entry>
         <entry>testTarget</entry>
         <entry>lodash</entry>
+        <entry>destination</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>4</entry>
-        <entry>8</entry>
-        <entry>16</entry>
-        <entry>15</entry>
-        <entry>7</entry>
-        <entry>3</entry>
-        <entry>2</entry>
         <entry>10</entry>
         <entry>t.</entry>
         <entry>22</entry>
@@ -681,9 +694,17 @@
         <entry>5</entry>
         <entry>50</entry>
         <entry>1</entry>
-        <entry>56</entry>
         <entry>29</entry>
         <entry>6</entry>
+        <entry>11</entry>
+        <entry>27</entry>
+        <entry>54</entry>
+        <entry>56</entry>
+        <entry>77</entry>
+        <entry>4</entry>
+        <entry>23</entry>
+        <entry>79</entry>
+        <entry>93</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
