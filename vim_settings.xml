@@ -107,6 +107,7 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464594089272" />
       <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="21" />
@@ -227,6 +228,13 @@
         <mark key="]" line="21" column="98" />
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464594179342">
+        <mark key="'" line="59" column="7" />
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="57" column="26" />
+        <mark key="^" line="57" column="26" />
+        <mark key="." line="57" column="26" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_direct.js" timestamp="1464119681510">
         <mark key="[" line="4" column="0" />
@@ -482,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="11" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
       <jump line="18" column="2" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
       <jump line="27" column="10" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
       <jump line="17" column="45" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs.ts" />
@@ -582,13 +589,14 @@
       <jump line="18" column="53" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/proxied-request-spec.js" />
       <jump line="33" column="53" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/proxied-request-spec.js" />
       <jump line="56" column="53" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/proxied-request-spec.js" />
+      <jump line="59" column="7" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lodash</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>lodash</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>lodash</text>
@@ -597,37 +605,37 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>lodash</text>
+        <text>,</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+      <register name="2" type="4">
+        <text>lodash</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cmVzcG9zbmUg</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>x</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>6</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -678,9 +686,9 @@
         <entry>50</entry>
         <entry>1</entry>
         <entry>56</entry>
-        <entry>w</entry>
         <entry>29</entry>
         <entry>6</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
