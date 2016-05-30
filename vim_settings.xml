@@ -229,12 +229,8 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464594179342">
-        <mark key="'" line="59" column="7" />
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="57" column="26" />
-        <mark key="^" line="57" column="26" />
-        <mark key="." line="57" column="26" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464595709156">
+        <mark key="[" line="48" column="25" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_direct.js" timestamp="1464119681510">
         <mark key="[" line="4" column="0" />
