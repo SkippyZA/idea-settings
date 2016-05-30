@@ -107,12 +107,12 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464609468637">
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464610127580">
         <mark key="'" line="7" column="13" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="45" column="80" />
-        <mark key="." line="45" column="80" />
-        <mark key="^" line="45" column="80" />
+        <mark key="[" line="75" column="21" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="78" column="64" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
         <mark key="[" line="3" column="23" />
@@ -614,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">b2ZmZXIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>offer</text>
       </register>
       <register name="/" type="4">
         <text>destination</text>
@@ -626,34 +626,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">b2ZmZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gcmV0dXJuUHJvbWlzZTsK</text>
+      <register name="2" type="4">
+        <text>offer</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">aGFzIA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cmV0dXJuUHJvbWlzZSA=</text>
+        <text encoding="base64">VXBkYXRlZCA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCByZXR1cm5Qcm9taXNlOwoK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuUHJvbWlzZSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>R</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>LOGGE</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICByZXR1cm4gcmV0dXJuUHJvbWlzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
