@@ -18,9 +18,6 @@
       <file name="/a.dummy" timestamp="1464696570054">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1464341641983">
-        <mark key="'" line="33" column="12" />
-      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="9" column="0" />
@@ -203,7 +200,6 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/github-push-pusher/package.json" timestamp="1464638095107" />
       <file name="$USER_HOME$/Development/api-gateway-front/src/App.vue" timestamp="1458589544510">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="33" column="0" />
@@ -215,9 +211,6 @@
         <mark key="]" line="53" column="21" />
         <mark key="." line="53" column="21" />
         <mark key="^" line="53" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway-front/package.json" timestamp="1463515844942">
-        <mark key="'" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/project-service/node_modules/seneca-mongo-store/mongo-store.js" timestamp="1457898504538">
         <mark key="[" line="104" column="49" />
@@ -266,6 +259,13 @@
         <mark key="]" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464782366955">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1457034012833">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="26" />
@@ -295,6 +295,11 @@
         <mark key="]" line="8" column="8" />
         <mark key="^" line="8" column="8" />
         <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1464783240156">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Development/seneca-test/client.js" timestamp="1457410948394">
         <mark key="[" line="6" column="4" />
@@ -342,6 +347,11 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1464782074934">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxMessage.ts" timestamp="1456949992524">
         <mark key="[" line="17" column="70" />
@@ -490,6 +500,7 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1464783396121" />
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="0" />
@@ -532,14 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="38" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
-      <jump line="102" column="48" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
-      <jump line="127" column="2" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
-      <jump line="3" column="40" filename="$USER_HOME$/Development/rx-amqplib/src/examples/receive_logs_topic.ts" />
-      <jump line="29" column="0" filename="$USER_HOME$/Development/rx-amqplib/src/examples/rpc_server.ts" />
-      <jump line="88" column="77" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
-      <jump line="43" column="32" filename="$USER_HOME$/Development/rx-amqplib/src/examples/rpc_server.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/rx-amqplib/src/examples/rpc_server.ts" />
       <jump line="99" column="35" filename="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxChannel.ts" />
       <jump line="10" column="45" filename="$USER_HOME$/Development/rx-amqplib/src/examples/rpc_client.ts" />
       <jump line="42" column="13" filename="$USER_HOME$/Development/rx-amqplib/examples/client.js" />
@@ -632,64 +635,71 @@
       <jump line="7" column="13" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Development/yazimedia/spec/services/process-pipeline-spec.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/yazimedia/src/frontend/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
+      <jump line="30" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
+      <jump line="86" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
+      <jump line="109" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
+      <jump line="165" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
+      <jump line="188" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
+      <jump line="244" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
+      <jump line="11" column="5" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Offer</text>
+        <text>HasOffers</text>
       </register>
       <register name="-" type="4">
-        <text>Offer</text>
+        <text>HasOffers</text>
       </register>
       <register name="/" type="4">
-        <text>sync</text>
+        <text>stat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>Offer</text>
+        <text>HasOffers</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgc2FtcGxlU291cmNlT2ZmZXJzID0gcmVxdWlyZSgnLi8uLi8uLi9zdXBwb3J0L3Jlc3BvbnNlL2hhcy1vZmZlcnMtZmluZC1hbGwuanNvbicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IGRlc3RpbmF0aW9uLmNyZWF0ZShvZmZlcikpOwogIAo=</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkCiAgcmRldHVybiByeC5PYnNlcnZhYmxlLmp1c3QodHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyKTsK</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>[</text>
       </register>
       <register name="9" type="4">
-        <text>identityProcessor</text>
+        <text>sampleSourceOffers</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sync</last-search>
+      <last-search>stat</last-search>
       <last-offset />
-      <last-pattern>sync</last-pattern>
+      <last-pattern>stat</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prefetch</entry>
         <entry>Rx</entry>
         <entry>Exchange</entry>
         <entry>bindExchange</entry>
@@ -709,12 +719,9 @@
         <entry>destination</entry>
         <entry>syncService</entry>
         <entry>sync</entry>
+        <entry>stat</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
-        <entry>3</entry>
-        <entry>25</entry>
-        <entry>6</entry>
         <entry>28</entry>
         <entry>7</entry>
         <entry>8</entry>
@@ -729,8 +736,12 @@
         <entry>101</entry>
         <entry>31</entry>
         <entry>61</entry>
+        <entry>167</entry>
+        <entry>6</entry>
         <entry>t.</entry>
+        <entry>44</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
