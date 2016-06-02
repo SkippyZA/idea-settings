@@ -15,9 +15,6 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1464696570054">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="9" column="0" />
@@ -296,11 +293,11 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1464856691954">
-        <mark key="[" line="49" column="49" />
-        <mark key="]" line="49" column="49" />
-        <mark key="." line="49" column="49" />
-        <mark key="^" line="49" column="49" />
+      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1464860359512">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="4" />
       </file>
       <file name="$USER_HOME$/Development/seneca-test/client.js" timestamp="1457410948394">
         <mark key="[" line="6" column="4" />
@@ -417,12 +414,19 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464853344930">
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464861207850">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="32" column="9" />
-        <mark key="]" line="32" column="78" />
-        <mark key="." line="32" column="78" />
-        <mark key="^" line="32" column="78" />
+        <mark key="[" line="71" column="74" />
+        <mark key="]" line="73" column="21" />
+        <mark key="." line="73" column="21" />
+        <mark key="^" line="73" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464861243936">
+        <mark key="'" line="30" column="34" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/emit_log_topic.js" timestamp="1457125286157">
         <mark key="[" line="4" column="0" />
@@ -560,8 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="33" filename="$USER_HOME$/Development/rx-amqplib/examples/emit_log_direct.js" />
-      <jump line="27" column="73" filename="$USER_HOME$/Development/rx-amqplib/package.json" />
       <jump line="13" column="21" filename="$USER_HOME$/Development/rx-amqplib/src/reply/PurgeQueueReply.ts" />
       <jump line="49" column="54" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="28" column="3" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
@@ -660,64 +662,65 @@
       <jump line="27" column="19" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="154" column="15" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
+      <jump line="137" column="20" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="30" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>Error</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Error</text>
       </register>
       <register name="/" type="4">
-        <text>pause</text>
+        <text>processUpdate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>Error</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>(offer)</text>
+        <text>Next</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>info</text>
       </register>
       <register name="4" type="4">
-        <text>(offer</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>logger</text>
       </register>
       <register name="6" type="4">
-        <text>offer</text>
+        <text>logger.info</text>
       </register>
-      <register name="7" type="4">
-        <text>(</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>-------------------');</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>identity</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pause</last-search>
+      <last-search>processUpdate</last-search>
       <last-offset />
-      <last-pattern>pause</last-pattern>
+      <last-pattern>processUpdate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bindExchange</entry>
         <entry>exchange</entry>
         <entry>bindQueue</entry>
         <entry>publish</entry>
@@ -737,9 +740,9 @@
         <entry>stat</entry>
         <entry>then</entry>
         <entry>pause</entry>
+        <entry>processUpdate</entry>
       </history-search>
       <history-cmd>
-        <entry>102</entry>
         <entry>62</entry>
         <entry>99</entry>
         <entry>18</entry>
@@ -755,9 +758,10 @@
         <entry>W</entry>
         <entry>50</entry>
         <entry>r</entry>
-        <entry>t.</entry>
         <entry>44</entry>
         <entry>wq</entry>
+        <entry>10</entry>
+        <entry>t.</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
