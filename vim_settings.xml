@@ -338,10 +338,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1464866180462">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1464871213786">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxMessage.ts" timestamp="1456949992524">
         <mark key="[" line="17" column="70" />
@@ -412,19 +412,19 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464868941698">
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464871120158">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="24" />
-        <mark key="^" line="77" column="24" />
-        <mark key="." line="77" column="24" />
+        <mark key="[" line="67" column="68" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464868437293">
-        <mark key="'" line="30" column="34" />
-        <mark key="[" line="174" column="38" />
-        <mark key="]" line="175" column="3" />
-        <mark key="." line="175" column="3" />
-        <mark key="^" line="175" column="3" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464871484501">
+        <mark key="'" line="9" column="37" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/emit_log_topic.js" timestamp="1457125286157">
         <mark key="[" line="4" column="0" />
@@ -562,7 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="21" filename="$USER_HOME$/Development/rx-amqplib/src/reply/PurgeQueueReply.ts" />
       <jump line="49" column="54" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="28" column="3" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="60" column="35" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
@@ -662,13 +661,14 @@
       <jump line="154" column="15" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="137" column="20" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="30" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="9" column="37" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGVzdGluYXRpb24udXBkYXRlKG9mZmVyLnNvdXJjZV9pZCwgb2ZmZXIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, 'advertiser_id'];</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, 'advertiser_id'];</text>
       </register>
       <register name="/" type="4">
         <text>processUpdate</text>
@@ -676,35 +676,35 @@
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGVzdGluYXRpb24udXBkYXRlKG9mZmVyLnNvdXJjZV9pZCwgb2ZmZXIpOwo=</text>
+      <register name="1" type="4">
+        <text>, 'advertiser_id'];</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGVzdGluYXRpb24uY3JlYXRlKG9mZmVyKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>/</text>
       </register>
-      <register name="5" type="4">
-        <text>fromPromise</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlkZW50aXR5KTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLm1hcChyeC5PYnNlcnZhYmxlLmp1c3QpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Observable</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHBhdXNlU3RyZWFtOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAuZG9Pbk5leHQoKCkgPT4gY29uc29sZS5sb2coJy0tLS0tLSBCJykpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>rx</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLSBBJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -741,7 +741,6 @@
         <entry>processUpdate</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
         <entry>101</entry>
         <entry>31</entry>
         <entry>61</entry>
@@ -758,6 +757,7 @@
         <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>W</entry>
         <entry>42</entry>
+        <entry>Wq</entry>
         <entry>10</entry>
         <entry>t.</entry>
         <entry>w</entry>
