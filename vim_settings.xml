@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/GithubThumbStatusCheck/config.js.default" timestamp="1456723811282">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/api-gateway/src/lib/conductor-factory.js" timestamp="1459626441051">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/test-amqplib/src/app.js" timestamp="1456759451280">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="35" />
@@ -15,10 +27,51 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/reply/AssertQueueReply.ts" timestamp="1456769817844">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1464860359512">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/seneca-test/client.js" timestamp="1457410948394">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1464691154854">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/src/examples/server.ts" timestamp="1456852358075">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_server.js" timestamp="1457126525904">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/src/client.js" timestamp="1457984435033">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway/package.json" timestamp="1458512316373">
         <mark key="[" line="11" column="24" />
@@ -50,277 +103,6 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/IDT-Poc/package.json" timestamp="1457728003857">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway/src/app.js" timestamp="1459626426098">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-front/src/components/deploy-status/StatusBlock.vue" timestamp="1463687050401">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/services/process-pipeline-spec.js" timestamp="1464691217395">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="45" column="52" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="52" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway-front/.eslintrc.js" timestamp="1458574823717">
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_topic.js" timestamp="1457126272145">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/config-spec.js" timestamp="1464608925638">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Microservice/src/test.js" timestamp="1457291767355">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="58" />
-        <mark key="." line="11" column="58" />
-        <mark key="^" line="11" column="58" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-front/src/components/Hello.vue" timestamp="1463675463346">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/src/RxConnection.ts" timestamp="1457034453255">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="6" />
-        <mark key="." line="38" column="6" />
-        <mark key="^" line="38" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_direct.js" timestamp="1464119681510">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/services/identity-processor-spec.js" timestamp="1464608982367">
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="4" />
-        <mark key="^" line="64" column="4" />
-        <mark key="." line="64" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/src/examples/client.ts" timestamp="1456851984461">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway/src/bootstrap.js" timestamp="1459620531477">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/index.js" timestamp="1464692682716">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/package.json" timestamp="1457789033392">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/rules-spec.js" timestamp="1464693945930">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="81" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_logs.ts" timestamp="1456852427471">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/examples/new_task.js" timestamp="1457125304010">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/index.js" timestamp="1457036868813">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/GithubThumbStatusCheck/src/ffs.js" timestamp="1456688193407">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway/src/handler/mock-response.js" timestamp="1459625096148">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway-front/src/App.vue" timestamp="1458589544510">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/typings/uuid/UUID.d.ts" timestamp="1456995081539">
-        <mark key="[" line="53" column="20" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/IDT-Poc/project-service/node_modules/seneca-mongo-store/mongo-store.js" timestamp="1457898504538">
-        <mark key="[" line="104" column="49" />
-        <mark key="]" line="105" column="13" />
-        <mark key="^" line="105" column="13" />
-        <mark key="." line="105" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1464674730465">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/src/RxAmqpLib.ts" timestamp="1457291257405">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/Microservice/node_modules/rx-amqplib/dist/RxAmqpLib.js" timestamp="1457290707767">
-        <mark key="[" line="20" column="102" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/IDT-Poc/media-service/src/app.js" timestamp="1457783534097">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway/src/route-config.js" timestamp="1459623232815">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-front/src/main.js" timestamp="1463515921043">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-front/build/utils.js" timestamp="1463686639851">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464856182968">
-        <mark key="'" line="11" column="5" />
-        <mark key="[" line="265" column="9" />
-        <mark key="]" line="273" column="8" />
-        <mark key="." line="273" column="8" />
-        <mark key="^" line="273" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1457034012833">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/IDT-Poc/project-service/src/project.create.js" timestamp="1457934971060">
-        <mark key="[" line="29" column="50" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="9" column="67" />
-      </file>
-      <file name="$USER_HOME$/Development/GithubThumbStatusCheck/config.js.default" timestamp="1456723811282">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="5" column="42" />
-      </file>
-      <file name="$USER_HOME$/Development/api-gateway/src/lib/conductor-factory.js" timestamp="1459626441051">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/reply/AssertQueueReply.ts" timestamp="1456769817844">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1464860359512">
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-        <mark key="^" line="26" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/seneca-test/client.js" timestamp="1457410948394">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1464691154854">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/src/examples/server.ts" timestamp="1456852358075">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_server.js" timestamp="1457126525904">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/src/client.js" timestamp="1457984435033">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="17" column="11" />
-      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/worker.js" timestamp="1457126850437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -337,6 +119,12 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1464871213786">
         <mark key="[" line="65" column="0" />
@@ -361,6 +149,29 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
+      <file name="$USER_HOME$/Development/IDT-Poc/package.json" timestamp="1457728003857">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api-gateway/src/app.js" timestamp="1459626426098">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero-front/src/components/deploy-status/StatusBlock.vue" timestamp="1463687050401">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/services/process-pipeline-spec.js" timestamp="1464691217395">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="52" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1464608502363">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -383,11 +194,28 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/api-gateway-front/.eslintrc.js" timestamp="1458574823717">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1464856227062">
         <mark key="[" line="81" column="5" />
         <mark key="]" line="81" column="4" />
         <mark key="." line="81" column="4" />
         <mark key="^" line="81" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_topic.js" timestamp="1457126272145">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/config-spec.js" timestamp="1464608925638">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/dashboard/Dashboard.vue" timestamp="1458584787863">
         <mark key="[" line="6" column="8" />
@@ -400,11 +228,29 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/Microservice/src/test.js" timestamp="1457291767355">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1464866977062">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="37" column="45" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero-front/src/components/Hello.vue" timestamp="1463675463346">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/src/RxConnection.ts" timestamp="1457034453255">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
+        <mark key="^" line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/typescript/emit_logs.ts" timestamp="1457105368108">
         <mark key="[" line="21" column="5" />
@@ -412,12 +258,17 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464871120158">
-        <mark key="'" line="29" column="6" />
-        <mark key="[" line="67" column="68" />
-        <mark key="]" line="68" column="30" />
-        <mark key="^" line="68" column="30" />
-        <mark key="." line="68" column="30" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464934493935">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="62" />
+        <mark key="^" line="69" column="30" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_direct.js" timestamp="1464119681510">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464871484501">
         <mark key="'" line="9" column="37" />
@@ -432,10 +283,39 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/services/identity-processor-spec.js" timestamp="1464608982367">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="4" />
+        <mark key="^" line="64" column="4" />
+        <mark key="." line="64" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/src/examples/client.ts" timestamp="1456851984461">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api-gateway/src/bootstrap.js" timestamp="1459620531477">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/index.js" timestamp="1464692682716">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/seneca-test/server.js" timestamp="1457679933373">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/build/dev-client.js" timestamp="1458559720416">
         <mark key="[" line="7" column="2" />
@@ -460,6 +340,18 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/package.json" timestamp="1457789033392">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/rules-spec.js" timestamp="1464693945930">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="81" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/server.js" timestamp="1457125336718">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="5" />
@@ -471,6 +363,12 @@
         <mark key="]" line="30" column="55" />
         <mark key="." line="30" column="55" />
         <mark key="^" line="30" column="55" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_logs.ts" timestamp="1456852427471">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_direct.ts" timestamp="1456857480296">
         <mark key="[" line="24" column="34" />
@@ -484,8 +382,32 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/examples/new_task.js" timestamp="1457125304010">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/index.js" timestamp="1457036868813">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/GithubThumbStatusCheck/src/ffs.js" timestamp="1456688193407">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+      </file>
       <file name="/Dummy.txt" timestamp="1464853635516">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api-gateway/src/handler/mock-response.js" timestamp="1459625096148">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/src/app.js" timestamp="1457895157911">
         <mark key="[" line="20" column="0" />
@@ -497,12 +419,30 @@
         <mark key="]" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/api-gateway-front/src/App.vue" timestamp="1458589544510">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1464853629819">
         <mark key="'" line="154" column="15" />
         <mark key="[" line="253" column="8" />
         <mark key="]" line="253" column="15" />
         <mark key="." line="253" column="15" />
         <mark key="^" line="253" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/typings/uuid/UUID.d.ts" timestamp="1456995081539">
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/IDT-Poc/project-service/node_modules/seneca-mongo-store/mongo-store.js" timestamp="1457898504538">
+        <mark key="[" line="104" column="49" />
+        <mark key="]" line="105" column="13" />
+        <mark key="^" line="105" column="13" />
+        <mark key="." line="105" column="13" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/project-service/package.json" timestamp="1457728117683">
         <mark key="[" line="3" column="47" />
@@ -520,6 +460,24 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1464674730465">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/src/RxAmqpLib.ts" timestamp="1457291257405">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/Microservice/node_modules/rx-amqplib/dist/RxAmqpLib.js" timestamp="1457290707767">
+        <mark key="[" line="20" column="102" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="0" />
@@ -530,6 +488,12 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/IDT-Poc/media-service/src/app.js" timestamp="1457783534097">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/new_task.ts" timestamp="1456859957618">
         <mark key="[" line="22" column="13" />
@@ -542,17 +506,53 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/api-gateway/src/route-config.js" timestamp="1459623232815">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/reply/AssertExchangeReply.ts" timestamp="1456769756115">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero-front/src/main.js" timestamp="1463515921043">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero-front/build/utils.js" timestamp="1463686639851">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="36" column="39" />
+      </file>
       <file name="$USER_HOME$/Development/GithubThumbStatusCheck/.gitignore" timestamp="1456723849096">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464856182968">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="265" column="9" />
+        <mark key="]" line="273" column="8" />
+        <mark key="." line="273" column="8" />
+        <mark key="^" line="273" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1457034012833">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/IDT-Poc/project-service/src/project.create.js" timestamp="1457934971060">
+        <mark key="[" line="29" column="50" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="9" column="67" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/RxMessage.ts" timestamp="1457265457916">
         <mark key="[" line="2" column="0" />
@@ -707,7 +707,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLSBBJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -759,8 +759,8 @@
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
-        <entry>t.</entry>
         <entry>w</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
