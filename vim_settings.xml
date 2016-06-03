@@ -126,10 +126,10 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1464871213786">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1464935878579">
+        <mark key="]" line="63" column="23" />
+        <mark key="^" line="63" column="23" />
+        <mark key="." line="63" column="23" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/RxMessage.ts" timestamp="1456949992524">
         <mark key="[" line="17" column="70" />
@@ -258,19 +258,19 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464934493935">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="62" />
-        <mark key="^" line="69" column="30" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464936189473">
+        <mark key="'" line="61" column="2" />
+        <mark key="[" line="68" column="85" />
+        <mark key="]" line="68" column="94" />
+        <mark key="^" line="68" column="94" />
+        <mark key="." line="68" column="94" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_direct.js" timestamp="1464119681510">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464871484501">
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464935819108">
         <mark key="'" line="9" column="37" />
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="48" />
@@ -562,8 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="54" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
-      <jump line="28" column="3" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="60" column="35" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="76" column="41" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="110" column="38" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
@@ -662,13 +660,15 @@
       <jump line="137" column="20" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="30" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="9" column="37" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="68" column="92" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
+      <jump line="61" column="2" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'advertiser_id'];</text>
+        <text>offer</text>
       </register>
       <register name="-" type="4">
-        <text>, 'advertiser_id'];</text>
+        <text>offer</text>
       </register>
       <register name="/" type="4">
         <text>processUpdate</text>
@@ -677,37 +677,37 @@
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>, 'advertiser_id'];</text>
+        <text>offer</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAvLyByZXR1cm4gYWRkKHRoaXMuZGVzdGluYXRpb25TZXJ2aWNlLCBiZXN0T2ZmZXIoaWRlbnRpdHkuc291cmNlSWRlbnRpdHkpKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>bestOffer(identity.sourceIdentity)));</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>offer</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlkZW50aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvdW50Kys7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChyeC5PYnNlcnZhYmxlLmp1c3QpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBjb3VudCA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHBhdXNlU3RyZWFtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZG9Pbk5leHQoKCkgPT4gY29uc29sZS5sb2coJy0tLS0tLSBCJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFNob3VsZCBlbWl0IDEgKHRoZSBiZXN0KSBvZmZlciBmcm9tIHRoZSBuZXcgb2ZmZXIgc291cmNlCiAgICAgICAgICBhc3NlcnQuZXF1YWwoY291bnQsIDEpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLSBBJyk7Cg==</text>
+      <register name="9" type="4">
+        <text>fromPromise</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -759,8 +759,8 @@
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
-        <entry>w</entry>
         <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
