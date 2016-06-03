@@ -448,11 +448,11 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464945589162">
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464948511908">
         <mark key="'" line="56" column="25" />
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="25" />
+        <mark key="[" line="56" column="30" />
+        <mark key="]" line="56" column="30" />
+        <mark key="." line="56" column="30" />
         <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464945615782">
@@ -704,10 +704,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text encoding="base64">IC8vb2ZmZXJMb2dQcm9wZXJ0aWVzKGlkZW50aXR5LmRlc3RpbmF0aW9uSWRlbnRpdHkp</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text encoding="base64">IC8vb2ZmZXJMb2dQcm9wZXJ0aWVzKGlkZW50aXR5LmRlc3RpbmF0aW9uSWRlbnRpdHkp</text>
       </register>
       <register name="/" type="4">
         <text>trace</text>
@@ -716,16 +716,16 @@
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>info</text>
+        <text encoding="base64">IC8vb2ZmZXJMb2dQcm9wZXJ0aWVzKGlkZW50aXR5LmRlc3RpbmF0aW9uSWRlbnRpdHkp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>debug</text>
+        <text>info</text>
       </register>
       <register name="3" type="4">
-        <text>trace</text>
+        <text>debug</text>
       </register>
       <register name="4" type="4">
         <text>trace</text>
