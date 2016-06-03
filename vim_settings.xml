@@ -357,12 +357,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464945540783">
-        <mark key="'" line="62" column="16" />
-        <mark key="[" line="62" column="17" />
-        <mark key="]" line="62" column="21" />
-        <mark key="^" line="62" column="21" />
-        <mark key="." line="62" column="21" />
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464955003675">
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="88" column="36" />
+        <mark key="^" line="88" column="36" />
+        <mark key="." line="88" column="36" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1464938210159">
         <mark key="[" line="42" column="0" />
@@ -448,12 +447,12 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464948511908">
-        <mark key="'" line="56" column="25" />
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="56" column="30" />
-        <mark key="." line="56" column="30" />
-        <mark key="^" line="36" column="25" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464955747065">
+        <mark key="'" line="53" column="25" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1464945615782">
         <mark key="'" line="0" column="0" />
@@ -703,11 +702,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vb2ZmZXJMb2dQcm9wZXJ0aWVzKGlkZW50aXR5LmRlc3RpbmF0aW9uSWRlbnRpdHkp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vb2ZmZXJMb2dQcm9wZXJ0aWVzKGlkZW50aXR5LmRlc3RpbmF0aW9uSWRlbnRpdHkp</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>trace</text>
@@ -715,38 +714,38 @@
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IC8vb2ZmZXJMb2dQcm9wZXJ0aWVzKGlkZW50aXR5LmRlc3RpbmF0aW9uSWRlbnRpdHkp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>info</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkZW50aXR5LnNvdXJjZUlkZW50aXR5KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>debug</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gY29uc3Qgb2ZmZXJMb2dQcm9wZXJ0aWVzID0gUi5jb21wb3NlKFIubWFwKFIucGljayhbJ3NvdXJjZV9pZCcsICdwcmV2aWV3X3VybCcsICdpbmNlbnQnLCAnbWF4X3BheW91dCcsICdwYXlvdXQnXSkpLCBSLmZpbHRlcihpc05vdEVtcHR5KSk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>trace</text>
+        <text>k</text>
       </register>
       <register name="5" type="4">
-        <text>trace</text>
+        <text />
       </register>
-      <register name="6" type="4">
-        <text>trace</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgaXNOb3RFbXB0eSA9IFIuY29tcG9zZShSLm5vdCwgUi5pc05pbCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>trace</text>
+        <text>identity</text>
       </register>
       <register name="8" type="4">
-        <text>trace</text>
+        <text>just</text>
       </register>
-      <register name="9" type="4">
-        <text>trace</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBbUi4sIFIubWFwKFIucGljayhbJ3NvdXJjZV9pZCcsICdwcmV2aWV3X3VybCcsICdpbmNlbnQnLCAnbWF4X3BheW91dCcsICdwYXlvdXQnXSkpXQpdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>16</text>
       </register>
     </registers>
     <search>
@@ -780,8 +779,6 @@
         <entry>trace</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz50Lg==</entry>
-        <entry>W</entry>
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
@@ -798,8 +795,10 @@
         <entry>2</entry>
         <entry>11</entry>
         <entry>t.</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
+        <entry>98</entry>
+        <entry>16</entry>
       </history-cmd>
       <history-expr />
       <history-input />
