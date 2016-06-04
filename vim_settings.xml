@@ -9,6 +9,12 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465076053916">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="16" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_topic.ts" timestamp="1456860450765">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="22" />
@@ -166,6 +172,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/config.js" timestamp="1465074444535" />
       <file name="$USER_HOME$/Development/rx-amqplib/examples/new_task.js" timestamp="1457125304010">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -183,6 +190,12 @@
         <mark key="]" line="12" column="23" />
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/Dockerfile" timestamp="1465074431653">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway/src/handler/mock-response.js" timestamp="1459625096148">
         <mark key="[" line="5" column="4" />
@@ -665,10 +678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'advertiser_id'];</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>, 'advertiser_id'];</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>processUpdate</text>
@@ -677,34 +690,34 @@
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>, 'advertiser_id'];</text>
+        <text>:</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>the requesdd</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gRml4ZXMgdGhlIHJlcXVlc2RkCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>/</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlkZW50aXR5KTsK</text>
+        <text encoding="base64">Ly8gICAgIC5mbGF0TWFwKGNoYW5uZWwgPT4gY2hhbm5lbC5hc3NlcnRFeGNoYW5nZShjb25maWcuZXhjaGFuZ2UsIGNvbmZpZy5leGNoYW5nZVR5cGUsIHsgZHVyYWJsZTogZmFsc2UgfSkpCi8vICAgICAuZG9Pbk5leHQocmVwbHkgPT4gcmVwbHkuY2hhbm5lbC5wdWJsaXNoKGNvbmZpZy5leGNoYW5nZSwgc2V2ZXJpdHksIG5ldyBCdWZmZXIobWVzc2FnZSkpKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChyeC5PYnNlcnZhYmxlLmp1c3QpOwo=</text>
+      <register name="6" type="4">
+        <text>}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHBhdXNlU3RyZWFtOwo=</text>
+      <register name="7" type="4">
+        <text>{</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZG9Pbk5leHQoKCkgPT4gY29uc29sZS5sb2coJy0tLS0tLSBCJykpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXJ0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLSBBJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -755,11 +768,11 @@
         <entry>44</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
-        <entry>W</entry>
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
         <entry>t.</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
