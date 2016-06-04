@@ -337,6 +337,9 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/Dockerfile" timestamp="1465073956455">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/src/app.js" timestamp="1457895157911">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
