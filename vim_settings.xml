@@ -193,11 +193,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/Dockerfile" timestamp="1465079296079">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="7" column="5" />
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/Dockerfile" timestamp="1465080895015">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway/src/handler/mock-response.js" timestamp="1459625096148">
         <mark key="[" line="5" column="4" />
@@ -679,11 +679,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCgo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>usr/src/app</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>let</text>
@@ -691,35 +691,35 @@
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCgo=</text>
+      <register name="1" type="4">
+        <text>=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBta2RpciAtcCAvYXBwICYmIFwKICBjZCAvYXBwICYmIFwK</text>
+        <text encoding="base64">ICBjZCAvYXBwICYmIFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAK</text>
+      <register name="3" type="4">
+        <text>./</text>
       </register>
       <register name="4" type="4">
-        <text>usr/src/app</text>
+        <text encoding="base64">anNvbiA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Q3JlYXRlIA==</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Q29uZmlndXJlIA==</text>
+        <text encoding="base64">anNvbiA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y29uc3QgYW1xcENvbm5lY3Rpb24kID0gUnhBbXFwbGliLm5ld0Nvbm5lY3Rpb24oY29uZmlnLlJBQkJJVE1RX0hPU1QpOwpjb25zdCBjaGFubmVsJCA9IGFtcXBDb25uZWN0aW9uJAogIC5mbGF0TWFwKFIuaW52b2tlcigwLCAnY3JlYXRlQ2hhbm5lbCcpKQogIC5kb09uTmV4dCgoKSA9PiBjb25zb2xlLmxvZygnQ3JlYXRlZCBuZXcgcmFiYml0bXEgY2hhbm5lbCcpKTsKCmNvbnN0IGV4Y2hhbmdlJCA9IGNoYW5uZWwkCiAgLmZsYXRNYXAoY2hhbm5lbCA9PiBjaGFubmVsCiAgICAuYXNzZXJ0RXhjaGFuZ2UoY29uZmlnLlJBQkJJVE1RX0VYQ0hBTkdFLCBjb25maWcuUkFCQklUTVFfRVhDSEFOR0VfVFlQRSwgeyBkdXJhYmxlOiBmYWxzZSB9KSkKICAuZG9Pbk5leHQoKCkgPT4gY29uc29sZQogICAgLmxvZyh7IGV4Y2hhbmdlOiBjb25maWcuUkFCQklUTVFfRVhDSEFOR0UsIGV4Y2hhbmdlX3R5cGU6IGNvbmZpZy5SQUJCSVRNUV9FWENIQU5HRV9UWVBFIH0sICdBc3NlcnRlZCBleGNoYW5nZScpKQogIC5zaGFyZVJlcGxheSgpOwo=</text>
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dChldmVudCA9PiBjb25zb2xlLmxvZyhnaXRodWJFdmVudFR5cGUoZXZlbnQpKSkK</text>
+      <register name="9" type="4">
+        <text>package</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
