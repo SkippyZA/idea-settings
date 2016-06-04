@@ -9,11 +9,13 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465076053916">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="16" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="32" column="16" />
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465078744968">
+        <mark key="'" line="22" column="0" />
+        <mark key="j" line="41" column="18" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="22" column="9" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_topic.ts" timestamp="1456860450765">
         <mark key="[" line="8" column="13" />
@@ -191,11 +193,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/Dockerfile" timestamp="1465074431653">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="21" />
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/Dockerfile" timestamp="1465079296079">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway/src/handler/mock-response.js" timestamp="1459625096148">
         <mark key="[" line="5" column="4" />
@@ -575,10 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="54" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
-      <jump line="28" column="3" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
-      <jump line="60" column="35" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
-      <jump line="76" column="41" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="110" column="38" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="55" column="15" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
       <jump line="57" column="12" filename="$USER_HOME$/Development/rx-amqplib/src/RxChannel.ts" />
@@ -675,65 +673,67 @@
       <jump line="137" column="20" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="30" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="9" column="37" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" />
+      <jump line="60" column="14" filename="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" />
+      <jump line="77" column="2" filename="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">V09SS0RJUiAvYXBwCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>usr/src/app</text>
       </register>
       <register name="/" type="4">
-        <text>processUpdate</text>
+        <text>let</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>:</text>
+      <register name="1" type="2">
+        <text encoding="base64">V09SS0RJUiAvYXBwCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>the requesdd</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBta2RpciAtcCAvYXBwICYmIFwKICBjZCAvYXBwICYmIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gRml4ZXMgdGhlIHJlcXVlc2RkCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9hcHAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>usr/src/app</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgIC5mbGF0TWFwKGNoYW5uZWwgPT4gY2hhbm5lbC5hc3NlcnRFeGNoYW5nZShjb25maWcuZXhjaGFuZ2UsIGNvbmZpZy5leGNoYW5nZVR5cGUsIHsgZHVyYWJsZTogZmFsc2UgfSkpCi8vICAgICAuZG9Pbk5leHQocmVwbHkgPT4gcmVwbHkuY2hhbm5lbC5wdWJsaXNoKGNvbmZpZy5leGNoYW5nZSwgc2V2ZXJpdHksIG5ldyBCdWZmZXIobWVzc2FnZSkpKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text encoding="base64">Q3JlYXRlIA==</text>
       </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text encoding="base64">Q29uZmlndXJlIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXJ0Jyk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgYW1xcENvbm5lY3Rpb24kID0gUnhBbXFwbGliLm5ld0Nvbm5lY3Rpb24oY29uZmlnLlJBQkJJVE1RX0hPU1QpOwpjb25zdCBjaGFubmVsJCA9IGFtcXBDb25uZWN0aW9uJAogIC5mbGF0TWFwKFIuaW52b2tlcigwLCAnY3JlYXRlQ2hhbm5lbCcpKQogIC5kb09uTmV4dCgoKSA9PiBjb25zb2xlLmxvZygnQ3JlYXRlZCBuZXcgcmFiYml0bXEgY2hhbm5lbCcpKTsKCmNvbnN0IGV4Y2hhbmdlJCA9IGNoYW5uZWwkCiAgLmZsYXRNYXAoY2hhbm5lbCA9PiBjaGFubmVsCiAgICAuYXNzZXJ0RXhjaGFuZ2UoY29uZmlnLlJBQkJJVE1RX0VYQ0hBTkdFLCBjb25maWcuUkFCQklUTVFfRVhDSEFOR0VfVFlQRSwgeyBkdXJhYmxlOiBmYWxzZSB9KSkKICAuZG9Pbk5leHQoKCkgPT4gY29uc29sZQogICAgLmxvZyh7IGV4Y2hhbmdlOiBjb25maWcuUkFCQklUTVFfRVhDSEFOR0UsIGV4Y2hhbmdlX3R5cGU6IGNvbmZpZy5SQUJCSVRNUV9FWENIQU5HRV9UWVBFIH0sICdBc3NlcnRlZCBleGNoYW5nZScpKQogIC5zaGFyZVJlcGxheSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUK</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dChldmVudCA9PiBjb25zb2xlLmxvZyhnaXRodWJFdmVudFR5cGUoZXZlbnQpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>processUpdate</last-search>
+      <last-search>let</last-search>
       <last-offset />
-      <last-pattern>processUpdate</last-pattern>
+      <last-pattern>let</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exchange</entry>
-        <entry>bindQueue</entry>
         <entry>publish</entry>
         <entry>sendToQueue</entry>
         <entry>R</entry>
@@ -752,9 +752,10 @@
         <entry>then</entry>
         <entry>pause</entry>
         <entry>processUpdate</entry>
+        <entry>console</entry>
+        <entry>let</entry>
       </history-search>
       <history-cmd>
-        <entry>101</entry>
         <entry>31</entry>
         <entry>61</entry>
         <entry>167</entry>
@@ -771,6 +772,7 @@
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
+        <entry>1</entry>
         <entry>t.</entry>
         <entry>W</entry>
         <entry>w</entry>
