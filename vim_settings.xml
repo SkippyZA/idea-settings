@@ -9,22 +9,21 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465130802496">
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465137049986">
         <mark key="'" line="22" column="0" />
         <mark key="j" line="41" column="18" />
-        <mark key="[" line="61" column="14" />
-        <mark key="]" line="61" column="16" />
-        <mark key="^" line="61" column="16" />
-        <mark key="." line="61" column="16" />
+        <mark key="k" line="111" column="7" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+        <mark key="^" line="46" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/restify/lib/response.js" timestamp="1465135355272" />
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_topic.ts" timestamp="1456860450765">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
-      </file>
-      <file name="/a.dummy" timestamp="1465130586206">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
@@ -84,18 +83,13 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/services/process-pipeline-spec.js" timestamp="1464691217395">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="45" column="52" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="52" />
-      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/.eslintrc.js" timestamp="1458574823717">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/rx-amqplib/index.js" timestamp="1465136808310" />
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_topic.js" timestamp="1457126272145">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="24" />
@@ -147,12 +141,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/index.js" timestamp="1464692682716">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="28" />
@@ -177,8 +165,11 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/config.js" timestamp="1465132516873">
-        <mark key="[" line="7" column="66" />
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/config.js" timestamp="1465137039679">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="60" />
+        <mark key="^" line="9" column="60" />
+        <mark key="." line="9" column="60" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/new_task.js" timestamp="1457125304010">
         <mark key="[" line="3" column="0" />
@@ -300,6 +291,9 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
+      <file name="/fragment.js" timestamp="1465135852657">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/reply/AssertQueueReply.ts" timestamp="1456769817844">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="8" column="8" />
@@ -346,12 +340,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1464712062336">
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1464868688193">
         <mark key="[" line="42" column="0" />
@@ -403,6 +391,7 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/restify/lib/server.js" timestamp="1465135859059" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1464856227062">
         <mark key="[" line="81" column="5" />
         <mark key="]" line="81" column="4" />
@@ -491,6 +480,9 @@
         <mark key="]" line="30" column="55" />
         <mark key="." line="30" column="55" />
         <mark key="^" line="30" column="55" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1465135774046">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_direct.ts" timestamp="1456857480296">
         <mark key="[" line="24" column="34" />
@@ -685,10 +677,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>'amqp',</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>'amqp',</text>
       </register>
       <register name="/" type="4">
         <text>SERVICE</text>
@@ -697,34 +689,34 @@
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text>'amqp',</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgYW1xcENvbm5lY3Rpb24kID0gUnhBbXFwbGliLm5ld0Nvbm5lY3Rpb24oY29uZmlnLlJBQkJJVE1RX0hPU1QpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogUE9TVDogL2dpdGh1Yi9ldmVudHMK</text>
+      <register name="3" type="4">
+        <text>RABBITMQ_PORT</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>://localhost',</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjZCAvYXBwICYmIFwK</text>
+      <register name="5" type="4">
+        <text>amqp</text>
       </register>
       <register name="6" type="4">
-        <text>./</text>
+        <text>RABBITMQ_HOST</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">anNvbiA=</text>
+        <text>RABBITMQ_HOST</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>config.RABBITMQ_HOST);</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -761,9 +753,6 @@
         <entry>SERVICE</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
-        <entry>61</entry>
-        <entry>167</entry>
         <entry>6</entry>
         <entry>104</entry>
         <entry>51</entry>
@@ -777,9 +766,12 @@
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
-        <entry>t.</entry>
         <entry>W</entry>
+        <entry>15</entry>
+        <entry>26</entry>
         <entry>1</entry>
+        <entry>1000</entry>
+        <entry>t.</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
