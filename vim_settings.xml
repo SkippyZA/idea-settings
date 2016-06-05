@@ -18,7 +18,6 @@
         <mark key="^" line="119" column="28" />
         <mark key="." line="119" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/restify/lib/response.js" timestamp="1465135355272" />
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_topic.ts" timestamp="1456860450765">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="22" />
@@ -89,7 +88,6 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/rx-amqplib/index.js" timestamp="1465136808310" />
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_topic.js" timestamp="1457126272145">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="24" />
@@ -147,6 +145,7 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/ScalaTest/.gitignore" timestamp="1465154800965" />
       <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/package.json" timestamp="1457789033392">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="39" />
@@ -391,7 +390,6 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/restify/lib/server.js" timestamp="1465135859059" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1464856227062">
         <mark key="[" line="81" column="5" />
         <mark key="]" line="81" column="4" />
@@ -441,7 +439,6 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/rx-amqplib/node_modules/amqplib/lib/connect.js" timestamp="1465138857776" />
       <file name="$USER_HOME$/Development/seneca-test/server.js" timestamp="1457679933373">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
