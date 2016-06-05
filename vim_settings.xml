@@ -9,14 +9,14 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465137049986">
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465138913243">
         <mark key="'" line="22" column="0" />
         <mark key="j" line="41" column="18" />
         <mark key="k" line="111" column="7" />
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="36" />
-        <mark key="." line="46" column="36" />
-        <mark key="^" line="46" column="36" />
+        <mark key="[" line="119" column="29" />
+        <mark key="]" line="119" column="28" />
+        <mark key="^" line="119" column="28" />
+        <mark key="." line="119" column="28" />
       </file>
       <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/restify/lib/response.js" timestamp="1465135355272" />
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_topic.ts" timestamp="1456860450765">
@@ -165,11 +165,11 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/config.js" timestamp="1465137039679">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="60" />
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/config.js" timestamp="1465138044680">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
         <mark key="^" line="9" column="60" />
-        <mark key="." line="9" column="60" />
+        <mark key="." line="10" column="47" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/new_task.js" timestamp="1457125304010">
         <mark key="[" line="3" column="0" />
@@ -441,6 +441,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/node_modules/rx-amqplib/node_modules/amqplib/lib/connect.js" timestamp="1465138857776" />
       <file name="$USER_HOME$/Development/seneca-test/server.js" timestamp="1457679933373">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -677,10 +678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'amqp',</text>
+        <text>console</text>
       </register>
       <register name="-" type="4">
-        <text>'amqp',</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
         <text>SERVICE</text>
@@ -689,34 +690,34 @@
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>'amqp',</text>
+        <text>console</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYW1xcENvbm5lY3Rpb24kID0gUnhBbXFwbGliLm5ld0Nvbm5lY3Rpb24oY29uZmlnLlJBQkJJVE1RX0hPU1QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZG9PbkVycm9yKGVyciA9PiBsb2dnZS5lcnJvcih7IGVycjogZXJyIH0sICdFcnJvciB3aXRoIHF1ZXVlJykpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>RABBITMQ_PORT</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAuZG9PbkVycm9yKGVyciA9PiBsb2dnZS5lcnJvcih7IGVycjogZXJyIH0sICdFcnJvciB3aXRoIHF1ZXVlJykpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>://localhost',</text>
+        <text>://</text>
       </register>
       <register name="5" type="4">
         <text>amqp</text>
       </register>
       <register name="6" type="4">
-        <text>RABBITMQ_HOST</text>
+        <text>'amqp',</text>
       </register>
-      <register name="7" type="4">
-        <text>RABBITMQ_HOST</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gY29uc3QgYW1xcENvbm5lY3Rpb24kID0gUnhBbXFwbGliLm5ld0Nvbm5lY3Rpb24oY29uZmlnLlJBQkJJVE1RX0hPU1QpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>config.RABBITMQ_HOST);</text>
+        <text>RABBITMQ_PORT</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>://localhost',</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
