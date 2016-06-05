@@ -9,13 +9,13 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465078744968">
+      <file name="$USER_HOME$/Development/rabbitmq-github-events/src/app.js" timestamp="1465124348380">
         <mark key="'" line="22" column="0" />
         <mark key="j" line="41" column="18" />
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="9" />
-        <mark key="^" line="22" column="9" />
-        <mark key="." line="22" column="9" />
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_topic.ts" timestamp="1456860450765">
         <mark key="[" line="8" column="13" />
@@ -686,7 +686,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>let</text>
+        <text>SERVICE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
@@ -726,16 +726,14 @@
       </register>
     </registers>
     <search>
-      <last-search>let</last-search>
+      <last-search>SERVICE</last-search>
       <last-offset />
-      <last-pattern>let</last-pattern>
+      <last-pattern>SERVICE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>publish</entry>
-        <entry>sendToQueue</entry>
         <entry>R</entry>
         <entry>save$</entry>
         <entry>save</entry>
@@ -754,6 +752,8 @@
         <entry>processUpdate</entry>
         <entry>console</entry>
         <entry>let</entry>
+        <entry>service_name</entry>
+        <entry>SERVICE</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -772,9 +772,9 @@
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
-        <entry>1</entry>
         <entry>t.</entry>
         <entry>W</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
