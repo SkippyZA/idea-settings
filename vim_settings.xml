@@ -310,11 +310,10 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1464940245670">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="28" column="47" />
+      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers-source.js" timestamp="1465197615793">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Development/seneca-test/client.js" timestamp="1457410948394">
         <mark key="[" line="6" column="4" />
@@ -357,16 +356,16 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465194942800">
-        <mark key="[" line="54" column="10" />
-        <mark key="]" line="54" column="10" />
-        <mark key="^" line="54" column="10" />
-        <mark key="." line="54" column="10" />
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465197492220">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+        <mark key="." line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1464938210159">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465197144597">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1464935878579">
         <mark key="]" line="63" column="23" />
@@ -507,11 +506,10 @@
         <mark key="." line="30" column="55" />
         <mark key="^" line="30" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/integration/has-offers-sync-service-spec.js" timestamp="1465195129620">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="91" />
-        <mark key="." line="27" column="91" />
-        <mark key="^" line="27" column="91" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/integration/has-offers-sync-service-spec.js" timestamp="1465197123258">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/emit_log_direct.ts" timestamp="1456857480296">
         <mark key="[" line="24" column="34" />
@@ -703,11 +701,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>som3ap1k3y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG9mZmVyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>som3ap1k3y</text>
+        <text>doOnNext</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -715,35 +713,35 @@
       <register name="0" type="2">
         <text encoding="base64">cGlwZS5ydW5QaXBlbGluZShoYXNPZmZlcnNTb3VyLmNvdW50KCgpID0+IHRydWUpZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>som3ap1k3y</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG9mZmVyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>AffiliateNetwork</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oeCA9PiB7IGNvbnNvbGUubG9nKHgpOyByZXR1cm4geDsgfSkK</text>
       </register>
       <register name="3" type="4">
-        <text>https://localhost</text>
+        <text>doOnNext</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>options</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuCg==</text>
+      <register name="5" type="4">
+        <text>true</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbih4ID0+IHsgY29uc29sZS5sb2coeCk7IHJldHVybiB4OyB9KQo=</text>
+      <register name="6" type="4">
+        <text>options</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoeCkgPT4geyBjb25zb2xlLmxvZyh4KSB9LAo=</text>
+        <text encoding="base64">dGhpcy5waXBlID0gbmV3IFByb2Nlc3NQaXBlbGluZSh0aGlzLmRlc3RpbmF0aW9uLCB0aGlzLmlkZW50aXR5UHJvY2Vzc29yKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGhpcy5pZGVudGl0eVByb2Nlc3NvciA9IG5ldyBJZGVudGl0eVByb2Nlc3Nvcih0aGlzLmRlc3RpbmF0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
