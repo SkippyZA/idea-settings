@@ -27,10 +27,11 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465214625112">
-        <mark key="[" line="108" column="40" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465217162732">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="31" />
+        <mark key="^" line="53" column="31" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
@@ -735,10 +736,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tJyk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgY29uc29sZS5sb2coT2JqZWN0LmdldE93blByb3BlcnR5TmFtZXMoZXJyKSk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5zdGFjayk7CiAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">Y29uc29sZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -747,34 +748,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tJyk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgY29uc29sZS5sb2coT2JqZWN0LmdldE93blByb3BlcnR5TmFtZXMoZXJyKSk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5zdGFjayk7CiAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">Y29uc29sZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>[]</text>
+        <text />
       </register>
-      <register name="3" type="4">
-        <text>.message</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tJyk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgY29uc29sZS5sb2coT2JqZWN0LmdldE93blByb3BlcnR5TmFtZXMoZXJyKSk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5zdGFjayk7CiAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLScpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>message</text>
+        <text>[]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tJyk7Cg==</text>
+      <register name="5" type="4">
+        <text>.message</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZXJyLCA=</text>
+        <text>message</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gdGhyb3cgbmV3IEVycm9yKHJlc3BvbnNlLnJlc3BvbnNlLmVycm9yTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tJyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gbG9nZ2VyLmZhdGFsKHJlc3BvbnNlLnJlc3BvbnNlLmVycm9yTWVzc2FnZSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZXJyLCA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gdGhyb3cgbmV3IEVycm9yKHJlc3BvbnNlLnJlc3BvbnNlLmVycm9yTWVzc2FnZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>t.</text>
