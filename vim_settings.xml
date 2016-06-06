@@ -27,11 +27,11 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465219104074">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="51" column="3" />
-        <mark key="." line="51" column="3" />
-        <mark key="^" line="51" column="3" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465227649624">
+        <mark key="[" line="139" column="19" />
+        <mark key="]" line="139" column="27" />
+        <mark key="^" line="139" column="27" />
+        <mark key="." line="139" column="27" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
@@ -327,6 +327,9 @@
         <mark key="]" line="182" column="31" />
         <mark key="." line="182" column="31" />
         <mark key="^" line="182" column="31" />
+      </file>
+      <file name="/fragment.js" timestamp="1465227516082">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/reply/AssertQueueReply.ts" timestamp="1456769817844">
         <mark key="[" line="5" column="2" />
@@ -633,7 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="29" filename="$USER_HOME$/Development/IDT-Poc/project-service/src/app.js" />
       <jump line="2" column="6" filename="$USER_HOME$/Development/IDT-Poc/project-service/src/app.js" />
       <jump line="7" column="34" filename="$USER_HOME$/Development/IDT-Poc/project-service/src/app.js" />
       <jump line="15" column="25" filename="$USER_HOME$/Development/IDT-Poc/project-service/src/app.js" />
@@ -733,13 +735,14 @@
       <jump line="68" column="6" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="101" column="56" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="111" column="30" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="136" column="26" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5mYXRhbCgrK2dsb2JhbENvdW50KTsK</text>
+      <register name="&quot;" type="4">
+        <text>extracted</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>extracted</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -747,35 +750,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5mYXRhbCgrK2dsb2JhbENvdW50KTsK</text>
+      <register name="1" type="4">
+        <text>extracted</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bGV0IGdsb2JhbENvdW50ID0gMDsKCg==</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZXh0cmFjdGVkIA==</text>
       </register>
       <register name="4" type="4">
         <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tJyk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsKICAgICAgY29uc29sZS5sb2coT2JqZWN0LmdldE93blByb3BlcnR5TmFtZXMoZXJyKSk7CiAgICAgIGNvbnNvbGUubG9nKGVyci5zdGFjayk7CiAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>[]</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAvLyB9CiAgICAgICAgICAgIC8vICAgcmV0dXJuIGV4dHJhY3RlZChyZXRyeSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.message</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAvLyBpZiAobnVtYmVyICE9PSAxKSB7CiAgICAgICAgICAgIC8vICAgLy8gICBsb2dnZXIuaW5mbyh7IHJldHJ5X2F0dGVtcHQ6IG51bWJlciB9LCAnUmV0cnkgYXR0ZW1wdCcpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>message</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIHByb21pc2VSZXRyeSgocmV0cnksIG51bWJlcikgPT4gewogICAgICAgICAgICAvLwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tJyk7Cg==</text>
+      <register name="9" type="4">
+        <text>retr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
