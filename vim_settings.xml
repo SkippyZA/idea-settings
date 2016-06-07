@@ -21,17 +21,16 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/rate-limit.js" timestamp="1465209969054">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/rate-limit.js" timestamp="1465322603940">
         <mark key="[" line="37" column="3" />
         <mark key="]" line="37" column="3" />
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465320684722">
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="31" />
-        <mark key="." line="63" column="31" />
-        <mark key="^" line="63" column="31" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465322689297">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465302958699">
         <mark key="[" line="8" column="0" />
@@ -787,11 +786,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHJldHVybiBzdWJqZWN0QnVmZmVyCiAgICAvLyAgIC5kb09uTmV4dChjb25zb2xlLmxvZyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>Publish</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -799,35 +798,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>c</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIHJldHVybiBzdWJqZWN0QnVmZmVyCiAgICAvLyAgIC5kb09uTmV4dChjb25zb2xlLmxvZyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>Asyn</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="4">
-        <text>Behavior</text>
+        <text encoding="base64">ICAgIHZhciBzdWJqZWN0ID0gbmV3IHJ4LlN1YmplY3QoKTsKCiAgICBzdWJqZWN0Lm9uTmV4dCg0Mik7CiAgICBzdWJqZWN0Lm9uTmV4dCg0Mik7CiAgICBzdWJqZWN0Lm9uTmV4dCg0Mik7CiAgICBzdWJqZWN0Lm9uTmV4dCg0Mik7CiAgICBzdWJqZWN0Lm9uTmV4dCg0Mik7CiAgICBzdWJqZWN0Lm9uTmV4dCg0Mik7CgogICAgdmFyIHN1YnNjcmlwdGlvbiA9IHN1YmplY3Quc3Vic2NyaWJlKAogICAgICBmdW5jdGlvbiAoeCkgewogICAgICAgIGNvbnNvbGUubG9nKCdOZXh0OiAnICsgeC50b1N0cmluZygpKTsKICAgICAgfSwKICAgICAgZnVuY3Rpb24gKGVycikgewogICAgICAgIGNvbnNvbGUubG9nKCdFcnJvcjogJyArIGVycik7CiAgICAgIH0sCiAgICAgIGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zb2xlLmxvZygnQ29tcGxldGVkJyk7CiAgICAgIH0pOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3Qub25OZXh0KDQyKTsK</text>
+      <register name="4" type="4">
+        <text>Publish</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3RCdWZmZXIub25OZXh0KCdhc2RmJyk7CgogICAgc3ViamVjdEJ1ZmZlci5zdWJzY3JpYmUoeCA9PiBsb2dnZXIuZmF0YWwoeCkpOwo=</text>
+      <register name="5" type="4">
+        <text>c</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhzdWJqZWN0QnVmZmVyKTtkawo=</text>
+      <register name="6" type="4">
+        <text>Asyn</text>
       </register>
       <register name="7" type="4">
-        <text>getRequest</text>
+        <text>Behavior</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5mYXRhbCgnYXNkZicpOwo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3Qub25OZXh0KDQyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3RCdWZmZXIuc3Vic2NyaWJlKHggPT4gbG9nZ2VyLmZhdGFsKHgpKTsK</text>
+        <text encoding="base64">ICAgIHN1YmplY3RCdWZmZXIub25OZXh0KCdhc2RmJyk7CgogICAgc3ViamVjdEJ1ZmZlci5zdWJzY3JpYmUoeCA9PiBsb2dnZXIuZmF0YWwoeCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
