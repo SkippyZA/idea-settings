@@ -27,12 +27,11 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465292258177">
-        <mark key="'" line="65" column="10" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465298721061">
+        <mark key="[" line="62" column="63" />
+        <mark key="]" line="62" column="64" />
+        <mark key="^" line="62" column="64" />
+        <mark key="." line="62" column="64" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
@@ -69,10 +68,12 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1465287088254">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1465298822675">
+        <mark key="'" line="32" column="42" />
+        <mark key="[" line="94" column="1" />
+        <mark key="]" line="94" column="15" />
+        <mark key="." line="94" column="15" />
+        <mark key="^" line="94" column="15" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
         <mark key="[" line="3" column="23" />
@@ -656,11 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/Development/IDT-Poc/project-service/src/client.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/Development/IDT-Poc/collaborator-service/node_modules/seneca-mongo-store/mongo-store.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/Development/IDT-Poc/collaborator-service/node_modules/seneca-mongo-store/mongo-store.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api-gateway/src/gateway-config.json" />
       <jump line="3" column="0" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
       <jump line="10" column="28" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
       <jump line="12" column="45" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
@@ -756,65 +752,68 @@
       <jump line="29" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" />
       <jump line="71" column="28" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="67" column="10" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="56" column="6" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="49" column="7" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="72" column="37" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="32" column="42" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>reletive</text>
+        <text>additional</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="4">
+        <text>5</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>x</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KCkg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>debug</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gLmRvT25OZXh0KGEgPT4gY29uc29sZS5sb2coYSkpCiAgICAgIC8vIC5mbGF0TWFwKHkgPT4gcnguT2JzZXJ2YWJsZS5mcm9tUHJvbWlzZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJykK</text>
+        <text encoding="base64">ICAgICAgLy8gfSkKICAgICAgLy8gLmZsYXRNYXAocnguT2JzZXJ2YWJsZS5mcm9tUHJvbWlzZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gLmZsYXRNYXAoeSA9PiB7CiAgICAgIC8vICAgcmV0dXJuIHk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>3</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZUJ1ZmZlcik7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>$</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>request</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reletive</last-search>
+      <last-search>additional</last-search>
       <last-offset />
-      <last-pattern>reletive</last-pattern>
+      <last-pattern>additional</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry>observer</entry>
         <entry>},</entry>
         <entry>sass</entry>
         <entry>request</entry>
@@ -833,28 +832,30 @@
         <entry>console</entry>
         <entry>DRY</entry>
         <entry>reletive</entry>
+        <entry>dynamically</entry>
+        <entry>additional</entry>
       </history-search>
       <history-cmd>
-        <entry>87</entry>
-        <entry>97</entry>
-        <entry>56</entry>
-        <entry>68</entry>
-        <entry>102</entry>
-        <entry>98</entry>
         <entry>29</entry>
-        <entry>3</entry>
         <entry>60</entry>
-        <entry>q</entry>
         <entry>99</entry>
         <entry>51</entry>
-        <entry>71</entry>
         <entry>89</entry>
         <entry>108</entry>
         <entry>2</entry>
-        <entry>1</entry>
         <entry>45</entry>
-        <entry>w</entry>
         <entry>t.</entry>
+        <entry>71</entry>
+        <entry>q</entry>
+        <entry>10</entry>
+        <entry>3</entry>
+        <entry>59</entry>
+        <entry>additional</entry>
+        <entry>1</entry>
+        <entry>94</entry>
+        <entry>50</entry>
+        <entry>63</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
