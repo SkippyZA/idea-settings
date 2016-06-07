@@ -27,12 +27,12 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465330587760">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465332614508">
         <mark key="'" line="28" column="42" />
-        <mark key="[" line="84" column="32" />
-        <mark key="]" line="84" column="32" />
-        <mark key="." line="84" column="32" />
-        <mark key="^" line="84" column="31" />
+        <mark key="[" line="122" column="63" />
+        <mark key="]" line="122" column="63" />
+        <mark key="." line="122" column="63" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465302958699">
         <mark key="[" line="8" column="0" />
@@ -793,11 +793,11 @@
       <jump line="30" column="42" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBmYWxzZSkK</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>concatMap</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -805,35 +805,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBmYWxzZSkK</text>
+      <register name="1" type="4">
+        <text>=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBkZGZhbHNlKQo=</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
-      <register name="3" type="4">
-        <text>concatMap</text>
-      </register>
-      <register name="4" type="4">
-        <text>concatMap</text>
-      </register>
-      <register name="5" type="4">
-        <text>0</text>
-      </register>
-      <register name="6" type="4">
-        <text>0</text>
-      </register>
-      <register name="7" type="4">
-        <text>5</text>
-      </register>
-      <register name="8" type="4">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBmYWxzZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBkZGZhbHNlKQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>concatMap</text>
+      </register>
+      <register name="7" type="4">
+        <text>concatMap</text>
+      </register>
+      <register name="8" type="4">
+        <text>0</text>
+      </register>
       <register name="9" type="4">
-        <text />
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
