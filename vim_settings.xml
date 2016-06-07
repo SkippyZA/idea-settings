@@ -27,11 +27,11 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465317951216">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="58" column="10" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465320684722">
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465302958699">
         <mark key="[" line="8" column="0" />
@@ -788,10 +788,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>then</text>
@@ -800,34 +800,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>c</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Asyn</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CgoKICAgIC8qCiAgICAvLyBEZWJ1ZyBsb2cgdGhlIG9mZmVyIGlmIGRvaW5nIGEgZHJ5IHJ1biwgb3RoZXJ3aXNlIHBlcnNpc3QgaXQgdG8gaGFzIG9mZmVycwogICAgaWYgKGNvbmZpZy5EUllfUlVOKSB7CiAgICAgIGxvZ2dlci5kZWJ1Zyh7IGRyeV9ydW46IHRydWUsIG9mZmVyOiBvZmZlciB9LCAnSGFzIG9mZmVycyBkZXN0aW5hdGlvbiBjcmVhdGUgb2ZmZXInKTsKCiAgICAgIC8vIE1ha2luZyBhIGxpdmUgdHJhY2tpbmcgbGluayByZXF1ZXN0IHRvIHRlc3QgcmF0ZSBsaW1pdGluZyBpbiB0aGUgZHJ5IHJ1bi4KICAgICAgcmV0dXJuIHRoaXMudHJhY2tpbmdMaW5rR2VuZXJhdG9yCiAgICAgICAgLmdlbmVyYXRlVHJhY2tpbmdVcmwob2ZmZXIuc291cmNlX2lkKQogICAgICAgIC5kb09uTmV4dCgoKSA9PiBsb2dnZXIuZGVidWcoeyBkcnlfcnVuOiB0cnVlLCBvZmZlcl9pZDogb2ZmZXIuc291cmNlX2lkIH0sICdDcmVhdGVkIE9mZmVyIG9uIGRlc3RpbmF0aW9uJykpCiAgICAgICAgLm1hcCgoKSA9PiBvZmZlcik7CiAgICB9IGVsc2UgewogICAgICByZXR1cm4gdGhpcy50cmFja2luZ0xpbmtHZW5lcmF0b3IuZ2VuZXJhdGVUcmFja2luZ1VybChvZmZlci5zb3VyY2VfaWQpCiAgICAgICAgLm1hcCh1cmwgPT4gKHsKICAgICAgICAgIGFkdmVydGlzZXJfaWQ6IDYyMiwKICAgICAgICAgIGRhdGE6IG9mZmVyLAogICAgICAgICAgb2ZmZXJfdXJsOiB1cmwKICAgICAgICB9KSkKICAgICAgICAuZmxhdE1hcCh0aGlzLmhhc09mZmVyc0FwaS5vZmZlcnMuY3JlYXRlKQogICAgICAgIC5mbGF0TWFwKHJlc3BvbnNlID0+IHsKICAgICAgICAgIGNvbnN0IG9mZmVySWQgPSByZXNwb25zZS5yZXNwb25zZS5kYXRhLk9mZmVyLmlkOwoKICAgICAgICAgIGxvZ2dlci5kZWJ1Zyh7IG9mZmVyX2lkOiBvZmZlcklkLCByZXNwb25zZTogcmVzcG9uc2UgfSwgJ0NyZWF0ZWQgT2ZmZXIgb24gZGVzdGluYXRpb24nKTsKCiAgICAgICAgICByZXR1cm4gdGhpcy5fc2V0Q291bnRyaWVzKG9mZmVySWQsIG9mZmVyKTsKICAgICAgICB9KTsKICAgIH0KICAgICov</text>
+        <text>Behavior</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3Qub25OZXh0KDQyKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>generateTrackingUrl</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN1YmplY3RCdWZmZXIub25OZXh0KCdhc2RmJyk7CgogICAgc3ViamVjdEJ1ZmZlci5zdWJzY3JpYmUoeCA9PiBsb2dnZXIuZmF0YWwoeCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>-</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhzdWJqZWN0QnVmZmVyKTtkawo=</text>
       </register>
       <register name="7" type="4">
-        <text>()</text>
+        <text>getRequest</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bmV3T2ZmZXJTdHJlYW0g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5mYXRhbCgnYXNkZicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3RCdWZmZXIuc3Vic2NyaWJlKHggPT4gbG9nZ2VyLmZhdGFsKHgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
