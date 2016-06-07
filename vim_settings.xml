@@ -27,11 +27,12 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465328251202">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465330587760">
         <mark key="'" line="28" column="42" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="84" column="32" />
+        <mark key="." line="84" column="32" />
+        <mark key="^" line="84" column="31" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465302958699">
         <mark key="[" line="8" column="0" />
@@ -431,11 +432,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465327339523">
-        <mark key="[" line="127" column="7" />
-        <mark key="]" line="127" column="7" />
-        <mark key="^" line="76" column="17" />
-        <mark key="." line="127" column="15" />
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465330670867">
+        <mark key="[" line="128" column="7" />
+        <mark key="]" line="128" column="13" />
+        <mark key="^" line="128" column="13" />
+        <mark key="." line="128" column="13" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465314160904">
         <mark key="[" line="43" column="36" />
@@ -532,12 +533,11 @@
         <mark key="." line="58" column="7" />
         <mark key="^" line="58" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1465327797942">
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1465330919206">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="7" />
-        <mark key="]" line="88" column="7" />
-        <mark key="." line="88" column="15" />
-        <mark key="^" line="81" column="15" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/emit_log_topic.js" timestamp="1457125286157">
         <mark key="[" line="4" column="0" />
@@ -794,10 +794,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBmYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>flatMap</text>
+        <text>concatMap</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -806,37 +806,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBmYWxzZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBzdWJqZWN0QnVmZmVyID0gbmV3IHJ4LlN1YmplY3QoKTsK</text>
+        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBkZGZhbHNlKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIH0pOwoK</text>
+      <register name="3" type="4">
+        <text>concatMap</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBnZXRSZXF1ZXN0LmZsYXRNYXAoeCA9PiB7CiAgICAvLyAgIGxvZ2dlci5mYXRhbCgnc3RhcnQnKTsKICAgIC8vICAgcmV0dXJuIHJ4Lk9ic2VydmFibGUudGltZXIoNTAwMCkubWFwKCgpID0+IHsKICAgIC8vICAgICBsb2dnZXIuZmF0YWwoJ2VuZCcpOwogICAgLy8gICAgIHJldHVybiB4OwogICAgLy8gICB9KTsK</text>
+      <register name="4" type="4">
+        <text>concatMap</text>
       </register>
       <register name="5" type="4">
-        <text>flatMap</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>flatMap</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>debug</text>
+        <text>5</text>
       </register>
       <register name="8" type="4">
-        <text>debug</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>flatMap</text>
+        <text />
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -887,9 +887,9 @@
         <entry>e</entry>
         <entry>130</entry>
         <entry>3</entry>
-        <entry>w</entry>
         <entry>t</entry>
         <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
