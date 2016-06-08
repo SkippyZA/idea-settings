@@ -30,11 +30,12 @@
       <file name="$USER_HOME$/Development/yazimedia/node_modules/rxjs-jasmine-testscheduler-injector/rxjs-testscheduler-injector.js" timestamp="1465373976073">
         <mark key="'" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465332614508">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465375773788">
         <mark key="'" line="28" column="42" />
-        <mark key="[" line="58" column="63" />
-        <mark key="]" line="58" column="63" />
-        <mark key="." line="58" column="63" />
+        <mark key="[" line="78" column="35" />
+        <mark key="]" line="78" column="35" />
+        <mark key="." line="78" column="35" />
+        <mark key="^" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465369702275">
         <mark key="[" line="66" column="11" />
@@ -793,10 +794,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text encoding="base64">c3RhY2sg</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">c3RhY2sg</text>
       </register>
       <register name="/" type="4">
         <text>Rx</text>
@@ -805,7 +806,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>error</text>
+        <text encoding="base64">c3RhY2sg</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -814,25 +815,25 @@
         <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>error</text>
+        <text>err</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="5" type="4">
-        <text>myapp</text>
+        <text>stack</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="7" type="4">
-        <text>tmp</text>
+        <text>error</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>var</text>
+        <text>error</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
