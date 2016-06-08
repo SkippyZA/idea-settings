@@ -29,15 +29,15 @@
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465332614508">
         <mark key="'" line="28" column="42" />
-        <mark key="[" line="122" column="63" />
-        <mark key="]" line="122" column="63" />
-        <mark key="." line="122" column="63" />
-        <mark key="^" line="84" column="7" />
+        <mark key="[" line="58" column="63" />
+        <mark key="]" line="58" column="63" />
+        <mark key="." line="58" column="63" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465302958699">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465368965035">
+        <mark key="'" line="67" column="17" />
+        <mark key="[" line="67" column="9" />
+        <mark key="]" line="67" column="9" />
+        <mark key="." line="67" column="9" />
         <mark key="^" line="64" column="2" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
@@ -433,10 +433,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465330670867">
-        <mark key="[" line="128" column="7" />
-        <mark key="]" line="128" column="13" />
-        <mark key="^" line="128" column="13" />
-        <mark key="." line="128" column="13" />
+        <mark key="[" line="127" column="7" />
+        <mark key="]" line="127" column="13" />
+        <mark key="^" line="127" column="13" />
+        <mark key="." line="127" column="13" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465314160904">
         <mark key="[" line="43" column="36" />
@@ -526,18 +526,8 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1465327598846">
-        <mark key="'" line="53" column="25" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="58" column="7" />
-        <mark key="^" line="58" column="7" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1465330919206">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/emit_log_topic.js" timestamp="1457125286157">
         <mark key="[" line="4" column="0" />
@@ -691,8 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="31" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
-      <jump line="108" column="30" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="116" column="40" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="4" column="25" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="11" column="5" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
@@ -791,58 +779,60 @@
       <jump line="21" column="19" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="28" column="28" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="30" column="42" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
+      <jump line="35" column="9" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" />
+      <jump line="67" column="17" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>=</text>
+        <text>e</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text encoding="base64">KTsg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBmYWxzZSkK</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gLmZpbHRlcigoKSA9PiBkZGZhbHNlKQo=</text>
+      <register name="5" type="4">
+        <text>log</text>
       </register>
       <register name="6" type="4">
-        <text>concatMap</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>concatMap</text>
+        <text>console</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>=</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -856,7 +846,6 @@
         <entry>info</entry>
         <entry>.trace</entry>
         <entry>trace</entry>
-        <entry>console</entry>
         <entry>DRY</entry>
         <entry>reletive</entry>
         <entry>dynamically</entry>
@@ -868,6 +857,7 @@
         <entry encoding="base64">XDxqdXN0b2ZmZXJcPg==</entry>
         <entry>then</entry>
         <entry>default</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
