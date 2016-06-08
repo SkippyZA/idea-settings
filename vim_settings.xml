@@ -43,12 +43,6 @@
         <mark key="." line="66" column="10" />
         <mark key="^" line="66" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1465374852793">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="16" />
-        <mark key="." line="33" column="16" />
-        <mark key="^" line="33" column="16" />
-      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="9" column="0" />
@@ -482,11 +476,11 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465377337740">
+      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465378869362">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="14" column="63" />
-        <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="63" />
+        <mark key="." line="14" column="63" />
       </file>
       <file name="$USER_HOME$/Development/groundzero-front/package.json" timestamp="1463500070708">
         <mark key="[" line="34" column="35" />
@@ -877,7 +871,6 @@
         <entry>Rx</entry>
       </history-search>
       <history-cmd>
-        <entry>additional</entry>
         <entry>94</entry>
         <entry>50</entry>
         <entry>8</entry>
@@ -896,6 +889,7 @@
         <entry>56</entry>
         <entry>13</entry>
         <entry>1</entry>
+        <entry>14</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
