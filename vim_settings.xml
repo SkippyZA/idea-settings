@@ -75,11 +75,11 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="94" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/coursera/src/week1/IsGoodEnough.sc" timestamp="1465403838680">
+      <file name="$USER_HOME$/Development/coursera/src/week1/IsGoodEnough.sc" timestamp="1465404178823">
         <mark key="[" line="17" column="9" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
         <mark key="[" line="3" column="23" />
@@ -785,10 +785,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICA0ICsgNQoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRydWU=</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -797,37 +797,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICA0ICsgNQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRydWU=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ci8vICBzcXJ0KDE2KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSB3ZWVrMQoK</text>
+        <text encoding="base64">CiAgMSArIDMK</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>*</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgb3IoeDogQm9vbGVhbiwgeTogQm9vbGVhbikgPSBpZih4KSB4IGVsc2UgeQo=</text>
+      <register name="5" type="4">
+        <text>*</text>
       </register>
-      <register name="6" type="4">
-        <text>5</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">cGFja2FnZSB3ZWVrMQoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gLmRvT25OZXh0KGEgPT4gY29uc29sZS5sb2coYSkpCiAgICAgIC8vIC5mbGF0TWFwKHkgPT4gcnguT2JzZXJ2YWJsZS5mcm9tUHJvbWlzZSgpKQo=</text>
+      <register name="9" type="4">
+        <text>o</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
@@ -861,7 +861,6 @@
         <entry>SERVICE</entry>
       </history-search>
       <history-cmd>
-        <entry>6</entry>
         <entry>104</entry>
         <entry>51</entry>
         <entry>:w</entry>
@@ -881,6 +880,7 @@
         <entry>1000</entry>
         <entry>t.</entry>
         <entry>w</entry>
+        <entry>3</entry>
       </history-cmd>
       <history-expr />
       <history-input />
