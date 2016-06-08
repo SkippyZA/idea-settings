@@ -74,12 +74,12 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1465371959031">
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1465373141328">
         <mark key="'" line="31" column="42" />
-        <mark key="[" line="98" column="24" />
-        <mark key="]" line="98" column="23" />
-        <mark key="." line="98" column="23" />
-        <mark key="^" line="98" column="23" />
+        <mark key="[" line="132" column="53" />
+        <mark key="]" line="133" column="8" />
+        <mark key="." line="133" column="8" />
+        <mark key="^" line="133" column="8" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
         <mark key="[" line="3" column="23" />
@@ -783,8 +783,8 @@
       <jump line="67" column="17" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>returnValue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name="-" type="4">
         <text>returnValue</text>
@@ -795,38 +795,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>returnValue</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>returnValue</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>errorResponseBody</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzcHlPbihyZXF1ZXN0LCAnZ2V0JykuYW5kLnJldHVyblZhbHVlKHJlc3BvbnNlKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIC8vIGNvbnN0IHJlc3BvbnNlID0gbmV3IE1vY2tFeHByZXNzUmVzcG9uc2UoKTsKICAgIC8vIHJlc3BvbnNlLmpzb24ocmVzcG9uc2VCb2R5KTsKICAgIC8vIHNweU9uKHJlcXVlc3QsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUocmVzcG9uc2UpOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="4">
-        <text>-</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>133</text>
       </register>
     </registers>
     <search>
@@ -860,7 +860,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>10</entry>
         <entry>59</entry>
         <entry>additional</entry>
@@ -880,6 +879,7 @@
         <entry>97</entry>
         <entry>t.</entry>
         <entry>w</entry>
+        <entry>133</entry>
       </history-cmd>
       <history-expr />
       <history-input />
