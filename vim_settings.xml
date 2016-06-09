@@ -21,6 +21,9 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
       </file>
+      <file name="/a.dummy" timestamp="1465484310924">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/rate-limit.js" timestamp="1465322603940">
         <mark key="[" line="37" column="3" />
         <mark key="]" line="37" column="3" />
@@ -62,6 +65,12 @@
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/category-identifier.js" timestamp="1465484342311">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs.ts" timestamp="1457126299439">
         <mark key="[" line="0" column="0" />
@@ -429,12 +438,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465476960028">
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465486543342">
         <mark key="'" line="78" column="7" />
-        <mark key="[" line="95" column="33" />
-        <mark key="]" line="96" column="9" />
-        <mark key="." line="96" column="9" />
-        <mark key="^" line="96" column="9" />
+        <mark key="[" line="84" column="18" />
+        <mark key="]" line="84" column="20" />
+        <mark key="^" line="84" column="20" />
+        <mark key="." line="84" column="20" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465465887792">
         <mark key="'" line="39" column="35" />
@@ -613,8 +622,7 @@
         <mark key="]" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1465475755896">
-        <mark key="'" line="75" column="80" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1465486126291">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -636,11 +644,10 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1465474507875">
-        <mark key="'" line="42" column="21" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1465483554452">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
@@ -690,7 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="15" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="113" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="92" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
@@ -789,14 +795,15 @@
       <jump line="45" column="13" filename="$USER_HOME$/Development/yazimedia/src/models/offer.js" />
       <jump line="4" column="40" filename="$USER_HOME$/Development/yazimedia/src/models/offer.js" />
       <jump line="149" column="45" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
+      <jump line="153" column="33" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
       <jump line="78" column="7" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Obj</text>
+        <text encoding="base64">dHJhY2tpbmcg</text>
       </register>
       <register name="-" type="4">
-        <text>Obj</text>
+        <text encoding="base64">dHJhY2tpbmcg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -805,37 +812,37 @@
         <text>categoriesLens</text>
       </register>
       <register name="1" type="4">
-        <text>Obj</text>
+        <text encoding="base64">dHJhY2tpbmcg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>offerId</text>
+        <text encoding="base64">ICBfYXBwbGljYXRpb25DYXRlZ29yaWVzKCkgewogICAgCiAgICByZXR1cm4gdGhpcy5oYXNPZmZlcnNBcGkuYXBwbGljYXRpb24KICAgICAgLmZpbmRBbGxPZmZlckNhdGVnb3JpZXMoewogICAgICAgIGZpbHRlcnM6IHsKICAgICAgICAgIHN0YXR1czogJ2FjdGl2ZScKICAgICAgICB9CiAgICAgIH0pCiAgICAgIC5tYXAoUi5wYXRoKFsncmVzcG9uc2UnLCAnZGF0YSddKSkKICAgICAgLm1hcChyZXNwb25zZURhdGEgPT4gewogICAgICAgIHJldHVybiBSLm1hcCgoY2F0ZWdvcnlPYmopID0+IHsKICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIGlkOiBjYXRlZ29yeU9iai5PZmZlckNhdGVnb3J5LmlkLAogICAgICAgICAgICBuYW1lOiBjYXRlZ29yeU9iai5PZmZlckNhdGVnb3J5Lm5hbWUKICAgICAgICAgIH07CiAgICAgICAgfSwgcmVzcG9uc2VEYXRhKTsKICAgICAgfSkKICAgICAgLnNoYXJlUmVwbGF5KCk7CiAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>categ</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gLm1hcChvbWl0VW5uZWNlc3NhcnlGaWVsZHMpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAuZG9Pbk5leHQoY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuZG9Pbk5leHQoKCkgPT4gbG9nZ2VyLmRlYnVnKHsgZHJ5X3J1bjogdHJ1ZSwgb2ZmZXJfaWQ6IG51bGwgfSwgJ0NyZWF0ZWQgT2ZmZXIgb24gZGVzdGluYXRpb24nKSkK</text>
+        <text encoding="base64">CiAgICAvLyByZXR1cm4gcnguT2JzZXJ2YWJsZS5qdXN0KG9mZmVyLmNhdGVnb3JpZXMpCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dHJhY2tpbmcg</text>
+        <text>f</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHRyYWNraW5nTGlua1N0cmVhbQo=</text>
+        <text encoding="base64">ICAgICAgLmRvT25OZXh0KGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>bleh</text>
+        <text>name</text>
       </register>
       <register name=":" type="4">
-        <text>95</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -869,7 +876,6 @@
         <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>13</entry>
         <entry>8</entry>
         <entry>16</entry>
         <entry>142</entry>
@@ -881,14 +887,15 @@
         <entry>167</entry>
         <entry>147</entry>
         <entry>67</entry>
-        <entry>t.</entry>
         <entry>104</entry>
         <entry>86</entry>
         <entry>58</entry>
         <entry>65</entry>
-        <entry>w</entry>
         <entry>68</entry>
         <entry>95</entry>
+        <entry>150</entry>
+        <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
