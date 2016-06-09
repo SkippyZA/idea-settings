@@ -426,11 +426,11 @@
         <mark key="." line="73" column="11" />
         <mark key="^" line="64" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465314160904">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="40" column="1" />
-        <mark key="." line="40" column="1" />
-        <mark key="^" line="40" column="1" />
+      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465454747263">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/pause.json" timestamp="1464938348393">
         <mark key="[" line="25" column="29" />
@@ -768,46 +768,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>-------</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBlbmRwb2ludDogJ2h0dHBzOi8vYXBpLmhhc29mZmVycy5jb20vQXBpdjMvanNvbicsCiAgbmV0d29ya0lkOiAnYmxhY2tmb3gnLAogIGFwaUtleTogJ2UxNjU1YTI5ODQyZDg3ZWVmZGE5NDk5MjY0N2FjZDA1YTcwODgxMGFiZGZhNzFmMjJkYWMyMmMyMWE4YjYxMTIn</text>
       </register>
       <register name="1" type="4">
-        <text>f</text>
+        <text>j</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>yazimedia</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>e1655a29842d87eefda94992647acd05a708810abdfa71f22dac22c21a8b6112</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="4" type="4">
+        <text>blackfox</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLm11bHRpY2FzdCh4ID0+IHsgcmV0dXJuIG5ldyByeC5TdWJqZWN0KCk7IH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgYnJhbmROZXR3b3JrVG9rZW4gPSAnJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>NETHHDqvZkRWvvprOlMoIbY74SmPPQ</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB0aGlzLnBpcGUuZGVzdGluYXRpb25JZGVudGl0aWVzLmNvbm5lY3QoKTt1dXV1Cg==</text>
+        <text encoding="base64">Y29uc3QgYnJhbmROZXR3b3JrSWQgPSAnJzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>yazimedia</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVzdGluYXRpb25JZGVudGl0ZXMg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgYnJhbmRFbmRwb2ludCA9ICcnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -844,13 +844,6 @@
         <entry>-------</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>130</entry>
-        <entry>t</entry>
-        <entry>97</entry>
-        <entry>133</entry>
-        <entry>13</entry>
-        <entry>1</entry>
         <entry>14</entry>
         <entry>11</entry>
         <entry>3</entry>
@@ -862,7 +855,14 @@
         <entry>56</entry>
         <entry>74</entry>
         <entry>49</entry>
+        <entry>13</entry>
         <entry>26</entry>
+        <entry>15</entry>
+        <entry>23</entry>
+        <entry>47</entry>
+        <entry>24</entry>
+        <entry>45</entry>
+        <entry>25</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
