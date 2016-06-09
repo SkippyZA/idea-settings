@@ -45,6 +45,7 @@
         <mark key="." line="66" column="10" />
         <mark key="^" line="66" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1465468738048" />
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/PageTitleWithLogo.vue" timestamp="1458584766515">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="9" column="0" />
@@ -239,11 +240,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/has-offers-brand.js" timestamp="1465325300147">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="66" />
-        <mark key="." line="18" column="66" />
-        <mark key="^" line="18" column="66" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/has-offers-brand.js" timestamp="1465466461749">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="53" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/update.json" timestamp="1464938396723">
         <mark key="[" line="25" column="28" />
@@ -419,12 +420,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465383623877">
-        <mark key="'" line="6" column="34" />
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="73" column="11" />
-        <mark key="." line="73" column="11" />
-        <mark key="^" line="64" column="8" />
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465468649886">
+        <mark key="'" line="136" column="47" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="134" column="8" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465465887792">
         <mark key="'" line="39" column="35" />
@@ -455,12 +456,6 @@
         <mark key="]" line="2" column="59" />
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465378869362">
-        <mark key="[" line="13" column="59" />
-        <mark key="]" line="14" column="63" />
-        <mark key="^" line="14" column="63" />
-        <mark key="." line="14" column="63" />
       </file>
       <file name="$USER_HOME$/Development/groundzero-front/package.json" timestamp="1463500070708">
         <mark key="[" line="34" column="35" />
@@ -586,6 +581,12 @@
       <file name="/Dummy.txt" timestamp="1465199242310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/find-all-offer-categories.json" timestamp="1465468680246">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1792" />
+        <mark key="." line="0" column="1792" />
+        <mark key="^" line="0" column="1792" />
+      </file>
       <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/src/app.js" timestamp="1457895157911">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -617,12 +618,12 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1465383387112">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="15" column="30" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1465468229429">
+        <mark key="'" line="42" column="21" />
+        <mark key="[" line="144" column="17" />
+        <mark key="]" line="144" column="27" />
+        <mark key="^" line="144" column="27" />
+        <mark key="." line="144" column="27" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
@@ -658,6 +659,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/has-offers-brand-spec.js" timestamp="1465466603230">
+        <mark key="[" line="23" column="104" />
+        <mark key="]" line="23" column="102" />
+        <mark key="." line="23" column="102" />
+        <mark key="^" line="23" column="102" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/RxMessage.ts" timestamp="1457265457916">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="17" />
@@ -666,7 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="86" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="109" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="165" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
@@ -766,53 +772,53 @@
       <jump line="6" column="34" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" />
       <jump line="39" column="35" filename="$USER_HOME$/Development/yazimedia/src/skip-test.js" />
+      <jump line="136" column="47" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yaziBrandConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfSwKICAgICAgIjIwIjogewogICAgICAgICJPZmZlckNhdGVnb3J5IjogewogICAgICAgICAgImlkIjogIjIwIiwKICAgICAgICAgICJuYW1lIjogIkNQSSAtIEJ1c2luZXNzIiwKICAgICAgICAgICJzdGF0dXMiOiAiZGVsZXRlZCIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDMtMjUgMDY6MDk6NDAiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIyMDE1LTA5LTE2IDA1OjE2OjI2IiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICI0MiIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIyMiI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIyMiIsCiAgICAgICAgICAibmFtZSI6ICJDUEkgLSBFbnRlcnRhaW5tZW50IiwKICAgICAgICAgICJzdGF0dXMiOiAiZGVsZXRlZCIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDMtMjUgMDY6MTA6MTAiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIyMDE1LTA5LTE2IDA1OjE2OjIyIiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICIzNyIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIyMyI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIyMyIsCiAgICAgICAgICAibmFtZSI6ICJJTkNFTlRJVklaRUQiLAogICAgICAgICAgInN0YXR1cyI6ICJhY3RpdmUiLAogICAgICAgICAgImRhdGVfY3JlYXRlZCI6ICIyMDE1LTA5LTE2IDA5OjE1OjQ0IiwKICAgICAgICAgICJkYXRlX3VwZGF0ZWQiOiAiMDAwMC0wMC0wMCAwMDowMDowMCIsCiAgICAgICAgICAib2ZmZXJfY291bnQiOiAiMjQxNiIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIyNSI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIyNSIsCiAgICAgICAgICAibmFtZSI6ICJOT04tSU5DRU5USVZJWkVEIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxNzoxNyIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjM0MzgiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMjciOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMjciLAogICAgICAgICAgIm5hbWUiOiAiQ1BJIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxNzoyOSIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjU1NzYiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMjkiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMjkiLAogICAgICAgICAgIm5hbWUiOiAiQ1BBIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxNzo0NCIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjE0MCIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIzMSI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIzMSIsCiAgICAgICAgICAibmFtZSI6ICJBTkRSSU9EIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxODowMiIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjMwOTMiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMzMiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMzMiLAogICAgICAgICAgIm5hbWUiOiAiSU9TIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>yaziBrandConfig</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>-------</text>
       </register>
       <register name="0" type="4">
-        <text>// const affiliateConfig = blackfoxConfig;
-// const brandConfig = yaziBrandConfig;</text>
+        <text>sampleFindAllOfferCategoriesResponse</text>
       </register>
-      <register name="1" type="4">
-        <text>yaziBrandConfig</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgfSwKICAgICAgIjIwIjogewogICAgICAgICJPZmZlckNhdGVnb3J5IjogewogICAgICAgICAgImlkIjogIjIwIiwKICAgICAgICAgICJuYW1lIjogIkNQSSAtIEJ1c2luZXNzIiwKICAgICAgICAgICJzdGF0dXMiOiAiZGVsZXRlZCIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDMtMjUgMDY6MDk6NDAiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIyMDE1LTA5LTE2IDA1OjE2OjI2IiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICI0MiIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIyMiI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIyMiIsCiAgICAgICAgICAibmFtZSI6ICJDUEkgLSBFbnRlcnRhaW5tZW50IiwKICAgICAgICAgICJzdGF0dXMiOiAiZGVsZXRlZCIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDMtMjUgMDY6MTA6MTAiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIyMDE1LTA5LTE2IDA1OjE2OjIyIiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICIzNyIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIyMyI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIyMyIsCiAgICAgICAgICAibmFtZSI6ICJJTkNFTlRJVklaRUQiLAogICAgICAgICAgInN0YXR1cyI6ICJhY3RpdmUiLAogICAgICAgICAgImRhdGVfY3JlYXRlZCI6ICIyMDE1LTA5LTE2IDA5OjE1OjQ0IiwKICAgICAgICAgICJkYXRlX3VwZGF0ZWQiOiAiMDAwMC0wMC0wMCAwMDowMDowMCIsCiAgICAgICAgICAib2ZmZXJfY291bnQiOiAiMjQxNiIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIyNSI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIyNSIsCiAgICAgICAgICAibmFtZSI6ICJOT04tSU5DRU5USVZJWkVEIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxNzoxNyIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjM0MzgiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMjciOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMjciLAogICAgICAgICAgIm5hbWUiOiAiQ1BJIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxNzoyOSIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjU1NzYiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMjkiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMjkiLAogICAgICAgICAgIm5hbWUiOiAiQ1BBIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxNzo0NCIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjE0MCIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIzMSI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIzMSIsCiAgICAgICAgICAibmFtZSI6ICJBTkRSSU9EIiwKICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxODowMiIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjMwOTMiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMzMiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMzMiLAogICAgICAgICAgIm5hbWUiOiAiSU9TIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>blackfoxConfig</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJUYXJnZXQiOiAiQXBwbGljYXRpb24iLAogICAgIkZvcm1hdCI6ICJqc29uIiwKICAgICJTZXJ2aWNlIjogIkhhc09mZmVycyIsCiAgICAiVmVyc2lvbiI6ICIyIiwKICAgICJOZXR3b3JrSWQiOiAieWF6aW1lZGlhIiwKICAgICJNZXRob2QiOiAiZmluZEFsbE9mZmVyQ2F0ZWdvcmllcyIsCiAgICAiTmV0d29ya1Rva2VuIjogIk5FVEhIRHF2WmtSV3Z2cHJPbE1vSWJZNzRTbVBQUSIKICB9LAogICJyZXNwb25zZSI6IHsKICAgICJzdGF0dXMiOiAxLAogICAgImh0dHBTdGF0dXMiOiAyMDAsCiAgICAiZGF0YSI6IHsKICAgICAgIjIiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMiIsCiAgICAgICAgICAibmFtZSI6ICJCQkoiLAogICAgICAgICAgInN0YXR1cyI6ICJkZWxldGVkIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wMS0yNyAxMTo0MDoxMSIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjIwMTUtMDMtMjUgMDI6MDE6NDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogMAogICAgICAgIH0KICAgICAgfSwKICAgICAgIjQiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiNCIsCiAgICAgICAgICAibmFtZSI6ICJDbGlra3kiLAogICAgICAgICAgInN0YXR1cyI6ICJkZWxldGVkIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wMy0yNCAwNToxNzoyOSIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjIwMTUtMDMtMjUgMDI6MDM6MzMiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogMAogICAgICAgIH0KICAgICAgfSwKICAgICAgIjYiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiNiIsCiAgICAgICAgICAibmFtZSI6ICJ0ZXN0IiwKICAgICAgICAgICJzdGF0dXMiOiAiZGVsZXRlZCIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDMtMjUgMDU6Mzc6NDgiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIyMDE1LTA2LTI5IDA3OjEyOjI4IiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICI0IgogICAgICAgIH0KICAgICAgfSwKICAgICAgIjgiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiOCIsCiAgICAgICAgICAibmFtZSI6ICJDUEEgLSBBZHVsdCIsCiAgICAgICAgICAic3RhdHVzIjogImRlbGV0ZWQiLAogICAgICAgICAgImRhdGVfY3JlYXRlZCI6ICIyMDE1LTAzLTI1IDA2OjA0OjE2IiwKICAgICAgICAgICJkYXRlX3VwZGF0ZWQiOiAiMjAxNS0wOS0xNiAwNToxNjozNyIsCiAgICAgICAgICAib2ZmZXJfY291bnQiOiAiMjIiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMTAiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMTAiLAogICAgICAgICAgIm5hbWUiOiAiQ1BBIC0gTW9iaWxlIENvbnRlbnQiLAogICAgICAgICAgInN0YXR1cyI6ICJkZWxldGVkIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wMy0yNSAwNjowNDo0MiIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjIwMTUtMDktMTYgMDU6MTY6MzAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjQwIgogICAgICAgIH0KICAgICAgfSwKICAgICAgIjEyIjogewogICAgICAgICJPZmZlckNhdGVnb3J5IjogewogICAgICAgICAgImlkIjogIjEyIiwKICAgICAgICAgICJuYW1lIjogIkNQQSAtIEdsYW1vdXIgJmFtcDsgRGF0aW5nIiwKICAgICAgICAgICJzdGF0dXMiOiAiZGVsZXRlZCIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDMtMjUgMDY6MDU6MDciLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIyMDE1LTA5LTE2IDA1OjE2OjM0IiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICIxMiIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIxNCI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIxNCIsCiAgICAgICAgICAibmFtZSI6ICJDUEkgLSBHYW1lcyIsCiAgICAgICAgICAic3RhdHVzIjogImRlbGV0ZWQiLAogICAgICAgICAgImRhdGVfY3JlYXRlZCI6ICIyMDE1LTAzLTI1IDA2OjA4OjQwIiwKICAgICAgICAgICJkYXRlX3VwZGF0ZWQiOiAiMjAxNS0wOS0xNiAwNToxNjoxOSIsCiAgICAgICAgICAib2ZmZXJfY291bnQiOiAiMjUwIgogICAgICAgIH0KICAgICAgfSwKICAgICAgIjE2IjogewogICAgICAgICJPZmZlckNhdGVnb3J5IjogewogICAgICAgICAgImlkIjogIjE2IiwKICAgICAgICAgICJuYW1lIjogIkNQSSAtIFNvY2lhbCIsCiAgICAgICAgICAic3RhdHVzIjogImRlbGV0ZWQiLAogICAgICAgICAgImRhdGVfY3JlYXRlZCI6ICIyMDE1LTAzLTI1IDA2OjA4OjU3IiwKICAgICAgICAgICJkYXRlX3VwZGF0ZWQiOiAiMjAxNS0wOS0xNiAwNToxNjoxMiIsCiAgICAgICAgICAib2ZmZXJfY291bnQiOiAiMjMiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMTgiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMTgiLAogICAgICAgICAgIm5hbWUiOiAiQ1BJIC0gTGlmZXN0eWxlIiwKICAgICAgICAgICJzdGF0dXMiOiAiZGVsZXRlZCIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDMtMjUgMDY6MDk6MTQiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIyMDE1LTA5LTE2IDA1OjE2OjE2IiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICI4MCIKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uZmlnLkFEVkVSVElTRVJfSUQgPSAK</text>
+        <text encoding="base64">ewogICJyZXF1ZXN0Ijogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJzdGF0dXMiOiAiYWN0aXZlIiwKICAgICAgICAgICJkYXRlX2NyZWF0ZWQiOiAiMjAxNS0wOS0xNiAwOToxODozNiIsCiAgICAgICAgICAiZGF0ZV91cGRhdGVkIjogIjAwMDAtMDAtMDAgMDA6MDA6MDAiLAogICAgICAgICAgIm9mZmVyX2NvdW50IjogIjI1NDIiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMzUiOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMzUiLAogICAgICAgICAgIm5hbWUiOiAiTU9CSUxFIFdBUCIsCiAgICAgICAgICAic3RhdHVzIjogImFjdGl2ZSIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDktMTYgMDk6MjE6MTYiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIwMDAwLTAwLTAwIDAwOjAwOjAwIiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICIyMzUiCiAgICAgICAgfQogICAgICB9LAogICAgICAiMzciOiB7CiAgICAgICAgIk9mZmVyQ2F0ZWdvcnkiOiB7CiAgICAgICAgICAiaWQiOiAiMzciLAogICAgICAgICAgIm5hbWUiOiAiV0lORE9XUyBQSE9ORSIsCiAgICAgICAgICAic3RhdHVzIjogImFjdGl2ZSIsCiAgICAgICAgICAiZGF0ZV9jcmVhdGVkIjogIjIwMTUtMDktMTYgMDk6MjE6NDAiLAogICAgICAgICAgImRhdGVfdXBkYXRlZCI6ICIwMDAwLTAwLTAwIDAwOjAwOjAwIiwKICAgICAgICAgICJvZmZlcl9jb3VudCI6ICIxMCIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICIzOSI6IHsKICAgICAgICAiT2ZmZXJDYXRlZ29yeSI6IHsKICAgICAgICAgICJpZCI6ICIzOSIsCiAgICAgICAgICAibmFtZSI6ICJBUEsiLAogICAgICAgICAgInN0YXR1cyI6ICJhY3RpdmUiLAogICAgICAgICAgImRhdGVfY3JlYXRlZCI6ICIyMDE1LTA5LTE2IDA5OjIyOjU5IiwKICAgICAgICAgICJkYXRlX3VwZGF0ZWQiOiAiMDAwMC0wMC0wMCAwMDowMDowMCIsCiAgICAgICAgICAib2ZmZXJfY291bnQiOiAiMTAzIgogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgICJlcnJvcnMiOiBbXSwKICAgICJlcnJvck1lc3NhZ2UiOiBudWxsCiAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYWZmaWxpYXRlQ29uZmlnID0gYmxhY2tmb3hDb25maWc7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZURhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgYWZmaWxpYXRlQ29uZmlnID0gYmxhY2tmb3hDb25maWc7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gLmZpbHRlcihSLnBhdGhFcShbJ09mZmVyQ2F0ZWdvcnknLCAnc3RhdHVzJ10sICdhY3RpdmUnKSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>j</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLmZpbHRlcihjb25zb2xlLmxvZykK</text>
       </register>
-      <register name="8" type="4">
-        <text>yazimedia</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZURhdGEpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>e1655a29842d87eefda94992647acd05a708810abdfa71f22dac22c21a8b6112</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
-        <text>41</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -846,26 +852,26 @@
         <entry>-------</entry>
       </history-search>
       <history-cmd>
-        <entry>11</entry>
-        <entry>t.</entry>
-        <entry>37</entry>
-        <entry>0</entry>
-        <entry>9</entry>
-        <entry>110</entry>
-        <entry>56</entry>
-        <entry>74</entry>
-        <entry>49</entry>
-        <entry>13</entry>
-        <entry>26</entry>
-        <entry>15</entry>
-        <entry>23</entry>
         <entry>47</entry>
         <entry>24</entry>
         <entry>45</entry>
         <entry>25</entry>
-        <entry>w</entry>
         <entry>3</entry>
         <entry>41</entry>
+        <entry>23</entry>
+        <entry>131</entry>
+        <entry>104</entry>
+        <entry>133</entry>
+        <entry>137</entry>
+        <entry>13</entry>
+        <entry>8</entry>
+        <entry>16</entry>
+        <entry>142</entry>
+        <entry>135</entry>
+        <entry>t.</entry>
+        <entry>w</entry>
+        <entry>1</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
