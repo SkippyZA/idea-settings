@@ -27,9 +27,6 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/node_modules/rxjs-jasmine-testscheduler-injector/rxjs-testscheduler-injector.js" timestamp="1465373976073">
-        <mark key="'" line="3" column="16" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465382655564">
         <mark key="'" line="28" column="42" />
         <mark key="[" line="80" column="0" />
@@ -219,6 +216,13 @@
         <mark key="^" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
+        <mark key="'" line="29" column="7" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="18" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/new_task.js" timestamp="1457125304010">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -303,11 +307,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1465316307550">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="47" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1465476393071">
+        <mark key="'" line="4" column="40" />
+        <mark key="[" line="45" column="59" />
+        <mark key="]" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+        <mark key="^" line="45" column="59" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/media-service/src/app.js" timestamp="1457783534097">
         <mark key="[" line="19" column="23" />
@@ -336,6 +341,13 @@
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="39" />
         <mark key="." line="36" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464937737529">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="192" column="27" />
+        <mark key="]" line="192" column="29" />
+        <mark key="." line="192" column="29" />
+        <mark key="^" line="192" column="29" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1457034012833">
         <mark key="[" line="4" column="19" />
@@ -417,12 +429,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465474931632">
-        <mark key="'" line="136" column="47" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="98" column="38" />
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465476960028">
+        <mark key="'" line="78" column="7" />
+        <mark key="[" line="95" column="33" />
+        <mark key="]" line="96" column="9" />
+        <mark key="." line="96" column="9" />
+        <mark key="^" line="96" column="9" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465465887792">
         <mark key="'" line="39" column="35" />
@@ -470,6 +482,13 @@
         <mark key="]" line="15" column="1" />
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1465311031372">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/dashboard/Dashboard.vue" timestamp="1458584787863">
         <mark key="[" line="6" column="8" />
@@ -594,12 +613,12 @@
         <mark key="]" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1465474854265">
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1465475755896">
         <mark key="'" line="75" column="80" />
-        <mark key="[" line="85" column="2" />
-        <mark key="]" line="85" column="2" />
-        <mark key="." line="85" column="2" />
-        <mark key="^" line="85" column="2" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/project-service/package.json" timestamp="1457728117683">
         <mark key="[" line="3" column="47" />
@@ -671,11 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
-      <jump line="244" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
-      <jump line="11" column="5" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
-      <jump line="159" column="9" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="138" column="15" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="113" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="92" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
@@ -771,65 +785,68 @@
       <jump line="27" column="20" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="52" column="6" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="75" column="80" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Development/yazimedia/src/models/offer.js" />
+      <jump line="45" column="13" filename="$USER_HOME$/Development/yazimedia/src/models/offer.js" />
+      <jump line="4" column="40" filename="$USER_HOME$/Development/yazimedia/src/models/offer.js" />
+      <jump line="149" column="45" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
+      <jump line="78" column="7" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Obj</text>
       </register>
       <register name="-" type="4">
-        <text>findAllOfferCategories</text>
+        <text>Obj</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgoKSA9PiBkZXN0aW5hdGlvbk9mZmVyKTsK</text>
+      <register name="0" type="4">
+        <text>categoriesLens</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Obj</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2FwcGxpY2F0aW9uQ2F0ZWdvcmllcygpCgo=</text>
+      <register name="2" type="4">
+        <text>offerId</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kQWxsT2ZmZXJDYXRlZ29yaWU6IHsgfQo=</text>
+      <register name="3" type="4">
+        <text>categ</text>
       </register>
-      <register name="4" type="4">
-        <text>findAllOfferCategories</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gLm1hcChvbWl0VW5uZWNlc3NhcnlGaWVsZHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNweU9uKHRoaXMuZGVzdGluYXRpb24uYXBwbGljYXRpb24sICdmaW5kQWxsT2ZmZXJDYXRlZ29yaWVzJykuYW5kLnJldHVybihyeC5PYnNlcnZhYmxlLmp1c3QoZmluZEFsbE9mZmVyQ2F0ZWdvcmllc1Jlc3BvbnNlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>findAllOfferCategories</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuZG9Pbk5leHQoKCkgPT4gbG9nZ2VyLmRlYnVnKHsgZHJ5X3J1bjogdHJ1ZSwgb2ZmZXJfaWQ6IG51bGwgfSwgJ0NyZWF0ZWQgT2ZmZXIgb24gZGVzdGluYXRpb24nKSkK</text>
       </register>
       <register name="7" type="4">
-        <text>appilication</text>
+        <text encoding="base64">dHJhY2tpbmcg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNweU9uKHRoaXMuZGVzdGluYXRpb24uYXBwbGljYXRpb24sICdmaW5kQWxsT2ZmZXJDYXRlZ29yaWVzJykuYW5kLnJldHVybihyeC5PYnNlcnZhYmxlLmp1c3QoZmluZEFsbE9mZmVyQ2F0ZWdvcmllc1Jlc3BvbnNlKSkK</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHRyYWNraW5nTGlua1N0cmVhbQo=</text>
       </register>
       <register name="9" type="4">
-        <text>offers</text>
+        <text>bleh</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>95</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.trace</entry>
-        <entry>trace</entry>
         <entry>DRY</entry>
         <entry>reletive</entry>
         <entry>dynamically</entry>
@@ -848,16 +865,10 @@
         <entry>APIs</entry>
         <entry>-------</entry>
         <entry>create</entry>
+        <entry>categor</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
-        <entry>3</entry>
-        <entry>41</entry>
-        <entry>23</entry>
-        <entry>131</entry>
-        <entry>104</entry>
-        <entry>133</entry>
-        <entry>137</entry>
         <entry>13</entry>
         <entry>8</entry>
         <entry>16</entry>
@@ -867,9 +878,17 @@
         <entry>wq</entry>
         <entry>T.</entry>
         <entry>28</entry>
+        <entry>167</entry>
+        <entry>147</entry>
+        <entry>67</entry>
         <entry>t.</entry>
+        <entry>104</entry>
         <entry>86</entry>
+        <entry>58</entry>
+        <entry>65</entry>
         <entry>w</entry>
+        <entry>68</entry>
+        <entry>95</entry>
       </history-cmd>
       <history-expr />
       <history-input />
