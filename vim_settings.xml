@@ -176,11 +176,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/recfun/src/main/scala/recfun/Main.scala" timestamp="1465562242495">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="14" />
+      <file name="$USER_HOME$/Downloads/recfun/src/main/scala/recfun/Main.scala" timestamp="1465580788736">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="41" column="46" />
+        <mark key="." line="41" column="46" />
+        <mark key="^" line="41" column="46" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
         <mark key="[" line="2" column="33" />
@@ -789,10 +789,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -801,7 +801,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -810,25 +810,25 @@
         <text>false</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgY2hhclNjb3JlKGNoYXJzLmhlYWQpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBsb29wKGFjYyArIGJsZWgoKSkK</text>
+      <register name="4" type="4">
+        <text>true</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb29wKGFjYzogSW50LCBuOiBJbnQpOiBJbnQgPQogICAgICBpZihuIDwgMCkgZmFsc2UK</text>
+        <text encoding="base64">Ly8gICAgY2hhclNjb3JlKGNoYXJzLmhlYWQpCiAgICBsb29wKDAsIGNoYXJzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSB0cnVlCgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ID0gew==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBsb29wKGFjYzogSW50LCBjaHM6IExpc3RbQ2hhcl0pOiBCb29sZWFuID0KICAgICAgaWYodmFsaWRTY29yZShhY2MpKSBmYWxzZQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">VW5pdCA=</text>
+        <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcGVuQnJhY2tldChjaGFyOiBDaGFyKTogQm9vbGVhbiA9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
