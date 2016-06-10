@@ -27,12 +27,12 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465490305174">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465541233662">
         <mark key="'" line="28" column="42" />
-        <mark key="[" line="64" column="73" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="64" column="55" />
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="18" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1465369702275">
         <mark key="[" line="66" column="11" />
@@ -443,12 +443,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465491001064">
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1465541266872">
         <mark key="'" line="212" column="0" />
         <mark key="[" line="78" column="27" />
-        <mark key="]" line="78" column="15" />
-        <mark key="." line="78" column="15" />
-        <mark key="^" line="78" column="15" />
+        <mark key="]" line="78" column="18" />
+        <mark key="." line="78" column="18" />
+        <mark key="^" line="78" column="18" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465465887792">
         <mark key="'" line="39" column="35" />
@@ -527,10 +527,11 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1465383638829">
-        <mark key="[" line="37" column="7" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1465541160118">
+        <mark key="[" line="35" column="78" />
+        <mark key="]" line="35" column="78" />
+        <mark key="." line="35" column="78" />
+        <mark key="^" line="35" column="78" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1465385515247">
         <mark key="'" line="0" column="0" />
@@ -803,7 +804,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCgpCg==</text>
+        <text encoding="base64">ICAgIC8vIC5kb09uTmV4dChsb2dnZXIudHJhY2UoeyBvZmZlcl9pZDogb2ZmZXIuc291cmNlX2lkIH0sICdPZmZlciBoYXMgYmVlbiBwYXVzZWQnKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>offer</text>
@@ -815,34 +816,34 @@
         <text>categoriesLens</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCgpCg==</text>
+        <text encoding="base64">ICAgIC8vIC5kb09uTmV4dChsb2dnZXIudHJhY2UoeyBvZmZlcl9pZDogb2ZmZXIuc291cmNlX2lkIH0sICdPZmZlciBoYXMgYmVlbiBwYXVzZWQnKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>offer</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIC5kb09uTmV4dChsb2dnZXIudHJhY2UoeyBvZmZlcl9pZDogb2ZmZXIuc291cmNlX2lkIH0sICdPZmZlciBoYXMgYmVlbiBhZGRlZCcpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLm1hcCgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNldAo=</text>
+      <register name="4" type="4">
+        <text>offer</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNldAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">bG9nZ2VyLnRyYWNlKHsgZXJyb3I6IHJlc3BvbnNlIH0sIGVyci5tZXNzYWdlKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZXJyIA==</text>
       </register>
-      <register name="7" type="4">
-        <text>, 'HasOffers does not have report property');</text>
-      </register>
-      <register name="8" type="4">
-        <text>, 'HasOffers does not have affiliates property');</text>
-      </register>
       <register name="9" type="4">
-        <text>, 'HasOffers does not have offers property');</text>
+        <text>, 'HasOffers does not have report property');</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
