@@ -75,11 +75,11 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="94" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/coursera/src/week1/IsGoodEnough.sc" timestamp="1465404178823">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
+      <file name="$USER_HOME$/Development/coursera/src/week1/IsGoodEnough.sc" timestamp="1465453276291">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/node_modules/mock-express-request/index.js" timestamp="1464348390875">
         <mark key="[" line="3" column="23" />
@@ -785,10 +785,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA0ICsgNQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>, x</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -797,34 +797,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA0ICsgNQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ci8vICBzcXJ0KDE2KQo=</text>
+      <register name="2" type="4">
+        <text>, x</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgMSArIDMK</text>
+      <register name="3" type="4">
+        <text>, x</text>
       </register>
       <register name="4" type="4">
-        <text>*</text>
+        <text>, x</text>
       </register>
       <register name="5" type="4">
-        <text>*</text>
+        <text>, x</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="6" type="4">
+        <text>, x: Double</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHRydWU=</text>
+        <text>, x: Double</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSB3ZWVrMQoK</text>
+      <register name="8" type="4">
+        <text>, x: Double</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">ICAgIGRlZiBzcXJ0KHg6IERvdWJsZSkgPSA=</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
