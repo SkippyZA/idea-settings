@@ -176,6 +176,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/recfun/src/main/scala/recfun/Main.scala" timestamp="1465555354962">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="28" />
@@ -781,11 +787,11 @@
       <jump line="32" column="42" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -793,35 +799,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>, x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>, x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>, x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>, x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>, x: Double</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>, x: Double</text>
+        <text encoding="base64">Pz8/CiAg</text>
       </register>
-      <register name="8" type="4">
-        <text>, x: Double</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIGRlZiBzcXJ0KHg6IERvdWJsZSkgPSA=</text>
+        <text>, x</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
