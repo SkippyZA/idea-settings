@@ -176,11 +176,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/recfun/src/main/scala/recfun/Main.scala" timestamp="1465558733916">
-        <mark key="[" line="39" column="14" />
-        <mark key="]" line="39" column="19" />
-        <mark key="^" line="39" column="19" />
-        <mark key="." line="39" column="19" />
+      <file name="$USER_HOME$/Downloads/recfun/src/main/scala/recfun/Main.scala" timestamp="1465562242495">
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="14" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
         <mark key="[" line="2" column="33" />
@@ -188,7 +188,7 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/recfun/src/test/scala/recfun/CountChangeSuite.scala" timestamp="1465558858060" />
+      <file name="$USER_HOME$/Downloads/recfun/src/test/scala/recfun/CountChangeSuite.scala" timestamp="1465560487137" />
       <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/package.json" timestamp="1457789033392">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="39" />
@@ -789,10 +789,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>target</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -801,34 +801,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>target</text>
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>false</text>
       </register>
-      <register name="3" type="4">
-        <text>count</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>target</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZWxzZSBsb29wKGFjYyArIGJsZWgoKSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>target</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBsb29wKGFjYzogSW50LCBuOiBJbnQpOiBJbnQgPQogICAgICBpZihuIDwgMCkgZmFsc2UK</text>
       </register>
-      <register name="6" type="4">
-        <text>target</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>ef count(target: Int, coins: List[Int]): Int = {</text>
+        <text encoding="base64">ID0gew==</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text encoding="base64">VW5pdCA=</text>
       </register>
-      <register name="9" type="4">
-        <text>???</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBvcGVuQnJhY2tldChjaGFyOiBDaGFyKTogQm9vbGVhbiA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
