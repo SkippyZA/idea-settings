@@ -113,6 +113,12 @@
         <mark key="." line="26" column="27" />
         <mark key="^" line="26" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/DeploybotDeploymentStatus.java" timestamp="1465668939431">
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="56" />
+        <mark key="^" line="58" column="56" />
+        <mark key="." line="58" column="56" />
+      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/.eslintrc.js" timestamp="1458574823717">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="17" column="1" />
@@ -837,7 +843,7 @@
         <text encoding="base64">Ly8gICAgY2hhclNjb3JlKGNoYXJzLmhlYWQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>45</text>
       </register>
     </registers>
     <search>
@@ -871,7 +877,6 @@
         <entry>SERVICE</entry>
       </history-search>
       <history-cmd>
-        <entry>51</entry>
         <entry>:w</entry>
         <entry>80</entry>
         <entry>50</entry>
@@ -891,6 +896,7 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
