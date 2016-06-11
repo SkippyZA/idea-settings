@@ -125,6 +125,12 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
+      <file name="$USER_HOME$/Downloads/recfun/src/test/scala/recfun/BalanceSuite.scala" timestamp="1465585253208">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="32" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_topic.js" timestamp="1457126272145">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="24" />
@@ -176,11 +182,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/recfun/src/main/scala/recfun/Main.scala" timestamp="1465580788736">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="41" column="46" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="46" />
+      <file name="$USER_HOME$/Downloads/recfun/src/main/scala/recfun/Main.scala" timestamp="1465585288101">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+        <mark key="^" line="39" column="39" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
         <mark key="[" line="2" column="33" />
@@ -789,10 +795,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -801,34 +807,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>n</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>false</text>
+        <text>: Boolea</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgY2hhclNjb3JlKGNoYXJzLmhlYWQpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">OiBCb29sZWFuID0gbiA+PSAw</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">OiBCb29sZWFuIA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">OiBCb29sZWFuIA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZmFpbHMg</text>
+      </register>
+      <register name="7" type="4">
         <text>true</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgY2hhclNjb3JlKGNoYXJzLmhlYWQpCiAgICBsb29wKDAsIGNoYXJzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB0cnVlCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb29wKGFjYzogSW50LCBjaHM6IExpc3RbQ2hhcl0pOiBCb29sZWFuID0KICAgICAgaWYodmFsaWRTY29yZShhY2MpKSBmYWxzZQo=</text>
-      </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>false</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgY2hhclNjb3JlKGNoYXJzLmhlYWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -876,7 +882,6 @@
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
-        <entry>W</entry>
         <entry>15</entry>
         <entry>26</entry>
         <entry>1</entry>
@@ -884,6 +889,7 @@
         <entry>t.</entry>
         <entry>3</entry>
         <entry>e</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
