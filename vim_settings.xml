@@ -118,11 +118,11 @@
         <mark key="." line="26" column="27" />
         <mark key="^" line="26" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/DeploybotDeploymentStatus.java" timestamp="1465668939431">
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="56" />
-        <mark key="^" line="58" column="56" />
-        <mark key="." line="58" column="56" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/deploybot/repository/DeploybotDeploymentStatus.java" timestamp="1465761614635">
+        <mark key="[" line="58" column="58" />
+        <mark key="]" line="58" column="58" />
+        <mark key="^" line="58" column="58" />
+        <mark key="." line="58" column="58" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/.eslintrc.js" timestamp="1458574823717">
         <mark key="[" line="17" column="1" />
@@ -204,6 +204,11 @@
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/repository/DeploymentStatusRepository.java" timestamp="1465761656152">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/package.json" timestamp="1457789033392">
         <mark key="[" line="3" column="26" />
@@ -389,10 +394,11 @@
       <file name="/fragment.js" timestamp="1465227516082">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/service/DeploymentStatusService.java" timestamp="1465750803314">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Development/groundzero/svc-deployment-status/src/main/java/za/co/codecomplex/groundzero/library/groundzero/service/DeploymentStatusService.java" timestamp="1465761692370">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/rx-amqplib/reply/AssertQueueReply.ts" timestamp="1456769817844">
         <mark key="[" line="5" column="2" />
@@ -814,7 +820,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -829,31 +835,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2RlcGxveWJvdC5hcGktdG9rZW49QVBJX1RPS0VOCiNkZXBsb3lib3QuZW5kcG9pbnQ9aHR0cHM6Ly9hYmNkLmRlcGxveWJvdC5jb20vYXBpL3YxLwo=</text>
+        <text encoding="base64">T2JzZXJkZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="3" type="4">
+        <text>v</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZhYmxlOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
       </register>
       <register name="6" type="4">
-        <text>: Boolea</text>
+        <text>List</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OiBCb29sZWFuID0gbiA+PSAw</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QoKQogICAgICAgICAgICAgICAgLnRvQmxvY2tpbmcoKQogICAgICAgICAgICAgICAgLmZpcnN0KCk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">OiBCb29sZWFuIA==</text>
+        <text>List</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">OiBCb29sZWFuIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>45</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -887,7 +893,6 @@
         <entry>SERVICE</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry>80</entry>
         <entry>50</entry>
         <entry>r</entry>
@@ -902,11 +907,12 @@
         <entry>1</entry>
         <entry>1000</entry>
         <entry>t.</entry>
-        <entry>3</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>45</entry>
+        <entry>60</entry>
+        <entry>3</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
