@@ -21,6 +21,9 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
       </file>
+      <file name="/a.dummy" timestamp="1465816110912">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/rate-limit.js" timestamp="1465209969054">
         <mark key="[" line="37" column="3" />
         <mark key="]" line="37" column="3" />
@@ -183,12 +186,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465811327926">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465816103957">
         <mark key="'" line="27" column="13" />
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="85" column="24" />
-        <mark key="^" line="85" column="24" />
-        <mark key="." line="85" column="24" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="84" column="24" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/services/identity-processor-spec.js" timestamp="1464608982367">
         <mark key="[" line="64" column="4" />
@@ -377,11 +380,11 @@
         <mark key="." line="192" column="29" />
         <mark key="^" line="192" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1465812239846">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1465816108020">
         <mark key="'" line="13" column="26" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
         <mark key="^" line="122" column="13" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1457034012833">
@@ -843,7 +846,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIC50b0FycmF5KCkK</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name="-" type="4">
         <text>mediclinic_id</text>
@@ -855,31 +858,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIC50b0FycmF5KCkK</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCc1JywgeCkpCg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCc0JywgeCkpCg==</text>
+        <text encoding="base64">ICAgIC8vIC50b0FycmF5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCczJywgeCkpCg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCc1JywgeCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcyJywgeCkpCg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCc0JywgeCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcxJywgeCkpCg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCczJywgeCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcxJywgeCkpCg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcyJywgeCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcxJywgeCkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcxJywgeCkpCg==</text>
