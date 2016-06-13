@@ -183,10 +183,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465801878109">
-        <mark key="[" line="61" column="55" />
-        <mark key="]" line="61" column="55" />
-        <mark key="." line="61" column="55" />
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465805331227">
+        <mark key="[" line="82" column="51" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/services/identity-processor-spec.js" timestamp="1464608982367">
         <mark key="[" line="64" column="4" />
@@ -354,12 +355,12 @@
         <mark key="]" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1465803771450">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1465805314347">
         <mark key="'" line="14" column="26" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+        <mark key="[" line="131" column="131" />
+        <mark key="]" line="131" column="131" />
+        <mark key="." line="131" column="131" />
+        <mark key="^" line="131" column="131" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1457034012833">
         <mark key="[" line="4" column="19" />
@@ -805,11 +806,11 @@
       <jump line="14" column="26" filename="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -817,35 +818,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>{</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cmVzIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8KCg==</text>
+      <register name="4" type="4">
+        <text>}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC5tYXAoYm9keUNvbGxlY3Rpb24pOwp9KTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCgpIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIHJlcXVlc3RTdHJlYW0ocmVnZXQuZ2V0LCBmaW5kRW5kcG9pbnQoZW1haWxBZGRyZXNzLCBtZWRpY2xpbmljSWQpKQo=</text>
+      <register name="6" type="4">
+        <text>curry</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0cy5maW5kQnlFbWFpbEFuZE1lZGljbGluaWNJZCA9IFIuY3VycnkoKGVtYWlsQWRkcmVzcywgbWVkaWNsaW5pY0lkKSA9PiB7CiAgY29uc3QgZmluZEVuZHBvaW50ID0gUi5jdXJyeU4oMywgdXRpbC5mb3JtYXQpKCdjb250YWN0cz9maWx0ZXJzW2NvbnRhY3RfZW1haWxdPSVzJmZpbHRlcnNbYWRkcmVzc109JXMnKTsK</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQHJldHVybnMgeyp9CiAqLwo=</text>
+      <register name="8" type="4">
+        <text>R</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGVtYWlsQWRkcmVzcwogKiBAcGFyYW0gbWVkaWNsaW5pY0lkCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
