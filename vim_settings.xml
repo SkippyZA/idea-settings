@@ -183,11 +183,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465805331227">
-        <mark key="[" line="82" column="51" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="0" />
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465811327926">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="85" column="24" />
+        <mark key="]" line="85" column="24" />
+        <mark key="^" line="85" column="24" />
+        <mark key="." line="85" column="24" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/services/identity-processor-spec.js" timestamp="1464608982367">
         <mark key="[" line="64" column="4" />
@@ -242,6 +243,13 @@
         <mark key="]" line="62" column="8" />
         <mark key="^" line="62" column="8" />
         <mark key="." line="62" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
+        <mark key="'" line="29" column="7" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/new_task.js" timestamp="1457125304010">
         <mark key="[" line="3" column="0" />
@@ -327,6 +335,13 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1464937634612">
+        <mark key="'" line="4" column="40" />
+        <mark key="[" line="60" column="43" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="43" />
+      </file>
       <file name="$USER_HOME$/Development/IDT-Poc/media-service/src/app.js" timestamp="1457783534097">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="28" />
@@ -355,12 +370,19 @@
         <mark key="]" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1465805314347">
-        <mark key="'" line="14" column="26" />
-        <mark key="[" line="131" column="131" />
-        <mark key="]" line="131" column="131" />
-        <mark key="." line="131" column="131" />
-        <mark key="^" line="131" column="131" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464937737529">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="192" column="27" />
+        <mark key="]" line="192" column="29" />
+        <mark key="." line="192" column="29" />
+        <mark key="^" line="192" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1465812239846">
+        <mark key="'" line="13" column="26" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="122" column="13" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1457034012833">
         <mark key="[" line="4" column="19" />
@@ -507,6 +529,13 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1464856227062">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="81" column="5" />
+        <mark key="]" line="81" column="4" />
+        <mark key="." line="81" column="4" />
+        <mark key="^" line="81" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/src/components/dashboard/Dashboard.vue" timestamp="1458584787863">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
@@ -529,6 +558,13 @@
         <mark key="]" line="21" column="98" />
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1464956684575">
+        <mark key="'" line="53" column="25" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1465286203706">
         <mark key="'" line="0" column="0" />
@@ -704,12 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="5" filename="$USER_HOME$/Development/api-gateway-front/package.json" />
-      <jump line="17" column="33" filename="$USER_HOME$/Development/api-gateway-front/src/components/manage-api/ManageApi.vue" />
-      <jump line="37" column="43" filename="$USER_HOME$/Development/api-gateway-front/src/components/manage-api/ManageApi.vue" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/groundzero-front/src/components/deploy-status/StatusBlock.vue" />
-      <jump line="66" column="8" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
-      <jump line="75" column="87" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="83" column="68" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="107" column="31" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="108" column="30" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
@@ -804,66 +834,69 @@
       <jump line="80" column="0" filename="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" />
       <jump line="93" column="23" filename="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" />
       <jump line="14" column="26" filename="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" />
+      <jump line="65" column="23" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
+      <jump line="247" column="30" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
+      <jump line="292" column="39" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
+      <jump line="237" column="6" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIC50b0FycmF5KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>mediclinic_id</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>find</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIC50b0FycmF5KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCc1JywgeCkpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmVzIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCc0JywgeCkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCczJywgeCkpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KCgpIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcyJywgeCkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>curry</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcxJywgeCkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcxJywgeCkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>R</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dGhlIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dCh4ID0+IGNvbnNvbGUubG9nKCcxJywgeCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>additional</entry>
-        <entry>args</entry>
-        <entry>this</entry>
         <entry>hasOfferDesitnation</entry>
         <entry>promise</entry>
         <entry encoding="base64">XDxqdXN0b2ZmZXJcPg==</entry>
@@ -881,18 +914,15 @@
         <entry>console</entry>
         <entry>findContact</entry>
         <entry>email</entry>
+        <entry>renameKey</entry>
+        <entry>renameCustom</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
-        <entry>147</entry>
-        <entry>67</entry>
-        <entry>104</entry>
-        <entry>86</entry>
-        <entry>58</entry>
         <entry>65</entry>
         <entry>68</entry>
         <entry>95</entry>
         <entry>150</entry>
-        <entry>t.</entry>
         <entry>@7</entry>
         <entry encoding="base64">ICAgICAgLy8gfSkKICAgICAgLy8gLmZsYXRNYXAocnguT2JzZXJ2YWJsZS5mcm9tUHJvbWlzZSkK</entry>
         <entry>37</entry>
@@ -902,6 +932,12 @@
         <entry>1</entry>
         <entry encoding="base64">JzwsJz44MQ==</entry>
         <entry>81</entry>
+        <entry>4</entry>
+        <entry>T.</entry>
+        <entry>67</entry>
+        <entry>r.</entry>
+        <entry>t.</entry>
+        <entry>87</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
