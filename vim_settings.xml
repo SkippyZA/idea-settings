@@ -30,9 +30,6 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/node_modules/rxjs-jasmine-testscheduler-injector/rxjs-testscheduler-injector.js" timestamp="1465373976073">
-        <mark key="'" line="3" column="16" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465298721061">
         <mark key="'" line="28" column="42" />
         <mark key="[" line="62" column="63" />
@@ -210,6 +207,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/index.js" timestamp="1465896371457">
+        <mark key="[" line="16" column="56" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="56" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/rpc_client.js" timestamp="1457126682702">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="28" />
@@ -313,11 +316,10 @@
         <mark key="^" line="105" column="13" />
         <mark key="." line="105" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1465894418430">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1465896821492">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/conversion-report-spec.js" timestamp="1465313250462">
         <mark key="[" line="22" column="100" />
@@ -442,10 +444,11 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1464691154854">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1465895979394">
+        <mark key="[" line="9" column="112" />
+        <mark key="]" line="9" column="112" />
+        <mark key="." line="9" column="112" />
+        <mark key="^" line="9" column="112" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/src/examples/server.ts" timestamp="1456852358075">
         <mark key="[" line="13" column="0" />
@@ -483,6 +486,12 @@
         <mark key="]" line="68" column="22" />
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1465896380527">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1465894262825">
         <mark key="'" line="39" column="35" />
@@ -573,11 +582,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1465894399259">
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-        <mark key="^" line="68" column="20" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1465896753664">
+        <mark key="'" line="24" column="3" />
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1465286203706">
         <mark key="'" line="0" column="0" />
@@ -753,7 +763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="68" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="107" column="31" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="108" column="30" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="116" column="40" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
@@ -853,13 +862,14 @@
       <jump line="292" column="39" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
       <jump line="237" column="6" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
       <jump line="27" column="13" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
+      <jump line="23" column="3" filename="$USER_HOME$/Development/yazimedia/src/lib/sync.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnUmVzcG9uZGluZyB0byBwaW5nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>closeMongoose</text>
+        <text>{}, {}</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
@@ -868,34 +878,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnUmVzcG9uZGluZyB0byBwaW5nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>closeMongoose</text>
+        <text>{}, {}</text>
       </register>
-      <register name="3" type="4">
-        <text>closeMongoose</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGJyYW5kQ29uZmlnOiBicmFuZENvbmZpZyB9LCAnSW52YWxpZCBicmFuZCBjb25maWcnKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuZXhpdCgpOwogIH0sIDUwMDApOwo=</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKSk7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vbmdvb3NlLmRpc2Nvbm5lY3QoKTsKICAgIGxvZ2dlci5pbmZvKCdQcm9jZXNzIGNvbXBsZXRlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
+        <text encoding="base64">Ly8gfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY2xvc2VNb25nb29zZSgpIHsKICBsb2dnZXIuaW5mbygnV2FpdGluZyB0byBjbG9zZSBtb25nbyBjb25uZWN0aW9uJyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgIHByb2Nlc3MuZXhpdCgpOwovLyAgIH0sIDUwMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vbmdvb3NlLmRpc2Nvbm5lY3QoKTsKICAgIGxvZ2dlci5pbmZvKCdQcm9jZXNzIGNvbXBsZXRlJyk7Cg==</text>
+        <text encoding="base64">Ly8gICBzZXRUaW1lb3V0KCgpID0+IHsKLy8gICAgIHByb2Nlc3MuaW5mbygnUHJvY2VzcyBjb21wbGV0ZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -932,11 +942,6 @@
         <entry>find</entry>
       </history-search>
       <history-cmd>
-        <entry>65</entry>
-        <entry>68</entry>
-        <entry>95</entry>
-        <entry>150</entry>
-        <entry>@7</entry>
         <entry encoding="base64">ICAgICAgLy8gfSkKICAgICAgLy8gLmZsYXRNYXAocnguT2JzZXJ2YWJsZS5mcm9tUHJvbWlzZSkK</entry>
         <entry>37</entry>
         <entry>22</entry>
@@ -948,9 +953,14 @@
         <entry>T.</entry>
         <entry>67</entry>
         <entry>r.</entry>
-        <entry>t.</entry>
         <entry>87</entry>
         <entry>1</entry>
+        <entry>26</entry>
+        <entry>3</entry>
+        <entry>28</entry>
+        <entry>2</entry>
+        <entry>t.</entry>
+        <entry>18</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
