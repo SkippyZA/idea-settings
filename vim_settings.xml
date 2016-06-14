@@ -316,7 +316,7 @@
         <mark key="^" line="105" column="13" />
         <mark key="." line="105" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1465896821492">
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1465900872810">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -444,8 +444,8 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1465895979394">
-        <mark key="[" line="9" column="112" />
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1465901138534">
+        <mark key="[" line="10" column="18" />
         <mark key="]" line="9" column="112" />
         <mark key="." line="9" column="112" />
         <mark key="^" line="9" column="112" />
@@ -522,11 +522,11 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465889917321">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="56" />
+      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465901005530">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/Development/groundzero-front/package.json" timestamp="1463500070708">
         <mark key="[" line="34" column="35" />
@@ -582,12 +582,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1465896753664">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1465901497310">
         <mark key="'" line="24" column="3" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="25" column="3" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
         <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1465286203706">
         <mark key="'" line="0" column="0" />
@@ -866,10 +866,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>{}, {}</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
@@ -878,34 +878,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>{}, {}</text>
+        <text>debug</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGJyYW5kQ29uZmlnOiBicmFuZENvbmZpZyB9LCAnSW52YWxpZCBicmFuZCBjb25maWcnKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>info</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKSk7CiAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text>{}, {}</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGJyYW5kQ29uZmlnOiBicmFuZENvbmZpZyB9LCAnSW52YWxpZCBicmFuZCBjb25maWcnKSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gfQoK</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgIHByb2Nlc3MuZXhpdCgpOwovLyAgIH0sIDUwMDApCg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiByeC5PYnNlcnZhYmxlLnRocm93KG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKSk7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICBzZXRUaW1lb3V0KCgpID0+IHsKLy8gICAgIHByb2Nlc3MuaW5mbygnUHJvY2VzcyBjb21wbGV0ZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -959,8 +959,8 @@
         <entry>3</entry>
         <entry>28</entry>
         <entry>2</entry>
-        <entry>t.</entry>
         <entry>18</entry>
+        <entry>t.</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
