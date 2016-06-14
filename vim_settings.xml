@@ -30,7 +30,7 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465298721061">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1465906834040">
         <mark key="'" line="28" column="42" />
         <mark key="[" line="62" column="63" />
         <mark key="]" line="62" column="64" />
@@ -316,10 +316,11 @@
         <mark key="^" line="105" column="13" />
         <mark key="." line="105" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1465900872810">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1465906675650">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+        <mark key="^" line="32" column="12" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/conversion-report-spec.js" timestamp="1465313250462">
         <mark key="[" line="22" column="100" />
@@ -866,11 +867,11 @@
       <jump line="36" column="20" filename="$USER_HOME$/Development/yazimedia/src/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'NETHHDqvZkRWvvprOlMoIbY74SmPPQ'</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
@@ -878,38 +879,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>''</text>
+      <register name="2" type="2">
+        <text encoding="base64">QUZGSUxJCg==</text>
       </register>
       <register name="3" type="4">
-        <text>'',</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFmZmlsaWF0ZUNvbmZpZyA9IHsKICAgICAgZW5kcG9pbnQ6IGNvbmZpZy5BRkZJTElBVEVfRU5EUE9JTlQsCiAgICAgIG5ldHdvcmtJZDogY29uZmlnLkFGRklMSUFURV9ORVRXT1JLX0lELAogICAgICBhcGlLZXk6IGNvbmZpZy5BRkZJTElBVEVfQVBJX0tFWQogICAgfTsKCiAgICBjb25zdCBicmFuZENvbmZpZyA9IHsKICAgICAgZW5kcG9pbnQ6IGNvbmZpZy5CUkFORF9FTkRQT0lOVCwKICAgICAgbmV0d29ya0lkOiBjb25maWcuQlJBTkRfTkVUV09SS19JRCwKICAgICAgbmV0d29ya1Rva2VuOiBjb25maWcuQlJBTkRfTkVUV09SS19UT0tFTgogICAgfTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>'',</text>
-      </register>
-      <register name="5" type="4">
-        <text>'',</text>
-      </register>
-      <register name="6" type="4">
-        <text>'',</text>
-      </register>
-      <register name="7" type="4">
-        <text>'',</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="5" type="4">
+        <text>'NETHHDqvZkRWvvprOlMoIbY74SmPPQ'</text>
+      </register>
+      <register name="6" type="4">
+        <text>'yazimedia',</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICdodHRwczovL2FwaS5oYXNvZmZlcnMuY29tL0FwaS9qc29uJyw=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGFmZmlsaWF0ZUNvbmZpZyA9IHsKICAgICAgZW5kcG9pbnQ6ICdodHRwczovL2FwaS5oYXNvZmZlcnMuY29tL0FwaXYzL2pzb24nLAogICAgICBuZXR3b3JrSWQ6ICdibGFja2ZveCcsCiAgICAgIGFwaUtleTogJ2UxNjU1YTI5ODQyZDg3ZWVmZGE5NDk5MjY0N2FjZDA1YTcwODgxMGFiZGZhNzFmMjJkYWMyMmMyMWE4YjYxMTInCiAgICB9Owo=</text>
+      </register>
       <register name="9" type="4">
-        <text>debug</text>
+        <text>rx</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>7</text>
       </register>
     </registers>
     <search>
@@ -943,8 +944,6 @@
         <entry>find</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">ICAgICAgLy8gfSkKICAgICAgLy8gLmZsYXRNYXAocnguT2JzZXJ2YWJsZS5mcm9tUHJvbWlzZSkK</entry>
-        <entry>22</entry>
         <entry>39</entry>
         <entry>115</entry>
         <entry encoding="base64">JzwsJz44MQ==</entry>
@@ -958,11 +957,13 @@
         <entry>26</entry>
         <entry>3</entry>
         <entry>28</entry>
-        <entry>2</entry>
         <entry>18</entry>
         <entry>t.</entry>
         <entry>w</entry>
         <entry>37</entry>
+        <entry>2</entry>
+        <entry>13</entry>
+        <entry>7</entry>
       </history-cmd>
       <history-expr />
       <history-input />
