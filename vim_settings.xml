@@ -243,6 +243,9 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" timestamp="1465912092993">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7" timestamp="1465282780970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="62" column="8" />
@@ -523,7 +526,7 @@
         <mark key="." line="2" column="59" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465904633762">
+      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465912086396">
         <mark key="'" line="36" column="20" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="20" />
