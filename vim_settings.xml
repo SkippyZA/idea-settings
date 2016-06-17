@@ -41,11 +41,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1466163008256">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="31" />
-        <mark key="." line="46" column="30" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1466164748456">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+        <mark key="^" line="78" column="7" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs_direct.js" timestamp="1464119681510">
         <mark key="[" line="4" column="0" />
@@ -56,7 +56,7 @@
         <mark key="'" line="27" column="13" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
-        <mark key="^" line="84" column="24" />
+        <mark key="^" line="49" column="24" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway/src/bootstrap.js" timestamp="1459620531477">
@@ -118,13 +118,6 @@
         <mark key="]" line="192" column="29" />
         <mark key="." line="192" column="29" />
         <mark key="^" line="192" column="29" />
-      </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1465817844717">
-        <mark key="'" line="13" column="26" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="122" column="13" />
       </file>
       <file name="/fragment.js" timestamp="1465227516082">
         <mark key="[" line="0" column="0" />
@@ -381,11 +374,11 @@
       <jump line="37" column="75" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIF9fdjogMCwK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>[{</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>processPaused</text>
@@ -393,35 +386,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIF9fdjogMCwK</text>
+      <register name="1" type="4">
+        <text>f</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfV0pOwo=</text>
+      <register name="2" type="4">
+        <text>Times(1);</text>
       </register>
       <register name="3" type="4">
-        <text>[{</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZXMpOwo=</text>
+      <register name="4" type="4">
+        <text>toBeAllOfType</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIHNweU9uKFNvdXJjZU1vZGVsLCAnZmluZCcpLmFuZC5jYWxsRmFrZShwYXJhbSA9PiB7CiAgICAgIHBhcmFtKG51bGwsIFtdKTsKICAgIH0pOw==</text>
+        <text>toBeInstanceOf</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">J2hlbGxvIHdvcmxkJyk7CiAgICB9KTsK</text>
+        <text>'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGFyYW0pOwo=</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
-      <register name="8" type="4">
-        <text>()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXJndW1lbnRzWzNdKG51bGwsICdoZWxsbyB3b3JsZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFzc2VydAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -458,15 +451,10 @@
         <entry>processPaused</entry>
       </history-search>
       <history-cmd>
-        <entry>100</entry>
-        <entry>108</entry>
-        <entry>23</entry>
         <entry>113</entry>
-        <entry>1</entry>
         <entry>21</entry>
         <entry>9</entry>
         <entry>48</entry>
-        <entry>54</entry>
         <entry>36</entry>
         <entry>10</entry>
         <entry>2</entry>
@@ -477,6 +465,11 @@
         <entry>15</entry>
         <entry>38</entry>
         <entry>17</entry>
+        <entry>12</entry>
+        <entry>54</entry>
+        <entry>57</entry>
+        <entry>1</entry>
+        <entry>52</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
