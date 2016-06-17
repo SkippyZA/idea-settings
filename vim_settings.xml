@@ -493,12 +493,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1466147413946">
-        <mark key="'" line="58" column="21" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="67" column="44" />
-        <mark key="." line="22" column="23" />
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1466153232877">
+        <mark key="'" line="57" column="21" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="66" column="44" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1465896380527">
         <mark key="[" line="7" column="16" />
@@ -635,10 +635,10 @@
         <mark key="^" line="1" column="80" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466149909797">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466153226269">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Development/groundzero/frontend/src/components/DeploymentWidget.vue" timestamp="1464193489610">
         <mark key="[" line="13" column="41" />
@@ -891,7 +891,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHNldE9mZmVyVXJsID0gUi5jb21wb3NlKFIuc2V0LCBSLmxlbnNQcm9wKCdvZmZlcl91cmwnKSk7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gdHJhY2tpbmdMaW5rR2VuZXJhdG9yCg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -903,37 +903,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHNldE9mZmVyVXJsID0gUi5jb21wb3NlKFIuc2V0LCBSLmxlbnNQcm9wKCdvZmZlcl91cmwnKSk7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gdHJhY2tpbmdMaW5rR2VuZXJhdG9yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>f</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHNldE9mZmVyVXJsID0gUi5jb21wb3NlKFIuc2V0LCBSLmxlbnNQcm9wKCdvZmZlcl91cmwnKSk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
+        <text>f</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>]</text>
       </register>
       <register name="5" type="4">
-        <text>data</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="6" type="4">
-        <text>['</text>
+        <text>data</text>
       </register>
       <register name="7" type="4">
+        <text>['</text>
+      </register>
+      <register name="8" type="4">
         <text>ath</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9mZmVyTGVucyA9IFIubGVuczsKCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwcmVJbnNlcnQob2ZmZXIpIHsKICAgIGNvbnN0IG9mZmVyTGVucyA9IFIubGVuczsK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>21</text>
       </register>
     </registers>
     <search>
@@ -967,7 +967,6 @@
         <entry>processPaused</entry>
       </history-search>
       <history-cmd>
-        <entry>t.</entry>
         <entry>37</entry>
         <entry>7</entry>
         <entry encoding="base64">JzwsJz4x</entry>
@@ -987,6 +986,7 @@
         <entry>1</entry>
         <entry>10</entry>
         <entry>w</entry>
+        <entry>21</entry>
       </history-cmd>
       <history-expr />
       <history-input />
