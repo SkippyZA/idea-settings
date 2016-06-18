@@ -307,6 +307,7 @@
         <mark key="^" line="105" column="13" />
         <mark key="." line="105" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/coursera-recfun/src/main/scala/common/package.scala" timestamp="1466251695711" />
       <file name="$USER_HOME$/Development/yazimedia/spec/destinaion/has-offers-spec.js" timestamp="1464674730465">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="24" />
@@ -672,6 +673,13 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" timestamp="1466252465342">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="0" />
@@ -714,7 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
       <jump line="10" column="28" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
       <jump line="12" column="45" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
       <jump line="15" column="36" filename="$USER_HOME$/Development/api-gateway/src/app.js" />
@@ -814,13 +821,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="72" column="37" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="32" column="42" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="13" column="12" filename="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cc</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>cc</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -828,35 +836,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>cc</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">T2JzZXJkZAo=</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text encoding="base64">YSAtIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZhYmxlOwo=</text>
+      <register name="4" type="4">
+        <text>f(a)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
+      <register name="5" type="4">
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>List</text>
+        <text>acc</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QoKQogICAgICAgICAgICAgICAgLnRvQmxvY2tpbmcoKQogICAgICAgICAgICAgICAgLmZpcnN0KCk7Cg==</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>List</text>
+        <text>==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>a - 1, acc + a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -893,7 +901,6 @@
         <entry>SERVICE</entry>
       </history-search>
       <history-cmd>
-        <entry>80</entry>
         <entry>50</entry>
         <entry>r</entry>
         <entry>44</entry>
@@ -904,7 +911,6 @@
         <entry>10</entry>
         <entry>15</entry>
         <entry>26</entry>
-        <entry>1</entry>
         <entry>1000</entry>
         <entry>t.</entry>
         <entry>e</entry>
@@ -912,6 +918,8 @@
         <entry>45</entry>
         <entry>60</entry>
         <entry>3</entry>
+        <entry>!</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
