@@ -673,12 +673,11 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" timestamp="1466252465342">
+      <file name="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" timestamp="1466255212272">
         <mark key="'" line="12" column="12" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="24" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
@@ -824,11 +823,11 @@
       <jump line="13" column="12" filename="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWFwUmVkdWNlKHggPT4geCAqIHgsIChhLCBiKSA9PiBhICogYiwgMSkoMSwgMykKLy9tYXBSZWR1Y2UoKHgsIHkpID0+IHggKyB5LCAwKSh4ID0+IHgpKDEsIDMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>cc</text>
+        <text>(f)</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -836,38 +835,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>cc</text>
+      <register name="1" type="2">
+        <text encoding="base64">bWFwUmVkdWNlKHggPT4geCAqIHgsIChhLCBiKSA9PiBhICogYiwgMSkoMSwgMykKLy9tYXBSZWR1Y2UoKHgsIHkpID0+IHggKyB5LCAwKSh4ID0+IHgpKDEsIDMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZWxzZSBjb21iaW5lKGYsIGYoYSksIG1hcFJlZHVjZShjb21iaW5lLCB6ZXJvKShhICsgMSwgYikpCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">YSAtIA==</text>
+        <text>(f)</text>
       </register>
       <register name="4" type="4">
-        <text>f(a)</text>
+        <text encoding="base64">KCkg</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>default</text>
       </register>
       <register name="6" type="4">
-        <text>acc</text>
+        <text>defaul</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly9kZWYgZnVjayhvcDogKChhOiBJbnQsIGI6IEludCkgPT4gSW50KSkoZjogSW50ID0+IEludCkKLy8K</text>
       </register>
-      <register name="8" type="4">
-        <text>==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>a - 1, acc + a</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly9mdWNrICgoeDogSW50LCB5OiBJbnQpOiBJbnQgPSB4ICsgeSwgMCkoeCA9PiB4ICogeCkoMywgNCk7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>18</text>
       </register>
     </registers>
     <search>
@@ -901,8 +900,6 @@
         <entry>SERVICE</entry>
       </history-search>
       <history-cmd>
-        <entry>50</entry>
-        <entry>r</entry>
         <entry>44</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
@@ -921,6 +918,8 @@
         <entry>!</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>37</entry>
+        <entry>18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
