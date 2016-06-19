@@ -329,11 +329,12 @@
         <mark key="." line="53" column="21" />
         <mark key="^" line="53" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/coursera-funsets/src/main/scala/funsets/FunSets.scala" timestamp="1466343782958">
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
+      <file name="$USER_HOME$/Development/coursera-funsets/src/main/scala/funsets/FunSets.scala" timestamp="1466344383473">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="80" column="70" />
+        <mark key="]" line="80" column="70" />
+        <mark key="." line="80" column="70" />
+        <mark key="^" line="80" column="56" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/project-service/node_modules/seneca-mongo-store/mongo-store.js" timestamp="1457898504538">
         <mark key="[" line="104" column="49" />
@@ -631,8 +632,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/coursera-funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1466339230925">
+      <file name="$USER_HOME$/Development/coursera-funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1466344832118">
         <mark key="'" line="15" column="6" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1465798912819">
         <mark key="[" line="0" column="0" />
@@ -808,8 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="53" filename="$USER_HOME$/Development/yazimedia/spec/lib/has-offers/proxied-request-spec.js" />
-      <jump line="59" column="7" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="42" column="32" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="46" column="26" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
@@ -908,13 +910,15 @@
       <jump line="172" column="27" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="37" column="75" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="15" column="6" filename="$USER_HOME$/Development/coursera-funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="39" column="39" filename="$USER_HOME$/Development/coursera-funsets/src/main/scala/funsets/FunSets.scala" />
+      <jump line="21" column="6" filename="$USER_HOME$/Development/coursera-funsets/src/main/scala/funsets/FunSets.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>???</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
         <text>singletonSet</text>
@@ -922,35 +926,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>???</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>???</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>f</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Times(1);</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRTZXQobWFwRXZlblNldFRvT2RkKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>toBeAllOfType</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>toBeInstanceOf</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text encoding="base64">ZWxlbSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
