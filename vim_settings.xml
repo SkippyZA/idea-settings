@@ -329,10 +329,11 @@
         <mark key="." line="53" column="21" />
         <mark key="^" line="53" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/coursera-funsets/src/main/scala/funsets/FunSets.scala" timestamp="1466339202348">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Development/coursera-funsets/src/main/scala/funsets/FunSets.scala" timestamp="1466343782958">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/project-service/node_modules/seneca-mongo-store/mongo-store.js" timestamp="1457898504538">
         <mark key="[" line="104" column="49" />
@@ -909,11 +910,11 @@
       <jump line="15" column="6" filename="$USER_HOME$/Development/coursera-funsets/src/test/scala/funsets/FunSetSuite.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text>singletonSet</text>
@@ -921,35 +922,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>???</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>???</text>
       </register>
-      <register name="3" type="4">
-        <text>Times(1);</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="5" type="4">
-        <text>toBeAllOfType</text>
+        <text>Times(1);</text>
       </register>
       <register name="6" type="4">
-        <text>toBeInstanceOf</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>toBeAllOfType</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>toBeInstanceOf</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
