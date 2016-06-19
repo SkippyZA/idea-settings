@@ -673,11 +673,13 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" timestamp="1466255212272">
+      <file name="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" timestamp="1466286150499">
+        <mark key="a" line="31" column="0" />
         <mark key="'" line="12" column="12" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
@@ -823,11 +825,11 @@
       <jump line="13" column="12" filename="$USER_HOME$/Development/coursera-recfun/tail-recursive-sum.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWFwUmVkdWNlKHggPT4geCAqIHgsIChhLCBiKSA9PiBhICogYiwgMSkoMSwgMykKLy9tYXBSZWR1Y2UoKHgsIHkpID0+IHggKyB5LCAwKSh4ID0+IHgpKDEsIDMpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CnZhbCB0ZXN0OiAoSW50LCBJbnQpID0+IEludCA9IG1hcFJlZHVjZSh4ID0+IHggKiB4LCAoYSwgYikgPT4gYSArIGIsIDApCnRlc3QoMSwgMyk=</text>
       </register>
       <register name="-" type="4">
-        <text>(f)</text>
+        <text>(a, b)</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -835,38 +837,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bWFwUmVkdWNlKHggPT4geCAqIHgsIChhLCBiKSA9PiBhICogYiwgMSkoMSwgMykKLy9tYXBSZWR1Y2UoKHgsIHkpID0+IHggKyB5LCAwKSh4ID0+IHgpKDEsIDMpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnZhbCB0ZXN0OiAoSW50LCBJbnQpID0+IEludCA9IG1hcFJlZHVjZSh4ID0+IHggKiB4LCAoYSwgYikgPT4gYSArIGIsIDApCnRlc3QoMSwgMyk=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZWxzZSBjb21iaW5lKGYsIGYoYSksIG1hcFJlZHVjZShjb21iaW5lLCB6ZXJvKShhICsgMSwgYikpCg==</text>
+      <register name="2" type="4">
+        <text>(a, b)</text>
       </register>
       <register name="3" type="4">
-        <text>(f)</text>
+        <text>(a, b)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">KCkg</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>default</text>
+        <text encoding="base64">YTog</text>
       </register>
       <register name="6" type="4">
-        <text>defaul</text>
+        <text encoding="base64">IGI6IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly9kZWYgZnVjayhvcDogKChhOiBJbnQsIGI6IEludCkgPT4gSW50KSkoZjogSW50ID0+IEludCkKLy8K</text>
+      <register name="7" type="4">
+        <text encoding="base64">Yjog</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly9mdWNrICgoeDogSW50LCB5OiBJbnQpOiBJbnQgPSB4ICsgeSwgMCkoeCA9PiB4ICogeCkoMywgNCk7Cgo=</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
-        <text>18</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -917,9 +919,9 @@
         <entry>3</entry>
         <entry>!</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>37</entry>
         <entry>18</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
