@@ -65,6 +65,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466362730634">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs.ts" timestamp="1457126299439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -374,6 +380,12 @@
         <mark key="." line="60" column="43" />
         <mark key="^" line="60" column="43" />
       </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466358847848">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="64" />
+        <mark key="^" line="8" column="64" />
+        <mark key="." line="8" column="64" />
+      </file>
       <file name="$USER_HOME$/Development/IDT-Poc/media-service/src/app.js" timestamp="1457783534097">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="28" />
@@ -646,6 +658,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466362298383">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api-gateway-front/build/dev-client.js" timestamp="1458559720416">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="1" column="80" />
@@ -715,7 +733,7 @@
       <file name="/Dummy.txt" timestamp="1465199242310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Scala Console" timestamp="1465403224638">
+      <file name="/Scala Console" timestamp="1466362553052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/collaborator-service/src/app.js" timestamp="1457895157911">
@@ -764,6 +782,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/iRacingCredentials.scala" timestamp="1466362827300">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/Development/api-gateway-front/index.html" timestamp="1458589521834">
         <mark key="[" line="8" column="0" />
@@ -915,10 +939,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvIHdvcmxkIikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IH0=</text>
+        <text encoding="base64">ZXh0ZW5kcyBBcHBsaWNhdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text>singletonSet</text>
@@ -927,37 +951,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbVRvUHJvbWlzZS5iaW5kKHRoaXMsIF9tYWtlUmVxdWVzdChoYXNPZmZlcnNUYXJnZXQsIG5hbWUsIG9wdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvIHdvcmxkIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZXh0ZW5kcyBBcHBsaWNhdGlvbiA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">TWFpbiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="4" type="4">
+        <text>(startTime: LocalDate, trackName: String, seriesName: String, hostedSessionName: String) {</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRTZXQobWFwRXZlblNldFRvT2RkKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBob3N0ZWRTZXNzaW9uTmFtZTsKICBwcml2YXRlIExpc3Q8U2Vzc2lvbkRyaXZlclJlc3VsdD4gZHJpdmVyUmVzdWx0czsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0cmFja05hbWU7CiAgcHJpdmF0ZSBTdHJpbmcgc2VyaWVzTmFtZTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoKICBwcml2YXRlIERhdGUgc3RhcnRUaW1lOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZWxlbSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvZGVzLnJlYWN0aXZlLnNjYWxhdGltZS5fCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
@@ -991,7 +1015,6 @@
         <entry>singletonSet</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>42</entry>
         <entry>Wq</entry>
         <entry>10</entry>
@@ -1003,7 +1026,6 @@
         <entry>45</entry>
         <entry>60</entry>
         <entry>!</entry>
-        <entry>1</entry>
         <entry>37</entry>
         <entry>18</entry>
         <entry>2</entry>
@@ -1011,6 +1033,8 @@
         <entry>13</entry>
         <entry>3</entry>
         <entry>w</entry>
+        <entry>1</entry>
+        <entry>5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
