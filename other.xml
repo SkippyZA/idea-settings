@@ -65,10 +65,14 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="4.2.2" last-modified="1446580417000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.7.0/bin/node">
+      <version-cache version="5.7.0" last-modified="1456201441000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v5.7.0/lib/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="4.2.2" last-modified="1446580417000" />
+    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1465804150578" />
   </component>
 </application>
