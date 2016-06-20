@@ -65,12 +65,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466367817224">
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466406749383">
         <mark key="'" line="18" column="70" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="20" column="25" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs.ts" timestamp="1457126299439">
         <mark key="[" line="0" column="0" />
@@ -939,8 +939,8 @@
       <jump line="23" column="70" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>elem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>elem</text>
@@ -951,35 +951,35 @@
       <register name="0" type="4">
         <text>irsso_members</text>
       </register>
-      <register name="1" type="4">
-        <text>elem</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>Set(elem)</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhai5odHRwLl8K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgic3VuLm5ldC5odHRwLmFsbG93UmVzdHJpY3RlZEhlYWRlcnMiLCAidHJ1ZSIpCgo=</text>
+      <register name="3" type="4">
+        <text>elem</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>Set(elem)</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgic3VuLm5ldC5odHRwLmFsbG93UmVzdHJpY3RlZEhlYWRlcnMiLCAidHJ1ZSIpCgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50bG4obWVtYmVyc0Nvb2tpZS5nZXQpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLy8ub3B0aW9uKEh0dHBPcHRpb25zLmZvbGxvd1JlZGlyZWN0cyh0cnVlKSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>getOrElse</text>
-      </register>
-      <register name="8" type="4">
-        <text>cookie</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1016,7 +1016,6 @@
         <entry>singletonSet</entry>
       </history-search>
       <history-cmd>
-        <entry>Wq</entry>
         <entry>10</entry>
         <entry>15</entry>
         <entry>26</entry>
@@ -1035,6 +1034,7 @@
         <entry>19</entry>
         <entry>t.</entry>
         <entry>18</entry>
+        <entry>6</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
