@@ -31,12 +31,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1466411726673">
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1466412121461">
         <mark key="'" line="36" column="6" />
-        <mark key="[" line="149" column="2" />
-        <mark key="]" line="149" column="2" />
-        <mark key="." line="149" column="2" />
-        <mark key="^" line="149" column="2" />
+        <mark key="[" line="186" column="2" />
+        <mark key="]" line="186" column="2" />
+        <mark key="." line="186" column="2" />
+        <mark key="^" line="186" column="2" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1465298822675">
         <mark key="'" line="32" column="42" />
@@ -110,12 +110,12 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466411918744">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466412595670">
         <mark key="'" line="104" column="8" />
-        <mark key="[" line="104" column="2" />
-        <mark key="]" line="104" column="2" />
-        <mark key="." line="104" column="2" />
-        <mark key="^" line="104" column="8" />
+        <mark key="[" line="112" column="6" />
+        <mark key="]" line="111" column="43" />
+        <mark key="." line="111" column="43" />
+        <mark key="^" line="111" column="48" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466404371771">
         <mark key="'" line="53" column="25" />
@@ -184,7 +184,7 @@
         <mark key="]" line="10" column="50" />
         <mark key="." line="10" column="50" />
       </file>
-      <file name="/JavaScript Console" timestamp="1466411067368">
+      <file name="/JavaScript Console" timestamp="1466412528065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
@@ -399,10 +399,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">fSBlbHNlIA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fSBlbHNlIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fit</text>
@@ -411,34 +411,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">fSBlbHNlIA==</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpZihzb3VyY2VMZW5ndGggPT09IDAgJiYgZGVzdGluYXRpb25MZW5ndGggPT09IDApIHsKICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>f</text>
-      </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text>(</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">KyA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">MSA=</text>
+      </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHx8IDE7</text>
+        <text>00000000</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>Countries</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text encoding="base64">fSBlbHNlIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
