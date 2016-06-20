@@ -57,10 +57,11 @@
         <mark key="]" line="25" column="29" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1466146041077">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="50" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1466405415284">
+        <mark key="[" line="48" column="81" />
+        <mark key="]" line="47" column="89" />
+        <mark key="." line="48" column="89" />
+        <mark key="^" line="47" column="89" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/package.json" timestamp="1457728003857">
         <mark key="[" line="4" column="0" />
@@ -381,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IG9iai5pbnRlcmVzdA==</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IG9iai5pbnRlcmVzdA==</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -393,34 +394,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHx8IG9iai5pbnRlcmVzdA==</text>
+        <text>()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHx8IG9iai5zcG9ydCw=</text>
+        <text>());</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHx8IG9iai5pbnRlcmVzdA==</text>
+        <text>empty</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHx8IG9iai5zcG9ydA==</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>empty</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">b2JqLnByZWZlcnJlZG5hbWUg</text>
+        <text>empty</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text encoding="base64">IHx8IG9iai5pbnRlcmVzdA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHx8</text>
+        <text encoding="base64">IHx8IG9iai5zcG9ydCw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
