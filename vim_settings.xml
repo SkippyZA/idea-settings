@@ -72,11 +72,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466456960663">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="23" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466514770895">
+        <mark key="[" line="11" column="89" />
+        <mark key="]" line="11" column="89" />
+        <mark key="." line="11" column="89" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs.ts" timestamp="1457126299439">
         <mark key="[" line="0" column="0" />
@@ -959,11 +959,11 @@
       <jump line="106" column="8" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHRyYWN0ZWRKc29uID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>fit</text>
@@ -971,35 +971,35 @@
       <register name="0" type="4">
         <text encoding="base64">ZXZlbnRSZXN1bHRzQ3N2IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHRyYWN0ZWRKc29uID0gCg==</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">QVNEIA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCBleHRyYWN0ZWRKc29uID0gCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>data</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">dmFyaWFibGUg</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>Body</text>
-      </register>
-      <register name="7" type="4">
-        <text>Body</text>
       </register>
       <register name="8" type="4">
-        <text>(extractJavascriptJson(resultBody</text>
+        <text>Body</text>
       </register>
       <register name="9" type="4">
-        <text>.body</text>
+        <text>Body</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
