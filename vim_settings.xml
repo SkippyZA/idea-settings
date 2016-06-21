@@ -72,11 +72,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466454046075">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="48" column="77" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466456960663">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="23" />
       </file>
       <file name="$USER_HOME$/Development/rx-amqplib/examples/receive_logs.ts" timestamp="1457126299439">
         <mark key="[" line="0" column="0" />
@@ -395,11 +395,11 @@
         <mark key="." line="60" column="43" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466453481711">
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="10" column="69" />
-        <mark key="^" line="10" column="69" />
-        <mark key="." line="10" column="69" />
+      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466455064105">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/Development/IDT-Poc/media-service/src/app.js" timestamp="1457783534097">
         <mark key="[" line="19" column="23" />
@@ -960,10 +960,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihyZXBvcnQuYm9keSkK</text>
+        <text encoding="base64">ICAgIHZhbCBleHRyYWN0ZWRKc29uID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>fit</text>
@@ -972,34 +972,34 @@
         <text encoding="base64">ZXZlbnRSZXN1bHRzQ3N2IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihyZXBvcnQuYm9keSkK</text>
+        <text encoding="base64">ICAgIHZhbCBleHRyYWN0ZWRKc29uID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBldmVudFJlc3VsdHNDc3YgPSByZXBvcnQuYm9keQo=</text>
+      <register name="2" type="4">
+        <text>data</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text encoding="base64">dmFyaWFibGUg</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZXBvcnQg</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ci8vICAgIHZhbCBtYXRjaGVzID0gZXh0cmFjdEphdmFzY3JpcHRKc29uKHJlcG9ydC5ib2R5KQovLyAgICBtYXRjaGVzLmZvcmVhY2goZiA9PiBwcmludGxuKGYuZ3JvdXAoMikgKyAiIC0tPiAiICsgZi5ncm91cCgzKSArICJcblxuIikpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdFVybCA9ICJodHRwOi8vbWVtYmVycy5pcmFjaW5nLmNvbS9tZW1iZXJzaXRlL21lbWJlci9FdmVudFJlc3VsdC5kbz8mc3Vic2Vzc2lvbmlkPTE3MDMzOTE0JmN1c3RpZD0xODg5NTMiCi8vICAgIGh0dHA6Ly9tZW1iZXJzLmlyYWNpbmcuY29tL21lbWJlcnNpdGUvbWVtYmVyL0dldEV2ZW50UmVzdWx0c0FzQ1NWCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocmVwb3J0LmhlYWRlcnMpCgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>Body</text>
+      </register>
+      <register name="7" type="4">
+        <text>Body</text>
+      </register>
+      <register name="8" type="4">
+        <text>(extractJavascriptJson(resultBody</text>
+      </register>
+      <register name="9" type="4">
+        <text>.body</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1036,11 +1036,6 @@
         <entry>singletonSet</entry>
       </history-search>
       <history-cmd>
-        <entry>60</entry>
-        <entry>!</entry>
-        <entry>37</entry>
-        <entry>2</entry>
-        <entry>13</entry>
         <entry>3</entry>
         <entry>5</entry>
         <entry>19</entry>
@@ -1055,6 +1050,11 @@
         <entry>t.</entry>
         <entry>59</entry>
         <entry>1</entry>
+        <entry>8</entry>
+        <entry>49</entry>
+        <entry>9</entry>
+        <entry>51</entry>
+        <entry>42</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
