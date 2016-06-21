@@ -6,12 +6,12 @@
       <file name="/fragment.js" timestamp="1465227516082">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466143395120">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466510149768">
         <mark key="'" line="28" column="42" />
-        <mark key="[" line="62" column="63" />
-        <mark key="]" line="62" column="64" />
-        <mark key="." line="62" column="64" />
-        <mark key="^" line="62" column="64" />
+        <mark key="[" line="52" column="27" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+        <mark key="^" line="53" column="25" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1466416787008">
         <mark key="'" line="36" column="6" />
@@ -21,12 +21,12 @@
         <mark key="^" line="186" column="2" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/app.js" timestamp="1466497896173" />
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1465298822675">
-        <mark key="'" line="32" column="42" />
-        <mark key="[" line="94" column="1" />
-        <mark key="]" line="94" column="15" />
-        <mark key="." line="94" column="15" />
-        <mark key="^" line="94" column="15" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466510454049">
+        <mark key="'" line="120" column="23" />
+        <mark key="[" line="133" column="23" />
+        <mark key="]" line="133" column="26" />
+        <mark key="." line="133" column="26" />
+        <mark key="^" line="133" column="26" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1466159093226">
         <mark key="'" line="57" column="21" />
@@ -89,10 +89,6 @@
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1466500225970">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="74" />
-        <mark key="]" line="61" column="73" />
-        <mark key="." line="61" column="73" />
-        <mark key="^" line="61" column="73" />
       </file>
       <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465816103957">
         <mark key="'" line="27" column="13" />
@@ -103,6 +99,12 @@
       </file>
       <file name="vim_settings.xml" timestamp="1465798912819">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466510087242">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="59" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="23" column="59" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466159498662">
         <mark key="[" line="9" column="0" />
@@ -189,10 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Development/yazimedia/src/frontend/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
-      <jump line="30" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
-      <jump line="86" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="109" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="165" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="188" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
@@ -289,65 +287,67 @@
       <jump line="18" column="48" filename="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" />
       <jump line="20" column="32" filename="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" />
       <jump line="42" column="67" filename="$USER_HOME$/Development/yazimedia/src/source/source-factory.js" />
+      <jump line="85" column="23" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="87" column="14" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="98" column="20" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="120" column="23" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>proxiedRequest</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
-        <text>tracking</text>
+        <text>fit</text>
       </register>
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>get</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>f</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdHJhY2tpbmdVcmxHZW5lcmF0b3IgPSBuZXcgVHJhY2tpbmdVcmxHZW5lcmF0b3IoaGFzT2ZmZXJzQWZmaWxpYXRlKTsK</text>
+      <register name="3" type="4">
+        <text>f</text>
       </register>
       <register name="4" type="4">
-        <text>proxiedRequest</text>
+        <text>get</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get</text>
       </register>
-      <register name="6" type="4">
-        <text>localhost</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhc3NlcnQuZGVlcEVxdWFsKHJlc3BvbnNlLCByZXNwb25zZUJvZHkpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi9jb25maWcnKTsK</text>
+      <register name="7" type="4">
+        <text>f</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgSWRlbnRpdHlQcm9jZXNzb3IgPSByZXF1aXJlKCcuL3NlcnZpY2VzL2lkZW50aXR5LXByb2Nlc3Nvci5qcycpOwpjb25zdCBUcmFja2luZ1VybEdlbmVyYXRvciA9IHJlcXVpcmUoJ2xpYi9oYXMtb2ZmZXJzL3RyYWNraW5nLXVybC1nZW5lcmF0b3InKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgSGFzT2ZmZXJzU291cmNlID0gcmVxdWlyZSgnLi9zb3VyY2UvaGFzLW9mZmVycycpOwo=</text>
+      <register name="9" type="4">
+        <text>get</text>
       </register>
       <register name=":" type="4">
-        <text>61</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tracking</last-search>
+      <last-search>fit</last-search>
       <last-offset />
-      <last-pattern>tracking</last-pattern>
+      <last-pattern>fit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>APIs</entry>
-        <entry>-------</entry>
         <entry>categor</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>creates new off</entry>
@@ -363,21 +363,17 @@
         <entry>processPaused</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDx9XD4=</entry>
-        <entry>fit</entry>
         <entry>create</entry>
         <entry>tracking</entry>
+        <entry>get</entry>
+        <entry>'get</entry>
+        <entry>fit</entry>
       </history-search>
       <history-cmd>
-        <entry>59</entry>
-        <entry>15</entry>
-        <entry>116</entry>
-        <entry>21</entry>
-        <entry>73</entry>
         <entry>13</entry>
         <entry>147</entry>
         <entry>131</entry>
         <entry>165</entry>
-        <entry>w</entry>
         <entry>34</entry>
         <entry>33</entry>
         <entry>27</entry>
@@ -388,6 +384,12 @@
         <entry>14</entry>
         <entry>4</entry>
         <entry>61</entry>
+        <entry>49</entry>
+        <entry>q</entry>
+        <entry>40</entry>
+        <entry>51</entry>
+        <entry>86</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
