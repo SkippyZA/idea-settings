@@ -38,6 +38,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="186" column="2" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/app.js" timestamp="1466497896173" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1465298822675">
         <mark key="'" line="32" column="42" />
         <mark key="[" line="94" column="1" />
@@ -52,12 +53,11 @@
         <mark key="^" line="66" column="44" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466161634734">
-        <mark key="'" line="39" column="35" />
-        <mark key="[" line="53" column="13" />
-        <mark key="]" line="53" column="13" />
-        <mark key="." line="53" column="13" />
-        <mark key="^" line="53" column="25" />
+      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466497819267">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/pause.json" timestamp="1464938348393">
         <mark key="[" line="25" column="29" />
@@ -398,10 +398,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fit</text>
@@ -410,37 +410,37 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZmRlc2NyaWJlKCdSdWxlcycsICgpID0+IHsKCg==</text>
+      <register name="2" type="4">
+        <text>localhost</text>
       </register>
-      <register name="3" type="4">
-        <text>f</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi9jb25maWcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgCg==</text>
+        <text encoding="base64">Y29uc3QgSWRlbnRpdHlQcm9jZXNzb3IgPSByZXF1aXJlKCcuL3NlcnZpY2VzL2lkZW50aXR5LXByb2Nlc3Nvci5qcycpOwpjb25zdCBUcmFja2luZ1VybEdlbmVyYXRvciA9IHJlcXVpcmUoJ2xpYi9oYXMtb2ZmZXJzL3RyYWNraW5nLXVybC1nZW5lcmF0b3InKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgSGFzT2ZmZXJzU291cmNlID0gcmVxdWlyZSgnLi9zb3VyY2UvaGFzLW9mZmVycycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgcmV0dXJuIHNvdXJjZUxlbmd0aCAvIGRlc3RpbmF0aW9uTGVuZ3RoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9IGVsc2UgaWYgKGRlc3RpbmF0aW9uTGVuZ3RoID09PSAwKSB7CiAgICByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICBhcGlLZXk6ICdkN2RkYjRhNDI1ZmRlNjlmNGFiMzMwNmIwYzgyZmY3YjhjMGFhNzExYWNiMTBmZjc0YzY2ZGJmMzQwNzA3YTU5Jwp9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IGVsc2UgaWYoc291cmNlTGVuZ3RoID09PSAwKSB7CiAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICBlbmRwb2ludDogJ2h0dHBzOi8vYXBpLmhhc29mZmVycy5jb20vQXBpdjMvanNvbicsCiAgbmV0d29ya0lkOiAneWF6aW1lZGlhJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZihzb3VyY2VMZW5ndGggPT09IDAgJiYgZGVzdGluYXRpb25MZW5ndGggPT09IDApIHsKICAgIHJldHVybiAxOwo=</text>
+        <text encoding="base64">CmNvbnN0IHlhemlBZmZpbGlhdGVDb25maWcgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
@@ -474,26 +474,26 @@
         <entry>fit</entry>
       </history-search>
       <history-cmd>
-        <entry>100</entry>
-        <entry>282</entry>
-        <entry>283</entry>
-        <entry>107</entry>
-        <entry>19-0</entry>
-        <entry>80</entry>
-        <entry>70</entry>
-        <entry>79</entry>
         <entry>49</entry>
         <entry>59</entry>
         <entry>15</entry>
         <entry>116</entry>
         <entry>21</entry>
         <entry>73</entry>
-        <entry>1</entry>
         <entry>13</entry>
         <entry>147</entry>
         <entry>131</entry>
         <entry>165</entry>
         <entry>w</entry>
+        <entry>34</entry>
+        <entry>33</entry>
+        <entry>27</entry>
+        <entry>78</entry>
+        <entry>45</entry>
+        <entry>50</entry>
+        <entry>1</entry>
+        <entry>14</entry>
+        <entry>4</entry>
       </history-cmd>
       <history-expr />
       <history-input />
