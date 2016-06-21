@@ -110,11 +110,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="97" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466500239570">
+      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466502034617">
         <mark key="'" line="20" column="32" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="72" column="42" />
+        <mark key="]" line="72" column="54" />
+        <mark key="." line="72" column="54" />
+        <mark key="^" line="72" column="54" />
       </file>
       <file name="/JavaScript Console" timestamp="1466412528065">
         <mark key="[" line="0" column="0" />
