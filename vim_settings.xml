@@ -3,104 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1465227516082">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466510149768">
-        <mark key="'" line="28" column="42" />
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="53" column="25" />
-        <mark key="." line="53" column="25" />
-        <mark key="^" line="53" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1466416787008">
-        <mark key="'" line="36" column="6" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="186" column="2" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/app.js" timestamp="1466497896173" />
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466510454049">
-        <mark key="'" line="120" column="23" />
-        <mark key="[" line="133" column="23" />
-        <mark key="]" line="133" column="26" />
-        <mark key="." line="133" column="26" />
-        <mark key="^" line="133" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1466159093226">
-        <mark key="'" line="57" column="21" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="66" column="44" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466498755063">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1466405415284">
-        <mark key="[" line="48" column="81" />
-        <mark key="]" line="47" column="89" />
-        <mark key="." line="48" column="89" />
-        <mark key="^" line="47" column="89" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1465915227547">
-        <mark key="'" line="36" column="20" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="81" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1466164748456">
-        <mark key="[" line="51" column="2" />
-        <mark key="]" line="51" column="2" />
-        <mark key="." line="51" column="2" />
-        <mark key="^" line="78" column="7" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466489856679">
-        <mark key="[" line="108" column="3" />
-        <mark key="]" line="109" column="42" />
-        <mark key="." line="109" column="42" />
-        <mark key="^" line="109" column="42" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466499932780">
-        <mark key="'" line="13" column="1" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466159433376">
-        <mark key="'" line="24" column="3" />
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="50" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="9" column="50" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1466500225970">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465816103957">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="vim_settings.xml" timestamp="1465798912819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466510087242">
+      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="59" />
         <mark key="^" line="23" column="59" />
@@ -112,12 +18,40 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="97" column="20" />
       </file>
+      <file name="/fragment.js" timestamp="1465227516082">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466506597455">
         <mark key="'" line="20" column="32" />
         <mark key="[" line="72" column="42" />
         <mark key="]" line="72" column="54" />
         <mark key="." line="72" column="54" />
         <mark key="^" line="72" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466580641724">
+        <mark key="'" line="28" column="42" />
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1466576939909">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="186" column="2" />
       </file>
       <file name="/JavaScript Console" timestamp="1466412528065">
         <mark key="[" line="0" column="0" />
@@ -128,6 +62,26 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466580654374">
+        <mark key="'" line="42" column="17" />
+        <mark key="[" line="96" column="2" />
+        <mark key="]" line="96" column="2" />
+        <mark key="." line="96" column="2" />
+        <mark key="^" line="96" column="2" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1466579617640">
+        <mark key="'" line="57" column="21" />
+        <mark key="[" line="115" column="12" />
+        <mark key="]" line="116" column="5" />
+        <mark key="." line="116" column="5" />
+        <mark key="^" line="116" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466498755063">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1465199242310">
         <mark key="[" line="0" column="0" />
@@ -144,6 +98,13 @@
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/node_modules/nona-bunyan-logstash/lib/logstash.js" timestamp="1466577505415" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1466405415284">
+        <mark key="[" line="48" column="81" />
+        <mark key="]" line="47" column="89" />
+        <mark key="." line="48" column="89" />
+        <mark key="^" line="47" column="89" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1466147861769">
         <mark key="'" line="33" column="75" />
         <mark key="[" line="95" column="0" />
@@ -157,11 +118,31 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1466147715014">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+        <mark key="^" line="81" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/template.json" timestamp="1466578949712">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="33" column="9" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1464937634612">
         <mark key="'" line="4" column="40" />
@@ -174,6 +155,36 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1466164748456">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+        <mark key="^" line="78" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466489856679">
+        <mark key="[" line="108" column="3" />
+        <mark key="]" line="109" column="42" />
+        <mark key="." line="109" column="42" />
+        <mark key="^" line="109" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
+        <mark key="'" line="13" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466159433376">
+        <mark key="'" line="24" column="3" />
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="50" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1466579977176">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464937737529">
         <mark key="'" line="11" column="5" />
@@ -189,9 +200,15 @@
         <mark key="." line="162" column="27" />
         <mark key="^" line="162" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1465816103957">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="29" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="165" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="188" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="244" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
@@ -291,64 +308,64 @@
       <jump line="87" column="14" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="98" column="20" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="120" column="23" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="42" column="17" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>fit</text>
+        <text>retries request</text>
       </register>
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text>get</text>
+        <text>f</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>requestUri</text>
       </register>
       <register name="3" type="4">
-        <text>f</text>
+        <text>requestUri</text>
       </register>
       <register name="4" type="4">
-        <text>get</text>
+        <text>params</text>
       </register>
       <register name="5" type="4">
-        <text>get</text>
+        <text>GET</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhc3NlcnQuZGVlcEVxdWFsKHJlc3BvbnNlLCByZXNwb25zZUJvZHkpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="4">
-        <text>f</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gc3RyZWFtVG9Qcm9taXNlKHJlcXVlc3QuZ2V0KHJlcXVlc3RVcmkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gPT09PT09Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>get</text>
+        <text encoding="base64">PQovLyAgICAgbG9nZ2VyLmRlYnVnKHsKLy8gICAgICAgcmVxdWVzdE9wdGlvbnM6IHJlcXVlc3RPcHRpb25zLAovLyAgICAgICByZXF1ZXN0VXJpOiBlbmRwb2ludCwKLy8gICAgICAgcXVlcnk6IHF1ZXJ5T3B0aW9ucywKLy8gICAgICAgaHR0cE1ldGhvZDogJ1BPU1QnLAovLyAgICAgICBvcHRpb25zOiBwYXJhbXMKLy8gICAgIH0sICdMYXp5IGxvYWRpbmcgcmVxdWVzdCB0byBIYXNPZmZlcnMgQVBJJyk7Ci8vCi8vICAgICBjb25zdCBnZXRSZXF1ZXN0ID0gcnguT2JzZXJ2YWJsZS5kZWZlcigoKSA9PiBzdHJlYW1Ub1Byb21pc2UocmVxdWVzdC5wb3N0KHsgdXJsOiBlbmRwb2ludCwgZm9ybTogcXVlcnlPcHRpb25zIH0pKSkKLy8gPj4+Pj4+PiBjZTRkMzEzYzFiMTY4NDViNjc2Mjg1MDJmMGFmM2JiZGViZDRiYzA0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fit</last-search>
+      <last-search>retries request</last-search>
       <last-offset />
-      <last-pattern>fit</last-pattern>
+      <last-pattern>retries request</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>categor</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>creates new off</entry>
         <entry>console</entry>
@@ -368,13 +385,9 @@
         <entry>get</entry>
         <entry>'get</entry>
         <entry>fit</entry>
+        <entry>retries request</entry>
       </history-search>
       <history-cmd>
-        <entry>13</entry>
-        <entry>147</entry>
-        <entry>131</entry>
-        <entry>165</entry>
-        <entry>34</entry>
         <entry>33</entry>
         <entry>27</entry>
         <entry>78</entry>
@@ -389,6 +402,11 @@
         <entry>40</entry>
         <entry>51</entry>
         <entry>86</entry>
+        <entry>5</entry>
+        <entry>24</entry>
+        <entry>8</entry>
+        <entry>43</entry>
+        <entry>97</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
