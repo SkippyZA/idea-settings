@@ -100,11 +100,11 @@
         <mark key="^" line="80" column="2" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466598341284">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600032395">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="19" column="84" />
+        <mark key="." line="19" column="84" />
+        <mark key="^" line="19" column="84" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
         <mark key="'" line="35" column="20" />
@@ -164,10 +164,11 @@
       <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
         <mark key="'" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466590864712">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466599953857">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="57" column="50" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1466579977176">
         <mark key="'" line="0" column="0" />
@@ -298,7 +299,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25uZWN0IHRvIG1vbmdvb3NlCiAgbW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovLycgKyBjb25maWcuTU9OR09fSE9TVCArICc6JyArIGNvbmZpZy5NT05HT19QT1JUICsgJy9zb3VyY2VzJyk7Cgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -310,37 +311,37 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25uZWN0IHRvIG1vbmdvb3NlCiAgbW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovLycgKyBjb25maWcuTU9OR09fSE9TVCArICc6JyArIGNvbmZpZy5NT05HT19QT1JUICsgJy9zb3VyY2VzJyk7Cgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFIuaXNOaWwoYWZmaWxpYXRlQ29uZmlnLmFwaUtleSkpIHsKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCdDb21wbGV0ZWQnKTsKICAgICAgICAgIGNsb3NlTW9uZ29vc2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZihSLmlzTmlsKGFmZmlsaWF0ZUNvbmZpZy5lbmRwb2ludCkgfHwKICAgIFIuaXNOaWwoYWZmaWxpYXRlQ29uZmlnLm5ldHdvcmtJZCkgfHwK</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICgpID0+IHsK</text>
       </register>
-      <register name="6" type="4">
-        <text>f</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5mYXRhbCh7IGVycm9yOiBlcnJvciwgc3RhY2s6IGVycm9yLnN0YWNrIH0sIGVycm9yLm1lc3NhZ2UpOwogICAgICAgICAgY2xvc2VNb25nb29zZSgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>requestUri</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb3VudCA9PiBsb2dnZXIuaW5mbyh7IG9mZmVyQ291bnQ6IGNvdW50IH0sICdQcm9jZXNzZWQgcGlwZWxpbmUnKSwKICAgICAgICBlcnJvciA9PiB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>requestUri</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC5jb3VudCgoKSA9PiB0cnVlKQogICAgICAuc3Vic2NyaWJlKAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>params</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>56</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -391,9 +392,9 @@
         <entry>8</entry>
         <entry>43</entry>
         <entry>97</entry>
-        <entry>w</entry>
         <entry>20</entry>
         <entry>56</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
