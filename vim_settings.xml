@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1465798912819">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="59" />
@@ -17,9 +14,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="97" column="20" />
-      </file>
-      <file name="/fragment.js" timestamp="1465227516082">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
         <mark key="]" line="6" column="47" />
@@ -53,9 +47,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="186" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1466412528065">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
         <mark key="'" line="29" column="7" />
         <mark key="[" line="25" column="0" />
@@ -82,9 +73,6 @@
         <mark key="]" line="18" column="43" />
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1465199242310">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1466408987903">
         <mark key="[" line="13" column="34" />
@@ -113,10 +101,10 @@
         <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466159193264">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="12" />
-        <mark key="^" line="32" column="12" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
         <mark key="'" line="35" column="20" />
@@ -176,12 +164,10 @@
       <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
         <mark key="'" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466159433376">
-        <mark key="'" line="24" column="3" />
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="50" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="9" column="50" />
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466590864712">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1466579977176">
         <mark key="'" line="0" column="0" />
@@ -311,8 +297,8 @@
       <jump line="42" column="17" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBjb25uZWN0IHRvIG1vbmdvb3NlCiAgbW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovLycgKyBjb25maWcuTU9OR09fSE9TVCArICc6JyArIGNvbmZpZy5NT05HT19QT1JUICsgJy9zb3VyY2VzJyk7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -323,38 +309,38 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="4">
-        <text>f</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLyBjb25uZWN0IHRvIG1vbmdvb3NlCiAgbW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovLycgKyBjb25maWcuTU9OR09fSE9TVCArICc6JyArIGNvbmZpZy5NT05HT19QT1JUICsgJy9zb3VyY2VzJyk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcih7IGFmZmlsaWF0ZUNvbmZpZzogYWZmaWxpYXRlQ29uZmlnIH0sICdJbnZhbGlkIGFmZmlsaWF0ZSBjb25maWcnKTsKICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFIuaXNOaWwoYWZmaWxpYXRlQ29uZmlnLmFwaUtleSkpIHsKICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpZihSLmlzTmlsKGFmZmlsaWF0ZUNvbmZpZy5lbmRwb2ludCkgfHwKICAgIFIuaXNOaWwoYWZmaWxpYXRlQ29uZmlnLm5ldHdvcmtJZCkgfHwK</text>
+      </register>
+      <register name="6" type="4">
+        <text>f</text>
+      </register>
+      <register name="7" type="4">
         <text>requestUri</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>requestUri</text>
-      </register>
-      <register name="4" type="4">
-        <text>params</text>
-      </register>
-      <register name="5" type="4">
-        <text>GET</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gc3RyZWFtVG9Qcm9taXNlKHJlcXVlc3QuZ2V0KHJlcXVlc3RVcmkpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gPT09PT09Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PQovLyAgICAgbG9nZ2VyLmRlYnVnKHsKLy8gICAgICAgcmVxdWVzdE9wdGlvbnM6IHJlcXVlc3RPcHRpb25zLAovLyAgICAgICByZXF1ZXN0VXJpOiBlbmRwb2ludCwKLy8gICAgICAgcXVlcnk6IHF1ZXJ5T3B0aW9ucywKLy8gICAgICAgaHR0cE1ldGhvZDogJ1BPU1QnLAovLyAgICAgICBvcHRpb25zOiBwYXJhbXMKLy8gICAgIH0sICdMYXp5IGxvYWRpbmcgcmVxdWVzdCB0byBIYXNPZmZlcnMgQVBJJyk7Ci8vCi8vICAgICBjb25zdCBnZXRSZXF1ZXN0ID0gcnguT2JzZXJ2YWJsZS5kZWZlcigoKSA9PiBzdHJlYW1Ub1Byb21pc2UocmVxdWVzdC5wb3N0KHsgdXJsOiBlbmRwb2ludCwgZm9ybTogcXVlcnlPcHRpb25zIH0pKSkKLy8gPj4+Pj4+PiBjZTRkMzEzYzFiMTY4NDViNjc2Mjg1MDJmMGFmM2JiZGViZDRiYzA0</text>
+        <text>params</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>56</text>
       </register>
     </registers>
     <search>
@@ -388,8 +374,6 @@
         <entry>retries request</entry>
       </history-search>
       <history-cmd>
-        <entry>33</entry>
-        <entry>27</entry>
         <entry>78</entry>
         <entry>45</entry>
         <entry>50</entry>
@@ -408,6 +392,8 @@
         <entry>43</entry>
         <entry>97</entry>
         <entry>w</entry>
+        <entry>20</entry>
+        <entry>56</entry>
       </history-cmd>
       <history-expr />
       <history-input />
