@@ -132,18 +132,18 @@
         <mark key="." line="192" column="29" />
         <mark key="^" line="192" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1466663621588">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1466665393010">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="162" column="27" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="100" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1466663525958">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1466665121336">
         <mark key="'" line="27" column="13" />
-        <mark key="[" line="29" column="0" />
+        <mark key="[" line="44" column="30" />
         <mark key="]" line="29" column="0" />
-        <mark key="^" line="49" column="24" />
+        <mark key="^" line="50" column="24" />
         <mark key="." line="29" column="0" />
       </file>
     </filemarks>
@@ -254,7 +254,7 @@
         <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">IHx8IG9iai5lbWFpbCw=</text>
       </register>
       <register name="/" type="4">
         <text>retries request</text>
@@ -268,32 +268,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHx8IG9iai5lbWFpbCw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xkZGUubG9nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCdDb21wbGV0ZWQnKTsKICAgICAgICAgIGNsb3NlTW9uZ29vc2UoKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICgpID0+IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5mYXRhbCh7IGVycm9yOiBlcnJvciwgc3RhY2s6IGVycm9yLnN0YWNrIH0sIGVycm9yLm1lc3NhZ2UpOwogICAgICAgICAgY2xvc2VNb25nb29zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCA9PiBsb2dnZXIuaW5mbyh7IG9mZmVyQ291bnQ6IGNvdW50IH0sICdQcm9jZXNzZWQgcGlwZWxpbmUnKSwKICAgICAgICBlcnJvciA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCdDb21wbGV0ZWQnKTsKICAgICAgICAgIGNsb3NlTW9uZ29vc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5jb3VudCgoKSA9PiB0cnVlKQogICAgICAuc3Vic2NyaWJlKAo=</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICgpID0+IHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>91</text>
       </register>
     </registers>
     <search>
@@ -327,7 +327,6 @@
         <entry>retries request</entry>
       </history-search>
       <history-cmd>
-        <entry>78</entry>
         <entry>45</entry>
         <entry>50</entry>
         <entry>1</entry>
@@ -347,6 +346,7 @@
         <entry>20</entry>
         <entry>56</entry>
         <entry>w</entry>
+        <entry>91</entry>
       </history-cmd>
       <history-expr />
       <history-input />
