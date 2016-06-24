@@ -61,7 +61,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/node_modules/soundmanager2/script/soundmanager2.js" timestamp="1466757406635" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1466777140052">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="27" column="63" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466580654374">
         <mark key="'" line="42" column="17" />
         <mark key="[" line="96" column="2" />
@@ -101,7 +106,6 @@
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/node_modules/nona-bunyan-logstash/lib/logstash.js" timestamp="1466577505415" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1466405415284">
         <mark key="[" line="48" column="81" />
         <mark key="]" line="47" column="89" />
@@ -320,10 +324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ2aW55bC1zb3VyY2Utc3RyZWFtIjogIl4xLjEuMCIsCiAgICAid2F0Y2hpZnkiOiAiXjMuNy4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>window.ep</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="/" type="4">
         <text>retries request</text>
@@ -332,34 +336,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ2aW55bC1zb3VyY2Utc3RyZWFtIjogIl4xLjEuMCIsCiAgICAid2F0Y2hpZnkiOiAiXjMuNy4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJndWxwIjogIl4zLjkuMSIsCiAgICAicnhqcyI6ICJeNS4wLjAtYmV0YS45IiwK</text>
+        <text encoding="base64">ZXhwb3J0cy5oYW5kbGVyKCcnLCAnJywgKGEsIGIpID0+IHtjb25zb2xlLmxvZyhhLCBiKTt9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbGlmeSI6ICJeNy4zLjAiLAogICAgImJyb3dzZXJpZnkiOiAiXjEzLjAuMSIsCg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="4" type="4">
-        <text>window.ep</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="5" type="4">
-        <text>window.ep</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>window.ep</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">d2luZG93LmVwLnBsYXkoKSI+UGxheTwvYnV0dG9uPgogIDxidXR0b24gZGF0YS1hY3Rpb249InBhdXNlIiBvbmNsaWNrPSJ3aW5kb3cuZXAucGF1c2UoKSI+UGF1c2U8L2J1dHRvbj4KICA8YnV0dG9uIGRhdGEtYWN0aW9uPSJzdG9wIiBvbmNsaWNrPSJ3aW5kb3cuZXAuc3RvcCgpIj5TdG9wPC9idXR0b24+CjwvZGl2PgoKPHNjcmlwdCBzcmM9Im5vZGVfbW9kdWxlcy9zb3VuZG1hbmFnZXIyL3NjcmlwdC9zb3VuZG1hbmFnZXIyLmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9InNyYy9ldmVudC1tYW5hZ2VyLmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9InNyYy9tYWluLmpzIj48L3NjcmlwdD4KCjxzY3JpcHQ+CiAgIGVtYmVkUGxheWVyID0gbmV3IEVtYmVkUGxheWVyKHsKICAgICB1cmw6ICdodHRwczovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2Nyb3dkY2FzdGVyL21lZGlhLzJDMnlxZDN5OEtaTkJXdjNpL21lZGl1bS5tcDMnCiAgIH0pOwo8L3NjcmlwdD4KCjwvYm9keT4KPC9odG1s</text>
+        <text>function</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>window</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
