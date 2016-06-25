@@ -117,11 +117,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/SessionResultTest.scala" timestamp="1466886916752">
-        <mark key="[" line="15" column="69" />
-        <mark key="]" line="15" column="69" />
-        <mark key="^" line="15" column="69" />
-        <mark key="." line="15" column="69" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/SessionResultTest.scala" timestamp="1466889730315">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
         <mark key="'" line="13" column="1" />
@@ -261,7 +261,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PT4g</text>
@@ -273,34 +273,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHZhbCBoZWFkZXJzID0gZXhwbG9kZUNzdlJvdy5jb21wb3NlKF8uc3BsaXQoIlxuIikpLmNvbXBvc2UoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PT4g</text>
-      </register>
       <register name="4" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text encoding="base64">PT4g</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PT4g</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">U3RyaW5nIA==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">PT4g</text>
+      </register>
       <register name="7" type="4">
-        <text>compose()</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text>compose()</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
