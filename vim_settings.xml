@@ -9,6 +9,11 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466889067516">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
         <mark key="]" line="6" column="47" />
         <mark key="^" line="6" column="47" />
@@ -62,7 +67,6 @@
         <mark key="." line="116" column="5" />
         <mark key="^" line="116" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/node_modules/nona-bunyan-logstash/lib/logstash.js" timestamp="1466577505415" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1466147861769">
         <mark key="'" line="33" column="75" />
         <mark key="[" line="95" column="0" />
@@ -112,6 +116,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/SessionResultTest.scala" timestamp="1466886916752">
+        <mark key="[" line="15" column="69" />
+        <mark key="]" line="15" column="69" />
+        <mark key="^" line="15" column="69" />
+        <mark key="." line="15" column="69" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
         <mark key="'" line="13" column="1" />
@@ -251,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IG9iai5lbWFpbCw=</text>
+        <text encoding="base64">PT4g</text>
       </register>
       <register name="/" type="4">
         <text>retries request</text>
@@ -263,37 +273,37 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHx8IG9iai5lbWFpbCw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBoZWFkZXJzID0gZXhwbG9kZUNzdlJvdy5jb21wb3NlKF8uc3BsaXQoIlxuIikpLmNvbXBvc2UoKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xkZGUubG9nKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PT4g</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
+      <register name="4" type="4">
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PT4g</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICk7Cg==</text>
+      <register name="7" type="4">
+        <text>compose()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCdDb21wbGV0ZWQnKTsKICAgICAgICAgIGNsb3NlTW9uZ29vc2UoKTsK</text>
+      <register name="8" type="4">
+        <text>=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICgpID0+IHsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>91</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -327,7 +337,6 @@
         <entry>retries request</entry>
       </history-search>
       <history-cmd>
-        <entry>45</entry>
         <entry>50</entry>
         <entry>1</entry>
         <entry>14</entry>
@@ -345,8 +354,9 @@
         <entry>97</entry>
         <entry>20</entry>
         <entry>56</entry>
-        <entry>w</entry>
         <entry>91</entry>
+        <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
