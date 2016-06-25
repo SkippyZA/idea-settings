@@ -9,10 +9,10 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466889067516">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466891331543">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
         <mark key="]" line="6" column="47" />
@@ -86,6 +86,12 @@
         <mark key="]" line="18" column="44" />
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="44" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionDriverResult.scala" timestamp="1466891346542">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
         <mark key="'" line="0" column="0" />
@@ -260,11 +266,11 @@
       <jump line="42" column="17" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.map(explodeCsvRow)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>.map(explodeCsvRow)</text>
       </register>
       <register name="/" type="4">
         <text>retries request</text>
@@ -272,35 +278,35 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>.map(explodeCsvRow)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMuZm9yZWFjaChfLmZvcmVhY2gocHJpbnRsbihfKSkpCgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWFkZXJzID0gZXhwbG9kZUNzdlJvdy5jb21wb3NlKF8uc3BsaXQoIlxuIikpLmNvbXBvc2UoKQo=</text>
+      <register name="3" type="4">
+        <text>println(_))</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>4</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PT4g</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBoZWFkZXJzID0gZXhwbG9kZUNzdlJvdy5jb21wb3NlKF8uc3BsaXQoIlxuIikpLmNvbXBvc2UoKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>compose()</text>
+        <text encoding="base64">PT4g</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
