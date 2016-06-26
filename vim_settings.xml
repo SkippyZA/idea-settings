@@ -9,11 +9,12 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466898658135">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="22" column="34" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466900447541">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="26" />
+        <mark key="m" line="26" column="32" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
         <mark key="]" line="6" column="47" />
@@ -278,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.get</text>
+        <text>&quot;).</text>
       </register>
       <register name="-" type="4">
-        <text>.get</text>
+        <text>&quot;).</text>
       </register>
       <register name="/" type="4">
         <text>splitOn</text>
@@ -290,34 +291,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text>.get</text>
+        <text>&quot;).</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgaGVhZGVycy5mb3JlYWNoKHByaW50bG4oXykpCi8vICAgIG5ldyBTZXNzaW9uUmVzdWx0KHN0YXJ0VGltZSwgaGVhZGVycygxKSwgaGVhZGVycygyKSwgaGVhZGVycyg3KS50b0ludCwgbnVsbCkK</text>
+      <register name="2" type="4">
+        <text>n</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
+        <text>\</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>Some</text>
+        <text>(&quot;\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oaGVhZGVycykK</text>
+      <register name="6" type="4">
+        <text>split</text>
       </register>
       <register name="7" type="4">
-        <text>, raceResults</text>
+        <text>&quot;\r\n&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+      <register name="8" type="4">
+        <text>.get</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
+        <text encoding="base64">Ly8gICAgaGVhZGVycy5mb3JlYWNoKHByaW50bG4oXykpCi8vICAgIG5ldyBTZXNzaW9uUmVzdWx0KHN0YXJ0VGltZSwgaGVhZGVycygxKSwgaGVhZGVycygyKSwgaGVhZGVycyg3KS50b0ludCwgbnVsbCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
