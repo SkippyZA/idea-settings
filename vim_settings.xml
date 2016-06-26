@@ -9,17 +9,20 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466900447541">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="26" />
-        <mark key="m" line="26" column="32" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="21" column="48" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466962956011">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
         <mark key="]" line="6" column="47" />
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/parser/SessionResultParserTest.scala" timestamp="1466962904122">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466506597455">
         <mark key="'" line="20" column="32" />
@@ -60,10 +63,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466898087555">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466962716268">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="61" column="42" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466580654374">
         <mark key="'" line="42" column="17" />
@@ -99,17 +103,17 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionDriverResult.scala" timestamp="1466960817321">
-        <mark key="[" line="57" column="22" />
-        <mark key="]" line="56" column="28" />
-        <mark key="^" line="56" column="28" />
-        <mark key="." line="56" column="28" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466961923772">
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466960708727">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="20" />
-        <mark key="^" line="22" column="20" />
-        <mark key="." line="22" column="20" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/iRacingCredentials.scala" timestamp="1466961964179">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
         <mark key="'" line="0" column="0" />
@@ -123,6 +127,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="^" line="33" column="9" />
         <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/parser/SessionResultParser.scala" timestamp="1466962748521">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="21" column="33" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1464937634612">
         <mark key="'" line="4" column="40" />
@@ -141,29 +151,23 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/SessionResultTest.scala" timestamp="1466898666128">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466959867715">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="56" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="12" column="56" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
-        <mark key="'" line="13" column="1" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466599953857">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1466579977176">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464937737529">
         <mark key="'" line="11" column="5" />
@@ -178,6 +182,9 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="100" column="32" />
+      </file>
+      <file name="/fragment.java" timestamp="1466962258878">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1466665121336">
         <mark key="'" line="27" column="13" />
@@ -290,11 +297,11 @@
       <jump line="6" column="6" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGZvciByYWNlLg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZvciByYWNlLg==</text>
+        <text>}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>splitOn</text>
@@ -302,38 +309,38 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGZvciByYWNlLg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bWFpbiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">Ly8gVW5jb21tZW50IHRvIHVzZSBBa2thCi8vbGlicmFyeURlcGVuZGVuY2llcyArPSAiY29tLnR5cGVzYWZlLmFra2EiICUlICJha2thLWFjdG9yIiAlICIyLjMuMTEiCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>}&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>Array</text>
+        <text>latestVersion</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHN0YXJ0aW5nR3JpZA==</text>
+        <text>{</text>
       </register>
       <register name="7" type="4">
-        <text>List</text>
+        <text encoding="base64">anNvbjRzTmF0aXZlIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJmaW5pc2hQb3MiOiAyMywKICAgICJncm91cGlkIjogMjAyMzY4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>49</text>
+        <text>24</text>
       </register>
     </registers>
     <search>
@@ -367,14 +374,12 @@
         <entry>splitOn</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
         <entry>61</entry>
         <entry>q</entry>
         <entry>40</entry>
         <entry>51</entry>
         <entry>86</entry>
         <entry>5</entry>
-        <entry>24</entry>
         <entry>8</entry>
         <entry>43</entry>
         <entry>97</entry>
@@ -387,6 +392,8 @@
         <entry>3</entry>
         <entry>22</entry>
         <entry>49</entry>
+        <entry>4</entry>
+        <entry>24</entry>
       </history-cmd>
       <history-expr />
       <history-input />
