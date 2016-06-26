@@ -99,11 +99,17 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionDriverResult.scala" timestamp="1466897021847">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionDriverResult.scala" timestamp="1466960817321">
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="56" column="28" />
+        <mark key="^" line="56" column="28" />
+        <mark key="." line="56" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466960708727">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="22" column="20" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
         <mark key="'" line="0" column="0" />
@@ -140,6 +146,12 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466959867715">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="12" column="56" />
+        <mark key="." line="12" column="56" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
         <mark key="'" line="13" column="1" />
@@ -279,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;).</text>
+        <text encoding="base64">IGZvciByYWNlLg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;).</text>
+        <text encoding="base64">IGZvciByYWNlLg==</text>
       </register>
       <register name="/" type="4">
         <text>splitOn</text>
@@ -291,37 +303,37 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;).</text>
+        <text encoding="base64">IGZvciByYWNlLg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text encoding="base64">bWFpbiA=</text>
       </register>
-      <register name="3" type="4">
-        <text>\</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="5" type="4">
-        <text>(&quot;\</text>
+        <text>Array</text>
       </register>
       <register name="6" type="4">
-        <text>split</text>
+        <text encoding="base64">IHN0YXJ0aW5nR3JpZA==</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;\r\n&quot;</text>
+        <text>List</text>
       </register>
-      <register name="8" type="4">
-        <text>.get</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgaGVhZGVycy5mb3JlYWNoKHByaW50bG4oXykpCi8vICAgIG5ldyBTZXNzaW9uUmVzdWx0KHN0YXJ0VGltZSwgaGVhZGVycygxKSwgaGVhZGVycygyKSwgaGVhZGVycyg3KS50b0ludCwgbnVsbCkK</text>
+        <text encoding="base64">ICAgICJmaW5pc2hQb3MiOiAyMywKICAgICJncm91cGlkIjogMjAyMzY4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>49</text>
       </register>
     </registers>
     <search>
@@ -355,11 +367,8 @@
         <entry>splitOn</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
-        <entry>14</entry>
         <entry>4</entry>
         <entry>61</entry>
-        <entry>49</entry>
         <entry>q</entry>
         <entry>40</entry>
         <entry>51</entry>
@@ -375,6 +384,9 @@
         <entry>10</entry>
         <entry>t.</entry>
         <entry>w</entry>
+        <entry>3</entry>
+        <entry>22</entry>
+        <entry>49</entry>
       </history-cmd>
       <history-expr />
       <history-input />
