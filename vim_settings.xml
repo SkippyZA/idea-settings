@@ -9,10 +9,11 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466891331543">
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="15" column="41" />
-        <mark key="." line="15" column="41" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1466898658135">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
         <mark key="]" line="6" column="47" />
@@ -25,6 +26,11 @@
         <mark key="]" line="72" column="54" />
         <mark key="." line="72" column="54" />
         <mark key="^" line="72" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapTime.scala" timestamp="1466892297466">
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466595435129">
         <mark key="'" line="28" column="42" />
@@ -52,6 +58,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466898087555">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466580654374">
         <mark key="'" line="42" column="17" />
@@ -87,11 +98,11 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionDriverResult.scala" timestamp="1466891346542">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="48" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionDriverResult.scala" timestamp="1466897021847">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
         <mark key="'" line="0" column="0" />
@@ -123,11 +134,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/SessionResultTest.scala" timestamp="1466889730315">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="69" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/SessionResultTest.scala" timestamp="1466898666128">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1466579863107">
         <mark key="'" line="13" column="1" />
@@ -164,9 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
-      <jump line="188" column="11" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
-      <jump line="244" column="30" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="11" column="5" filename="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" />
       <jump line="159" column="9" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
@@ -264,64 +272,66 @@
       <jump line="98" column="20" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="120" column="23" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="42" column="17" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
+      <jump line="21" column="124" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
+      <jump line="13" column="22" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
+      <jump line="6" column="6" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.map(explodeCsvRow)</text>
+        <text>.get</text>
       </register>
       <register name="-" type="4">
-        <text>.map(explodeCsvRow)</text>
+        <text>.get</text>
       </register>
       <register name="/" type="4">
-        <text>retries request</text>
+        <text>splitOn</text>
       </register>
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text>.map(explodeCsvRow)</text>
+        <text>.get</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMuZm9yZWFjaChfLmZvcmVhY2gocHJpbnRsbihfKSkpCgo=</text>
+        <text encoding="base64">Ly8gICAgaGVhZGVycy5mb3JlYWNoKHByaW50bG4oXykpCi8vICAgIG5ldyBTZXNzaW9uUmVzdWx0KHN0YXJ0VGltZSwgaGVhZGVycygxKSwgaGVhZGVycygyKSwgaGVhZGVycyg3KS50b0ludCwgbnVsbCkK</text>
       </register>
       <register name="3" type="4">
-        <text>println(_))</text>
+        <text>]</text>
       </register>
       <register name="4" type="4">
-        <text>4</text>
+        <text>[</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Some</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdHMgPSBjc3Yuc3BsaXQoIlxuIikuZHJvcCg0KS5tYXAoZXhwbG9kZUNzdlJvdykK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaGVhZGVycykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWFkZXJzID0gZXhwbG9kZUNzdlJvdy5jb21wb3NlKF8uc3BsaXQoIlxuIikpLmNvbXBvc2UoKQo=</text>
+      <register name="7" type="4">
+        <text>, raceResults</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PT4g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAoK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>retries request</last-search>
+      <last-search>splitOn</last-search>
       <last-offset />
-      <last-pattern>retries request</last-pattern>
+      <last-pattern>splitOn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>creates new off</entry>
         <entry>console</entry>
         <entry>findContact</entry>
@@ -341,9 +351,9 @@
         <entry>'get</entry>
         <entry>fit</entry>
         <entry>retries request</entry>
+        <entry>splitOn</entry>
       </history-search>
       <history-cmd>
-        <entry>50</entry>
         <entry>1</entry>
         <entry>14</entry>
         <entry>4</entry>
@@ -361,6 +371,7 @@
         <entry>20</entry>
         <entry>56</entry>
         <entry>91</entry>
+        <entry>10</entry>
         <entry>t.</entry>
         <entry>w</entry>
       </history-cmd>
