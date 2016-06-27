@@ -16,11 +16,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="97" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" timestamp="1466757892456">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="48" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" timestamp="1467012003834">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466506597455">
         <mark key="'" line="20" column="32" />
@@ -49,11 +48,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="186" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1466757927200">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1467011666109">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
         <mark key="'" line="29" column="7" />
@@ -82,12 +81,12 @@
         <mark key="." line="116" column="5" />
         <mark key="^" line="116" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/main.js" timestamp="1467009270534">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/main.js" timestamp="1467010337477">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="62" column="1" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+        <mark key="^" line="51" column="17" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1467009460618" />
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466498755063">
@@ -170,11 +169,24 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="33" column="16" />
+        <mark key="." line="26" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1467009383080">
         <mark key="[" line="51" column="2" />
         <mark key="]" line="51" column="2" />
         <mark key="." line="51" column="2" />
         <mark key="^" line="78" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embed-player.js" timestamp="1467011298248">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466489856679">
         <mark key="[" line="108" column="3" />
@@ -223,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="92" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="154" column="15" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
@@ -323,64 +334,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" />
       <jump line="46" column="0" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/src/main.js" />
       <jump line="82" column="2" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embed-player.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>retries request</text>
+        <text>clip</text>
       </register>
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuUExBWUlORykgewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IG9uY2xpY2s9ImVtYmVkUGxheWVyLnN0b3AoKSI=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50U3RhdGUgPSBQbGF5ZXJTdGF0ZS5QQVVTRUQ7CiAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IG9uY2xpY2s9ImVtYmVkUGxheWVyLnBhdXNlKCki</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuUExBWUlORykgewo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text>onclick=&quot;embedPlayer.play()&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRoaXMucGF1c2UoKTsK</text>
+        <text encoding="base64">ICAiYXV0aG9yIjogIlN0ZXZlbiBJbnNraXAgPHN0ZXZlbkBub25hY3JlYXRpdmUuY29tPiIsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuU1RPUFBFRCB8fCB0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuUEFVU0VEKSB7CiAgICAgIHRoaXMuY3VycmVudFN0YXRlID0gUGxheWVyU3RhdGUuUExBWUlORzsK</text>
+      <register name="7" type="4">
+        <text>ISC</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFN0YXRlID0gUGxheWVyU3RhdGUuU1RPUFBFRDsK</text>
+      <register name="8" type="4">
+        <text>clip</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>retries request</last-search>
+      <last-search>clip</last-search>
       <last-offset />
-      <last-pattern>retries request</last-pattern>
+      <last-pattern>clip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>creates new off</entry>
         <entry>console</entry>
         <entry>findContact</entry>
@@ -400,13 +411,13 @@
         <entry>'get</entry>
         <entry>fit</entry>
         <entry>retries request</entry>
+        <entry>clip</entry>
       </history-search>
       <history-cmd>
         <entry>!2</entry>
         <entry>7</entry>
         <entry>wq</entry>
         <entry>3</entry>
-        <entry>11</entry>
         <entry>.,.+112</entry>
         <entry>12</entry>
         <entry>8</entry>
@@ -419,9 +430,10 @@
         <entry>2</entry>
         <entry>30</entry>
         <entry>89</entry>
-        <entry>1</entry>
         <entry>t.</entry>
         <entry>w</entry>
+        <entry>11</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
