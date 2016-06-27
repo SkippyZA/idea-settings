@@ -9,6 +9,7 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/index.js" timestamp="1467009733043" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466159498662">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -81,13 +82,14 @@
         <mark key="." line="116" column="5" />
         <mark key="^" line="116" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/main.js" timestamp="1466757852473">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="79" column="35" />
-        <mark key="]" line="80" column="1" />
-        <mark key="^" line="80" column="1" />
-        <mark key="." line="80" column="1" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/main.js" timestamp="1467009270534">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="56" column="49" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="62" column="1" />
+        <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1467009460618" />
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466498755063">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="18" column="43" />
@@ -168,7 +170,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1466164748456">
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1467009383080">
         <mark key="[" line="51" column="2" />
         <mark key="]" line="51" column="2" />
         <mark key="." line="51" column="2" />
@@ -324,7 +326,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHs=</text>
@@ -336,34 +338,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0cy5oYW5kbGVyKCcnLCAnJywgKGEsIGIpID0+IHtjb25zb2xlLmxvZyhhLCBiKTt9KQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuUExBWUlORykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50U3RhdGUgPSBQbGF5ZXJTdGF0ZS5QQVVTRUQ7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuUExBWUlORykgewo=</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRoaXMucGF1c2UoKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>function</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuU1RPUFBFRCB8fCB0aGlzLmN1cnJlbnRTdGF0ZSA9PT0gUGxheWVyU3RhdGUuUEFVU0VEKSB7CiAgICAgIHRoaXMuY3VycmVudFN0YXRlID0gUGxheWVyU3RhdGUuUExBWUlORzsK</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFN0YXRlID0gUGxheWVyU3RhdGUuU1RPUFBFRDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
