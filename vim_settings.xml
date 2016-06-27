@@ -87,10 +87,11 @@
         <mark key="^" line="33" column="9" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467030602777">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="44" />
+      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467046260173">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
@@ -381,7 +382,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3Q6ICd2YWx1ZScsCg==</text>
+        <text encoding="base64">ICAgICJzdHJlYW0tdG8tcHJvbWlzZSI6ICJeMS4xLjEiCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LS1oYXJtb255LXByb3hpZXMg</text>
@@ -393,28 +394,28 @@
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3Q6ICd2YWx1ZScsCg==</text>
+        <text encoding="base64">ICAgICJzdHJlYW0tdG8tcHJvbWlzZSI6ICJeMS4xLjEiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LS1oYXJtb255LXByb3hpZXMg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRlc3Q6ICd2YWx1ZScsCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>--harmony-proxies</text>
-      </register>
-      <register name="5" type="4">
-        <text />
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">LS1oYXJtb255LXByb3hpZXMg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>--harmony-proxies</text>
+      </register>
+      <register name="6" type="4">
+        <text />
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">LS1oYXJtb255LXByb3hpZXMg</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -423,7 +424,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -473,10 +474,10 @@
         <entry>8</entry>
         <entry>t.</entry>
         <entry>13</entry>
-        <entry>w</entry>
         <entry>1</entry>
         <entry>2</entry>
         <entry>3</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
