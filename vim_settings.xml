@@ -86,9 +86,11 @@
         <mark key="." line="116" column="5" />
         <mark key="^" line="116" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/main.js" timestamp="1467023891998">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="25" column="59" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/main.js" timestamp="1467025708699">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1467009460618" />
       <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466498755063">
@@ -334,8 +336,8 @@
       <jump line="38" column="73" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhcnQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhcnQg</text>
@@ -346,35 +348,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c3RhcnQg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgLy8gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignYnV0dG9uW2RhdGEtYWN0aW9uPSJwbGF5Il0nKS5vbmNsaWNrID0gZnVuY3Rpb24gKCkgeyBlbWJlZFBsYXllci5wbGF5KCk7IH07CiAgLy8gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignYnV0dG9uW2RhdGEtYWN0aW9uPSJwYXVzZSJdJykub25jbGljayA9IGZ1bmN0aW9uICgpIHsgZW1iZWRQbGF5ZXIucGF1c2UoKTsgfTsKICAvLyBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCdidXR0b25bZGF0YS1hY3Rpb249InN0b3AiXScpLm9uY2xpY2sgPSBmdW5jdGlvbiAoKSB7IGVtYmVkUGxheWVyLnN0b3AoKTsgfTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">c3RhcnQg</text>
       </register>
-      <register name="3" type="4">
-        <text>pause</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgLy8gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignYnV0dG9uW2RhdGEtYWN0aW9uPSJwbGF5Il0nKS5vbmNsaWNrID0gZnVuY3Rpb24gKCkgeyBlbWJlZFBsYXllci5wbGF5KCk7IH07CiAgLy8gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignYnV0dG9uW2RhdGEtYWN0aW9uPSJwYXVzZSJdJykub25jbGljayA9IGZ1bmN0aW9uICgpIHsgZW1iZWRQbGF5ZXIucGF1c2UoKTsgfTsKICAvLyBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCdidXR0b25bZGF0YS1hY3Rpb249InN0b3AiXScpLm9uY2xpY2sgPSBmdW5jdGlvbiAoKSB7IGVtYmVkUGxheWVyLnN0b3AoKTsgfTsK</text>
       </register>
       <register name="4" type="4">
         <text>pause</text>
       </register>
       <register name="5" type="4">
-        <text>play</text>
+        <text>pause</text>
       </register>
       <register name="6" type="4">
         <text>play</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text>play</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>function</text>
-      </register>
       <register name="9" type="4">
-        <text>/*fun code to run*/})</text>
+        <text>function</text>
       </register>
       <register name=":" type="4">
         <text>t.</text>
