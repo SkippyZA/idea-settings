@@ -14,12 +14,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/test.js" timestamp="1466578081510">
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/parser/SessionResultParserTest.scala" timestamp="1466962904122">
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/parser/SessionResultParserTest.scala" timestamp="1467130969021">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -31,10 +26,11 @@
         <mark key="." line="72" column="54" />
         <mark key="^" line="72" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapTime.scala" timestamp="1466892297466">
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="2" column="28" />
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapTime.scala" timestamp="1467133048862">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466595435129">
         <mark key="'" line="28" column="42" />
@@ -138,16 +134,6 @@
         <mark key="." line="60" column="43" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/source-factory.js" timestamp="1466500342357">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -159,6 +145,12 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/LapTimeTest.scala" timestamp="1467132398722">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466599953857">
         <mark key="[" line="39" column="0" />
@@ -180,7 +172,7 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="100" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1466962258878">
+      <file name="/fragment.java" timestamp="1467130884350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1466665121336">
@@ -294,11 +286,11 @@
       <jump line="6" column="6" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAvKioKICAgICogRXhwbG9kZSBhIGNzdiByb3cgb24gLCBhbmQgcmVtb3ZlIGFsbCAiLgogICAgKiAKICAgICogQHJldHVybgogICAgKi8KICBwcml2YXRlIGRlZiBleHBsb2RlQ3N2Um93OiBTdHJpbmcgPT4gQXJyYXlbU3RyaW5nXSA9IF8uc3BsaXQoIiwiKS5tYXAoXy5yZXBsYWNlKCJcIiIsICIiKSkK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>splitOn</text>
@@ -306,38 +298,38 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAvKioKICAgICogRXhwbG9kZSBhIGNzdiByb3cgb24gLCBhbmQgcmVtb3ZlIGFsbCAiLgogICAgKiAKICAgICogQHJldHVybgogICAgKi8KICBwcml2YXRlIGRlZiBleHBsb2RlQ3N2Um93OiBTdHJpbmcgPT4gQXJyYXlbU3RyaW5nXSA9IF8uc3BsaXQoIiwiKS5tYXAoXy5yZXBsYWNlKCJcIiIsICIiKSkK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>val</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">Ly8gICAgdGhpcyhsYXBUaW1lLnRvSW50KQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvKioKICAgICogCg==</text>
+      <register name="4" type="4">
+        <text>()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHZhbCBsYXBUaW1lID0gbmV3IExhcFRpbWUoMTM4NTQ0KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gVW5jb21tZW50IHRvIHVzZSBBa2thCi8vbGlicmFyeURlcGVuZGVuY2llcyArPSAiY29tLnR5cGVzYWZlLmFra2EiICUlICJha2thLWFjdG9yIiAlICIyLjMuMTEiCg==</text>
+      <register name="7" type="4">
+        <text>&quot;2:18.544&quot;)</text>
       </register>
       <register name="8" type="4">
-        <text>}&quot;</text>
+        <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>latestVersion</text>
+        <text>Int</text>
       </register>
       <register name=":" type="4">
-        <text>8</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -383,14 +375,14 @@
         <entry>56</entry>
         <entry>91</entry>
         <entry>10</entry>
-        <entry>t.</entry>
-        <entry>w</entry>
         <entry>3</entry>
         <entry>22</entry>
         <entry>49</entry>
         <entry>4</entry>
         <entry>24</entry>
         <entry>8</entry>
+        <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
