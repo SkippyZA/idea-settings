@@ -245,12 +245,12 @@
         <mark key="^" line="80" column="2" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467202784723">
+      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467204071432">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="57" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="35" />
+        <mark key="^" line="42" column="54" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
         <mark key="[" line="23" column="8" />
@@ -426,11 +426,11 @@
       <jump line="36" column="0" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>500</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
@@ -438,35 +438,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>500</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>400</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc3Qgc2VuZFJlc3BvbnNlID0gUi5jb21wb3NlKFIuY3VycnlOKDEsIHJlcy5zZW5kKSwgZXJyb3JSZXNwb25zZSk7CiAgICAgIHNlbmRSZXNwb25zZShlcnJvcik7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LCA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>next</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLy8gRnVuY3Rpb24gdGhhdCBzZW5kcyB0aGUgZXJyb3IgcmVzcG9uc2UK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">TWV0aG9kIA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gbmV4dCgpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVzLnNlbmQoZXJyb3JSZXNwb25zZShlcnJvcikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
