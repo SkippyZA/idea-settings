@@ -34,6 +34,11 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1467196844015">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/iframe.js" timestamp="1467103280620">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="14" />
@@ -191,11 +196,11 @@
         <mark key="." line="72" column="54" />
         <mark key="^" line="72" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467188697012">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="9" column="54" />
+      <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467198318378">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+        <mark key="^" line="10" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
         <mark key="'" line="29" column="7" />
@@ -239,12 +244,12 @@
         <mark key="^" line="80" column="2" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467195172975">
+      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467196791311">
         <mark key="'" line="63" column="5" />
-        <mark key="[" line="69" column="14" />
-        <mark key="]" line="69" column="31" />
-        <mark key="^" line="69" column="31" />
-        <mark key="." line="69" column="31" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="37" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="60" column="37" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
         <mark key="[" line="23" column="8" />
@@ -264,12 +269,12 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1467191567660">
+      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1467198563380">
         <mark key="'" line="30" column="84" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="2" />
-        <mark key="^" line="21" column="2" />
+        <mark key="[" line="49" column="107" />
+        <mark key="]" line="49" column="58" />
+        <mark key="." line="49" column="58" />
+        <mark key="^" line="49" column="58" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1464937634612">
         <mark key="'" line="4" column="40" />
@@ -420,11 +425,11 @@
       <jump line="63" column="5" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jywg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>util</text>
@@ -432,35 +437,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Jywg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>abasdfasdf</text>
-      </register>
-      <register name="3" type="4">
-        <text>('</text>
-      </register>
-      <register name="4" type="4">
-        <text>setHeader</text>
-      </register>
-      <register name="5" type="4">
         <text>.</text>
       </register>
-      <register name="6" type="4">
-        <text>res</text>
+      <register name="3" type="4">
+        <text>, abc: {}, { 'new': true }}))</text>
+      </register>
+      <register name="4" type="4">
+        <text>}</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAuZmxhdE1hcCgpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>do</text>
+        <text encoding="base64">KSwg</text>
       </register>
       <register name="8" type="4">
-        <text>]</text>
+        <text>BASE_PATH</text>
       </register>
       <register name="9" type="4">
-        <text>.subscribe(requestSink(req, res, next));</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -511,11 +516,11 @@
         <entry>7</entry>
         <entry>56</entry>
         <entry>55</entry>
-        <entry>1</entry>
         <entry>64</entry>
         <entry>66</entry>
         <entry>67</entry>
         <entry>t.</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
