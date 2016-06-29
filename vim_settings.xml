@@ -86,12 +86,6 @@
         <mark key="^" line="33" column="9" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467110587053">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
         <mark key="]" line="26" column="3" />
@@ -178,6 +172,11 @@
         <mark key="." line="72" column="54" />
         <mark key="^" line="72" column="54" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467185926075">
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
         <mark key="'" line="29" column="7" />
         <mark key="[" line="25" column="0" />
@@ -185,6 +184,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/spec/unit/models/CrowdCasterMedia-spec.js" timestamp="1467185369873" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -242,11 +242,11 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1467110200238">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="29" column="22" />
+      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1467185980178">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="64" />
+        <mark key="." line="39" column="64" />
+        <mark key="^" line="39" column="64" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1464937634612">
         <mark key="'" line="4" column="40" />
@@ -397,11 +397,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Development/embed-service/src/controller/helloworld.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>stream</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>stream</text>
       </register>
       <register name="/" type="4">
         <text>success</text>
@@ -409,38 +409,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
+      <register name="1" type="4">
+        <text>stream</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5kbyhjb25zb2xlLmxvZykK</text>
+        <text encoding="base64">ZGQKCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5maW5kQnlJZChyZXEucGFyYW1zLmVtYmVkSWQpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBjb25zdCBtZWRpYSA9IG5ldyBDcm93ZENhc3Rlck1lZGlhKHsKICAgIHNvdXJjZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3QnLAogICAgdGh1bWJuYWlsOiAnaHR0cDovL2xvY2FsaG9zdCcsCiAgICB3YXZlZm9ybTogWzEsIDIsIDNdLAogICAgdGl0bGU6ICdUZXN0IGNhc3QnLAogICAgYXV0aG9yOiAnSm9obiBEb2UnLAogICAgZGVzY3JpcHRpb246ICdBIHRlc3QgZGVzY3JpcHRpb24nLAogICAgcHVibGlzaGVkQXQ6IG5ldyBEYXRlKCcyMDE2LTA2LTI4VDAwOjAwOjAwWicpCiAgfSk7CgogIG1lZGlhLnNhdmUoKTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBsZXRlOiAoKSA9PiB7fQo=</text>
+      <register name="5" type="4">
+        <text>rx.Observable.fromStream(CrowdCasterMedia.find().stream());</text>
       </register>
-      <register name="6" type="4">
-        <text>R.curryN(1, res.send),</text>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cmVzcG9uc2UgPT4gewogICAgICByZXMuc2VuZCh7CiAgICAgICAgZGF0YTogZW1iZWQKICAgICAgfSk7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVzcG9uc2UgPT4gewogICAgICByZXMuc2VuZCh7CiAgICAgICAgZGF0YTogZW1iZWQKICAgICAgfSk7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZW1iZWQg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
@@ -478,9 +478,7 @@
         <entry>8</entry>
         <entry>15</entry>
         <entry>35</entry>
-        <entry>3</entry>
         <entry>6</entry>
-        <entry>4</entry>
         <entry>23</entry>
         <entry>38</entry>
         <entry>10</entry>
@@ -493,7 +491,9 @@
         <entry>24</entry>
         <entry>41</entry>
         <entry>12</entry>
+        <entry>3</entry>
         <entry>w</entry>
+        <entry>4</entry>
       </history-cmd>
       <history-expr />
       <history-input />
