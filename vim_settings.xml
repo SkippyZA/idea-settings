@@ -239,10 +239,12 @@
         <mark key="^" line="80" column="2" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467191717698">
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467195172975">
+        <mark key="'" line="63" column="5" />
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="69" column="31" />
+        <mark key="^" line="69" column="31" />
+        <mark key="." line="69" column="31" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
         <mark key="[" line="23" column="8" />
@@ -316,10 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="37" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
-      <jump line="61" column="2" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="50" column="91" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="70" column="12" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="73" column="26" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="75" column="48" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="82" column="38" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
@@ -416,13 +414,17 @@
       <jump line="34" column="84" filename="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Development/embed-service/src/app.js" />
       <jump line="2" column="22" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
+      <jump line="54" column="43" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
+      <jump line="65" column="10" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
+      <jump line="66" column="43" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
+      <jump line="63" column="5" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5kbyhlbWJlZCA9PiByZXMuaGVhZGVyc1snTG9jYXRpb24nXSA9IGVtYmVkLmlkKQogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyA=</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="/" type="4">
         <text>util</text>
@@ -430,35 +432,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC5kbyhlbWJlZCA9PiByZXMuaGVhZGVyc1snTG9jYXRpb24nXSA9IGVtYmVkLmlkKQogICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>abasdfasdf</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">QkFTRV9VUkwg</text>
+        <text>('</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>setHeader</text>
       </register>
       <register name="5" type="4">
-        <text>config</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>OnNext</text>
+        <text>res</text>
       </register>
       <register name="7" type="4">
-        <text>et</text>
+        <text>do</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>]</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8qCgo=</text>
+      <register name="9" type="4">
+        <text>.subscribe(requestSink(req, res, next));</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -495,17 +497,11 @@
         <entry>util</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4y</entry>
-        <entry>30</entry>
-        <entry>19</entry>
-        <entry>11</entry>
-        <entry>24</entry>
         <entry>41</entry>
         <entry>12</entry>
         <entry>2</entry>
         <entry>29</entry>
         <entry>21</entry>
-        <entry>t.</entry>
         <entry>15</entry>
         <entry>4</entry>
         <entry>9</entry>
@@ -514,6 +510,12 @@
         <entry>3</entry>
         <entry>7</entry>
         <entry>56</entry>
+        <entry>55</entry>
+        <entry>1</entry>
+        <entry>64</entry>
+        <entry>66</entry>
+        <entry>67</entry>
+        <entry>t.</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
