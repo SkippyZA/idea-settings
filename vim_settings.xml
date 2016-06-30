@@ -59,11 +59,11 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/node_modules/rx/ts/rx.core.d.ts" timestamp="1467111119944" />
-      <file name="$USER_HOME$/Development/embed-service/src/lib/key-generator.js" timestamp="1467272927530">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/Development/embed-service/src/lib/key-generator.js" timestamp="1467274548381">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466580654374">
         <mark key="'" line="42" column="17" />
