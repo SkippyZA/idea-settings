@@ -22,7 +22,7 @@
         <mark key="^" line="53" column="17" />
         <mark key="." line="53" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467377724056">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467378909476">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="35" />
@@ -98,7 +98,7 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467377571510">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467379284467">
         <mark key="'" line="79" column="42" />
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="12" />
@@ -111,6 +111,7 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467379330965" />
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" timestamp="1466757675991">
         <mark key="'" line="83" column="2" />
         <mark key="[" line="89" column="4" />
@@ -216,11 +217,11 @@
         <mark key="]" line="29" column="8" />
         <mark key="." line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" timestamp="1467377058122">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="68" />
-        <mark key="^" line="39" column="39" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" timestamp="1467381171755">
+        <mark key="[" line="3" column="87" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="40" column="39" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466506597455">
         <mark key="'" line="20" column="32" />
@@ -309,6 +310,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/public/crowdCasterPlayer.js" timestamp="1467379322196" />
       <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/key-generator-spec.js" timestamp="1467276040018">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
