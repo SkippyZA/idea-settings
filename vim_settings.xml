@@ -52,10 +52,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="186" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1467016570578">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1467374768215">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="2" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/lib/key-generator.js" timestamp="1467275781008">
         <mark key="'" line="21" column="47" />
@@ -207,12 +208,6 @@
         <mark key="]" line="72" column="54" />
         <mark key="." line="72" column="54" />
         <mark key="^" line="72" column="54" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467270430142">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="10" column="63" />
-        <mark key="." line="10" column="63" />
-        <mark key="^" line="10" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
         <mark key="'" line="29" column="7" />
@@ -442,8 +437,8 @@
       <jump line="22" column="47" filename="$USER_HOME$/Development/embed-service/src/lib/key-generator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>R.compose(R.prop('key'), keyGenerator.decode)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIm5vcm1hbGl6ZSI6ICJeMC4zLjEiCiAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>R.compose(R.prop('key'), keyGenerator.decode)</text>
@@ -454,8 +449,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text>R.compose(R.prop('key'), keyGenerator.decode)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIm5vcm1hbGl6ZSI6ICJeMC4zLjEiCiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -463,26 +458,26 @@
       <register name="2" type="4">
         <text>R.compose(R.prop('key'), keyGenerator.decode)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogCiAqIEB0eXBlIHtGdW5jdGlvbn0K</text>
+      <register name="3" type="4">
+        <text>R.compose(R.prop('key'), keyGenerator.decode)</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICogCiAqIEB0eXBlIHtGdW5jdGlvbn0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAuZG8oKCkgPT4gY29uc29sZS5sb2coYXJndW1lbnRzKSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>OnNext</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAuZG9PCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>\</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuZmluZEJ5SWQgPSBpZCA9PiByeC5PYnNlcnZhYmxlCi8vICAgLmRlZmVyKCgpID0+IENyb3dkQ2FzdGVyTWVkaWEuZmluZEJ5SWQoaWQpKQovLyAgIC5tYXAocHJlcGFyZU1vbmdvb3NlUmVzcG9uc2UpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
