@@ -122,8 +122,8 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467635789814">
-        <mark key="[" line="57" column="1" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467636862095">
+        <mark key="[" line="65" column="23" />
         <mark key="]" line="57" column="1" />
         <mark key="." line="57" column="1" />
         <mark key="^" line="57" column="1" />
@@ -146,11 +146,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467635905839">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="22" column="1" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467636741040">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" timestamp="1466757675991">
         <mark key="'" line="83" column="2" />
