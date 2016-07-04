@@ -105,9 +105,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/get-url.js" timestamp="1467413364472">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/get-url.js" timestamp="1467622627083">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="35" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/styles/style.scss" timestamp="1467410614532">
         <mark key="[" line="0" column="0" />
@@ -473,7 +475,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9jbGFzc0xpc3QucG9seWZpbGwuanMnKTsK</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coJ2FzZGYnKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZnVuY3Rpb24g</text>
@@ -485,22 +487,22 @@
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9jbGFzc0xpc3QucG9seWZpbGwuanMnKTsK</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coJ2FzZGYnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+      <register name="2" type="2">
+        <text encoding="base64">cmVxdWlyZSgnLi9jbGFzc0xpc3QucG9seWZpbGwuanMnKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="4" type="4">
         <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>var</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
         <text>var</text>
