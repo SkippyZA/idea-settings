@@ -122,11 +122,10 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467629221571">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467630691116">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
         <mark key="'" line="35" column="20" />
@@ -563,7 +562,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwpjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5IRVJQSUVTKTsK</text>
       </register>
       <register name="-" type="4">
         <text>.HERPIES</text>
@@ -575,34 +574,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwpjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5IRVJQSUVTKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.HERPIES</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>HERPIES</text>
+        <text>.HERPIES</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>HERPIES</text>
       </register>
       <register name="5" type="4">
-        <text>API_URL</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>API_URL</text>
       </register>
       <register name="7" type="4">
-        <text>, options</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>, options</text>
       </register>
       <register name="9" type="4">
-        <text>get</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>t.</text>
