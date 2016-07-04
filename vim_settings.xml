@@ -122,11 +122,11 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467632983955">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="37" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467635789814">
+        <mark key="[" line="57" column="1" />
+        <mark key="]" line="57" column="1" />
+        <mark key="." line="57" column="1" />
+        <mark key="^" line="57" column="1" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
         <mark key="'" line="35" column="20" />
@@ -146,7 +146,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467633087950">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467635905839">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="22" column="1" />
         <mark key="^" line="22" column="1" />
@@ -563,10 +563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>process.env.</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>lapti</text>
@@ -575,34 +575,34 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>process.env.</text>
+        <text>function</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>function</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3Byb2Nlc3MuZW52Jzogewo=</text>
+      <register name="4" type="4">
+        <text>function</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHx8ICdcImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MVwiJw==</text>
+        <text>https://api.myjson.com/bins/4nkhx</text>
       </register>
-      <register name="6" type="4">
-        <text>HEiciwwIES</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coRU1CRURfRU5EUE9JTlQpOwoK</text>
       </register>
-      <register name="7" type="4">
-        <text>RP</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>process.env.</text>
       </register>
-      <register name="9" type="4">
-        <text>HERPIES</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -639,9 +639,6 @@
         <entry>sass</entry>
       </history-search>
       <history-cmd>
-        <entry>75</entry>
-        <entry>46</entry>
-        <entry>7</entry>
         <entry>85</entry>
         <entry>18</entry>
         <entry>32</entry>
@@ -658,6 +655,9 @@
         <entry>!</entry>
         <entry>1</entry>
         <entry>15</entry>
+        <entry>37</entry>
+        <entry>42</entry>
+        <entry>58</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
