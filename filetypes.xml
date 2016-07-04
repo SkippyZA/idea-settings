@@ -6,6 +6,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="default" type="TSLint" />
     </extensionMap>
   </component>
