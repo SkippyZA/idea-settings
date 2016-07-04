@@ -46,6 +46,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1467628459286">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="29" />
+        <mark key="." line="38" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/iframe.js" timestamp="1467103280620">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="14" />
@@ -99,11 +105,10 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467413082591">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="17" column="1" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467626946202">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/get-url.js" timestamp="1467622627083">
         <mark key="'" line="0" column="4" />
@@ -116,11 +121,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467411858323">
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="21" column="65" />
-        <mark key="." line="21" column="65" />
-        <mark key="^" line="21" column="65" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467626917521">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" timestamp="1466757675991">
         <mark key="'" line="83" column="2" />
@@ -234,11 +239,10 @@
         <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466506597455">
-        <mark key="'" line="20" column="32" />
-        <mark key="[" line="72" column="42" />
-        <mark key="]" line="72" column="54" />
-        <mark key="." line="72" column="54" />
-        <mark key="^" line="72" column="54" />
+        <mark key="[" line="73" column="42" />
+        <mark key="]" line="73" column="54" />
+        <mark key="." line="73" column="54" />
+        <mark key="^" line="73" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
         <mark key="'" line="29" column="7" />
@@ -287,12 +291,6 @@
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
-        <mark key="^" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1466147715014">
         <mark key="[" line="12" column="0" />
@@ -474,11 +472,11 @@
       <jump line="18" column="10" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gY29uc29sZS5sb2coJ2FzZGYnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>sass</text>
@@ -486,38 +484,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBFbWJlZFBsYXllci5wcm90b3R5cGUuc3RvcCA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc29sZS5sb2coJ2FzZGYnKTsK</text>
+      <register name="1" type="4">
+        <text>^</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9jbGFzc0xpc3QucG9seWZpbGwuanMnKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coVkVSU0lPTik7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+      <register name="3" type="2">
+        <text encoding="base64">fSk7Cgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>d</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBUV086ICIxKzEiLAogICJ0eXBlb2Ygd2luZG93IjogSlNPTi5zdHJpbmdpZnkoIm9iamVjdCIpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBWRVJTSU9OOiBKU09OLnN0cmluZ2lmeSgiNWZhM2I5IiksCiAgQlJPV1NFUl9TVVBQT1JUU19IVE1MNTogdHJ1ZSwK</text>
       </register>
-      <register name="6" type="4">
-        <text>var</text>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyIHdlYnBhY2sgPSByZXF1aXJlKCd3ZWJwYWNrJyk7Cm5ldyB3ZWJwYWNrLkRlZmluZVBsdWdpbih7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>var</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>var</text>
+      <register name="8" type="2">
+        <text encoding="base64">CmNvbnNvbGUubAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>var</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coJ2FzZGYnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>14</text>
       </register>
     </registers>
     <search>
@@ -551,7 +549,6 @@
         <entry>sass</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
         <entry>11</entry>
         <entry>25</entry>
         <entry>64</entry>
@@ -571,6 +568,7 @@
         <entry>17</entry>
         <entry>3</entry>
         <entry>w</entry>
+        <entry>14</entry>
       </history-cmd>
       <history-expr />
       <history-input />
