@@ -55,11 +55,13 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="186" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467621689800">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467635466699">
+        <mark key="[" line="16" column="78" />
+        <mark key="]" line="16" column="80" />
+        <mark key="." line="16" column="80" />
+        <mark key="^" line="16" column="80" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/be.doeraene/scalajs-jquery_sjs0.6_2.11/srcs/scalajs-jquery_sjs0.6_2.11-0.9.0-sources.jar!/org/scalajs/jquery/JQuery.scala" timestamp="1467635540846" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
         <mark key="'" line="29" column="7" />
         <mark key="[" line="25" column="0" />
@@ -67,10 +69,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467621696799">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467635359405">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466962716268">
         <mark key="[" line="4" column="0" />
@@ -150,16 +153,6 @@
         <mark key="]" line="60" column="43" />
         <mark key="." line="60" column="43" />
         <mark key="^" line="60" column="43" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/source-factory.js" timestamp="1466500342357">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
         <mark key="[" line="14" column="0" />
@@ -322,11 +315,11 @@
       <jump line="4" column="15" filename="$USER_HOME$/Development/iracing-scraping/test.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fastopt</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>fastopt</text>
       </register>
       <register name="/" type="4">
         <text>lapti</text>
@@ -334,38 +327,38 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>fastopt</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdCgpOiBVbml0ID0gewogICAgalF1ZXJ5KCJib2R5IikuYXBwZW5kKCI8aDE+aGVsbG8gd29ybGQ8L2gxPiIpCiAgfQo=</text>
+      <register name="2" type="4">
+        <text>World</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdCgpOiBVbml0ID0gewogICAgalF1ZXJ5KCJib2R5IikuYXBwZW5kKCI8aDE+aGVsbG8gd29ybGQ8L2gxPiIpCiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdHV0b3JpYWwud2ViYXBwLlR1dG9yaWFsQXBwKCkudGVzdCgpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">bmV3IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5lCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bmV3IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG5lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -416,9 +409,9 @@
         <entry>19</entry>
         <entry>20</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>t,</entry>
         <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
