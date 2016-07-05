@@ -26,12 +26,12 @@
         <mark key="^" line="53" column="17" />
         <mark key="." line="53" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467632515115">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="35" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467715418639">
+        <mark key="'" line="3" column="18" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
@@ -123,11 +123,11 @@
         <mark key="^" line="377" column="30" />
         <mark key="." line="377" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467701517873">
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="57" column="1" />
-        <mark key="." line="57" column="1" />
-        <mark key="^" line="57" column="1" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467715397230">
+        <mark key="[" line="75" column="70" />
+        <mark key="]" line="75" column="71" />
+        <mark key="." line="75" column="71" />
+        <mark key="^" line="75" column="71" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
         <mark key="'" line="35" column="20" />
@@ -433,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="92" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="154" column="15" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
@@ -533,58 +532,59 @@
       <jump line="4" column="15" filename="$USER_HOME$/Development/iracing-scraping/test.sc" />
       <jump line="14" column="62" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" />
+      <jump line="3" column="18" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>, { barColour: '#ff0000' });</text>
       </register>
       <register name="/" type="4">
-        <text>pauses dis</text>
+        <text>var</text>
       </register>
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>, 'max_payout</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMuY2FudmFzSGVpZ2h0ID0gMTUwOwogICAgLy8gdGhpcy5iYXJDb2xvdXIgPSAnI0U4RThFOCc7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>, 'payout</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMubWFyZ2luID0gMTsKICAgIC8vIHRoaXMuY2FudmFzV2lkdGggPSAzMDA7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>, 'payout']);</text>
+        <text>, { barColour: '#ff0000' });</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZWxvcGVyIA==</text>
+        <text>;</text>
       </register>
       <register name="7" type="4">
-        <text>234</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">YmVjb21lIA==</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="9" type="4">
-        <text>234</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name=":" type="4">
-        <text>14</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>pauses dis</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>pauses dis</last-pattern>
+      <last-pattern>var</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -600,7 +600,6 @@
         <entry>fit</entry>
         <entry>retries request</entry>
         <entry>clip</entry>
-        <entry>var</entry>
         <entry>success</entry>
         <entry>util</entry>
         <entry>httpStatus</entry>
@@ -610,19 +609,12 @@
         <entry>sound</entry>
         <entry>sass</entry>
         <entry>pauses dis</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>4</entry>
-        <entry>5</entry>
-        <entry>13</entry>
-        <entry>17</entry>
-        <entry>3</entry>
-        <entry>19</entry>
         <entry>10</entry>
         <entry>t.</entry>
         <entry>!</entry>
-        <entry>1</entry>
         <entry>15</entry>
         <entry>37</entry>
         <entry>42</entry>
@@ -632,6 +624,14 @@
         <entry>284</entry>
         <entry>w</entry>
         <entry>14</entry>
+        <entry>4</entry>
+        <entry>71</entry>
+        <entry>81</entry>
+        <entry>23</entry>
+        <entry>34</entry>
+        <entry>5</entry>
+        <entry>6</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
