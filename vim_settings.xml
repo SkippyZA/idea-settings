@@ -26,12 +26,12 @@
         <mark key="^" line="53" column="17" />
         <mark key="." line="53" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467715418639">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467721850857">
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="5" column="53" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="37" />
+        <mark key="^" line="69" column="37" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
@@ -535,11 +535,11 @@
       <jump line="3" column="18" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>, { barColour: '#ff0000' });</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -547,38 +547,38 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>x</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuY2FudmFzSGVpZ2h0ID0gMTUwOwogICAgLy8gdGhpcy5iYXJDb2xvdXIgPSAnI0U4RThFOCc7Cg==</text>
+      <register name="3" type="4">
+        <text>this.waveformData[</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMubWFyZ2luID0gMTsKICAgIC8vIHRoaXMuY2FudmFzV2lkdGggPSAzMDA7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxhcmdlc3RWYWx1ZSA9IE1hdGgubWF4LmFwcGx5KG51bGwsIHRoaXMud2F2ZWZvcm1EYXRhKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>, { barColour: '#ff0000' });</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGxhcmdlc3RWYWx1ZSA9IHRoaXMud2F2ZWZvcm1EYXRhLnJlZHVjZSgodmFsLCBhY2N1bXVsYXRvcikgPT4gewogICAgLy8gICBpZiAodmFsID4gYWNjdW11bGF0b3IpIHsKICAgIC8vICAgICByZXR1cm4gdmFsOwogICAgLy8gICB9IGVsc2UgewogICAgLy8gICAgIHJldHVybiBhY2N1bXVsYXRvcjsKICAgIC8vICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>m</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ID0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ID0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMuY2FudmFzSGVpZ2h0ID0gMTUwOwogICAgLy8gdGhpcy5iYXJDb2xvdXIgPSAnI0U4RThFOCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>61</text>
       </register>
     </registers>
     <search>
@@ -612,7 +612,6 @@
         <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry>10</entry>
         <entry>t.</entry>
         <entry>!</entry>
         <entry>15</entry>
@@ -632,6 +631,7 @@
         <entry>5</entry>
         <entry>6</entry>
         <entry>1</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
