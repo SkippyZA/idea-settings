@@ -228,11 +228,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1467702731923">
-        <mark key="[" line="282" column="33" />
-        <mark key="]" line="282" column="33" />
-        <mark key="." line="282" column="33" />
-        <mark key="^" line="282" column="38" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1467704038388">
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="251" column="102" />
       </file>
       <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1466665121336">
         <mark key="'" line="27" column="13" />
@@ -531,11 +531,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Ui5jdXJyeSgoc291cmNlTGlzdCwgYWR2ZXJ0aXNlcklkKSA9PiBSLmFueShSLnByb3BFcSgnYWR2ZXJ0aXNlcklkJywgYWR2ZXJ0aXNlcklkLCBzb3VyY2VMaXN0KSkpOw==</text>
       </register>
       <register name="/" type="4">
         <text>pauses dis</text>
@@ -543,35 +543,35 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>(</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZXMpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>not</text>
+        <text encoding="base64">Ui5jdXJyeSgoc291cmNlTGlzdCwgYWR2ZXJ0aXNlcklkKSA9PiBSLmFueShSLnByb3BFcSgnYWR2ZXJ0aXNlcklkJywgYWR2ZXJ0aXNlcklkLCBzb3VyY2VMaXN0KSkpOw==</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
-      </register>
-      <register name="5" type="4">
-        <text>R</text>
-      </register>
-      <register name="6" type="4">
         <text>)</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text>(</text>
       </register>
+      <register name="6" type="4">
+        <text>not</text>
+      </register>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>R</text>
       </register>
       <register name="9" type="4">
-        <text>R.curry</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
