@@ -16,6 +16,9 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/README.md" timestamp="1467706885317">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466595435129">
         <mark key="'" line="28" column="42" />
         <mark key="[" line="53" column="10" />
@@ -60,6 +63,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="186" column="2" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1467707771828">
+        <mark key="'" line="25" column="10" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="63" />
       </file>
       <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467472516498">
         <mark key="[" line="19" column="36" />
@@ -107,8 +117,11 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/pause.json" timestamp="1467702687045">
-        <mark key="[" line="25" column="29" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/pause.json" timestamp="1467706125018">
+        <mark key="[" line="377" column="29" />
+        <mark key="]" line="377" column="30" />
+        <mark key="^" line="377" column="30" />
+        <mark key="." line="377" column="30" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467701517873">
         <mark key="[" line="65" column="23" />
@@ -310,9 +323,6 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1467190609881">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466148939003">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="9" />
@@ -395,9 +405,6 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/src/test/scala/HelloSpec.scala" timestamp="1467481522289">
-        <mark key="[" line="5" column="3" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="15" column="61" />
@@ -423,9 +430,6 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="100" column="32" />
-      </file>
-      <file name="/fragment.java" timestamp="1467130884350">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -531,11 +535,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWxvcGVyIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">ZWxvcGVyIA==</text>
       </register>
       <register name="/" type="4">
         <text>pauses dis</text>
@@ -543,38 +547,38 @@
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWxvcGVyIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>234</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">YmVjb21lIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhc0FkdmVydGlzZXIgPQogICAgICBSLmN1cnJ5KChzb3VyY2VMaXN0LCBhZHZlcnRpc2VySWQpID0+IFIuYW55KFIucHJvcEVxKCdhZHZlcnRpc2VySWQnLCBhZHZlcnRpc2VySWQpLCBzb3VyY2VMaXN0KSk7CiAgICBjb25zdCBzb3VyY2VDb250YWlucyA9IGhhc0FkdmVydGlzZXIoc291cmNlcyk7Cg==</text>
+      <register name="4" type="4">
+        <text>234</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZXMpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ui5jdXJyeSgoc291cmNlTGlzdCwgYWR2ZXJ0aXNlcklkKSA9PiBSLmFueShSLnByb3BFcSgnYWR2ZXJ0aXNlcklkJywgYWR2ZXJ0aXNlcklkLCBzb3VyY2VMaXN0KSkpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGhhc0FkdmVydGlzZXIgPQogICAgICBSLmN1cnJ5KChzb3VyY2VMaXN0LCBhZHZlcnRpc2VySWQpID0+IFIuYW55KFIucHJvcEVxKCdhZHZlcnRpc2VySWQnLCBhZHZlcnRpc2VySWQpLCBzb3VyY2VMaXN0KSk7CiAgICBjb25zdCBzb3VyY2VDb250YWlucyA9IGhhc0FkdmVydGlzZXIoc291cmNlcyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>14</text>
       </register>
     </registers>
     <search>
@@ -614,7 +618,6 @@
         <entry>13</entry>
         <entry>17</entry>
         <entry>3</entry>
-        <entry>14</entry>
         <entry>19</entry>
         <entry>10</entry>
         <entry>t.</entry>
@@ -628,6 +631,7 @@
         <entry>254</entry>
         <entry>284</entry>
         <entry>w</entry>
+        <entry>14</entry>
       </history-cmd>
       <history-expr />
       <history-input />
