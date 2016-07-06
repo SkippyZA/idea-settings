@@ -26,12 +26,12 @@
         <mark key="^" line="53" column="17" />
         <mark key="." line="53" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467721850857">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467787207543">
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="37" />
-        <mark key="^" line="69" column="37" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
@@ -123,11 +123,12 @@
         <mark key="^" line="377" column="30" />
         <mark key="." line="377" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467715397230">
-        <mark key="[" line="75" column="70" />
-        <mark key="]" line="75" column="71" />
-        <mark key="." line="75" column="71" />
-        <mark key="^" line="75" column="71" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467787265148">
+        <mark key="'" line="45" column="14" />
+        <mark key="[" line="65" column="108" />
+        <mark key="]" line="65" column="110" />
+        <mark key="." line="65" column="110" />
+        <mark key="^" line="65" column="110" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
         <mark key="'" line="35" column="20" />
@@ -433,11 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="29" column="6" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="154" column="15" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
-      <jump line="137" column="20" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
-      <jump line="30" column="34" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="9" column="37" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="61" column="2" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="50" column="91" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
@@ -533,64 +529,68 @@
       <jump line="14" column="62" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" />
       <jump line="3" column="18" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" />
+      <jump line="62" column="46" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" />
+      <jump line="0" column="33" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" />
+      <jump line="65" column="93" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" />
+      <jump line="45" column="14" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>function</text>
       </register>
       <register name="0" type="4">
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text>]</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>x</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="3" type="4">
-        <text>this.waveformData[</text>
+        <text>;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhcmdlc3RWYWx1ZSA9IE1hdGgubWF4LmFwcGx5KG51bGwsIHRoaXMud2F2ZWZvcm1EYXRhKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
+      <register name="5" type="4">
+        <text>}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGxhcmdlc3RWYWx1ZSA9IHRoaXMud2F2ZWZvcm1EYXRhLnJlZHVjZSgodmFsLCBhY2N1bXVsYXRvcikgPT4gewogICAgLy8gICBpZiAodmFsID4gYWNjdW11bGF0b3IpIHsKICAgIC8vICAgICByZXR1cm4gdmFsOwogICAgLy8gICB9IGVsc2UgewogICAgLy8gICAgIHJldHVybiBhY2N1bXVsYXRvcjsKICAgIC8vICAgfQo=</text>
+      <register name="6" type="4">
+        <text>{</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuY2FudmFzSGVpZ2h0ID0gMTUwOwogICAgLy8gdGhpcy5iYXJDb2xvdXIgPSAnI0U4RThFOCc7Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>61</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>function</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>function</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>processPaused</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>create</entry>
@@ -610,10 +610,9 @@
         <entry>sass</entry>
         <entry>pauses dis</entry>
         <entry>var</entry>
+        <entry>function</entry>
       </history-search>
       <history-cmd>
-        <entry>t.</entry>
-        <entry>!</entry>
         <entry>15</entry>
         <entry>37</entry>
         <entry>42</entry>
@@ -621,7 +620,6 @@
         <entry>250</entry>
         <entry>254</entry>
         <entry>284</entry>
-        <entry>w</entry>
         <entry>14</entry>
         <entry>4</entry>
         <entry>71</entry>
@@ -632,6 +630,9 @@
         <entry>6</entry>
         <entry>1</entry>
         <entry>61</entry>
+        <entry>W</entry>
+        <entry>66</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
