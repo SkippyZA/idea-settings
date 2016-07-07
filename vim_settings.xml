@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/get-mongo-connection-string-spec.js" timestamp="1467894218981">
+        <mark key="[" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/embed-service/src/app.js" timestamp="1467188899154">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="21" column="11" />
@@ -189,11 +192,11 @@
         <mark key="^" line="33" column="9" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
+      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467894488678">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/parser/SessionResultParser.scala" timestamp="1467581718983">
         <mark key="[" line="45" column="116" />
@@ -354,6 +357,9 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1467190609881">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466148939003">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="9" />
@@ -367,12 +373,11 @@
         <mark key="^" line="80" column="2" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467892971549">
-        <mark key="'" line="9" column="40" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="87" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467894063829">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="65" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
         <mark key="[" line="23" column="8" />
@@ -392,11 +397,11 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1467892599433">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="6" />
+      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1467894180248">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466961923772">
         <mark key="[" line="49" column="18" />
@@ -456,6 +461,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="75" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero-scala/src/test/scala/HelloSpec.scala" timestamp="1467481522289">
+        <mark key="[" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="15" column="61" />
@@ -481,6 +489,9 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="100" column="32" />
+      </file>
+      <file name="/fragment.java" timestamp="1467130884350">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -586,11 +597,11 @@
       <jump line="9" column="40" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJtb25nb29zZSI6ICJeNC41LjIiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>embed</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>crowdCaster</text>
@@ -599,37 +610,37 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIucG9zdCgnL2VtYmVkJywgY29udHJvbGxlcnNbJ2VtYmVkJ10uY3JlYXRlRW1iZWQpOwogIHNlcnZlci5wdXQoJy9lbWJlZC86ZW1iZWRJZCcsIGNvbnRyb2xsZXJzWydlbWJlZCddLnVwZGF0ZUVtYmVkKQo=</text>
+        <text encoding="base64">ICAgICJtb25nb29zZSI6ICJeNC41LjIiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSLnBpY2soWydfaWQnLCAnc291cmNlVXJsJywgJ3RodW1ibmFpbCcsICd0aXRsZScsICdhdXRob3InLCAncHVibGlzaGVkQXQnLCAnZGVzY3JpcHRpb24nLCAnd2F2ZWZvcm0nXSk7Cgo=</text>
+        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICovCmNvbnN0IHBpY2tNZWRpYVByb3BlcnRpZXMgPQo=</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIFBpY2sgdGhlIG1lZGlhIHByb3BlcnRpZXMgd2Ugd2FudC4K</text>
+      <register name="4" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAubWFwKHByZXBhcmVNb25nb29zZVJlc3BvbnNlKTsK</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAubWFwKGRlY29kZWRLZXkpCiAgLmZsYXRNYXAoaWQgPT4gQ3Jvd2RDYXN0ZXJNZWRpYS5maW5kQnlJZChpZCkpCg==</text>
+      <register name="6" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVuYW1lS2V5cyA9IHJlcXVpcmUoJ2xpYi9yZW5hbWUta2V5cycpOwpjb25zdCBDcm93ZENhc3Rlck1lZGlhID0gcmVxdWlyZSgnbW9kZWxzL0Nyb3dkQ2FzdGVyTWVkaWEnKTsK</text>
+      <register name="7" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICkpCiAgLm1hcChwcmVwYXJlTW9uZ29vc2VSZXNwb25zZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
@@ -663,8 +674,6 @@
         <entry>crowdCaster</entry>
       </history-search>
       <history-cmd>
-        <entry>58</entry>
-        <entry>250</entry>
         <entry>254</entry>
         <entry>284</entry>
         <entry>14</entry>
@@ -683,6 +692,8 @@
         <entry>6</entry>
         <entry>24</entry>
         <entry>w</entry>
+        <entry>80</entry>
+        <entry>3</entry>
       </history-cmd>
       <history-expr />
       <history-input />
