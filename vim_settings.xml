@@ -64,7 +64,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="186" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1467712583999">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1467890876729">
         <mark key="'" line="25" column="10" />
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="63" />
@@ -337,11 +337,11 @@
         <mark key="^" line="80" column="2" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467277124657">
+      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467890908197">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
         <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
@@ -537,7 +537,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGUgYSBuZXcgZW1iZWQgb2JqZWN0LgogKgogKiBAcGFyYW0gcmVxCiAqIEBwYXJhbSByZXMKICogQHBhcmFtIG5leHQKICovCm1vZHVsZS5leHBvcnRzLmNyZWF0ZUVtYmVkID0gKHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgY29uc3Qgc2V0TG9jYXRpb25IZWFkZXIgPSBwYXRoID0+IHJlcy5zZXRIZWFkZXIoJ0xvY2F0aW9uJywgcGF0aCk7CgogIG1lZGlhUmVwb3NpdG9yeQogICAgLmNyZWF0ZUNhc3QocmVxLmJvZHkpCiAgICAuZG8oUi5jb21wb3NlKHNldExvY2F0aW9uSGVhZGVyLCBSLmNvbmNhdCgnL2VtYmVkLycpLCBSLnByb3AoJ2lkJykpKQogICAgLm1hcChjcm93ZENhc3Rlck1lZGlhT2JqKQogICAgLnN1YnNjcmliZShyZXF1ZXN0U2luayhyZXEsIHJlcywgbmV4dCkpOwp9OwoKLyoqCiAqIFVwZGF0ZSBhbiBleGlzdGluZyBlbWJlZCBvYmplY3QgYmFzZWQgb24gaXRzIGlkLgogKgogKiBAcGFyYW0gcmVxCiAqIEBwYXJhbSByZXMKICogQHBhcmFtIG5leHQKICovCm1vZHVsZS5leHBvcnRzLnVwZGF0ZUVtYmVkID0gKHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgY29uc3QgZW1iZWRJZCA9IHJlcS5wYXJhbXMuZW1iZWRJZDsKICBjb25zdCBkYXRhID0gcmVxLmJvZHk7CgogIG1lZGlhUmVwb3NpdG9yeQogICAgLnVwZGF0ZShlbWJlZElkLCBkYXRhKQogICAgLm1hcChjcm93ZENhc3Rlck1lZGlhT2JqKQogICAgLnN1YnNjcmliZShyZXF1ZXN0U2luayhyZXEsIHJlcywgbmV4dCkpOwp9Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZnVuY3Rpb24g</text>
@@ -549,7 +549,7 @@
         <text>R.compose(R.prop('id'), R.head)(contact)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGUgYSBuZXcgZW1iZWQgb2JqZWN0LgogKgogKiBAcGFyYW0gcmVxCiAqIEBwYXJhbSByZXMKICogQHBhcmFtIG5leHQKICovCm1vZHVsZS5leHBvcnRzLmNyZWF0ZUVtYmVkID0gKHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgY29uc3Qgc2V0TG9jYXRpb25IZWFkZXIgPSBwYXRoID0+IHJlcy5zZXRIZWFkZXIoJ0xvY2F0aW9uJywgcGF0aCk7CgogIG1lZGlhUmVwb3NpdG9yeQogICAgLmNyZWF0ZUNhc3QocmVxLmJvZHkpCiAgICAuZG8oUi5jb21wb3NlKHNldExvY2F0aW9uSGVhZGVyLCBSLmNvbmNhdCgnL2VtYmVkLycpLCBSLnByb3AoJ2lkJykpKQogICAgLm1hcChjcm93ZENhc3Rlck1lZGlhT2JqKQogICAgLnN1YnNjcmliZShyZXF1ZXN0U2luayhyZXEsIHJlcywgbmV4dCkpOwp9OwoKLyoqCiAqIFVwZGF0ZSBhbiBleGlzdGluZyBlbWJlZCBvYmplY3QgYmFzZWQgb24gaXRzIGlkLgogKgogKiBAcGFyYW0gcmVxCiAqIEBwYXJhbSByZXMKICogQHBhcmFtIG5leHQKICovCm1vZHVsZS5leHBvcnRzLnVwZGF0ZUVtYmVkID0gKHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgY29uc3QgZW1iZWRJZCA9IHJlcS5wYXJhbXMuZW1iZWRJZDsKICBjb25zdCBkYXRhID0gcmVxLmJvZHk7CgogIG1lZGlhUmVwb3NpdG9yeQogICAgLnVwZGF0ZShlbWJlZElkLCBkYXRhKQogICAgLm1hcChjcm93ZENhc3Rlck1lZGlhT2JqKQogICAgLnN1YnNjcmliZShyZXF1ZXN0U2luayhyZXEsIHJlcywgbmV4dCkpOwp9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -558,25 +558,25 @@
         <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>}</text>
-      </register>
-      <register name="6" type="4">
-        <text>{</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>;</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>}</text>
+      </register>
+      <register name="7" type="4">
+        <text>{</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
