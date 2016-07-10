@@ -93,7 +93,6 @@
         <mark key="." line="16" column="63" />
         <mark key="^" line="16" column="63" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/be.doeraene/scalajs-jquery_sjs0.6_2.11/srcs/scalajs-jquery_sjs0.6_2.11-0.9.0-sources.jar!/org/scalajs/jquery/JQuery.scala" timestamp="1467647109610" />
       <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467472474273">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="4" column="0" />
@@ -358,7 +357,6 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/valid-session-result.csv" timestamp="1467580248045" />
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466148939003">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="9" />
@@ -470,6 +468,7 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
+      <file name="$USER_HOME$/Development/svc-client/.gitlab-ci.yml" timestamp="1468179399692" />
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
