@@ -323,12 +323,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468233413579">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468235442764">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="20" />
-        <mark key="." line="73" column="20" />
-        <mark key="^" line="73" column="20" />
+        <mark key="[" line="77" column="34" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
         <mark key="[" line="33" column="0" />
@@ -600,8 +600,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Development/mediclinic-prime/src/importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Owo=</text>
+      <register name="&quot;" type="4">
+        <text>stack</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -618,7 +618,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>stack</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
@@ -626,35 +626,35 @@
       <register name="0" type="2">
         <text encoding="base64">fSk7aWFSZXBvc2l0b3J5ID0gcmVxdWlyZSgncmVwb3NpdG9yeS9tZWRpYS1yZXBvc2l0b3J5Jyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+      <register name="1" type="4">
+        <text>stack</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KTsg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>err</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+      <register name="6" type="4">
+        <text>error</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>console</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>system</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -708,8 +708,8 @@
         <entry encoding="base64">JzwsJz43NA==</entry>
         <entry>74</entry>
         <entry>83</entry>
-        <entry>1</entry>
         <entry>72</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
