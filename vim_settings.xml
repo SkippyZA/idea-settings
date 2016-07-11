@@ -248,7 +248,7 @@
         <mark key="." line="253" column="105" />
         <mark key="^" line="250" column="97" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1468224524244">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1468240545085">
         <mark key="'" line="64" column="4" />
         <mark key="[" line="44" column="30" />
         <mark key="]" line="29" column="0" />
@@ -323,12 +323,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468235442764">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468242026422">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="77" column="34" />
-        <mark key="]" line="77" column="44" />
-        <mark key="." line="77" column="44" />
-        <mark key="^" line="77" column="44" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
         <mark key="[" line="33" column="0" />
@@ -600,8 +600,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Development/mediclinic-prime/src/importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -626,35 +626,35 @@
       <register name="0" type="2">
         <text encoding="base64">fSk7aWFSZXBvc2l0b3J5ID0gcmVxdWlyZSgncmVwb3NpdG9yeS9tZWRpYS1yZXBvc2l0b3J5Jyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>stack</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KTsg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByeC5PYnNlcnZhYmxlLmVtcHR5KCk7CiAgfSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>err</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAuY2F0Y2goZXJyID0+IHsKICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAuZG9PbkVycm9yKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQogIC5kb09uRXJyb3IoKCkgPT4gcHJvY2Vzcy5zdGRlcnIud3JpdGUoJ0UnKSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>error</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfSkKICB9KQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzLnN0ZGVyci53cml0ZSgnRScpOwogICAgICAgIHJldHVybiByeC5PYnNlcnZhYmxlLnRpbWVyKGkgKiAxMDAwKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>console</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLnppcChhdHRlbXB0cywgUi5pZGVudGl0eSkKICAgICAgLmZsYXRNYXAoaSA9PiB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>system</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAucmV0cnlXaGVuKGF0dGVtcHRzID0+IHsKICAgIHJldHVybiByeC5PYnNlcnZhYmxlLnJhbmdlKDEsIGNvbmZpZy5NQVhfQVRURU1QVFMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
