@@ -323,11 +323,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468224819425">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="68" column="38" />
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468227733283">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="71" column="3" />
+        <mark key="]" line="71" column="9" />
+        <mark key="." line="71" column="9" />
+        <mark key="^" line="71" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
         <mark key="[" line="33" column="0" />
@@ -497,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="15" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
       <jump line="62" column="16" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="54" column="15" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
@@ -597,10 +597,11 @@
       <jump line="4" column="25" filename="$USER_HOME$/Development/mediclinic-prime-importer/src/app.js" />
       <jump line="70" column="0" filename="$USER_HOME$/Development/mediclinic-prime/src/importer.js" />
       <jump line="64" column="4" filename="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Development/mediclinic-prime/src/importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAudGFrZSgyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>concatMap</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -617,58 +618,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(sub))</text>
+        <text>concatMap</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>join</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fSk7aWFSZXBvc2l0b3J5ID0gcmVxdWlyZSgncmVwb3NpdG9yeS9tZWRpYS1yZXBvc2l0b3J5Jyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAudGFrZSgyKQo=</text>
+      <register name="1" type="4">
+        <text>concatMap</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>(sub))</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>2</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KCkg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAuZG9Pbk5leHQoY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAvLyAuY29uY2F0TWFwKGV2ZXJseXRpYy5pbnNlcnRDb250YWN0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcih4ID0+IHgubGVuZ3RoID09PSAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAuZmlsdGVyKHggPT4gUi5ub3QoUi5pc05pbCh4LnNwb3J0KSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRvQXJyYXkoKQogICAgICAuZG9Pbk5leHQoeCA9PiBjb25zb2xlLmxvZygnRm91bmQgY29udGFjdHMnLCB4KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc3BvcnQ6IFIucHJvcCgnc3BvcnQnLCBmaW5kU3BvcnQodXNlci5tZWRpY2xpbmljX2lkKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuZmxhdE1hcChzdWIgPT4gewogICAgcmV0dXJuIGV2ZXJseXRpYy5maW5kQ29udGFjdHMoc3ViLm1lZGljbGluaWNfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHVzZXJTcG9ydHMgPSBmaW5kSW50ZXJlc3QK</text>
       </register>
-      <register name="9" type="4">
-        <text>log</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fit</entry>
         <entry>retries request</entry>
         <entry>clip</entry>
         <entry>success</entry>
@@ -688,9 +688,9 @@
         <entry>image</entry>
         <entry>request</entry>
         <entry>find</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
-        <entry>19</entry>
         <entry>7</entry>
         <entry>2</entry>
         <entry>11</entry>
@@ -707,8 +707,9 @@
         <entry>73</entry>
         <entry encoding="base64">JzwsJz43NA==</entry>
         <entry>74</entry>
-        <entry>1</entry>
         <entry>83</entry>
+        <entry>1</entry>
+        <entry>72</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -738,6 +739,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
