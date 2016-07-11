@@ -143,12 +143,6 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/get-url.js" timestamp="1467622627083">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/styles/style.scss" timestamp="1467410614532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -329,11 +323,13 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468229652702">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468232038081">
+        <mark key="b" line="75" column="17" />
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="27" />
+        <mark key="." line="75" column="27" />
+        <mark key="^" line="75" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
         <mark key="[" line="33" column="0" />
@@ -605,8 +601,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Development/mediclinic-prime/src/importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAuZG9Pbk5leHQoY29uc29sZS5sb2cpCg==</text>
+      <register name="&quot;" type="4">
+        <text>console.error</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -623,7 +619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>console.error</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
@@ -631,35 +627,38 @@
       <register name="0" type="2">
         <text encoding="base64">fSk7aWFSZXBvc2l0b3J5ID0gcmVxdWlyZSgncmVwb3NpdG9yeS9tZWRpYS1yZXBvc2l0b3J5Jyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAuZG9Pbk5leHQoY29uc29sZS5sb2cpCg==</text>
+      <register name="1" type="4">
+        <text>console.error</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLyAuc3Vic2NyaWJlKCk7Cg==</text>
+      <register name="2" type="4">
+        <text>console.error</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyAuc3Vic2NyaWJlKGNvbnNvbGUubG9nLCBjb25zb2xlLmVycm9yKTsK</text>
+      <register name="3" type="4">
+        <text>rx.Observable.onErrorResumeNext(
+  rateLimit(mailerSubscriber$, 200)
+    .flatMap(everlytic.insertContact)
+    .doOnError(console.</text>
       </register>
-      <register name="4" type="4">
-        <text>log</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>console</text>
+        <text>err</text>
       </register>
       <register name="7" type="4">
-        <text>concatMap</text>
+        <text>;},</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>{</text>
       </register>
-      <register name="9" type="4">
-        <text>2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAuZG9Pbk5leHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
