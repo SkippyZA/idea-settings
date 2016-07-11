@@ -323,12 +323,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468227733283">
+      <file name="$USER_HOME$/Development/mediclinic-prime/src/importer.js" timestamp="1468228686007">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="71" column="3" />
-        <mark key="]" line="71" column="9" />
-        <mark key="." line="71" column="9" />
-        <mark key="^" line="71" column="9" />
+        <mark key="[" line="71" column="35" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+        <mark key="^" line="72" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
         <mark key="[" line="33" column="0" />
@@ -601,7 +601,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>concatMap</text>
+        <text>log</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -618,7 +618,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>concatMap</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
@@ -627,34 +627,34 @@
         <text encoding="base64">fSk7aWFSZXBvc2l0b3J5ID0gcmVxdWlyZSgncmVwb3NpdG9yeS9tZWRpYS1yZXBvc2l0b3J5Jyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>concatMap</text>
+        <text>log</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
+        <text>console</text>
+      </register>
+      <register name="4" type="4">
+        <text>concatMap</text>
+      </register>
+      <register name="5" type="4">
+        <text>1</text>
+      </register>
+      <register name="6" type="4">
         <text>2</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAuZG9Pbk5leHQoY29uc29sZS5sb2cpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAvLyAuY29uY2F0TWFwKGV2ZXJseXRpYy5pbnNlcnRDb250YWN0KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAuZmlsdGVyKHggPT4gUi5ub3QoUi5pc05pbCh4LnNwb3J0KSkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc3BvcnQ6IFIucHJvcCgnc3BvcnQnLCBmaW5kU3BvcnQodXNlci5tZWRpY2xpbmljX2lkKSksCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHVzZXJTcG9ydHMgPSBmaW5kSW50ZXJlc3QK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpOwoK</text>
+        <text encoding="base64">ICAgICAgICAvLyAuZmlsdGVyKHggPT4gUi5ub3QoUi5pc05pbCh4LnNwb3J0KSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
