@@ -68,6 +68,12 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1467628459286">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="29" />
+        <mark key="." line="38" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/iframe.js" timestamp="1467103280620">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="14" />
@@ -140,6 +146,12 @@
         <mark key="." line="48" column="89" />
         <mark key="^" line="47" column="89" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/pause.json" timestamp="1467706125018">
+        <mark key="[" line="377" column="29" />
+        <mark key="]" line="377" column="30" />
+        <mark key="^" line="377" column="30" />
+        <mark key="." line="377" column="30" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/node_modules/webpack-dev-middleware/middleware.js" timestamp="1468397561043">
         <mark key="[" line="103" column="21" />
       </file>
@@ -162,11 +174,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1468398700214">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="7" />
-        <mark key="." line="31" column="7" />
-        <mark key="^" line="31" column="7" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1468402651920">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="50" />
+        <mark key="." line="28" column="50" />
+        <mark key="^" line="28" column="50" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" timestamp="1466757675991">
         <mark key="'" line="83" column="2" />
@@ -436,10 +448,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/dev-server.js" timestamp="1468397843504">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/dev-server.js" timestamp="1468403855010">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1464937634612">
         <mark key="'" line="4" column="40" />
@@ -623,7 +636,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>target</text>
+        <text>config</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -640,7 +653,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -649,34 +662,34 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="4">
-        <text>target</text>
+        <text>config</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>https://other-server.example.com</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cod2VicGFjayhjb25maWcpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>https://other-server.example.com',</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3Qgc2VydmVyID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VjdXJlOiBmYWxzZQo=</text>
+      <register name="5" type="4">
+        <text>assets</text>
+      </register>
+      <register name="6" type="4">
+        <text>var</text>
       </register>
       <register name="7" type="4">
-        <text>path</text>
+        <text>var</text>
       </register>
-      <register name="8" type="4">
-        <text>some</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciBhcHAgPSBleHByZXNzKCk7CnZhciBwcm94eSA9IHJlcXVpcmUoJ2h0dHAtcHJveHknKTsKdmFyIHVybCA9IHJlcXVpcmUoJ3VybCcpOwphcHAudXNlKCcvYXNzZXRzJywgcHJveHkodXJsLnBhcnNlKCdodHRwOi8vbG9jYWxob3N0OjgwODEvYXNzZXRzJykpKTsKCmFwcC5nZXQoJy8qJywgZnVuY3Rpb24ocmVxLCByZXMpIHsKICByZXMuc2VuZEZpbGUoX19kaXJuYW1lICsgJy9pbmRleC5odG1sJyk7Cn0pOwphcHAubGlzdGVuKDMwMDApOwoKLy8gd2Ugc3RhcnQgYSB3ZWJwYWNrLWRldi1zZXJ2ZXIgd2l0aCBvdXIgY29uZmlnCnZhciB3ZWJwYWNrID0gcmVxdWlyZSgnd2VicGFjaycpOwp2YXIgV2VicGFja0RldlNlcnZlciA9IHJlcXVpcmUoJ3dlYnBhY2stZGV2LXNlcnZlcicpOwp2YXIgY29uZmlnID0gcmVxdWlyZSgnLi93ZWJwYWNrLmNvbmZpZy5qcycpOwoKbmV3IFdlYnBhY2tEZXZTZXJ2ZXIod2VicGFjayhjb25maWcpLCB7CiAgIGhvdDogdHJ1ZSwKICAgLy8gaGlzdG9yeUFwaUZhbGxiYWNrOiB0cnVlLAogICAvLyBwcm94eTogewogICAvLyAgICIqIjogImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIKICAgLy8gfQp9KS5saXN0ZW4oMzAwMSwgJ2xvY2FsaG9zdCcsIGZ1bmN0aW9uIChlcnIsIHJlc3VsdCkgewogICBpZiAoZXJyKSB7CiAgICAgY29uc29sZS5sb2coZXJyKTsKICAgfQoKICAgY29uc29sZS5sb2coJ0xpc3RlbmluZyBhdCBsb2NhbGhvc3Q6MzAwMScpOwp9KTsK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -713,9 +726,6 @@
         <entry>config</entry>
       </history-search>
       <history-cmd>
-        <entry>t.</entry>
-        <entry>80</entry>
-        <entry>40</entry>
         <entry>87</entry>
         <entry>90</entry>
         <entry>56</entry>
@@ -725,13 +735,16 @@
         <entry>76</entry>
         <entry>!</entry>
         <entry>14</entry>
-        <entry>1</entry>
         <entry>4</entry>
         <entry>.41</entry>
         <entry>41</entry>
         <entry>35</entry>
         <entry>106</entry>
         <entry encoding="base64">JzwsJz4x</entry>
+        <entry>1</entry>
+        <entry>t.</entry>
+        <entry>34</entry>
+        <entry>3</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
