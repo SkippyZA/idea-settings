@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/embed-service/src/app.js" timestamp="1468418335086">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="83" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Development/embed-service/src/app.js" timestamp="1468500278577">
+        <mark key="[" line="21" column="101" />
+        <mark key="]" line="21" column="100" />
+        <mark key="^" line="21" column="100" />
+        <mark key="." line="21" column="100" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/spec/unit/models/validators/crowdCaster/media-spec.js" timestamp="1467105170576">
         <mark key="[" line="40" column="0" />
@@ -229,11 +229,11 @@
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/README.md" timestamp="1467706885317">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/app.js" timestamp="1468487050012">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="21" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/app.js" timestamp="1468500349960">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="88" />
+        <mark key="." line="23" column="88" />
+        <mark key="^" line="23" column="88" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
         <mark key="[" line="0" column="0" />
@@ -529,7 +529,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>waveform</text>
+        <text>3000</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -546,7 +546,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>waveform</text>
+        <text>3000</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -555,37 +555,37 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="4">
-        <text>waveform</text>
+        <text>3000</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>waveform</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhtZWRpYUlkLCBwYXRoUGFydHMpOwoK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>${trimTrailingSlash(window.location.pathname)}`;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.pop();</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyh0cmltVHJhaWxpbmdTbGFzaCh3aW5kb3cubG9jYXRpb24ucGF0aG5hbWUpKTsKCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>);</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>23</text>
       </register>
     </registers>
     <search>
@@ -619,7 +619,6 @@
         <entry>config</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>39</entry>
         <entry>76</entry>
         <entry>!</entry>
@@ -630,7 +629,6 @@
         <entry>106</entry>
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>34</entry>
-        <entry>3</entry>
         <entry>15</entry>
         <entry>5</entry>
         <entry>1</entry>
@@ -639,6 +637,8 @@
         <entry>18</entry>
         <entry>4</entry>
         <entry>w</entry>
+        <entry>3</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
