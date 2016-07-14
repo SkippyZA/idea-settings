@@ -23,7 +23,7 @@
       <file name="/a.dummy" timestamp="1468396262440">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1468480438765">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1468483448917">
         <mark key="'" line="3" column="18" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -229,10 +229,10 @@
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/README.md" timestamp="1467706885317">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/app.js" timestamp="1468439071420">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/app.js" timestamp="1468484423212">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
@@ -252,7 +252,7 @@
         <mark key="^" line="38" column="29" />
         <mark key="." line="38" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1468439255777">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1468483945877">
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
         <mark key="." line="17" column="54" />
@@ -292,12 +292,12 @@
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/node_modules/webpack-dev-middleware/middleware.js" timestamp="1468397561043">
         <mark key="[" line="103" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1468439916944">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1468484515542">
         <mark key="'" line="35" column="61" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="74" column="16" />
+        <mark key="[" line="70" column="53" />
+        <mark key="]" line="71" column="58" />
+        <mark key="." line="71" column="58" />
+        <mark key="^" line="71" column="58" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1468418143718">
         <mark key="[" line="32" column="87" />
@@ -533,7 +533,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2015</text>
+        <text>'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -550,7 +550,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2015</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -559,34 +559,34 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="4">
-        <text>2015</text>
+        <text>'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>RyanSullivan</text>
+        <text>/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>start</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>run-script</text>
+        <text>+</text>
       </register>
       <register name="6" type="4">
-        <text>/*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>/*</text>
+        <text>2015</text>
       </register>
       <register name="8" type="4">
-        <text>false</text>
+        <text>RyanSullivan</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
