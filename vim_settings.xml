@@ -285,7 +285,7 @@
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/README.md" timestamp="1467706885317">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/app.js" timestamp="1468484423212">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/app.js" timestamp="1468487050012">
         <mark key="[" line="19" column="38" />
         <mark key="]" line="19" column="38" />
         <mark key="." line="19" column="38" />
@@ -355,12 +355,12 @@
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/node_modules/webpack-dev-middleware/middleware.js" timestamp="1468397561043">
         <mark key="[" line="103" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1468485831474">
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1468486927306">
         <mark key="'" line="35" column="61" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="73" column="27" />
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
+        <mark key="^" line="62" column="8" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
         <mark key="'" line="35" column="20" />
@@ -498,6 +498,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1468486695304">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/iRacingCredentials.scala" timestamp="1467580684155">
         <mark key="[" line="6" column="21" />
@@ -644,8 +650,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/dev-server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhtZWRpYUlkLCBwYXRoUGFydHMpOwoK</text>
+      <register name="&quot;" type="4">
+        <text>waveform</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -662,7 +668,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${trimTrailingSlash(window.location.pathname)}`;</text>
+        <text>waveform</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -670,35 +676,35 @@
       <register name="0" type="4">
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhtZWRpYUlkLCBwYXRoUGFydHMpOwoK</text>
+      <register name="1" type="4">
+        <text>waveform</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhtZWRpYUlkLCBwYXRoUGFydHMpOwoK</text>
+      </register>
+      <register name="3" type="4">
         <text>${trimTrailingSlash(window.location.pathname)}`;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.pop();</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyh0cmltVHJhaWxpbmdTbGFzaCh3aW5kb3cubG9jYXRpb24ucGF0aG5hbWUpKTsKCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>);</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
-      </register>
       <register name="9" type="4">
-        <text>log</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
