@@ -20,9 +20,6 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1468396262440">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1468483448917">
         <mark key="'" line="3" column="18" />
         <mark key="[" line="46" column="0" />
@@ -46,6 +43,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="61" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/dist/crowdCasterPlayer.js" timestamp="1468526526852">
+        <mark key="'" line="0" column="198" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/get-url.js" timestamp="1467622627083">
         <mark key="'" line="0" column="4" />
@@ -222,12 +222,6 @@
         <mark key="]" line="610" column="0" />
         <mark key="^" line="610" column="0" />
         <mark key="." line="610" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/get-mongo-connection-string-spec.js" timestamp="1467899486172">
-        <mark key="[" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/README.md" timestamp="1467706885317">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/app.js" timestamp="1468500349960">
         <mark key="[" line="23" column="29" />
@@ -426,7 +420,6 @@
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/node_modules/.bin/webpack-dev-server" timestamp="1468414579378" />
     </filemarks>
     <jumps>
-      <jump line="47" column="15" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
       <jump line="62" column="16" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
       <jump line="54" column="15" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
@@ -526,6 +519,7 @@
       <jump line="3" column="40" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/dev-server.js" />
       <jump line="0" column="3" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/dev-server.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/dev-server.js" />
+      <jump line="0" column="198" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/dist/crowdCasterPlayer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -549,7 +543,7 @@
         <text>3000</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>localhost</text>
       </register>
       <register name="0" type="4">
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
@@ -589,15 +583,14 @@
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>localhost</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>localhost</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>success</entry>
         <entry>util</entry>
         <entry>httpStatus</entry>
         <entry>req</entry>
@@ -617,6 +610,7 @@
         <entry>join</entry>
         <entry>duration</entry>
         <entry>config</entry>
+        <entry>localhost</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
