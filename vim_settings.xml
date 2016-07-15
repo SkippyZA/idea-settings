@@ -150,11 +150,11 @@
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467892971549">
+      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1468585525809">
         <mark key="'" line="9" column="40" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="87" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
         <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
@@ -234,7 +234,7 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1468569003592">
+      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1468584560366">
         <mark key="[" line="5" column="46" />
         <mark key="]" line="5" column="67" />
         <mark key="." line="5" column="67" />
@@ -371,11 +371,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1468583203001">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
-        <mark key="^" line="32" column="34" />
+      <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1468586373848">
+        <mark key="[" line="56" column="32" />
+        <mark key="]" line="56" column="32" />
+        <mark key="." line="56" column="32" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/iRacingCredentials.scala" timestamp="1467580684155">
         <mark key="[" line="6" column="21" />
@@ -523,7 +523,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgIC5ncm91cEJ5KHggPT4geC50eXBlLCBSLmlkZW50aXR5KTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -540,7 +540,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>clip$;</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
@@ -549,37 +549,37 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgIC5ncm91cEJ5KHggPT4geC50eXBlLCBSLmlkZW50aXR5KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>*</text>
+        <text>clip$;</text>
       </register>
-      <register name="3" type="4">
-        <text>]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZykK</text>
       </register>
-      <register name="4" type="4">
-        <text>[</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0pOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDT1JTX09SSUdJTlM6IHByb2Nlc3MK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeCk7CiAgICAgIHJldHVybiB4Owo=</text>
       </register>
-      <register name="6" type="4">
-        <text>['*']</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCBjbGlwJCA9IG1lZGlhJAogICAgLmZsYXRNYXAoeCA9PiB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>3000</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5kb09uTmV4dChjb25zb2xlLmxvZyk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>waveform</text>
+        <text>x</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhtZWRpYUlkLCBwYXRoUGFydHMpOwoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">PT4g</text>
       </register>
       <register name=":" type="4">
-        <text>8</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -613,7 +613,6 @@
         <entry>localhost</entry>
       </history-search>
       <history-cmd>
-        <entry>76</entry>
         <entry>!</entry>
         <entry>14</entry>
         <entry>.41</entry>
@@ -629,10 +628,11 @@
         <entry>2</entry>
         <entry>18</entry>
         <entry>4</entry>
-        <entry>w</entry>
         <entry>3</entry>
         <entry>23</entry>
         <entry>8</entry>
+        <entry>58</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
