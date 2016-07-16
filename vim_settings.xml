@@ -542,6 +542,12 @@
       <file name="/fragment.java" timestamp="1468706168278">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/.gitignore" timestamp="1468711297232">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/embed-service/test/ApplicationSpec.scala" timestamp="1468710103685">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="30" />
@@ -656,7 +662,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -671,28 +677,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgTWFwIHN0YXRpYyByZXNvdXJjZXMgZnJvbSB0aGUgL3B1YmxpYyBmb2xkZXIgdG8gdGhlIC9hc3NldHMgVVJMIHBhdGgKR0VUICAgICAvYXNzZXRzLypmaWxlICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXNzZXRzLnZlcnNpb25lZChwYXRoPSIvcHVibGljIiwgZmlsZTogQXNzZXQpCg==</text>
+        <text encoding="base64">bG9ncwp0YXJnZXQKLy5pZGVhCi8uaWRlYV9tb2R1bGVzCi8uY2xhc3NwYXRoCi8ucHJvamVjdAovLnNldHRpbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBob3cgdG8gdXNlIGRlcGVuZGVuY3kgaW5qZWN0aW9uCkdFVCAgICAgL2NvdW50ICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLkNvdW50Q29udHJvbGxlci5jb3VudAo=</text>
+        <text encoding="base64">L1JVTk5JTkdfUElECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBhIHNhbXBsZSBob21lIHBhZ2UKR0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgK</text>
+        <text encoding="base64">Ly50YXJnZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLl8K</text>
+        <text encoding="base64">L2xvZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGZpbHRlcnMgYXQgYWxsLgovLyAgICBpZiAoZW52Lm1vZGUgPT0gTW9kZS5EZXYpIFNlcShleGFtcGxlRmlsdGVyKSBlbHNlIFNlcS5lbXB0eQo=</text>
+        <text encoding="base64">UlVOTklOR19QSUQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgZXhhbXBsZSBmaWx0ZXIgaWYgd2UncmUgcnVubmluZyBkZXZlbG9wbWVudCBtb2RlLiBJZgogICAgLy8gd2UncmUgcnVubmluZyBpbiBwcm9kdWN0aW9uIG9yIHRlc3QgbW9kZSB0aGVuIGRvbid0IHVzZSBhbnkK</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLm12Yy5fCgppbXBvcnQgZmlsdGVycy5FeGFtcGxlRmlsdGVyCg==</text>
+        <text encoding="base64">Ly5jbGFzc3BhdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLntBcHBsaWNhdGlvblRpbWVyLCBBdG9taWNDb3VudGVyLCBDb3VudGVyfQo=</text>
+        <text encoding="base64">Ly5wcm9qZWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -729,9 +735,6 @@
         <entry>module</entry>
       </history-search>
       <history-cmd>
-        <entry>91</entry>
-        <entry>3</entry>
-        <entry>22</entry>
         <entry>49</entry>
         <entry>4</entry>
         <entry>24</entry>
@@ -744,10 +747,13 @@
         <entry>10</entry>
         <entry>19</entry>
         <entry>20</entry>
-        <entry>1</entry>
         <entry>t,</entry>
         <entry>t.</entry>
         <entry>W</entry>
+        <entry>12</entry>
+        <entry>2</entry>
+        <entry>d</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
