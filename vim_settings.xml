@@ -159,12 +159,6 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/get-url.js" timestamp="1467622627083">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/styles/style.scss" timestamp="1467410614532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -175,6 +169,12 @@
         <mark key="]" line="32" column="3" />
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/conf/application.conf" timestamp="1468705040558">
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="0" />
+        <mark key="^" line="354" column="0" />
+        <mark key="." line="354" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" timestamp="1466757675991">
         <mark key="'" line="83" column="2" />
@@ -220,6 +220,12 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/app/controllers/MediaController.scala" timestamp="1468705559186">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/key-generator.js" timestamp="1467270836522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -263,6 +269,12 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/app/Filters.scala" timestamp="1468710500646">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466599953857">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -294,6 +306,12 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/conf/routes" timestamp="1468710535969">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1467580387252">
         <mark key="[" line="53" column="41" />
         <mark key="]" line="53" column="46" />
@@ -317,6 +335,12 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/build.sbt" timestamp="1468705107323">
+        <mark key="[" line="11" column="67" />
+        <mark key="]" line="11" column="67" />
+        <mark key="." line="11" column="67" />
+        <mark key="^" line="12" column="57" />
+      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/parser/SessionResultParserTest.scala" timestamp="1467566093034">
         <mark key="[" line="23" column="77" />
         <mark key="]" line="23" column="90" />
@@ -329,6 +353,12 @@
         <mark key="]" line="72" column="54" />
         <mark key="." line="72" column="54" />
         <mark key="^" line="72" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/app/models/Clip.scala" timestamp="1468705924860">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467892541003">
         <mark key="[" line="9" column="0" />
@@ -347,6 +377,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="27" column="63" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/app/controllers/AsyncController.scala" timestamp="1468710526140">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1468014335093">
         <mark key="'" line="82" column="20" />
@@ -447,6 +482,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/app/models/MediaResponse.scala" timestamp="1468706151036">
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="2" column="76" />
+        <mark key="^" line="2" column="76" />
+        <mark key="." line="2" column="76" />
+      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="6" column="1" />
@@ -461,6 +502,16 @@
       </file>
       <file name="$USER_HOME$/Development/groundzero-scala/src/test/scala/HelloSpec.scala" timestamp="1467481522289">
         <mark key="[" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/app/Module.scala" timestamp="1468710478644">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/app/models/Playlist.scala" timestamp="1468706045542">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
         <mark key="[" line="15" column="61" />
@@ -488,27 +539,17 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="100" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1467130884350">
+      <file name="/fragment.java" timestamp="1468706168278">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/test/ApplicationSpec.scala" timestamp="1468710103685">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="28" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="89" column="11" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="27" column="19" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="36" column="21" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
-      <jump line="184" column="76" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
-      <jump line="69" column="18" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="47" column="15" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
-      <jump line="62" column="16" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="54" column="15" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="68" column="15" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="96" column="15" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="56" column="25" filename="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" />
-      <jump line="219" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
-      <jump line="214" column="11" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" />
       <jump line="68" column="6" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="101" column="56" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="111" column="30" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
@@ -593,68 +634,79 @@
       <jump line="9" column="40" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
       <jump line="85" column="14" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
+      <jump line="353" column="0" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="361" column="11" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="1" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="18" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="19" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="38" column="13" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="42" column="0" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="45" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="49" column="25" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="53" column="24" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="66" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="196" column="25" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="233" column="37" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="234" column="28" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="355" column="28" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>embed</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>Segment</text>
+        <text>module</text>
       </register>
       <register name="0" type="4">
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIucG9zdCgnL2VtYmVkJywgY29udHJvbGxlcnNbJ2VtYmVkJ10uY3JlYXRlRW1iZWQpOwogIHNlcnZlci5wdXQoJy9lbWJlZC86ZW1iZWRJZCcsIGNvbnRyb2xsZXJzWydlbWJlZCddLnVwZGF0ZUVtYmVkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSLnBpY2soWydfaWQnLCAnc291cmNlVXJsJywgJ3RodW1ibmFpbCcsICd0aXRsZScsICdhdXRob3InLCAncHVibGlzaGVkQXQnLCAnZGVzY3JpcHRpb24nLCAnd2F2ZWZvcm0nXSk7Cgo=</text>
+        <text encoding="base64">CiMgTWFwIHN0YXRpYyByZXNvdXJjZXMgZnJvbSB0aGUgL3B1YmxpYyBmb2xkZXIgdG8gdGhlIC9hc3NldHMgVVJMIHBhdGgKR0VUICAgICAvYXNzZXRzLypmaWxlICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXNzZXRzLnZlcnNpb25lZChwYXRoPSIvcHVibGljIiwgZmlsZTogQXNzZXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCmNvbnN0IHBpY2tNZWRpYVByb3BlcnRpZXMgPQo=</text>
+        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBob3cgdG8gdXNlIGRlcGVuZGVuY3kgaW5qZWN0aW9uCkdFVCAgICAgL2NvdW50ICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLkNvdW50Q29udHJvbGxlci5jb3VudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIFBpY2sgdGhlIG1lZGlhIHByb3BlcnRpZXMgd2Ugd2FudC4K</text>
+        <text encoding="base64">IyBBbiBleGFtcGxlIGNvbnRyb2xsZXIgc2hvd2luZyBhIHNhbXBsZSBob21lIHBhZ2UKR0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaW5kZXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAubWFwKHByZXBhcmVNb25nb29zZVJlc3BvbnNlKTsK</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLl8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAubWFwKGRlY29kZWRLZXkpCiAgLmZsYXRNYXAoaWQgPT4gQ3Jvd2RDYXN0ZXJNZWRpYS5maW5kQnlJZChpZCkpCg==</text>
+        <text encoding="base64">ICAgIC8vIGZpbHRlcnMgYXQgYWxsLgovLyAgICBpZiAoZW52Lm1vZGUgPT0gTW9kZS5EZXYpIFNlcShleGFtcGxlRmlsdGVyKSBlbHNlIFNlcS5lbXB0eQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVuYW1lS2V5cyA9IHJlcXVpcmUoJ2xpYi9yZW5hbWUta2V5cycpOwpjb25zdCBDcm93ZENhc3Rlck1lZGlhID0gcmVxdWlyZSgnbW9kZWxzL0Nyb3dkQ2FzdGVyTWVkaWEnKTsK</text>
+        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgZXhhbXBsZSBmaWx0ZXIgaWYgd2UncmUgcnVubmluZyBkZXZlbG9wbWVudCBtb2RlLiBJZgogICAgLy8gd2UncmUgcnVubmluZyBpbiBwcm9kdWN0aW9uIG9yIHRlc3QgbW9kZSB0aGVuIGRvbid0IHVzZSBhbnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLm12Yy5fCgppbXBvcnQgZmlsdGVycy5FeGFtcGxlRmlsdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkpCiAgLm1hcChwcmVwYXJlTW9uZ29vc2VSZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLntBcHBsaWNhdGlvblRpbWVyLCBBdG9taWNDb3VudGVyLCBDb3VudGVyfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Segment</last-search>
+      <last-search>module</last-search>
       <last-offset />
-      <last-pattern>Segment</last-pattern>
+      <last-pattern>module</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>findContact</entry>
-        <entry>email</entry>
-        <entry>renameKey</entry>
-        <entry>renameCustom</entry>
-        <entry>find</entry>
         <entry>generateTracking</entry>
         <entry>trackingUrlGenere</entry>
         <entry>generate</entry>
@@ -670,9 +722,13 @@
         <entry>splitOn</entry>
         <entry>lapti</entry>
         <entry>Segment</entry>
+        <entry>mongo</entry>
+        <entry>play</entry>
+        <entry>path</entry>
+        <entry>mondule</entry>
+        <entry>module</entry>
       </history-search>
       <history-cmd>
-        <entry>56</entry>
         <entry>91</entry>
         <entry>3</entry>
         <entry>22</entry>
@@ -691,6 +747,7 @@
         <entry>1</entry>
         <entry>t,</entry>
         <entry>t.</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
