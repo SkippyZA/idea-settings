@@ -132,11 +132,11 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468917125560">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="47" />
-        <mark key="^" line="25" column="47" />
-        <mark key="." line="25" column="47" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468918421958">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1468903002553">
         <mark key="[" line="15" column="0" />
@@ -627,10 +627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lowFidelity</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>lowFidelity</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
@@ -639,37 +639,37 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="4">
-        <text>lowFidelity</text>
+        <text>/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>/*</text>
+        <text>*</text>
       </register>
       <register name="3" type="4">
-        <text>thumbnail</text>
+        <text>*/</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;&quot;</text>
+        <text>/*</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;&quot;</text>
+        <text>LocalDateTime</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>*</text>
       </register>
       <register name="8" type="4">
-        <text>author</text>
+        <text>/*</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>lowFidelity</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
@@ -703,9 +703,6 @@
         <entry>Segment</entry>
       </history-search>
       <history-cmd>
-        <entry>3</entry>
-        <entry>22</entry>
-        <entry>49</entry>
         <entry>4</entry>
         <entry>24</entry>
         <entry>8</entry>
@@ -722,7 +719,10 @@
         <entry>W</entry>
         <entry>16</entry>
         <entry>25</entry>
+        <entry>38</entry>
+        <entry>14</entry>
         <entry>w</entry>
+        <entry>3</entry>
       </history-cmd>
       <history-expr />
       <history-input />
