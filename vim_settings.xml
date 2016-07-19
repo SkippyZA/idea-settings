@@ -132,6 +132,12 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468912027575">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="18" column="36" />
+      </file>
       <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1468903002553">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -182,10 +188,11 @@
         <mark key="^" line="92" column="10" />
         <mark key="." line="92" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" timestamp="1468909430034">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" timestamp="1468911367890">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
         <mark key="'" line="0" column="0" />
@@ -212,11 +219,10 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" timestamp="1468903414611">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="20" column="5" />
-        <mark key="^" line="20" column="5" />
-        <mark key="." line="20" column="5" />
+      <file name="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" timestamp="1468911377851">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
@@ -403,6 +409,11 @@
         <mark key="]" line="24" column="2" />
         <mark key="." line="24" column="2" />
         <mark key="^" line="24" column="2" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1468911387604">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1466147715014">
         <mark key="[" line="12" column="0" />
@@ -616,11 +627,11 @@
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>a.</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
@@ -628,35 +639,35 @@
       <register name="0" type="4">
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKi8KCg==</text>
+      <register name="2" type="4">
+        <text>null, null</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB3YXZlZm9ybTogTGlzdFtGbG9hdF0sCiAgICAgICAgICAgICAgICAgcHVibGlzaGVkQXQ6IExvY2FsRGF0ZVRpbWUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgc3lzdGVtIGNsb2NrIGFzIHRoZSBkZWZhdWx0IGltcGxlbWVudGF0aW9uIG9mIENsb2NrCiAgICAvL2JpbmQoY2xhc3NPZltDbG9ja10pLnRvSW5zdGFuY2UoQ2xvY2suc3lzdGVtRGVmYXVsdFpvbmUpCiAgICAvLyBBc2sgR3VpY2UgdG8gY3JlYXRlIGFuIGluc3RhbmNlIG9mIEFwcGxpY2F0aW9uVGltZXIgd2hlbiB0aGUKICAgIC8vIGFwcGxpY2F0aW9uIHN0YXJ0cy4KICAgIC8vYmluZChjbGFzc09mW0FwcGxpY2F0aW9uVGltZXJdKS5hc0VhZ2VyU2luZ2xldG9uKCkKICAgIC8vIFNldCBBdG9taWNDb3VudGVyIGFzIHRoZSBpbXBsZW1lbnRhdGlvbiBmb3IgQ291bnRlci4KICAgIC8vYmluZChjbGFzc09mW0NvdW50ZXJdKS50byhjbGFzc09mW0F0b21pY0NvdW50ZXJdKQo=</text>
+      <register name="4" type="4">
+        <text>test</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdnRpbWUuQ2xvY2sKaW1wb3J0IHBsYXkuYXBpLmxpYnMuY29uY3VycmVudC5FeGVjdXRpb24uSW1wbGljaXRzLmRlZmF1bHRDb250ZXh0Cg==</text>
+      <register name="5" type="4">
+        <text>test</text>
       </register>
       <register name="6" type="4">
-        <text>a.</text>
+        <text encoding="base64">dGVzdCA=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>&quot;&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cn0K</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>models.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -693,7 +704,6 @@
         <entry>Segment</entry>
       </history-search>
       <history-cmd>
-        <entry>91</entry>
         <entry>3</entry>
         <entry>22</entry>
         <entry>49</entry>
@@ -702,7 +712,6 @@
         <entry>8</entry>
         <entry>11</entry>
         <entry>13</entry>
-        <entry>25</entry>
         <entry>35</entry>
         <entry>10</entry>
         <entry>19</entry>
@@ -712,6 +721,8 @@
         <entry>t.</entry>
         <entry>6</entry>
         <entry>W</entry>
+        <entry>16</entry>
+        <entry>25</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
