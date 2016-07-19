@@ -132,11 +132,11 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468918421958">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="1" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468920666929">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="41" column="15" />
+        <mark key="^" line="41" column="15" />
+        <mark key="." line="41" column="15" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1468903002553">
         <mark key="[" line="15" column="0" />
@@ -627,10 +627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.toDateTimeISO</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
@@ -639,37 +639,37 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>*</text>
+        <text>.toDateTimeISO</text>
       </register>
       <register name="3" type="4">
-        <text>*/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>/*</text>
+        <text>BSONDateTime</text>
       </register>
       <register name="5" type="4">
-        <text>LocalDateTime</text>
+        <text>.value</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>.toString</text>
       </register>
       <register name="7" type="4">
-        <text>*</text>
+        <text encoding="base64">IC8v</text>
       </register>
       <register name="8" type="4">
-        <text>/*</text>
+        <text>DateTime</text>
       </register>
-      <register name="9" type="4">
-        <text>lowFidelity</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -703,8 +703,6 @@
         <entry>Segment</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
-        <entry>24</entry>
         <entry>8</entry>
         <entry>11</entry>
         <entry>13</entry>
@@ -712,7 +710,6 @@
         <entry>10</entry>
         <entry>19</entry>
         <entry>20</entry>
-        <entry>1</entry>
         <entry>t,</entry>
         <entry>t.</entry>
         <entry>6</entry>
@@ -721,8 +718,11 @@
         <entry>25</entry>
         <entry>38</entry>
         <entry>14</entry>
-        <entry>w</entry>
+        <entry>1</entry>
+        <entry>44</entry>
         <entry>3</entry>
+        <entry>21</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
