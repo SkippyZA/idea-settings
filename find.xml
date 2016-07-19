@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="App Scope" />
-    <option name="defaultScopeName" value="App Scope" />
+    <option name="customScope" value="File '/Users/steven/Development/play-scala/app/repositories/MediaRepository.scala'" />
+    <option name="defaultScopeName" value="File '/Users/steven/Development/play-scala/app/repositories/MediaRepository.scala'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="App Scope" />
+    <option name="SEARCH_SCOPE" value="File '/Users/steven/Development/play-scala/app/repositories/MediaRepository.scala'" />
   </component>
 </application>
