@@ -260,11 +260,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/MediaResponse.scala" timestamp="1468952557879">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/MediaResponse.scala" timestamp="1468952968723">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="55" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1467009383080">
         <mark key="[" line="51" column="2" />
@@ -322,7 +322,7 @@
         <mark key="^" line="50" column="24" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1468952562436">
+      <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1468952852051">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="11" column="47" />
@@ -647,10 +647,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy57Q2FzdCwgTWVkaWFSZXNwb25zZSwgUGxheWxpc3R9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AnyRef</text>
+        <text>Media</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
@@ -659,34 +659,34 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy57Q2FzdCwgTWVkaWFSZXNwb25zZSwgUGxheWxpc3R9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>AnyRef</text>
+        <text>Media</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBQbGF5bGlzdE1lZGlhKHBsYXlsaXN0OiBQbGF5bGlzdCkgZXh0ZW5kcyBNZWRpYQoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">c2VhbGVkIHRyYWl0IE1lZGlhCmNhc2UgY2xhc3MgQ2FzdE1lZGlhKGNhc3Q6IENhc3QpIGV4dGVuZHMgTWVkaWEK</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG1vZGVscy57Q2FzdCwgTWVkaWFSZXNwb25zZSwgUGxheWxpc3R9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>String</text>
+        <text>AnyRef</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="4">
-        <text>application</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>Media</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
