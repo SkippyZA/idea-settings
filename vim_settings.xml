@@ -132,11 +132,11 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468912027575">
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="31" column="44" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468913624862">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+        <mark key="." line="23" column="37" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1468903002553">
         <mark key="[" line="15" column="0" />
@@ -628,10 +628,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>thumbnail</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>thumbnail</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
@@ -640,34 +640,34 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>thumbnail</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>null, null</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB3YXZlZm9ybTogTGlzdFtGbG9hdF0sCiAgICAgICAgICAgICAgICAgcHVibGlzaGVkQXQ6IExvY2FsRGF0ZVRpbWUK</text>
-      </register>
-      <register name="4" type="4">
-        <text>test</text>
-      </register>
-      <register name="5" type="4">
-        <text>test</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">dGVzdCA=</text>
-      </register>
-      <register name="7" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>models.</text>
+      <register name="4" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text>author</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">LCA=</text>
+      </register>
+      <register name="8" type="4">
+        <text>null, null</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB3YXZlZm9ybTogTGlzdFtGbG9hdF0sCiAgICAgICAgICAgICAgICAgcHVibGlzaGVkQXQ6IExvY2FsRGF0ZVRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
