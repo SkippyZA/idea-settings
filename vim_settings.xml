@@ -132,11 +132,10 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468921499585">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="37" column="15" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468922762169">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1468903002553">
         <mark key="[" line="15" column="0" />
@@ -627,7 +626,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiAKICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>.toDateTimeISO</text>
@@ -639,34 +638,34 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiAKICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB2YWwgZGF0ZVRpbWVQYXR0ZXJuID0gInl5eXktTU0tZGQnVCdISDptbTpzcy5TU1NaWiIKICB2YWwgZXh0ZXJuYWxEYXRlVGltZVJlYWRzID0gcGxheS5hcGkubGlicy5qc29uLlJlYWRzLmpvZGFEYXRlUmVhZHMoZGF0ZVRpbWVQYXR0ZXJuKQogIHZhbCBleHRlcm5hbERhdGVUaW1lV3JpdGVzID0gcGxheS5hcGkubGlicy5qc29uLldyaXRlcy5qb2RhRGF0ZVdyaXRlcyhkYXRlVGltZVBhdHRlcm4pCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHsKfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.toDateTimeISO</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>BSONDateTime</text>
       </register>
-      <register name="7" type="4">
-        <text>.value</text>
-      </register>
-      <register name="8" type="4">
-        <text>.toString</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IC8v</text>
+        <text>.value</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -703,7 +702,6 @@
         <entry>Segment</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
         <entry>11</entry>
         <entry>13</entry>
         <entry>35</entry>
@@ -722,6 +720,7 @@
         <entry>44</entry>
         <entry>3</entry>
         <entry>21</entry>
+        <entry>9</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
