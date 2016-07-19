@@ -132,11 +132,11 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468920666929">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="41" column="15" />
-        <mark key="^" line="41" column="15" />
-        <mark key="." line="41" column="15" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468921499585">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="37" column="15" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1468903002553">
         <mark key="[" line="15" column="0" />
@@ -626,8 +626,8 @@
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHsKfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.toDateTimeISO</text>
@@ -638,35 +638,35 @@
       <register name="0" type="4">
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHsKfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.toDateTimeISO</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB2YWwgZGF0ZVRpbWVQYXR0ZXJuID0gInl5eXktTU0tZGQnVCdISDptbTpzcy5TU1NaWiIKICB2YWwgZXh0ZXJuYWxEYXRlVGltZVJlYWRzID0gcGxheS5hcGkubGlicy5qc29uLlJlYWRzLmpvZGFEYXRlUmVhZHMoZGF0ZVRpbWVQYXR0ZXJuKQogIHZhbCBleHRlcm5hbERhdGVUaW1lV3JpdGVzID0gcGxheS5hcGkubGlicy5qc29uLldyaXRlcy5qb2RhRGF0ZVdyaXRlcyhkYXRlVGltZVBhdHRlcm4pCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>BSONDateTime</text>
+        <text>.toDateTimeISO</text>
       </register>
       <register name="5" type="4">
-        <text>.value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>.toString</text>
+        <text>BSONDateTime</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IC8v</text>
+        <text>.value</text>
       </register>
       <register name="8" type="4">
-        <text>DateTime</text>
+        <text>.toString</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBKCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC8v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
