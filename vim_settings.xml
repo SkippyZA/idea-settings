@@ -525,11 +525,11 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469022446423">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469031020554">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
         <mark key="^" line="44" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
@@ -656,7 +656,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICBKc1N1Y2Nlc3MobmV3IE1lZGlhSXRlbSgoanNvbiBcICJkdXJhdGlvbiIpLnZhbGlkYXRlW1N0cmluZ10uZ2V0LCAidHlwZSIsICJ0aXRsZSIsICJhdXRob3IiLCBuZXcgRGF0ZVRpbWUoKSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSkpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>transform</text>
@@ -668,34 +668,34 @@
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBKc1N1Y2Nlc3MobmV3IE1lZGlhSXRlbSgoanNvbiBcICJkdXJhdGlvbiIpLnZhbGlkYXRlW1N0cmluZ10uZ2V0LCAidHlwZSIsICJ0aXRsZSIsICJhdXRob3IiLCBuZXcgRGF0ZVRpbWUoKSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSkpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2F2ZWZvcm0gPC0gKGpzb24gXCAibG93RmlkZWxpdHlXYXZlZm9ybSIpLnRvT3B0aW9uLmdldAo=</text>
+        <text encoding="base64">ICAgIH0KICAgKi8K</text>
       </register>
-      <register name="3" type="4">
-        <text>transform</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICApCiAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ3YXZlZm9ybSIgLT4gY2FzdC53YXZlZm9ybSwKICAgICAgICAgICJwdWJsaXNoZWRBdCIgLT4gY2FzdC5wdWJsaXNoZWRBdC50b1N0cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE9wdGlvbi5hcHBseShpbWFnZVVybCksIE9wdGlvbi5lbXB0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJzb3VyY2UiIC0+IGNhc3Quc291cmNlLAogICAgICAgICAgInRodW1ibmFpbCIgLT4gY2FzdC50aHVtYm5haWwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHkKLy8gICAgICAgIE9wdGlvbi5hcHBseShkZXNjcmlwdGlvbiksIE9wdGlvbi5hcHBseShkdXJhdGlvbi52YWx1ZS50b0ludCksIE9wdGlvbi5hcHBseSh3YXZlZm9ybSksIE9wdGlvbi5hcHBseSh0YWdzKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSIgLT4gY2FzdC50aXRsZSwKICAgICAgICAgICJhdXRob3IiIC0+IGNhc3QuYXV0aG9yLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>empty</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZGVmIHdyaXRlcyhjYXN0OiBDYXN0KTogSnNWYWx1ZSA9IHsKICAgICAgICBKc29uLm9iaigK</text>
       </register>
-      <register name="8" type="4">
-        <text>empty</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvKgogICAgaW1wbGljaXQgdmFsIGltcGxpY2l0Q2xpcFdyaXRlcyA9IG5ldyBXcml0ZXNbQ2FzdF0gewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>empty</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICBKc1N1Y2Nlc3MobmV3IE1lZGlhSXRlbSgoanNvbiBcICJkdXJhdGlvbiIpLnZhbGlkYXRlW1N0cmluZ10uZ2V0LCAidHlwZSIsICJ0aXRsZSIsICJhdXRob3IiLCBuZXcgRGF0ZVRpbWUoKSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSkpCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz53</text>
