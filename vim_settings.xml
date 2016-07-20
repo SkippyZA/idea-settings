@@ -525,11 +525,11 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469018963246">
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="38" column="46" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469022446423">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
@@ -655,11 +655,11 @@
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>description</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICBKc1N1Y2Nlc3MobmV3IE1lZGlhSXRlbSgoanNvbiBcICJkdXJhdGlvbiIpLnZhbGlkYXRlW1N0cmluZ10uZ2V0LCAidHlwZSIsICJ0aXRsZSIsICJhdXRob3IiLCBuZXcgRGF0ZVRpbWUoKSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSkpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>transform</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -667,38 +667,38 @@
       <register name="0" type="4">
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
-      <register name="1" type="4">
-        <text>description</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICBKc1N1Y2Nlc3MobmV3IE1lZGlhSXRlbSgoanNvbiBcICJkdXJhdGlvbiIpLnZhbGlkYXRlW1N0cmluZ10uZ2V0LCAidHlwZSIsICJ0aXRsZSIsICJhdXRob3IiLCBuZXcgRGF0ZVRpbWUoKSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSkpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>_id</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgd2F2ZWZvcm0gPC0gKGpzb24gXCAibG93RmlkZWxpdHlXYXZlZm9ybSIpLnRvT3B0aW9uLmdldAo=</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;</text>
+        <text>transform</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIE9wdGlvbi5hcHBseShpbWFnZVVybCksIE9wdGlvbi5lbXB0eQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHksIE9wdGlvbi5lbXB0eSwgT3B0aW9uLmVtcHR5LCBPcHRpb24uZW1wdHkKLy8gICAgICAgIE9wdGlvbi5hcHBseShkZXNjcmlwdGlvbiksIE9wdGlvbi5hcHBseShkdXJhdGlvbi52YWx1ZS50b0ludCksIE9wdGlvbi5hcHBseSh3YXZlZm9ybSksIE9wdGlvbi5hcHBseSh0YWdzKSwK</text>
       </register>
       <register name="7" type="4">
-        <text>Result</text>
+        <text>empty</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEpzUmVzdWx0KCkK</text>
+      <register name="8" type="4">
+        <text>empty</text>
       </register>
       <register name="9" type="4">
-        <text>, Option.empty, Option.empty</text>
+        <text>empty</text>
       </register>
       <register name=":" type="4">
-        <text>18</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -732,8 +732,6 @@
         <entry>*</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
-        <entry>22</entry>
         <entry>27</entry>
         <entry>43</entry>
         <entry>13</entry>
@@ -752,6 +750,8 @@
         <entry>12</entry>
         <entry>w</entry>
         <entry>18</entry>
+        <entry>t.</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
