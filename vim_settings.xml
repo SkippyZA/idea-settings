@@ -118,7 +118,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469004301080">
+      <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469012987159">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
@@ -150,10 +150,10 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1469010305095">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1469013569559">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1467702621175">
         <mark key="'" line="26" column="0" />
@@ -200,11 +200,11 @@
         <mark key="^" line="92" column="10" />
         <mark key="." line="92" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" timestamp="1469010846459">
-        <mark key="[" line="50" column="54" />
-        <mark key="]" line="52" column="40" />
-        <mark key="." line="52" column="40" />
-        <mark key="^" line="52" column="40" />
+      <file name="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" timestamp="1469014641105">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
         <mark key="'" line="0" column="0" />
@@ -231,11 +231,10 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" timestamp="1469010635435">
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" timestamp="1469014659425">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
@@ -323,11 +322,11 @@
         <mark key="^" line="50" column="24" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469010654269">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469013852078">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
@@ -440,11 +439,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/repositories/MediaItem.scala" timestamp="1469010511582">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="26" />
+      <file name="$USER_HOME$/Development/play-scala/app/repositories/MediaItem.scala" timestamp="1469012671445">
+        <mark key="[" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1466147715014">
         <mark key="[" line="12" column="0" />
@@ -528,11 +524,11 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1468997762634">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469014814854">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
@@ -658,11 +654,11 @@
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Cast</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="-" type="4">
-        <text>Cast</text>
+        <text>(implicit ec: ExecutionContext)</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -670,38 +666,38 @@
       <register name="0" type="4">
         <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
       </register>
-      <register name="1" type="4">
-        <text>Cast</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>mediaCollection</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvKioKICAgICogSnNvbiBzZXJpYWxpemUgd3JpdGUgbWFwcGluZy4KICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm9jdGVkIGRlZgo=</text>
+        <text encoding="base64">CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAqLwo=</text>
+        <text encoding="base64">ICAgICAgfSB5aWVsZCBDYXN0KHRpdGxlLCBhdXRob3IsIHNvdXJjZSwgdGh1bWJuYWlsLCB3YXZlZm9ybSwgbmV3IERhdGVUaW1lKHB1Ymxpc2hlZEF0LnZhbHVlKSkKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICB3YXZlZm9ybSA8LSAoanNvbiBcICJsb3dGaWRlbGl0eVdhdmVmb3JtIikudmFsaWRhdGVbTGlzdFtGbG9hdF1dCiAgICAgICAgcHVibGlzaGVkQXQgPC0gKGpzb24gXCAicHJvY2Vzc2VkQXQiKS52YWxpZGF0ZVtCU09ORGF0ZVRpbWVdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2UgPC0gKGpzb24gXCAiX2lkIikudmFsaWRhdGVbU3RyaW5nXQogICAgICAgIHRodW1ibmFpbCA8LSAoanNvbiBcICJpbWFnZVVybCIpLnZhbGlkYXRlW1N0cmluZ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZSA8LSAoanNvbiBcICJ0aXRsZSIpLnZhbGlkYXRlW1N0cmluZ10KICAgICAgICBhdXRob3IgPC0gKGpzb24gXCAiY3JlYXRvck5hbWUiKS52YWxpZGF0ZVtTdHJpbmddCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>show</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiByZWFkcyhqc29uOiBKc1ZhbHVlKTogSnNSZXN1bHRbQ2FzdF0gPSB7CiAgICAgIGZvciB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChfKQo=</text>
+        <text encoding="base64">ICAgICovCiAgaW1wbGljaXQgdmFsIGltcGxpY2l0Q2xpcFJlYWRzID0gbmV3IFJlYWRzW0Nhc3RdIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>12</text>
       </register>
     </registers>
     <search>
@@ -735,26 +731,26 @@
         <entry>*</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>16</entry>
-        <entry>38</entry>
-        <entry>1</entry>
-        <entry>44</entry>
-        <entry>4</entry>
-        <entry>14</entry>
-        <entry>39</entry>
         <entry>15</entry>
         <entry>22</entry>
         <entry>27</entry>
         <entry>43</entry>
-        <entry>5</entry>
         <entry>13</entry>
         <entry>9</entry>
         <entry>25</entry>
-        <entry>3</entry>
         <entry>2</entry>
         <entry>21</entry>
+        <entry>52</entry>
+        <entry>18</entry>
+        <entry>20</entry>
+        <entry>26</entry>
+        <entry encoding="base64">JzwsJz4x</entry>
         <entry>w</entry>
+        <entry>11</entry>
+        <entry>3</entry>
+        <entry>7</entry>
+        <entry>5</entry>
+        <entry>12</entry>
       </history-cmd>
       <history-expr />
       <history-input />
