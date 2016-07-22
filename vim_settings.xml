@@ -124,10 +124,10 @@
         <mark key="^" line="50" column="24" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469184206871">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469189460210">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/models/embed.js" timestamp="1467106164096">
         <mark key="[" line="14" column="0" />
@@ -374,12 +374,12 @@
         <mark key="^" line="28" column="5" />
         <mark key="o" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469183440843">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469188432918">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="13" column="79" />
+        <mark key="." line="13" column="79" />
+        <mark key="^" line="13" column="79" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/key-generator.js" timestamp="1467270836522">
         <mark key="[" line="0" column="0" />
@@ -461,11 +461,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Media.scala" timestamp="1469184172587">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="15" column="52" />
-        <mark key="." line="3" column="36" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Media.scala" timestamp="1469189377967">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1466147861769">
         <mark key="'" line="33" column="75" />
@@ -498,7 +497,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469181788174">
+      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469188367002">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="20" />
@@ -616,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lm1hcCh4ID0+IEpzb24udG9Kc29uKHgpKQ==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
@@ -628,34 +627,34 @@
         <text encoding="base64">ZSA9IHJlcXVpcmUoJ3Byb3Blci1sb2NrZmlsZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Lm1hcCh4ID0+IEpzb24udG9Kc29uKHgpKQ==</text>
+        <text>{</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICBjYXNlIE5vbmUgPT4gRnV0dXJlLgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>new Exception(&quot;Not found&quot;)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text encoding="base64">Ci8vICAgIG1lZGlhUmVwb3NpdG9yeS5maW5kTWVkaWFJdGVtKG1lZGlhSWQpLm1hcAoKICAgIHRocm93IG5ldyBFeGNlcHRpb24oImFzZGYiKQoKCiAgICBGdXR1cmUgewogICAgICBuZXcgQ2FzdCgiIiwgIiIsICIiLCAiIiwgTGlzdCgpLCBuZXcgRGF0ZVRpbWUoKSkKICAgIH0=</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>failed</text>
+        <text>{</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>Future</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbihfLmdldCkK</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
@@ -692,8 +691,6 @@
         <entry>lock</entry>
       </history-search>
       <history-cmd>
-        <entry>27</entry>
-        <entry>48</entry>
         <entry>5</entry>
         <entry>45</entry>
         <entry>30</entry>
@@ -705,12 +702,14 @@
         <entry encoding="base64">JzwsJz4xNA==</entry>
         <entry>t.</entry>
         <entry>24</entry>
-        <entry>w</entry>
         <entry>1</entry>
         <entry>17</entry>
         <entry>11</entry>
         <entry>145</entry>
         <entry>14</entry>
+        <entry>w</entry>
+        <entry>12</entry>
+        <entry>13</entry>
         <entry>6</entry>
       </history-cmd>
       <history-expr />
