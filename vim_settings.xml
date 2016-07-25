@@ -356,11 +356,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469451769561">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469463794646">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="21" column="92" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1469088641915" />
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
@@ -571,10 +571,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lk</text>
+        <text encoding="base64">CmltcG9ydCBjb20udHlwZXNhZmUuc2J0LnBhY2thZ2VyLmRvY2tlci5fCgovL2RvY2tlckNvbW1hbmRzIDo9IGRvY2tlckNvbW1hbmRzLnZhbHVlLmZpbHRlck5vdCB7Ci8vCi8vICAvLyBFeGVjQ21kIGlzIGEgY2FzZSBjbGFzcywgYW5kIGFyZ3MgaXMgYSB2YXJhcmdzIHZhcmlhYmxlLCBzbyB5b3UgbmVlZCB0byBiaW5kIGl0IHdpdGggQAovLyAgY2FzZSBFeGVjQ21kKCJSVU4iLCBhcmdzIEAgXyopID0+IGFyZ3MuY29udGFpbnMoImNob3duIikgJiYgYXJncy5jb250YWlucygiL2RhdGEiKQovLwovLyAgLy8gZG9udCBmaWx0ZXIgdGhlIHJlc3QKLy8gIGNhc2UgY21kICAgICAgICAgICAgICAgICAgICAgICA9PiBmYWxzZQovL30KLy8KLy8vL2RvY2tlckNvbW1hbmRzICs9IEV4ZWNDbWQoImJpbi9jcm93ZGNhc3Rlci1lbWJlZC1zZXJ2aWNlIC1EY29uZmlnLnJlc291cmNlPXByb2R1Y3Rpb24uY29uZiIpCi8vZG9ja2VyQ29tbWFuZHMgKz0gRXhlY0NtZCgiQ01EIiwgIi9vcHQvZG9ja2VyL2Jpbi9jcm93ZGNhc3Rlci1lbWJlZC1zZXJ2aWNlIC1EY29uZmlnLnJlc291cmNlPXByb2R1Y3Rpb24uY29uZiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>lk</text>
+        <text encoding="base64">aW4gRG9ja2VyIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -583,34 +583,34 @@
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>lk</text>
+        <text encoding="base64">CmltcG9ydCBjb20udHlwZXNhZmUuc2J0LnBhY2thZ2VyLmRvY2tlci5fCgovL2RvY2tlckNvbW1hbmRzIDo9IGRvY2tlckNvbW1hbmRzLnZhbHVlLmZpbHRlck5vdCB7Ci8vCi8vICAvLyBFeGVjQ21kIGlzIGEgY2FzZSBjbGFzcywgYW5kIGFyZ3MgaXMgYSB2YXJhcmdzIHZhcmlhYmxlLCBzbyB5b3UgbmVlZCB0byBiaW5kIGl0IHdpdGggQAovLyAgY2FzZSBFeGVjQ21kKCJSVU4iLCBhcmdzIEAgXyopID0+IGFyZ3MuY29udGFpbnMoImNob3duIikgJiYgYXJncy5jb250YWlucygiL2RhdGEiKQovLwovLyAgLy8gZG9udCBmaWx0ZXIgdGhlIHJlc3QKLy8gIGNhc2UgY21kICAgICAgICAgICAgICAgICAgICAgICA9PiBmYWxzZQovL30KLy8KLy8vL2RvY2tlckNvbW1hbmRzICs9IEV4ZWNDbWQoImJpbi9jcm93ZGNhc3Rlci1lbWJlZC1zZXJ2aWNlIC1EY29uZmlnLnJlc291cmNlPXByb2R1Y3Rpb24uY29uZiIpCi8vZG9ja2VyQ29tbWFuZHMgKz0gRXhlY0NtZCgiQ01EIiwgIi9vcHQvZG9ja2VyL2Jpbi9jcm93ZGNhc3Rlci1lbWJlZC1zZXJ2aWNlIC1EY29uZmlnLnJlc291cmNlPXByb2R1Y3Rpb24uY29uZiIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>[</text>
+        <text encoding="base64">aW4gRG9ja2VyIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZG9ja2VyQ29tbWFuZHMgKz0gRXhlY0NtZCgiQ01EIGJpbi9jcm93ZCAtRGNvbmZpZy5yZXNvdXJjZT1wcm9kdWN0aW9uLmNvbmYiKQo=</text>
+      <register name="3" type="4">
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text>bin/crowdcaster-embed-service</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;CMD&quot;, &quot;echo&quot;, &quot;Hello, World from Docker&quot;</text>
+        <text>lk</text>
       </register>
       <register name="6" type="4">
-        <text>Seq</text>
+        <text>[</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KAogIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZG9ja2VyQ29tbWFuZHMgKz0gRXhlY0NtZCgiQ01EIGJpbi9jcm93ZCAtRGNvbmZpZy5yZXNvdXJjZT1wcm9kdWN0aW9uLmNvbmYiKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="8" type="4">
+        <text>bin/crowdcaster-embed-service</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bW9uZ29kYi51cmkgPQo=</text>
+      <register name="9" type="4">
+        <text>&quot;CMD&quot;, &quot;echo&quot;, &quot;Hello, World from Docker&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
