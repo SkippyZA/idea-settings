@@ -123,7 +123,7 @@
         <mark key="." line="23" column="90" />
         <mark key="^" line="23" column="90" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/Module.scala" timestamp="1469393690083">
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/Module.scala" timestamp="1469426041448">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -292,10 +292,11 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469393466683">
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469426173473">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
         <mark key="[" line="7" column="11" />
@@ -572,10 +573,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzLGxhbXBwb3N0LjkubW9uZ29sYXllci5jb206MTAzMDcvZGV2ZWxvcG1lbnQ/cmVwbGljYVNldD1zZXQtNTc3ZTM5NzhjODQ2ZTZkNDIxMDAwOTAxIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>WARNING</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -584,37 +585,38 @@
         <text encoding="base64">Ly8gICAgICAubWFwIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzLGxhbXBwb3N0LjkubW9uZ29sYXllci5jb206MTAzMDcvZGV2ZWxvcG1lbnQ/cmVwbGljYVNldD1zZXQtNTc3ZTM5NzhjODQ2ZTZkNDIxMDAwOTAxIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vbG9jYWxob3N0L2Nyb3dkY2FzdGVyIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>9.mongolayer.com:10307/development?replicaSet=set-577e3978c846e6d421000901&quot;
+mongodb.uri = &quot;mongodb://steven:d6kFkjLTYfK9@lamppost.8.mongolayer.com:10303/development&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZSB7CiAgICAgIHdhdGNoU2VydmljZS53YXRjaENvbGxlY3Rpb24oKQo=</text>
+      <register name="4" type="4">
+        <text>WARNING</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzL2RldmVsb3BtZW50Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>a</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzL2RldmVsb3BtZW50Igo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9uZ29kYi51cmkgPSAibW9uZ29kYjovL21vbmdvbGF5ZXIuY29tOjEwMzAzL2RldmVsb3BtZW50Igo=</text>
+        <text encoding="base64">ICAgIEZ1dHVyZSB7CiAgICAgIHdhdGNoU2VydmljZS53YXRjaENvbGxlY3Rpb24oKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzL2RldmVsb3BtZW50Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -659,7 +661,6 @@
         <entry>8</entry>
         <entry>22</entry>
         <entry>42</entry>
-        <entry>w</entry>
         <entry>11</entry>
         <entry>7</entry>
         <entry>6</entry>
@@ -668,6 +669,7 @@
         <entry>9</entry>
         <entry>19</entry>
         <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
