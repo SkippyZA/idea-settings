@@ -98,11 +98,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469468020194">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="87" />
-        <mark key="^" line="12" column="87" />
-        <mark key="." line="12" column="87" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469469826503">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
         <mark key="[" line="7" column="11" />
@@ -340,10 +340,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469469168454">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469470084040">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
+        <mark key="^" line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1469359604292">
         <mark key="[" line="3" column="0" />
@@ -558,10 +559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHQK</text>
       </register>
       <register name="-" type="4">
-        <text>url here</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -570,37 +571,37 @@
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcy5maWx0ZXIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZXIgewogICAgICAgIF8ufD4+PigpCiAgICAgIH0=</text>
       </register>
       <register name="3" type="4">
-        <text>url here</text>
+        <text>()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9kb2NrZXJDb21tYW5kcyArKz0gU2VxKENtZCgiRU5WIiwgIkpBVkFfT1BUUyIsICItRGNvbmZpZy5maWxlPXByb2R1Y3Rpb24uY29uZiIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXIobyA9PiBvLm1hcChfLnZhbHVlKSkK</text>
       </register>
       <register name="5" type="4">
-        <text>/opt/docker/conf/</text>
+        <text>development</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>steven:d6kFkjLTYfK9@lamppost.8.mongolayer.com:10303</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZSAiYXBwbGljYXRpb24uY29uZiIK</text>
-      </register>
-      <register name="8" type="4">
-        <text>resource</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlcy5maWx0ZXIK</text>
+      </register>
+      <register name="9" type="4">
+        <text>url here</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>25</text>
       </register>
     </registers>
     <search>
@@ -634,7 +635,6 @@
         <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
         <entry>8</entry>
         <entry>22</entry>
         <entry>11</entry>
@@ -647,13 +647,14 @@
         <entry>14</entry>
         <entry>42</entry>
         <entry>21</entry>
-        <entry>13</entry>
         <entry>6</entry>
         <entry>3</entry>
-        <entry>t.</entry>
         <entry>1</entry>
         <entry>20</entry>
+        <entry>13</entry>
+        <entry>t.</entry>
         <entry>w</entry>
+        <entry>25</entry>
       </history-cmd>
       <history-expr />
       <history-input />
