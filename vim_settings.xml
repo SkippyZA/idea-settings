@@ -285,7 +285,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469449711367">
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469450403528">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="7" />
         <mark key="^" line="12" column="7" />
@@ -356,10 +356,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469449505382">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469451769561">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+        <mark key="^" line="27" column="33" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1469088641915" />
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
@@ -385,11 +386,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/production.conf" timestamp="1469449783053">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="88" />
-        <mark key="^" line="2" column="88" />
-        <mark key="." line="2" column="88" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/production.conf" timestamp="1469450408864">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/logback.xml" timestamp="1469358388082">
         <mark key="[" line="34" column="0" />
@@ -570,11 +570,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>lk</text>
       </register>
       <register name="-" type="4">
-        <text>mongodb://steven:d6kFkjLTYfK9@lamppost.8.mongolayer.com:10303/development</text>
+        <text>lk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -582,38 +582,38 @@
       <register name="0" type="2">
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text>lk</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>mongodb://steven:d6kFkjLTYfK9@lamppost.8.mongolayer.com:10303/development</text>
+        <text>[</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dXJpIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZG9ja2VyQ29tbWFuZHMgKz0gRXhlY0NtZCgiQ01EIGJpbi9jcm93ZCAtRGNvbmZpZy5yZXNvdXJjZT1wcm9kdWN0aW9uLmNvbmYiKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>bin/crowdcaster-embed-service</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzL2RldmVsb3BtZW50IgovL21vbmdvZGIudXJpID0gJHtNT05HT0RCX1VSSX0K</text>
+      <register name="5" type="4">
+        <text>&quot;CMD&quot;, &quot;echo&quot;, &quot;Hello, World from Docker&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zYnQucGFja2FnZXIuZG9ja2VyLl8KCg==</text>
+      <register name="6" type="4">
+        <text>Seq</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CmRvY2tlckNvbW1hbmRzIDo9IFNlcSgKICBDbWQoIkZST00iLCAiamF2YTpsYXRlc3QiKSwKICBDbWQoIk1BSU5UQUlORVIiLCAiU3RldmVuIEluc2tpcCA8c2tpcHB5QG5vbmFjcmVhdGl2ZS5jb20+IiksCiAgQ21kKCJXT1JLRElSIiwgIi9vcHQvZG9ja2VyIiksCiAgQ21kKCJBREQiLCAib3B0IC9vcHQiKSwKICBDbWQoIkVOViIsICJDT05GSUdfRklMRSIsICJhcHBsaWNhdGlvbi5jb25mIiksCiAgRXhlY0NtZCgiUlVOIiwgImNob3duIiwgIi1SIiwgImRhZW1vbjpkYWVtb24iLCAiLiIpLAogIENtZCgiRVhQT1NFIiwgIjkwMDAiKSwKICBDbWQoIlVTRVIiLCAiZGFlbW9uIiksCi8vICBFeGVjQ21kKCJDTUQiLCAiYmluL2Nyb3dkY2FzdGVyLWVtYmVkLXNlcnZpY2UiLCAiLURjb25maWcucmVzb3VyY2U9JENPTkZJR19GSUxFIikKICBFeGVjQ21kKCJDTUQgYmluL2Nyb3dkY2FzdGVyLWVtYmVkLXNlcnZpY2UgLURjb25maWcucmVzb3VyY2U9JENPTkZJR19GSUxFIikKLy8gIEV4ZWNDbWQoIkNNRCIsICJiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSIpCikK</text>
+        <text encoding="base64">KAogIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1cmkgPSAke01PTkdPREJfVVJJfQo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>default</text>
+      <register name="9" type="2">
+        <text encoding="base64">bW9uZ29kYi51cmkgPQo=</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -665,8 +665,8 @@
         <entry>21</entry>
         <entry>13</entry>
         <entry>6</entry>
-        <entry>w</entry>
         <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
