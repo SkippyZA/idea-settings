@@ -227,6 +227,12 @@
         <mark key="^" line="610" column="0" />
         <mark key="." line="610" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="27" />
@@ -402,14 +408,6 @@
       <file name="/Dummy.txt" timestamp="1469358309340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Media.scala" timestamp="1469356951082">
-        <mark key="e" line="21" column="17" />
-        <mark key="i" line="21" column="17" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469393575941">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="20" />
@@ -572,11 +570,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzLGxhbXBwb3N0LjkubW9uZ29sYXllci5jb206MTAzMDcvZGV2ZWxvcG1lbnQ/cmVwbGljYVNldD1zZXQtNTc3ZTM5NzhjODQ2ZTZkNDIxMDAwOTAxIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEV4Y2x1ZGluZyBgZGF0YWAgYXMgaXQgY291bGQgYmUgaHVnZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>WARNING</text>
+        <text encoding="base64">IEV4Y2x1ZGluZyBgZGF0YWAgYXMgaXQgY291bGQgYmUgaHVnZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -584,36 +582,36 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAubWFwIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzLGxhbXBwb3N0LjkubW9uZ29sYXllci5jb206MTAzMDcvZGV2ZWxvcG1lbnQ/cmVwbGljYVNldD1zZXQtNTc3ZTM5NzhjODQ2ZTZkNDIxMDAwOTAxIgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEV4Y2x1ZGluZyBgZGF0YWAgYXMgaXQgY291bGQgYmUgaHVnZQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vbG9jYWxob3N0L2Nyb3dkY2FzdGVyIgo=</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">Ui5vbWl0KFsnZGF0YSddLCA=</text>
+      </register>
+      <register name="4" type="4">
+        <text>debug</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzLGxhbXBwb3N0LjkubW9uZ29sYXllci5jb206MTAzMDcvZGV2ZWxvcG1lbnQ/cmVwbGljYVNldD1zZXQtNTc3ZTM5NzhjODQ2ZTZkNDIxMDAwOTAxIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vbG9jYWxob3N0L2Nyb3dkY2FzdGVyIgo=</text>
+      </register>
+      <register name="7" type="4">
         <text>9.mongolayer.com:10307/development?replicaSet=set-577e3978c846e6d421000901&quot;
 mongodb.uri = &quot;mongodb://steven:d6kFkjLTYfK9@lamppost.8.mongolayer.com:10303/development&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>WARNING</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZSB7CiAgICAgIHdhdGNoU2VydmljZS53YXRjaENvbGxlY3Rpb24oKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9tb25nb2RiLnVyaSA9ICJtb25nb2RiOi8vc3RldmVuOmQ2a0ZrakxUWWZLOUBsYW1wcG9zdC44Lm1vbmdvbGF5ZXIuY29tOjEwMzAzL2RldmVsb3BtZW50Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
