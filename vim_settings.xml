@@ -3,18 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
-        <mark key="[" line="609" column="1" />
-        <mark key="]" line="610" column="0" />
-        <mark key="^" line="610" column="0" />
-        <mark key="." line="610" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/app.js" timestamp="1467188899154">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="21" column="17" />
+      <file name="$USER_HOME$/Development/play-scala/app/test.sc" timestamp="1468947611516">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/spec/unit/models/validators/crowdCaster/media-spec.js" timestamp="1467105170576">
         <mark key="[" line="40" column="0" />
@@ -27,45 +20,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/README.md" timestamp="1467706885317">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1466595435129">
-        <mark key="'" line="28" column="42" />
-        <mark key="[" line="53" column="10" />
-        <mark key="]" line="53" column="17" />
-        <mark key="^" line="53" column="17" />
-        <mark key="." line="53" column="17" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" timestamp="1467787207543">
-        <mark key="'" line="3" column="18" />
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1467892105826">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1467628459286">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="22" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="38" column="22" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/iframe.js" timestamp="1467103280620">
         <mark key="[" line="12" column="13" />
@@ -73,122 +32,30 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1466576939909">
-        <mark key="'" line="36" column="6" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="186" column="2" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467472516498">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/package.json" timestamp="1467890876729">
-        <mark key="'" line="25" column="10" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="63" />
-        <mark key="^" line="16" column="63" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467472474273">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="16" column="40" />
-      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.5.4-sources.jar!/play/api/libs/json/Json.scala" timestamp="1469303376292" />
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466962716268">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="61" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/lib/key-generator.js" timestamp="1467275781008">
-        <mark key="'" line="21" column="47" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="2" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" timestamp="1466580654374">
-        <mark key="'" line="42" column="17" />
-        <mark key="[" line="96" column="2" />
-        <mark key="]" line="96" column="2" />
-        <mark key="." line="96" column="2" />
-        <mark key="^" line="96" column="2" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1466595701566">
-        <mark key="'" line="57" column="21" />
-        <mark key="[" line="115" column="12" />
-        <mark key="]" line="116" column="5" />
-        <mark key="." line="116" column="5" />
-        <mark key="^" line="116" column="5" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1466498755063">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1467702621175">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="48" column="81" />
-        <mark key="]" line="47" column="89" />
-        <mark key="." line="48" column="89" />
-        <mark key="^" line="47" column="89" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/destination/pause.json" timestamp="1467706125018">
-        <mark key="[" line="377" column="29" />
-        <mark key="]" line="377" column="30" />
-        <mark key="^" line="377" column="30" />
-        <mark key="." line="377" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1467787265148">
-        <mark key="'" line="45" column="14" />
-        <mark key="[" line="65" column="108" />
-        <mark key="]" line="65" column="110" />
-        <mark key="." line="65" column="110" />
-        <mark key="^" line="65" column="110" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/config.js" timestamp="1466577871407">
-        <mark key="'" line="35" column="20" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="44" />
-        <mark key="^" line="18" column="44" />
-        <mark key="." line="18" column="44" />
+      <file name="$USER_HOME$/Development/play-scala/app/package-info.java" timestamp="1469004950926" />
+      <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1469358334440">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/styles/style.scss" timestamp="1467410614532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467636741040">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/conf/application.conf" timestamp="1468705040558">
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="^" line="354" column="0" />
-        <mark key="." line="354" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/event-manager.js" timestamp="1466757675991">
-        <mark key="'" line="83" column="2" />
-        <mark key="[" line="89" column="4" />
-        <mark key="]" line="92" column="10" />
-        <mark key="^" line="92" column="10" />
-        <mark key="." line="92" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-source-spec.js" timestamp="1466146022651">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="81" column="4" />
+      <file name="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" timestamp="1469357736085">
+        <mark key="'" line="62" column="24" />
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/template.json" timestamp="1466578949712">
         <mark key="[" line="85" column="0" />
@@ -202,12 +69,6 @@
         <mark key="^" line="45" column="100" />
         <mark key="." line="45" column="100" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
         <mark key="]" line="26" column="3" />
@@ -220,11 +81,223 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/app/controllers/MediaController.scala" timestamp="1468705559186">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1467009383080">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+        <mark key="^" line="78" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469315716490">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/models/embed.js" timestamp="1467106164096">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/index.js" timestamp="1469094079058" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466159498662">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="97" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/get-url.js" timestamp="1467016745938">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/conf/application.conf" timestamp="1469359618988">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/parser/SessionResultParserTest.scala" timestamp="1467566093034">
+        <mark key="[" line="23" column="77" />
+        <mark key="]" line="23" column="90" />
+        <mark key="." line="23" column="90" />
+        <mark key="^" line="23" column="90" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467892541003">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.7.0/core-modules/child_process.js" timestamp="1469093237512">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="27" column="63" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1466408987903">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466148939003">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="9" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="9" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1469095206776">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="13" column="56" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466961923772">
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/lib/load-controllers.js" timestamp="1467030384649">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/sync.js" timestamp="1469104848787">
+        <mark key="'" line="52" column="38" />
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="44" />
+        <mark key="." line="52" column="44" />
+        <mark key="^" line="52" column="44" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/media-repository.js" timestamp="1467109747828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/lib/get-mongo-connection-string.js" timestamp="1467892321652">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="12" column="75" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
+        <mark key="[" line="609" column="1" />
+        <mark key="]" line="610" column="0" />
+        <mark key="^" line="610" column="0" />
+        <mark key="." line="610" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1467892105826">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/package.json" timestamp="1469089059011">
+        <mark key="'" line="11" column="69" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="11" column="69" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467472516498">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/app.js" timestamp="1469092703154" />
+      <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467472474273">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469356894185">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/logs/application.log" timestamp="1469358104147">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1469093922203">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/skip-test.js" timestamp="1469088696675">
+        <mark key="'" line="3" column="45" />
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1467636741040">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" timestamp="1469356771375">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469357679234">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="31" />
+        <mark key="^" line="59" column="31" />
+        <mark key="." line="59" column="31" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/key-generator.js" timestamp="1467270836522">
         <mark key="[" line="0" column="0" />
@@ -232,18 +305,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1467009383080">
-        <mark key="[" line="51" column="2" />
-        <mark key="]" line="51" column="2" />
-        <mark key="." line="51" column="2" />
-        <mark key="^" line="78" column="7" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embed-player.js" timestamp="1467020402536">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="25" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/MediaResponse.scala" timestamp="1469357122016">
+        <mark key="e" line="16" column="15" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466489856679">
         <mark key="[" line="108" column="3" />
@@ -269,48 +336,18 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/app/Filters.scala" timestamp="1468710500646">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466599953857">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1467711792535">
-        <mark key="[" line="253" column="105" />
-        <mark key="]" line="253" column="105" />
-        <mark key="." line="253" column="105" />
-        <mark key="^" line="250" column="97" />
-      </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/services/everlytic.js" timestamp="1466665121336">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="50" column="24" />
-        <mark key="." line="29" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1469088641915" />
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="59" />
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/models/embed.js" timestamp="1467106164096">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/conf/routes" timestamp="1468710535969">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1467580387252">
         <mark key="[" line="53" column="41" />
@@ -318,106 +355,37 @@
         <mark key="." line="53" column="46" />
         <mark key="^" line="53" column="46" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466159498662">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="97" column="20" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/get-url.js" timestamp="1467016745938">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" timestamp="1467411778915">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="16" />
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/build.sbt" timestamp="1468705107323">
-        <mark key="[" line="11" column="67" />
-        <mark key="]" line="11" column="67" />
-        <mark key="." line="11" column="67" />
-        <mark key="^" line="12" column="57" />
+      <file name="$USER_HOME$/Development/play-scala/conf/logback.xml" timestamp="1469358388082">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/parser/SessionResultParserTest.scala" timestamp="1467566093034">
-        <mark key="[" line="23" column="77" />
-        <mark key="]" line="23" column="90" />
-        <mark key="." line="23" column="90" />
-        <mark key="^" line="23" column="90" />
+      <file name="$USER_HOME$/Development/play-scala/build.sbt" timestamp="1469118010958">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/source/has-offers.js" timestamp="1466506597455">
-        <mark key="'" line="20" column="32" />
-        <mark key="[" line="72" column="42" />
-        <mark key="]" line="72" column="54" />
-        <mark key="." line="72" column="54" />
-        <mark key="^" line="72" column="54" />
+      <file name="/Dummy.txt" timestamp="1469358309340">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapTime.scala" timestamp="1469165096383" />
-      <file name="$USER_HOME$/Development/embed-service/app/models/Clip.scala" timestamp="1468705924860">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Media.scala" timestamp="1469356951082">
+        <mark key="e" line="21" column="17" />
+        <mark key="i" line="21" column="17" />
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467892541003">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1465282762568">
-        <mark key="'" line="29" column="7" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="18" column="37" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1467009073196">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="27" column="63" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/app/controllers/AsyncController.scala" timestamp="1468710526140">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1468014335093">
-        <mark key="'" line="82" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1466408987903">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="13" column="35" />
-        <mark key="^" line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466148939003">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-        <mark key="^" line="32" column="9" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1466147861769">
-        <mark key="'" line="33" column="75" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="80" column="2" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/embed.js" timestamp="1467892971549">
-        <mark key="'" line="9" column="40" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="87" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1466600917595">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
-        <mark key="^" line="24" column="2" />
+      <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1469359604292">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" timestamp="1466147715014">
         <mark key="[" line="12" column="0" />
@@ -425,23 +393,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466961923772">
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/iRacingCredentials.scala" timestamp="1467580684155">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="22" />
         <mark key="^" line="8" column="37" />
         <mark key="." line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/lib/load-controllers.js" timestamp="1467030384649">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/repository/media-repository.js" timestamp="1467892599433">
         <mark key="[" line="12" column="0" />
@@ -455,70 +411,17 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/models/offer.js" timestamp="1464937634612">
-        <mark key="'" line="4" column="40" />
-        <mark key="[" line="60" column="43" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="60" column="43" />
-        <mark key="^" line="60" column="43" />
-      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/source-factory.js" timestamp="1466500342357">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/media-repository.js" timestamp="1467109747828">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/app/models/MediaResponse.scala" timestamp="1468706151036">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="2" column="76" />
-        <mark key="^" line="2" column="76" />
-        <mark key="." line="2" column="76" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/lib/get-mongo-connection-string.js" timestamp="1467892321652">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="12" column="75" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/src/test/scala/HelloSpec.scala" timestamp="1467481522289">
-        <mark key="[" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/app/Module.scala" timestamp="1468710478644">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/app/models/Playlist.scala" timestamp="1468706045542">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
-        <mark key="[" line="15" column="61" />
-        <mark key="]" line="15" column="61" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" timestamp="1469357055644">
+        <mark key="'" line="5" column="21" />
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
@@ -526,39 +429,13 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers-find-all.json" timestamp="1464937737529">
-        <mark key="'" line="11" column="5" />
-        <mark key="[" line="192" column="27" />
-        <mark key="]" line="192" column="29" />
-        <mark key="." line="192" column="29" />
-        <mark key="^" line="192" column="29" />
-      </file>
-      <file name="$USER_HOME$/Development/mediclinic-prime/src/controllers/contacts.js" timestamp="1466666230602">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="100" column="32" />
-      </file>
-      <file name="/fragment.java" timestamp="1468706168278">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/.gitignore" timestamp="1468711297232">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/test/ApplicationSpec.scala" timestamp="1468710103685">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/Development/play-scala/project/build.properties" timestamp="1469359597616">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="6" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
-      <jump line="101" column="56" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="111" column="30" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="136" column="26" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/proxied-request.js" />
       <jump line="59" column="21" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
@@ -641,75 +518,77 @@
       <jump line="9" column="40" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
       <jump line="85" column="14" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
-      <jump line="353" column="0" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="361" column="11" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="1" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="18" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="19" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="38" column="13" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="42" column="0" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="45" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="49" column="25" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="53" column="24" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="54" column="0" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="66" column="14" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="196" column="25" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="233" column="37" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="234" column="28" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
-      <jump line="355" column="28" filename="$USER_HOME$/Development/embed-service/conf/application.conf" />
+      <jump line="17" column="4" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
+      <jump line="19" column="3" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
+      <jump line="31" column="11" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
+      <jump line="41" column="61" filename="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
+      <jump line="16" column="56" filename="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" />
+      <jump line="39" column="24" filename="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" />
+      <jump line="87" column="0" filename="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" />
+      <jump line="5" column="21" filename="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" />
+      <jump line="3" column="45" filename="$USER_HOME$/Development/yazimedia/src/skip-test.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Development/yazimedia/src/sync.js" />
+      <jump line="11" column="69" filename="$USER_HOME$/Development/yazimedia/package.json" />
+      <jump line="52" column="38" filename="$USER_HOME$/Development/yazimedia/src/sync.js" />
+      <jump line="4" column="127" filename="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" />
+      <jump line="9" column="63" filename="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" />
+      <jump line="2400" column="117" filename="$USER_HOME$/Development/play-scala/logs/application.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/play-scala/logs/application.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQojIFRoaXMgaXMgdGhlIG1haW4gY29uZmlndXJhdGlvbiBmaWxlIGZvciB0aGUgYXBwbGljYXRpb24uCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvQ29uZmlnRmlsZQojIH5+fn5+CiMgUGxheSB1c2VzIEhPQ09OIGFzIGl0cyBjb25maWd1cmF0aW9uIGZpbGUgZm9ybWF0LiAgSE9DT04gaGFzIGEgbnVtYmVyCiMgb2YgYWR2YW50YWdlcyBvdmVyIG90aGVyIGNvbmZpZyBmb3JtYXRzLCBidXQgdGhlcmUgYXJlIHR3byB0aGluZ3MgdGhhdAojIGNhbiBiZSB1c2VkIHdoZW4gbW9kaWZ5aW5nIHNldHRpbmdzLgojCiMgWW91IGNhbiBpbmNsdWRlIG90aGVyIGNvbmZpZ3VyYXRpb24gZmlsZXMgaW4gdGhpcyBtYWluIGFwcGxpY2F0aW9uLmNvbmYgZmlsZToKI2luY2x1ZGUgImV4dHJhLWNvbmZpZy5jb25mIgojCiMgWW91IGNhbiBkZWNsYXJlIHZhcmlhYmxlcyBhbmQgc3Vic3RpdHV0ZSBmb3IgdGhlbToKI215a2V5ID0gJHtzb21lLnZhbHVlfQojCiMgQW5kIGlmIGFuIGVudmlyb25tZW50IHZhcmlhYmxlIGV4aXN0cyB3aGVuIHRoZXJlIGlzIG5vIG90aGVyIHN1YnNpdHV0aW9uLCB0aGVuCiMgSE9DT04gd2lsbCBmYWxsIGJhY2sgdG8gc3Vic3RpdHV0aW5nIGVudmlyb25tZW50IHZhcmlhYmxlOgojbXlrZXkgPSAke0pBVkFfSE9NRX0KCiMjIEFra2EKIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9TY2FsYUFra2EjQ29uZmlndXJhdGlvbgojIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFBa2thI0NvbmZpZ3VyYXRpb24KIyB+fn5+fgojIFBsYXkgdXNlcyBBa2thIGludGVybmFsbHkgYW5kIGV4cG9zZXMgQWtrYSBTdHJlYW1zIGFuZCBhY3RvcnMgaW4gV2Vic29ja2V0cyBhbmQKIyBvdGhlciBzdHJlYW1pbmcgSFRUUCByZXNwb25zZXMuCmFra2EgewogICMgImFra2EubG9nLWNvbmZpZy1vbi1zdGFydCIgaXMgZXh0cmFvcmRpbmFybHkgdXNlZnVsIGJlY2F1c2UgaXQgbG9nIHRoZSBjb21wbGV0ZQogICMgY29uZmlndXJhdGlvbiBhdCBJTkZPIGxldmVsLCBpbmNsdWRpbmcgZGVmYXVsdHMgYW5kIG92ZXJyaWRlcywgc28gaXQgcyB3b3J0aAogICMgcHV0dGluZyBhdCB0aGUgdmVyeSB0b3AuCiAgIwogICMgUHV0IHRoZSBmb2xsb3dpbmcgaW4geW91ciBjb25mL2xvZ2JhY2sueG1sIGZpbGU6CiAgIwogICMgPGxvZ2dlciBuYW1lPSJha2thLmFjdG9yIiBsZXZlbD0iSU5GTyIgLz4KICAjCiAgIyBBbmQgdGhlbiB1bmNvbW1lbnQgdGhpcyBsaW5lIHRvIGRlYnVnIHRoZSBjb25maWd1cmF0aW9uLgogICMKICAjbG9nLWNvbmZpZy1vbi1zdGFydCA9IHRydWUKfQoKIyMgU2VjcmV0IGtleQojIGh0dHA6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvQXBwbGljYXRpb25TZWNyZXQKIyB+fn5+fgojIFRoZSBzZWNyZXQga2V5IGlzIHVzZWQgdG8gc2lnbiBQbGF5J3Mgc2Vzc2lvbiBjb29raWUuCiMgVGhpcyBtdXN0IGJlIGNoYW5nZWQgZm9yIHByb2R1Y3Rpb24sIGJ1dCB3ZSBkb24ndCByZWNvbW1lbmQgeW91IGNoYW5nZSBpdCBpbiB0aGlzIGZpbGUuCnBsYXkuY3J5cHRvLnNlY3JldCA9ICJjaGFuZ2VtZSIKCiMjIE1vZHVsZXMKIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Nb2R1bGVzCiMgfn5+fn4KIyBDb250cm9sIHdoaWNoIG1vZHVsZXMgYXJlIGxvYWRlZCB3aGVuIFBsYXkgc3RhcnRzLiAgTm90ZSB0aGF0IG1vZHVsZXMgYXJlCiMgdGhlIHJlcGxhY2VtZW50IGZvciAiR2xvYmFsU2V0dGluZ3MiLCB3aGljaCBhcmUgZGVwcmVjYXRlZCBpbiAyLjUueC4KIyBQbGVhc2Ugc2VlIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0dsb2JhbFNldHRpbmdzCiMgZm9yIG1vcmUgaW5mb3JtYXRpb24uCiMKIyBZb3UgY2FuIGFsc28gZXh0ZW5kIFBsYXkgZnVuY3Rpb25hbGl0eSBieSB1c2luZyBvbmUgb2YgdGhlIHB1YmxpY2FsbHkgYXZhaWxhYmxlCiMgUGxheSBtb2R1bGVzOiBodHRwczovL3BsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L01vZHVsZURpcmVjdG9yeQpwbGF5Lm1vZHVsZXMgewogICMgQnkgZGVmYXVsdCwgUGxheSB3aWxsIGxvYWQgYW55IGNsYXNzIGNhbGxlZCBNb2R1bGUgdGhhdCBpcyBkZWZpbmVkCiAgIyBpbiB0aGUgcm9vdCBwYWNrYWdlICh0aGUgImFwcCIgZGlyZWN0b3J5KSwgb3IgeW91IGNhbiBkZWZpbmUgdGhlbQogICMgZXhwbGljaXRseSBiZWxvdy4KICAjIElmIHRoZXJlIGFyZSBhbnkgYnVpbHQtaW4gbW9kdWxlcyB0aGF0IHlvdSB3YW50IHRvIGRpc2FibGUsIHlvdSBjYW4gbGlzdCB0aGVtIGhlcmUuCiAgI2VuYWJsZWQgKz0gbXkuYXBwbGljYXRpb24uTW9kdWxlCgogICMgSWYgdGhlcmUgYXJlIGFueSBidWlsdC1pbiBtb2R1bGVzIHRoYXQgeW91IHdhbnQgdG8gZGlzYWJsZSwgeW91IGNhbiBsaXN0IHRoZW0gaGVyZS4KICAjZGlzYWJsZWQgKz0gIiIKfQoKIyMgSURFCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSURFCiMgfn5+fn4KIyBEZXBlbmRpbmcgb24geW91ciBJREUsIHlvdSBjYW4gYWRkIGEgaHlwZXJsaW5rIGZvciBlcnJvcnMgdGhhdCB3aWxsIGp1bXAgeW91CiMgZGlyZWN0bHkgdG8gdGhlIGNvZGUgbG9jYXRpb24gaW4gdGhlIElERSBpbiBkZXYgbW9kZS4gVGhlIGZvbGxvd2luZyBsaW5lIG1ha2VzIAojIHVzZSBvZiB0aGUgSW50ZWxsaUogSURFQSBSRVNUIGludGVyZmFjZTogCiNwbGF5LmVkaXRvcj1odHRwOi8vbG9jYWxob3N0OjYzMzQyL2FwaS9maWxlLz9maWxlPSVzJmxpbmU9JXMgCgojIyBJbnRlcm5hdGlvbmFsaXNhdGlvbgojIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFJMThOCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFJMThOCiMgfn5+fn4KIyBQbGF5IGNvbWVzIHdpdGggaXRzIG93biBpMThuIHNldHRpbmdzLCB3aGljaCBhbGxvdyB0aGUgdXNlcidzIHByZWZlcnJlZCBsYW5ndWFnZQojIHRvIG1hcCB0aHJvdWdoIHRvIGludGVybmFsIG1lc3NhZ2VzLCBvciBhbGxvdyB0aGUgbGFuZ3VhZ2UgdG8gYmUgc3RvcmVkIGluIGEgY29va2llLgpwbGF5LmkxOG4gewogICMgVGhlIGFwcGxpY2F0aW9uIGxhbmd1YWdlcwogIGxhbmdzID0gWyAiZW4iIF0KCiAgIyBXaGV0aGVyIHRoZSBsYW5ndWFnZSBjb29raWUgc2hvdWxkIGJlIHNlY3VyZSBvciBub3QKICAjbGFuZ0Nvb2tpZVNlY3VyZSA9IHRydWUKCiAgIyBXaGV0aGVyIHRoZSBIVFRQIG9ubHkgYXR0cmlidXRlIG9mIHRoZSBjb29raWUgc2hvdWxkIGJlIHNldCB0byB0cnVlCiAgI2xhbmdDb29raWVIdHRwT25seSA9IHRydWUKfQoKIyMgUGxheSBIVFRQIHNldHRpbmdzCiMgfn5+fn4KcGxheS5odHRwIHsKICAjIyBSb3V0ZXIKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFSb3V0aW5nCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9TY2FsYVJvdXRpbmcKICAjIH5+fn5+CiAgIyBEZWZpbmUgdGhlIFJvdXRlciBvYmplY3QgdG8gdXNlIGZvciB0aGlzIGFwcGxpY2F0aW9uLgogICMgVGhpcyByb3V0ZXIgd2lsbCBiZSBsb29rZWQgdXAgZmlyc3Qgd2hlbiB0aGUgYXBwbGljYXRpb24gaXMgc3RhcnRpbmcgdXAsCiAgIyBzbyBtYWtlIHN1cmUgdGhpcyBpcyB0aGUgZW50cnkgcG9pbnQuCiAgIyBGdXJ0aGVybW9yZSwgaXQncyBhc3N1bWVkIHlvdXIgcm91dGUgZmlsZSBpcyBuYW1lZCBwcm9wZXJseS4KICAjIFNvIGZvciBhbiBhcHBsaWNhdGlvbiByb3V0ZXIgbGlrZSBgbXkuYXBwbGljYXRpb24uUm91dGVyYCwKICAjIHlvdSBtYXkgbmVlZCB0byBkZWZpbmUgYSByb3V0ZXIgZmlsZSBgY29uZi9teS5hcHBsaWNhdGlvbi5yb3V0ZXNgLgogICMgRGVmYXVsdCB0byBSb3V0ZXMgaW4gdGhlIHJvb3QgcGFja2FnZSAoYWthICJhcHBzIiBmb2xkZXIpIChhbmQgY29uZi9yb3V0ZXMpCiAgI3JvdXRlciA9IG15LmFwcGxpY2F0aW9uLlJvdXRlcgoKICAjIyBBY3Rpb24gQ3JlYXRvcgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YUFjdGlvbkNyZWF0b3IKICAjIH5+fn5+CiAgI2FjdGlvbkNyZWF0b3IgPSBudWxsCgogICMjIEVycm9ySGFuZGxlcgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YVJvdXRpbmcKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhUm91dGluZwogICMgfn5+fn4KICAjIElmIG51bGwsIHdpbGwgYXR0ZW1wdCB0byBsb2FkIGEgY2xhc3MgY2FsbGVkIEVycm9ySGFuZGxlciBpbiB0aGUgcm9vdCBwYWNrYWdlLAogICNlcnJvckhhbmRsZXIgPSBudWxsCgogICMjIEZpbHRlcnMKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhSHR0cEZpbHRlcnMKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFIdHRwRmlsdGVycwogICMgfn5+fn4KICAjIEZpbHRlcnMgcnVuIGNvZGUgb24gZXZlcnkgcmVxdWVzdC4gVGhleSBjYW4gYmUgdXNlZCB0byBwZXJmb3JtCiAgIyBjb21tb24gbG9naWMgZm9yIGFsbCB5b3VyIGFjdGlvbnMsIGUuZy4gYWRkaW5nIGNvbW1vbiBoZWFkZXJzLgogICMgRGVmYXVsdHMgdG8gIkZpbHRlcnMiIGluIHRoZSByb290IHBhY2thZ2UgKGFrYSAiYXBwcyIgZm9sZGVyKQogICMgQWx0ZXJuYXRpdmVseSB5b3UgY2FuIGV4cGxpY2l0bHkgcmVnaXN0ZXIgYSBjbGFzcyBoZXJlLgogICNmaWx0ZXJzID0gbXkuYXBwbGljYXRpb24uRmlsdGVycwoKICAjIyBTZXNzaW9uICYgRmxhc2gKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFTZXNzaW9uRmxhc2gKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhU2Vzc2lvbkZsYXNoCiAgIyB+fn5+fgogIHNlc3Npb24gewogICAgIyBTZXRzIHRoZSBjb29raWUgdG8gYmUgc2VudCBvbmx5IG92ZXIgSFRUUFMuCiAgICAjc2VjdXJlID0gdHJ1ZQoKICAgICMgU2V0cyB0aGUgY29va2llIHRvIGJlIGFjY2Vzc2VkIG9ubHkgYnkgdGhlIHNlcnZlci4KICAgICNodHRwT25seSA9IHRydWUKCiAgICAjIFNldHMgdGhlIG1heC1hZ2UgZmllbGQgb2YgdGhlIGNvb2tpZSB0byA1IG1pbnV0ZXMuCiAgICAjIE5PVEU6IHRoaXMgb25seSBzZXRzIHdoZW4gdGhlIGJyb3dzZXIgd2lsbCBkaXNjYXJkIHRoZSBjb29raWUuIFBsYXkgd2lsbCBjb25zaWRlciBhbnkKICAgICMgY29va2llIHZhbHVlIHdpdGggYSB2YWxpZCBzaWduYXR1cmUgdG8gYmUgYSB2YWxpZCBzZXNzaW9uIGZvcmV2ZXIuIFRvIGltcGxlbWVudCBhIHNlcnZlciBzaWRlIHNlc3Npb24gdGltZW91dCwKICAgICMgeW91IG5lZWQgdG8gcHV0IGEgdGltZXN0YW1wIGluIHRoZSBzZXNzaW9uIGFuZCBjaGVjayBpdCBhdCByZWd1bGFyIGludGVydmFscyB0byBwb3NzaWJseSBleHBpcmUgaXQuCiAgICAjbWF4QWdlID0gMzAwCgogICAgIyBTZXRzIHRoZSBkb21haW4gb24gdGhlIHNlc3Npb24gY29va2llLgogICAgI2RvbWFpbiA9ICJleGFtcGxlLmNvbSIKICB9CgogIGZsYXNoIHsKICAgICMgU2V0cyB0aGUgY29va2llIHRvIGJlIHNlbnQgb25seSBvdmVyIEhUVFBTLgogICAgI3NlY3VyZSA9IHRydWUKCiAgICAjIFNldHMgdGhlIGNvb2tpZSB0byBiZSBhY2Nlc3NlZCBvbmx5IGJ5IHRoZSBzZXJ2ZXIuCiAgICAjaHR0cE9ubHkgPSB0cnVlCiAgfQp9CgojIyBOZXR0eSBQcm92aWRlcgojIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NldHRpbmdzTmV0dHkKIyB+fn5+fgpwbGF5LnNlcnZlci5uZXR0eSB7CiAgIyBXaGV0aGVyIHRoZSBOZXR0eSB3aXJlIHNob3VsZCBiZSBsb2dnZWQKICAjbG9nLndpcmUgPSB0cnVlCgogICMgSWYgeW91IHJ1biBQbGF5IG9uIExpbnV4LCB5b3UgY2FuIHVzZSBOZXR0eSdzIG5hdGl2ZSBzb2NrZXQgdHJhbnNwb3J0CiAgIyBmb3IgaGlnaGVyIHBlcmZvcm1hbmNlIHdpdGggbGVzcyBnYXJiYWdlLgogICN0cmFuc3BvcnQgPSAibmF0aXZlIgp9CgojIyBXUyAoSFRUUCBDbGllbnQpCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFXUyNDb25maWd1cmluZy1XUwojIH5+fn5+CiMgVGhlIEhUVFAgY2xpZW50IHByaW1hcmlseSB1c2VkIGZvciBSRVNUIEFQSXMuICBUaGUgZGVmYXVsdCBjbGllbnQgY2FuIGJlCiMgY29uZmlndXJlZCBkaXJlY3RseSwgYnV0IHlvdSBjYW4gYWxzbyBjcmVhdGUgZGlmZmVyZW50IGNsaWVudCBpbnN0YW5jZXMKIyB3aXRoIGN1c3RvbWl6ZWQgc2V0dGluZ3MuIFlvdSBtdXN0IGVuYWJsZSB0aGlzIGJ5IGFkZGluZyB0byBidWlsZC5zYnQ6CiMKIyBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9IHdzIC8vIG9yIGphdmFXcyBpZiB1c2luZyBqYXZhCiMKcGxheS53cyB7CiAgIyBTZXRzIEhUVFAgcmVxdWVzdHMgbm90IHRvIGZvbGxvdyAzMDIgcmVxdWVzdHMKICAjZm9sbG93UmVkaXJlY3RzID0gZmFsc2UKCiAgIyBTZXRzIHRoZSBtYXhpbXVtIG51bWJlciBvZiBvcGVuIEhUVFAgY29ubmVjdGlvbnMgZm9yIHRoZSBjbGllbnQuCiAgI2FoYy5tYXhDb25uZWN0aW9uc1RvdGFsID0gNTAKCiAgIyMgV1MgU1NMCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Xc1NTTAogICMgfn5+fn4KICBzc2wgewogICAgIyBDb25maWd1cmluZyBIVFRQUyB3aXRoIFBsYXkgV1MgZG9lcyBub3QgcmVxdWlyZSBwcm9ncmFtbWluZy4gIFlvdSBjYW4KICAgICMgc2V0IHVwIGJvdGggdHJ1c3RNYW5hZ2VyIGFuZCBrZXlNYW5hZ2VyIGZvciBtdXR1YWwgYXV0aGVudGljYXRpb24sIGFuZAogICAgIyB0dXJuIG9uIEpTU0UgZGVidWdnaW5nIGluIGRldmVsb3BtZW50IHdpdGggYSByZWxvYWQuCiAgICAjZGVidWcuaGFuZHNoYWtlID0gdHJ1ZQogICAgI3RydXN0TWFuYWdlciA9IHsKICAgICMgIHN0b3JlcyA9IFsKICAgICMgICAgeyB0eXBlID0gIkpLUyIsIHBhdGggPSAiZXhhbXBsZXRydXN0LmprcyIgfQogICAgIyAgXQogICAgI30KICB9Cn0KCiMjIENhY2hlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YUNhY2hlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFDYWNoZQojIH5+fn5+CiMgUGxheSBjb21lcyB3aXRoIGFuIGludGVncmF0ZWQgY2FjaGUgQVBJIHRoYXQgY2FuIHJlZHVjZSB0aGUgb3BlcmF0aW9uYWwKIyBvdmVyaGVhZCBvZiByZXBlYXRlZCByZXF1ZXN0cy4gWW91IG11c3QgZW5hYmxlIHRoaXMgYnkgYWRkaW5nIHRvIGJ1aWxkLnNidDoKIwojIGxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gY2FjaGUKIwpwbGF5LmNhY2hlIHsKICAjIElmIHlvdSB3YW50IHRvIGJpbmQgc2V2ZXJhbCBjYWNoZXMsIHlvdSBjYW4gYmluZCB0aGUgaW5kaXZpZHVhbGx5CiAgI2JpbmRDYWNoZXMgPSBbImRiLWNhY2hlIiwgInVzZXItY2FjaGUiLCAic2Vzc2lvbi1jYWNoZSJdCn0KCiMjIEZpbHRlcnMKIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9GaWx0ZXJzCiMgfn5+fn4KIyBUaGVyZSBhcmUgYSBudW1iZXIgb2YgYnVpbHQtaW4gZmlsdGVycyB0aGF0IGNhbiBiZSBlbmFibGVkIGFuZCBjb25maWd1cmVkCiMgdG8gZ2l2ZSBQbGF5IGdyZWF0ZXIgc2VjdXJpdHkuICBZb3UgbXVzdCBlbmFibGUgdGhpcyBieSBhZGRpbmcgdG8gYnVpbGQuc2J0OgojCiMgbGlicmFyeURlcGVuZGVuY2llcyArPSBmaWx0ZXJzCiMKcGxheS5maWx0ZXJzIHsKICAjIyBDT1JTIGZpbHRlciBjb25maWd1cmF0aW9uCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Db3JzRmlsdGVyCiAgIyB+fn5+fgogICMgQ09SUyBpcyBhIHByb3RvY29sIHRoYXQgYWxsb3dzIHdlYiBhcHBsaWNhdGlvbnMgdG8gbWFrZSByZXF1ZXN0cyBmcm9tIHRoZSBicm93c2VyCiAgIyBhY3Jvc3MgZGlmZmVyZW50IGRvbWFpbnMuCiAgIyBOT1RFOiBZb3UgTVVTVCBhcHBseSB0aGUgQ09SUyBjb25maWd1cmF0aW9uIGJlZm9yZSB0aGUgQ1NSRiBmaWx0ZXIsIGFzIENTUkYgaGFzCiAgIyBkZXBlbmRlbmNpZXMgb24gQ09SUyBzZXR0aW5ncy4KICBjb3JzIHsKICAgICMgRmlsdGVyIHBhdGhzIGJ5IGEgd2hpdGVsaXN0IG9mIHBhdGggcHJlZml4ZXMKICAgICNwYXRoUHJlZml4ZXMgPSBbIi9zb21lL3BhdGgiLCAuLi5dCgogICAgIyBUaGUgYWxsb3dlZCBvcmlnaW5zLiBJZiBudWxsLCBhbGwgb3JpZ2lucyBhcmUgYWxsb3dlZC4KICAgICNhbGxvd2VkT3JpZ2lucyA9IFsiaHR0cDovL3d3dy5leGFtcGxlLmNvbSJdCgogICAgIyBUaGUgYWxsb3dlZCBIVFRQIG1ldGhvZHMuIElmIG51bGwsIGFsbCBtZXRob2RzIGFyZSBhbGxvd2VkCiAgICAjYWxsb3dlZEh0dHBNZXRob2RzID0gWyJHRVQiLCAiUE9TVCJdCiAgfQoKICAjIyBDU1JGIEZpbHRlcgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFDc3JmI0FwcGx5aW5nLWEtZ2xvYmFsLUNTUkYtZmlsdGVyCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9KYXZhQ3NyZiNBcHBseWluZy1hLWdsb2JhbC1DU1JGLWZpbHRlcgogICMgfn5+fn4KICAjIFBsYXkgc3VwcG9ydHMgbXVsdGlwbGUgbWV0aG9kcyBmb3IgdmVyaWZ5aW5nIHRoYXQgYSByZXF1ZXN0IGlzIG5vdCBhIENTUkYgcmVxdWVzdC4KICAjIFRoZSBwcmltYXJ5IG1lY2hhbmlzbSBpcyBhIENTUkYgdG9rZW4uIFRoaXMgdG9rZW4gZ2V0cyBwbGFjZWQgZWl0aGVyIGluIHRoZSBxdWVyeSBzdHJpbmcKICAjIG9yIGJvZHkgb2YgZXZlcnkgZm9ybSBzdWJtaXR0ZWQsIGFuZCBhbHNvIGdldHMgcGxhY2VkIGluIHRoZSB1c2VycyBzZXNzaW9uLgogICMgUGxheSB0aGVuIHZlcmlmaWVzIHRoYXQgYm90aCB0b2tlbnMgYXJlIHByZXNlbnQgYW5kIG1hdGNoLgogIGNzcmYgewogICAgIyBTZXRzIHRoZSBjb29raWUgdG8gYmUgc2VudCBvbmx5IG92ZXIgSFRUUFMKICAgICNjb29raWUuc2VjdXJlID0gdHJ1ZQoKICAgICMgRGVmYXVsdHMgdG8gQ1NSRkVycm9ySGFuZGxlciBpbiB0aGUgcm9vdCBwYWNrYWdlLgogICAgI2Vycm9ySGFuZGxlciA9IE15Q1NSRkVycm9ySGFuZGxlcgogIH0KCiAgIyMgU2VjdXJpdHkgaGVhZGVycyBmaWx0ZXIgY29uZmlndXJhdGlvbgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2VjdXJpdHlIZWFkZXJzCiAgIyB+fn5+fgogICMgRGVmaW5lcyBzZWN1cml0eSBoZWFkZXJzIHRoYXQgcHJldmVudCBYU1MgYXR0YWNrcy4KICAjIElmIGVuYWJsZWQsIHRoZW4gYWxsIG9wdGlvbnMgYXJlIHNldCB0byB0aGUgYmVsb3cgY29uZmlndXJhdGlvbiBieSBkZWZhdWx0OgogIGhlYWRlcnMgewogICAgIyBUaGUgWC1GcmFtZS1PcHRpb25zIGhlYWRlci4gSWYgbnVsbCwgdGhlIGhlYWRlciBpcyBub3Qgc2V0LgogICAgI2ZyYW1lT3B0aW9ucyA9ICJERU5ZIgoKICAgICMgVGhlIFgtWFNTLVByb3RlY3Rpb24gaGVhZGVyLiBJZiBudWxsLCB0aGUgaGVhZGVyIGlzIG5vdCBzZXQuCiAgICAjeHNzUHJvdGVjdGlvbiA9ICIxOyBtb2RlPWJsb2NrIgoKICAgICMgVGhlIFgtQ29udGVudC1UeXBlLU9wdGlvbnMgaGVhZGVyLiBJZiBudWxsLCB0aGUgaGVhZGVyIGlzIG5vdCBzZXQuCiAgICAjY29udGVudFR5cGVPcHRpb25zID0gIm5vc25pZmYiCgogICAgIyBUaGUgWC1QZXJtaXR0ZWQtQ3Jvc3MtRG9tYWluLVBvbGljaWVzIGhlYWRlci4gSWYgbnVsbCwgdGhlIGhlYWRlciBpcyBub3Qgc2V0LgogICAgI3Blcm1pdHRlZENyb3NzRG9tYWluUG9saWNpZXMgPSAibWFzdGVyLW9ubHkiCgogICAgIyBUaGUgQ29udGVudC1TZWN1cml0eS1Qb2xpY3kgaGVhZGVyLiBJZiBudWxsLCB0aGUgaGVhZGVyIGlzIG5vdCBzZXQuCiAgICAjY29udGVudFNlY3VyaXR5UG9saWN5ID0gImRlZmF1bHQtc3JjICdzZWxmJyIKICB9CgogICMjIEFsbG93ZWQgaG9zdHMgZmlsdGVyIGNvbmZpZ3VyYXRpb24KICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0FsbG93ZWRIb3N0c0ZpbHRlcgogICMgfn5+fn4KICAjIFBsYXkgcHJvdmlkZXMgYSBmaWx0ZXIgdGhhdCBsZXRzIHlvdSBjb25maWd1cmUgd2hpY2ggaG9zdHMgY2FuIGFjY2VzcyB5b3VyIGFwcGxpY2F0aW9uLgogICMgVGhpcyBpcyB1c2VmdWwgdG8gcHJldmVudCBjYWNoZSBwb2lzb25pbmcgYXR0YWNrcy4KICBob3N0cyB7CiAgICAjIEFsbG93IHJlcXVlc3RzIHRvIGV4YW1wbGUuY29tLCBpdHMgc3ViZG9tYWlucywgYW5kIGxvY2FsaG9zdDo5MDAwLgogICAgI2FsbG93ZWQgPSBbIi5leGFtcGxlLmNvbSIsICJsb2NhbGhvc3Q6OTAwMCJdCiAgfQp9CgojIyBFdm9sdXRpb25zCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvRXZvbHV0aW9ucwojIH5+fn5+CiMgRXZvbHV0aW9ucyBhbGxvd3MgZGF0YWJhc2Ugc2NyaXB0cyB0byBiZSBhdXRvbWF0aWNhbGx5IHJ1biBvbiBzdGFydHVwIGluIGRldiBtb2RlCiMgZm9yIGRhdGFiYXNlIG1pZ3JhdGlvbnMuIFlvdSBtdXN0IGVuYWJsZSB0aGlzIGJ5IGFkZGluZyB0byBidWlsZC5zYnQ6CiMKIyBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9IGV2b2x1dGlvbnMKIwpwbGF5LmV2b2x1dGlvbnMgewogICMgWW91IGNhbiBkaXNhYmxlIGV2b2x1dGlvbnMgZm9yIGEgc3BlY2lmaWMgZGF0YXNvdXJjZSBpZiBuZWNlc3NhcnkKICAjZGIuZGVmYXVsdC5lbmFibGVkID0gZmFsc2UKfQoKIyMgRGF0YWJhc2UgQ29ubmVjdGlvbiBQb29sCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2V0dGluZ3NKREJDCiMgfn5+fn4KIyBQbGF5IGRvZXNuJ3QgcmVxdWlyZSBhIEpEQkMgZGF0YWJhc2UgdG8gcnVuLCBidXQgeW91IGNhbiBlYXNpbHkgZW5hYmxlIG9uZS4KIwojIGxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gamRiYwojCnBsYXkuZGIgewogICMgVGhlIGNvbWJpbmF0aW9uIG9mIHRoZXNlIHR3byBzZXR0aW5ncyByZXN1bHRzIGluICJkYi5kZWZhdWx0IiBhcyB0aGUKICAjIGRlZmF1bHQgSkRCQyBwb29sOgogICNjb25maWcgPSAiZGIiCiAgI2RlZmF1bHQgPSAiZGVmYXVsdCIKCiAgIyBQbGF5IHVzZXMgSGlrYXJpQ1AgYXMgdGhlIGRlZmF1bHQgY29ubmVjdGlvbiBwb29sLiAgWW91IGNhbiBvdmVycmlkZQogICMgc2V0dGluZ3MgYnkgY2hhbmdpbmcgdGhlIHByb3RvdHlwZToKICBwcm90b3R5cGUgewogICAgIyBTZXRzIGEgZml4ZWQgSkRCQyBjb25uZWN0aW9uIHBvb2wgc2l6ZSBvZiA1MAogICAgI2hpa2FyaWNwLm1pbmltdW1JZGxlID0gNTAKICAgICNoaWthcmljcC5tYXhpbXVtUG9vbFNpemUgPSA1MAogIH0KfQoKIyMgSkRCQyBEYXRhc291cmNlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YURhdGFiYXNlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFEYXRhYmFzZQojIH5+fn5+CiMgT25jZSBKREJDIGRhdGFzb3VyY2UgaXMgc2V0IHVwLCB5b3UgY2FuIHdvcmsgd2l0aCBzZXZlcmFsIGRpZmZlcmVudAojIGRhdGFiYXNlIG9wdGlvbnM6CiMKIyBTbGljayAoU2NhbGEgcHJlZmVycmVkIG9wdGlvbik6IGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1BsYXlTbGljawojIEpQQSAoSmF2YSBwcmVmZXJyZWQgb3B0aW9uKTogaHR0cHM6Ly9wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9KYXZhSlBBCiMgRUJlYW46IGh0dHBzOi8vcGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YUViZWFuCiMgQW5vcm06IGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhQW5vcm0KIwpkYiB7CiAgIyBZb3UgY2FuIGRlY2xhcmUgYXMgbWFueSBkYXRhc291cmNlcyBhcyB5b3Ugd2FudC4KICAjIEJ5IGNvbnZlbnRpb24sIHRoZSBkZWZhdWx0IGRhdGFzb3VyY2UgaXMgbmFtZWQgYGRlZmF1bHRgCgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvRGV2ZWxvcGluZy13aXRoLXRoZS1IMi1EYXRhYmFzZQogICNkZWZhdWx0LmRyaXZlciA9IG9yZy5oMi5Ecml2ZXIKICAjZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheSIKICAjZGVmYXVsdC51c2VybmFtZSA9IHNhCiAgI2RlZmF1bHQucGFzc3dvcmQgPSAiIgoKICAjIFlvdSBjYW4gdHVybiBvbiBTUUwgbG9nZ2luZyBmb3IgYW55IGRhdGFzb3VyY2UKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0hpZ2hsaWdodHMyNSNMb2dnaW5nLVNRTC1zdGF0ZW1lbnRzCiAgI2RlZmF1bHQubG9nU3FsPXRydWUKfQo+Pj4+Pj4+IDg3YWU4MzcyMmRlMTFkMDUzYzllMzgxZjZmOTIxNDgzMzI2OTg2YzUK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>module</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>'thumbnail', 'waveform', 'title', 'author', 'description', 'publishedAt'</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAubWFwIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQojIFRoaXMgaXMgdGhlIG1haW4gY29uZmlndXJhdGlvbiBmaWxlIGZvciB0aGUgYXBwbGljYXRpb24uCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvQ29uZmlnRmlsZQojIH5+fn5+CiMgUGxheSB1c2VzIEhPQ09OIGFzIGl0cyBjb25maWd1cmF0aW9uIGZpbGUgZm9ybWF0LiAgSE9DT04gaGFzIGEgbnVtYmVyCiMgb2YgYWR2YW50YWdlcyBvdmVyIG90aGVyIGNvbmZpZyBmb3JtYXRzLCBidXQgdGhlcmUgYXJlIHR3byB0aGluZ3MgdGhhdAojIGNhbiBiZSB1c2VkIHdoZW4gbW9kaWZ5aW5nIHNldHRpbmdzLgojCiMgWW91IGNhbiBpbmNsdWRlIG90aGVyIGNvbmZpZ3VyYXRpb24gZmlsZXMgaW4gdGhpcyBtYWluIGFwcGxpY2F0aW9uLmNvbmYgZmlsZToKI2luY2x1ZGUgImV4dHJhLWNvbmZpZy5jb25mIgojCiMgWW91IGNhbiBkZWNsYXJlIHZhcmlhYmxlcyBhbmQgc3Vic3RpdHV0ZSBmb3IgdGhlbToKI215a2V5ID0gJHtzb21lLnZhbHVlfQojCiMgQW5kIGlmIGFuIGVudmlyb25tZW50IHZhcmlhYmxlIGV4aXN0cyB3aGVuIHRoZXJlIGlzIG5vIG90aGVyIHN1YnNpdHV0aW9uLCB0aGVuCiMgSE9DT04gd2lsbCBmYWxsIGJhY2sgdG8gc3Vic3RpdHV0aW5nIGVudmlyb25tZW50IHZhcmlhYmxlOgojbXlrZXkgPSAke0pBVkFfSE9NRX0KCiMjIEFra2EKIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9TY2FsYUFra2EjQ29uZmlndXJhdGlvbgojIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFBa2thI0NvbmZpZ3VyYXRpb24KIyB+fn5+fgojIFBsYXkgdXNlcyBBa2thIGludGVybmFsbHkgYW5kIGV4cG9zZXMgQWtrYSBTdHJlYW1zIGFuZCBhY3RvcnMgaW4gV2Vic29ja2V0cyBhbmQKIyBvdGhlciBzdHJlYW1pbmcgSFRUUCByZXNwb25zZXMuCmFra2EgewogICMgImFra2EubG9nLWNvbmZpZy1vbi1zdGFydCIgaXMgZXh0cmFvcmRpbmFybHkgdXNlZnVsIGJlY2F1c2UgaXQgbG9nIHRoZSBjb21wbGV0ZQogICMgY29uZmlndXJhdGlvbiBhdCBJTkZPIGxldmVsLCBpbmNsdWRpbmcgZGVmYXVsdHMgYW5kIG92ZXJyaWRlcywgc28gaXQgcyB3b3J0aAogICMgcHV0dGluZyBhdCB0aGUgdmVyeSB0b3AuCiAgIwogICMgUHV0IHRoZSBmb2xsb3dpbmcgaW4geW91ciBjb25mL2xvZ2JhY2sueG1sIGZpbGU6CiAgIwogICMgPGxvZ2dlciBuYW1lPSJha2thLmFjdG9yIiBsZXZlbD0iSU5GTyIgLz4KICAjCiAgIyBBbmQgdGhlbiB1bmNvbW1lbnQgdGhpcyBsaW5lIHRvIGRlYnVnIHRoZSBjb25maWd1cmF0aW9uLgogICMKICAjbG9nLWNvbmZpZy1vbi1zdGFydCA9IHRydWUKfQoKIyMgU2VjcmV0IGtleQojIGh0dHA6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvQXBwbGljYXRpb25TZWNyZXQKIyB+fn5+fgojIFRoZSBzZWNyZXQga2V5IGlzIHVzZWQgdG8gc2lnbiBQbGF5J3Mgc2Vzc2lvbiBjb29raWUuCiMgVGhpcyBtdXN0IGJlIGNoYW5nZWQgZm9yIHByb2R1Y3Rpb24sIGJ1dCB3ZSBkb24ndCByZWNvbW1lbmQgeW91IGNoYW5nZSBpdCBpbiB0aGlzIGZpbGUuCnBsYXkuY3J5cHRvLnNlY3JldCA9ICJjaGFuZ2VtZSIKCiMjIE1vZHVsZXMKIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Nb2R1bGVzCiMgfn5+fn4KIyBDb250cm9sIHdoaWNoIG1vZHVsZXMgYXJlIGxvYWRlZCB3aGVuIFBsYXkgc3RhcnRzLiAgTm90ZSB0aGF0IG1vZHVsZXMgYXJlCiMgdGhlIHJlcGxhY2VtZW50IGZvciAiR2xvYmFsU2V0dGluZ3MiLCB3aGljaCBhcmUgZGVwcmVjYXRlZCBpbiAyLjUueC4KIyBQbGVhc2Ugc2VlIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0dsb2JhbFNldHRpbmdzCiMgZm9yIG1vcmUgaW5mb3JtYXRpb24uCiMKIyBZb3UgY2FuIGFsc28gZXh0ZW5kIFBsYXkgZnVuY3Rpb25hbGl0eSBieSB1c2luZyBvbmUgb2YgdGhlIHB1YmxpY2FsbHkgYXZhaWxhYmxlCiMgUGxheSBtb2R1bGVzOiBodHRwczovL3BsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L01vZHVsZURpcmVjdG9yeQpwbGF5Lm1vZHVsZXMgewogICMgQnkgZGVmYXVsdCwgUGxheSB3aWxsIGxvYWQgYW55IGNsYXNzIGNhbGxlZCBNb2R1bGUgdGhhdCBpcyBkZWZpbmVkCiAgIyBpbiB0aGUgcm9vdCBwYWNrYWdlICh0aGUgImFwcCIgZGlyZWN0b3J5KSwgb3IgeW91IGNhbiBkZWZpbmUgdGhlbQogICMgZXhwbGljaXRseSBiZWxvdy4KICAjIElmIHRoZXJlIGFyZSBhbnkgYnVpbHQtaW4gbW9kdWxlcyB0aGF0IHlvdSB3YW50IHRvIGRpc2FibGUsIHlvdSBjYW4gbGlzdCB0aGVtIGhlcmUuCiAgI2VuYWJsZWQgKz0gbXkuYXBwbGljYXRpb24uTW9kdWxlCgogICMgSWYgdGhlcmUgYXJlIGFueSBidWlsdC1pbiBtb2R1bGVzIHRoYXQgeW91IHdhbnQgdG8gZGlzYWJsZSwgeW91IGNhbiBsaXN0IHRoZW0gaGVyZS4KICAjZGlzYWJsZWQgKz0gIiIKfQoKIyMgSURFCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSURFCiMgfn5+fn4KIyBEZXBlbmRpbmcgb24geW91ciBJREUsIHlvdSBjYW4gYWRkIGEgaHlwZXJsaW5rIGZvciBlcnJvcnMgdGhhdCB3aWxsIGp1bXAgeW91CiMgZGlyZWN0bHkgdG8gdGhlIGNvZGUgbG9jYXRpb24gaW4gdGhlIElERSBpbiBkZXYgbW9kZS4gVGhlIGZvbGxvd2luZyBsaW5lIG1ha2VzIAojIHVzZSBvZiB0aGUgSW50ZWxsaUogSURFQSBSRVNUIGludGVyZmFjZTogCiNwbGF5LmVkaXRvcj1odHRwOi8vbG9jYWxob3N0OjYzMzQyL2FwaS9maWxlLz9maWxlPSVzJmxpbmU9JXMgCgojIyBJbnRlcm5hdGlvbmFsaXNhdGlvbgojIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFJMThOCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFJMThOCiMgfn5+fn4KIyBQbGF5IGNvbWVzIHdpdGggaXRzIG93biBpMThuIHNldHRpbmdzLCB3aGljaCBhbGxvdyB0aGUgdXNlcidzIHByZWZlcnJlZCBsYW5ndWFnZQojIHRvIG1hcCB0aHJvdWdoIHRvIGludGVybmFsIG1lc3NhZ2VzLCBvciBhbGxvdyB0aGUgbGFuZ3VhZ2UgdG8gYmUgc3RvcmVkIGluIGEgY29va2llLgpwbGF5LmkxOG4gewogICMgVGhlIGFwcGxpY2F0aW9uIGxhbmd1YWdlcwogIGxhbmdzID0gWyAiZW4iIF0KCiAgIyBXaGV0aGVyIHRoZSBsYW5ndWFnZSBjb29raWUgc2hvdWxkIGJlIHNlY3VyZSBvciBub3QKICAjbGFuZ0Nvb2tpZVNlY3VyZSA9IHRydWUKCiAgIyBXaGV0aGVyIHRoZSBIVFRQIG9ubHkgYXR0cmlidXRlIG9mIHRoZSBjb29raWUgc2hvdWxkIGJlIHNldCB0byB0cnVlCiAgI2xhbmdDb29raWVIdHRwT25seSA9IHRydWUKfQoKIyMgUGxheSBIVFRQIHNldHRpbmdzCiMgfn5+fn4KcGxheS5odHRwIHsKICAjIyBSb3V0ZXIKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFSb3V0aW5nCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9TY2FsYVJvdXRpbmcKICAjIH5+fn5+CiAgIyBEZWZpbmUgdGhlIFJvdXRlciBvYmplY3QgdG8gdXNlIGZvciB0aGlzIGFwcGxpY2F0aW9uLgogICMgVGhpcyByb3V0ZXIgd2lsbCBiZSBsb29rZWQgdXAgZmlyc3Qgd2hlbiB0aGUgYXBwbGljYXRpb24gaXMgc3RhcnRpbmcgdXAsCiAgIyBzbyBtYWtlIHN1cmUgdGhpcyBpcyB0aGUgZW50cnkgcG9pbnQuCiAgIyBGdXJ0aGVybW9yZSwgaXQncyBhc3N1bWVkIHlvdXIgcm91dGUgZmlsZSBpcyBuYW1lZCBwcm9wZXJseS4KICAjIFNvIGZvciBhbiBhcHBsaWNhdGlvbiByb3V0ZXIgbGlrZSBgbXkuYXBwbGljYXRpb24uUm91dGVyYCwKICAjIHlvdSBtYXkgbmVlZCB0byBkZWZpbmUgYSByb3V0ZXIgZmlsZSBgY29uZi9teS5hcHBsaWNhdGlvbi5yb3V0ZXNgLgogICMgRGVmYXVsdCB0byBSb3V0ZXMgaW4gdGhlIHJvb3QgcGFja2FnZSAoYWthICJhcHBzIiBmb2xkZXIpIChhbmQgY29uZi9yb3V0ZXMpCiAgI3JvdXRlciA9IG15LmFwcGxpY2F0aW9uLlJvdXRlcgoKICAjIyBBY3Rpb24gQ3JlYXRvcgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YUFjdGlvbkNyZWF0b3IKICAjIH5+fn5+CiAgI2FjdGlvbkNyZWF0b3IgPSBudWxsCgogICMjIEVycm9ySGFuZGxlcgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YVJvdXRpbmcKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhUm91dGluZwogICMgfn5+fn4KICAjIElmIG51bGwsIHdpbGwgYXR0ZW1wdCB0byBsb2FkIGEgY2xhc3MgY2FsbGVkIEVycm9ySGFuZGxlciBpbiB0aGUgcm9vdCBwYWNrYWdlLAogICNlcnJvckhhbmRsZXIgPSBudWxsCgogICMjIEZpbHRlcnMKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhSHR0cEZpbHRlcnMKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFIdHRwRmlsdGVycwogICMgfn5+fn4KICAjIEZpbHRlcnMgcnVuIGNvZGUgb24gZXZlcnkgcmVxdWVzdC4gVGhleSBjYW4gYmUgdXNlZCB0byBwZXJmb3JtCiAgIyBjb21tb24gbG9naWMgZm9yIGFsbCB5b3VyIGFjdGlvbnMsIGUuZy4gYWRkaW5nIGNvbW1vbiBoZWFkZXJzLgogICMgRGVmYXVsdHMgdG8gIkZpbHRlcnMiIGluIHRoZSByb290IHBhY2thZ2UgKGFrYSAiYXBwcyIgZm9sZGVyKQogICMgQWx0ZXJuYXRpdmVseSB5b3UgY2FuIGV4cGxpY2l0bHkgcmVnaXN0ZXIgYSBjbGFzcyBoZXJlLgogICNmaWx0ZXJzID0gbXkuYXBwbGljYXRpb24uRmlsdGVycwoKICAjIyBTZXNzaW9uICYgRmxhc2gKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0phdmFTZXNzaW9uRmxhc2gKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhU2Vzc2lvbkZsYXNoCiAgIyB+fn5+fgogIHNlc3Npb24gewogICAgIyBTZXRzIHRoZSBjb29raWUgdG8gYmUgc2VudCBvbmx5IG92ZXIgSFRUUFMuCiAgICAjc2VjdXJlID0gdHJ1ZQoKICAgICMgU2V0cyB0aGUgY29va2llIHRvIGJlIGFjY2Vzc2VkIG9ubHkgYnkgdGhlIHNlcnZlci4KICAgICNodHRwT25seSA9IHRydWUKCiAgICAjIFNldHMgdGhlIG1heC1hZ2UgZmllbGQgb2YgdGhlIGNvb2tpZSB0byA1IG1pbnV0ZXMuCiAgICAjIE5PVEU6IHRoaXMgb25seSBzZXRzIHdoZW4gdGhlIGJyb3dzZXIgd2lsbCBkaXNjYXJkIHRoZSBjb29raWUuIFBsYXkgd2lsbCBjb25zaWRlciBhbnkKICAgICMgY29va2llIHZhbHVlIHdpdGggYSB2YWxpZCBzaWduYXR1cmUgdG8gYmUgYSB2YWxpZCBzZXNzaW9uIGZvcmV2ZXIuIFRvIGltcGxlbWVudCBhIHNlcnZlciBzaWRlIHNlc3Npb24gdGltZW91dCwKICAgICMgeW91IG5lZWQgdG8gcHV0IGEgdGltZXN0YW1wIGluIHRoZSBzZXNzaW9uIGFuZCBjaGVjayBpdCBhdCByZWd1bGFyIGludGVydmFscyB0byBwb3NzaWJseSBleHBpcmUgaXQuCiAgICAjbWF4QWdlID0gMzAwCgogICAgIyBTZXRzIHRoZSBkb21haW4gb24gdGhlIHNlc3Npb24gY29va2llLgogICAgI2RvbWFpbiA9ICJleGFtcGxlLmNvbSIKICB9CgogIGZsYXNoIHsKICAgICMgU2V0cyB0aGUgY29va2llIHRvIGJlIHNlbnQgb25seSBvdmVyIEhUVFBTLgogICAgI3NlY3VyZSA9IHRydWUKCiAgICAjIFNldHMgdGhlIGNvb2tpZSB0byBiZSBhY2Nlc3NlZCBvbmx5IGJ5IHRoZSBzZXJ2ZXIuCiAgICAjaHR0cE9ubHkgPSB0cnVlCiAgfQp9CgojIyBOZXR0eSBQcm92aWRlcgojIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NldHRpbmdzTmV0dHkKIyB+fn5+fgpwbGF5LnNlcnZlci5uZXR0eSB7CiAgIyBXaGV0aGVyIHRoZSBOZXR0eSB3aXJlIHNob3VsZCBiZSBsb2dnZWQKICAjbG9nLndpcmUgPSB0cnVlCgogICMgSWYgeW91IHJ1biBQbGF5IG9uIExpbnV4LCB5b3UgY2FuIHVzZSBOZXR0eSdzIG5hdGl2ZSBzb2NrZXQgdHJhbnNwb3J0CiAgIyBmb3IgaGlnaGVyIHBlcmZvcm1hbmNlIHdpdGggbGVzcyBnYXJiYWdlLgogICN0cmFuc3BvcnQgPSAibmF0aXZlIgp9CgojIyBXUyAoSFRUUCBDbGllbnQpCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFXUyNDb25maWd1cmluZy1XUwojIH5+fn5+CiMgVGhlIEhUVFAgY2xpZW50IHByaW1hcmlseSB1c2VkIGZvciBSRVNUIEFQSXMuICBUaGUgZGVmYXVsdCBjbGllbnQgY2FuIGJlCiMgY29uZmlndXJlZCBkaXJlY3RseSwgYnV0IHlvdSBjYW4gYWxzbyBjcmVhdGUgZGlmZmVyZW50IGNsaWVudCBpbnN0YW5jZXMKIyB3aXRoIGN1c3RvbWl6ZWQgc2V0dGluZ3MuIFlvdSBtdXN0IGVuYWJsZSB0aGlzIGJ5IGFkZGluZyB0byBidWlsZC5zYnQ6CiMKIyBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9IHdzIC8vIG9yIGphdmFXcyBpZiB1c2luZyBqYXZhCiMKcGxheS53cyB7CiAgIyBTZXRzIEhUVFAgcmVxdWVzdHMgbm90IHRvIGZvbGxvdyAzMDIgcmVxdWVzdHMKICAjZm9sbG93UmVkaXJlY3RzID0gZmFsc2UKCiAgIyBTZXRzIHRoZSBtYXhpbXVtIG51bWJlciBvZiBvcGVuIEhUVFAgY29ubmVjdGlvbnMgZm9yIHRoZSBjbGllbnQuCiAgI2FoYy5tYXhDb25uZWN0aW9uc1RvdGFsID0gNTAKCiAgIyMgV1MgU1NMCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Xc1NTTAogICMgfn5+fn4KICBzc2wgewogICAgIyBDb25maWd1cmluZyBIVFRQUyB3aXRoIFBsYXkgV1MgZG9lcyBub3QgcmVxdWlyZSBwcm9ncmFtbWluZy4gIFlvdSBjYW4KICAgICMgc2V0IHVwIGJvdGggdHJ1c3RNYW5hZ2VyIGFuZCBrZXlNYW5hZ2VyIGZvciBtdXR1YWwgYXV0aGVudGljYXRpb24sIGFuZAogICAgIyB0dXJuIG9uIEpTU0UgZGVidWdnaW5nIGluIGRldmVsb3BtZW50IHdpdGggYSByZWxvYWQuCiAgICAjZGVidWcuaGFuZHNoYWtlID0gdHJ1ZQogICAgI3RydXN0TWFuYWdlciA9IHsKICAgICMgIHN0b3JlcyA9IFsKICAgICMgICAgeyB0eXBlID0gIkpLUyIsIHBhdGggPSAiZXhhbXBsZXRydXN0LmprcyIgfQogICAgIyAgXQogICAgI30KICB9Cn0KCiMjIENhY2hlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YUNhY2hlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFDYWNoZQojIH5+fn5+CiMgUGxheSBjb21lcyB3aXRoIGFuIGludGVncmF0ZWQgY2FjaGUgQVBJIHRoYXQgY2FuIHJlZHVjZSB0aGUgb3BlcmF0aW9uYWwKIyBvdmVyaGVhZCBvZiByZXBlYXRlZCByZXF1ZXN0cy4gWW91IG11c3QgZW5hYmxlIHRoaXMgYnkgYWRkaW5nIHRvIGJ1aWxkLnNidDoKIwojIGxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gY2FjaGUKIwpwbGF5LmNhY2hlIHsKICAjIElmIHlvdSB3YW50IHRvIGJpbmQgc2V2ZXJhbCBjYWNoZXMsIHlvdSBjYW4gYmluZCB0aGUgaW5kaXZpZHVhbGx5CiAgI2JpbmRDYWNoZXMgPSBbImRiLWNhY2hlIiwgInVzZXItY2FjaGUiLCAic2Vzc2lvbi1jYWNoZSJdCn0KCiMjIEZpbHRlcnMKIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9GaWx0ZXJzCiMgfn5+fn4KIyBUaGVyZSBhcmUgYSBudW1iZXIgb2YgYnVpbHQtaW4gZmlsdGVycyB0aGF0IGNhbiBiZSBlbmFibGVkIGFuZCBjb25maWd1cmVkCiMgdG8gZ2l2ZSBQbGF5IGdyZWF0ZXIgc2VjdXJpdHkuICBZb3UgbXVzdCBlbmFibGUgdGhpcyBieSBhZGRpbmcgdG8gYnVpbGQuc2J0OgojCiMgbGlicmFyeURlcGVuZGVuY2llcyArPSBmaWx0ZXJzCiMKcGxheS5maWx0ZXJzIHsKICAjIyBDT1JTIGZpbHRlciBjb25maWd1cmF0aW9uCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9Db3JzRmlsdGVyCiAgIyB+fn5+fgogICMgQ09SUyBpcyBhIHByb3RvY29sIHRoYXQgYWxsb3dzIHdlYiBhcHBsaWNhdGlvbnMgdG8gbWFrZSByZXF1ZXN0cyBmcm9tIHRoZSBicm93c2VyCiAgIyBhY3Jvc3MgZGlmZmVyZW50IGRvbWFpbnMuCiAgIyBOT1RFOiBZb3UgTVVTVCBhcHBseSB0aGUgQ09SUyBjb25maWd1cmF0aW9uIGJlZm9yZSB0aGUgQ1NSRiBmaWx0ZXIsIGFzIENTUkYgaGFzCiAgIyBkZXBlbmRlbmNpZXMgb24gQ09SUyBzZXR0aW5ncy4KICBjb3JzIHsKICAgICMgRmlsdGVyIHBhdGhzIGJ5IGEgd2hpdGVsaXN0IG9mIHBhdGggcHJlZml4ZXMKICAgICNwYXRoUHJlZml4ZXMgPSBbIi9zb21lL3BhdGgiLCAuLi5dCgogICAgIyBUaGUgYWxsb3dlZCBvcmlnaW5zLiBJZiBudWxsLCBhbGwgb3JpZ2lucyBhcmUgYWxsb3dlZC4KICAgICNhbGxvd2VkT3JpZ2lucyA9IFsiaHR0cDovL3d3dy5leGFtcGxlLmNvbSJdCgogICAgIyBUaGUgYWxsb3dlZCBIVFRQIG1ldGhvZHMuIElmIG51bGwsIGFsbCBtZXRob2RzIGFyZSBhbGxvd2VkCiAgICAjYWxsb3dlZEh0dHBNZXRob2RzID0gWyJHRVQiLCAiUE9TVCJdCiAgfQoKICAjIyBDU1JGIEZpbHRlcgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFDc3JmI0FwcGx5aW5nLWEtZ2xvYmFsLUNTUkYtZmlsdGVyCiAgIyBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9KYXZhQ3NyZiNBcHBseWluZy1hLWdsb2JhbC1DU1JGLWZpbHRlcgogICMgfn5+fn4KICAjIFBsYXkgc3VwcG9ydHMgbXVsdGlwbGUgbWV0aG9kcyBmb3IgdmVyaWZ5aW5nIHRoYXQgYSByZXF1ZXN0IGlzIG5vdCBhIENTUkYgcmVxdWVzdC4KICAjIFRoZSBwcmltYXJ5IG1lY2hhbmlzbSBpcyBhIENTUkYgdG9rZW4uIFRoaXMgdG9rZW4gZ2V0cyBwbGFjZWQgZWl0aGVyIGluIHRoZSBxdWVyeSBzdHJpbmcKICAjIG9yIGJvZHkgb2YgZXZlcnkgZm9ybSBzdWJtaXR0ZWQsIGFuZCBhbHNvIGdldHMgcGxhY2VkIGluIHRoZSB1c2VycyBzZXNzaW9uLgogICMgUGxheSB0aGVuIHZlcmlmaWVzIHRoYXQgYm90aCB0b2tlbnMgYXJlIHByZXNlbnQgYW5kIG1hdGNoLgogIGNzcmYgewogICAgIyBTZXRzIHRoZSBjb29raWUgdG8gYmUgc2VudCBvbmx5IG92ZXIgSFRUUFMKICAgICNjb29raWUuc2VjdXJlID0gdHJ1ZQoKICAgICMgRGVmYXVsdHMgdG8gQ1NSRkVycm9ySGFuZGxlciBpbiB0aGUgcm9vdCBwYWNrYWdlLgogICAgI2Vycm9ySGFuZGxlciA9IE15Q1NSRkVycm9ySGFuZGxlcgogIH0KCiAgIyMgU2VjdXJpdHkgaGVhZGVycyBmaWx0ZXIgY29uZmlndXJhdGlvbgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2VjdXJpdHlIZWFkZXJzCiAgIyB+fn5+fgogICMgRGVmaW5lcyBzZWN1cml0eSBoZWFkZXJzIHRoYXQgcHJldmVudCBYU1MgYXR0YWNrcy4KICAjIElmIGVuYWJsZWQsIHRoZW4gYWxsIG9wdGlvbnMgYXJlIHNldCB0byB0aGUgYmVsb3cgY29uZmlndXJhdGlvbiBieSBkZWZhdWx0OgogIGhlYWRlcnMgewogICAgIyBUaGUgWC1GcmFtZS1PcHRpb25zIGhlYWRlci4gSWYgbnVsbCwgdGhlIGhlYWRlciBpcyBub3Qgc2V0LgogICAgI2ZyYW1lT3B0aW9ucyA9ICJERU5ZIgoKICAgICMgVGhlIFgtWFNTLVByb3RlY3Rpb24gaGVhZGVyLiBJZiBudWxsLCB0aGUgaGVhZGVyIGlzIG5vdCBzZXQuCiAgICAjeHNzUHJvdGVjdGlvbiA9ICIxOyBtb2RlPWJsb2NrIgoKICAgICMgVGhlIFgtQ29udGVudC1UeXBlLU9wdGlvbnMgaGVhZGVyLiBJZiBudWxsLCB0aGUgaGVhZGVyIGlzIG5vdCBzZXQuCiAgICAjY29udGVudFR5cGVPcHRpb25zID0gIm5vc25pZmYiCgogICAgIyBUaGUgWC1QZXJtaXR0ZWQtQ3Jvc3MtRG9tYWluLVBvbGljaWVzIGhlYWRlci4gSWYgbnVsbCwgdGhlIGhlYWRlciBpcyBub3Qgc2V0LgogICAgI3Blcm1pdHRlZENyb3NzRG9tYWluUG9saWNpZXMgPSAibWFzdGVyLW9ubHkiCgogICAgIyBUaGUgQ29udGVudC1TZWN1cml0eS1Qb2xpY3kgaGVhZGVyLiBJZiBudWxsLCB0aGUgaGVhZGVyIGlzIG5vdCBzZXQuCiAgICAjY29udGVudFNlY3VyaXR5UG9saWN5ID0gImRlZmF1bHQtc3JjICdzZWxmJyIKICB9CgogICMjIEFsbG93ZWQgaG9zdHMgZmlsdGVyIGNvbmZpZ3VyYXRpb24KICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0FsbG93ZWRIb3N0c0ZpbHRlcgogICMgfn5+fn4KICAjIFBsYXkgcHJvdmlkZXMgYSBmaWx0ZXIgdGhhdCBsZXRzIHlvdSBjb25maWd1cmUgd2hpY2ggaG9zdHMgY2FuIGFjY2VzcyB5b3VyIGFwcGxpY2F0aW9uLgogICMgVGhpcyBpcyB1c2VmdWwgdG8gcHJldmVudCBjYWNoZSBwb2lzb25pbmcgYXR0YWNrcy4KICBob3N0cyB7CiAgICAjIEFsbG93IHJlcXVlc3RzIHRvIGV4YW1wbGUuY29tLCBpdHMgc3ViZG9tYWlucywgYW5kIGxvY2FsaG9zdDo5MDAwLgogICAgI2FsbG93ZWQgPSBbIi5leGFtcGxlLmNvbSIsICJsb2NhbGhvc3Q6OTAwMCJdCiAgfQp9CgojIyBFdm9sdXRpb25zCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvRXZvbHV0aW9ucwojIH5+fn5+CiMgRXZvbHV0aW9ucyBhbGxvd3MgZGF0YWJhc2Ugc2NyaXB0cyB0byBiZSBhdXRvbWF0aWNhbGx5IHJ1biBvbiBzdGFydHVwIGluIGRldiBtb2RlCiMgZm9yIGRhdGFiYXNlIG1pZ3JhdGlvbnMuIFlvdSBtdXN0IGVuYWJsZSB0aGlzIGJ5IGFkZGluZyB0byBidWlsZC5zYnQ6CiMKIyBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9IGV2b2x1dGlvbnMKIwpwbGF5LmV2b2x1dGlvbnMgewogICMgWW91IGNhbiBkaXNhYmxlIGV2b2x1dGlvbnMgZm9yIGEgc3BlY2lmaWMgZGF0YXNvdXJjZSBpZiBuZWNlc3NhcnkKICAjZGIuZGVmYXVsdC5lbmFibGVkID0gZmFsc2UKfQoKIyMgRGF0YWJhc2UgQ29ubmVjdGlvbiBQb29sCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2V0dGluZ3NKREJDCiMgfn5+fn4KIyBQbGF5IGRvZXNuJ3QgcmVxdWlyZSBhIEpEQkMgZGF0YWJhc2UgdG8gcnVuLCBidXQgeW91IGNhbiBlYXNpbHkgZW5hYmxlIG9uZS4KIwojIGxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gamRiYwojCnBsYXkuZGIgewogICMgVGhlIGNvbWJpbmF0aW9uIG9mIHRoZXNlIHR3byBzZXR0aW5ncyByZXN1bHRzIGluICJkYi5kZWZhdWx0IiBhcyB0aGUKICAjIGRlZmF1bHQgSkRCQyBwb29sOgogICNjb25maWcgPSAiZGIiCiAgI2RlZmF1bHQgPSAiZGVmYXVsdCIKCiAgIyBQbGF5IHVzZXMgSGlrYXJpQ1AgYXMgdGhlIGRlZmF1bHQgY29ubmVjdGlvbiBwb29sLiAgWW91IGNhbiBvdmVycmlkZQogICMgc2V0dGluZ3MgYnkgY2hhbmdpbmcgdGhlIHByb3RvdHlwZToKICBwcm90b3R5cGUgewogICAgIyBTZXRzIGEgZml4ZWQgSkRCQyBjb25uZWN0aW9uIHBvb2wgc2l6ZSBvZiA1MAogICAgI2hpa2FyaWNwLm1pbmltdW1JZGxlID0gNTAKICAgICNoaWthcmljcC5tYXhpbXVtUG9vbFNpemUgPSA1MAogIH0KfQoKIyMgSkRCQyBEYXRhc291cmNlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YURhdGFiYXNlCiMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvU2NhbGFEYXRhYmFzZQojIH5+fn5+CiMgT25jZSBKREJDIGRhdGFzb3VyY2UgaXMgc2V0IHVwLCB5b3UgY2FuIHdvcmsgd2l0aCBzZXZlcmFsIGRpZmZlcmVudAojIGRhdGFiYXNlIG9wdGlvbnM6CiMKIyBTbGljayAoU2NhbGEgcHJlZmVycmVkIG9wdGlvbik6IGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1BsYXlTbGljawojIEpQQSAoSmF2YSBwcmVmZXJyZWQgb3B0aW9uKTogaHR0cHM6Ly9wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9KYXZhSlBBCiMgRUJlYW46IGh0dHBzOi8vcGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvSmF2YUViZWFuCiMgQW5vcm06IGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L1NjYWxhQW5vcm0KIwpkYiB7CiAgIyBZb3UgY2FuIGRlY2xhcmUgYXMgbWFueSBkYXRhc291cmNlcyBhcyB5b3Ugd2FudC4KICAjIEJ5IGNvbnZlbnRpb24sIHRoZSBkZWZhdWx0IGRhdGFzb3VyY2UgaXMgbmFtZWQgYGRlZmF1bHRgCgogICMgaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi9sYXRlc3QvRGV2ZWxvcGluZy13aXRoLXRoZS1IMi1EYXRhYmFzZQogICNkZWZhdWx0LmRyaXZlciA9IG9yZy5oMi5Ecml2ZXIKICAjZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheSIKICAjZGVmYXVsdC51c2VybmFtZSA9IHNhCiAgI2RlZmF1bHQucGFzc3dvcmQgPSAiIgoKICAjIFlvdSBjYW4gdHVybiBvbiBTUUwgbG9nZ2luZyBmb3IgYW55IGRhdGFzb3VyY2UKICAjIGh0dHBzOi8vd3d3LnBsYXlmcmFtZXdvcmsuY29tL2RvY3VtZW50YXRpb24vbGF0ZXN0L0hpZ2hsaWdodHMyNSNMb2dnaW5nLVNRTC1zdGF0ZW1lbnRzCiAgI2RlZmF1bHQubG9nU3FsPXRydWUKfQo+Pj4+Pj4+IDg3YWU4MzcyMmRlMTFkMDUzYzllMzgxZjZmOTIxNDgzMzI2OTg2YzUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9ncwp0YXJnZXQKLy5pZGVhCi8uaWRlYV9tb2R1bGVzCi8uY2xhc3NwYXRoCi8ucHJvamVjdAovLnNldHRpbmdzCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L1JVTk5JTkdfUElECg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDg3YWU4MzcyMmRlMTFkMDUzYzllMzgxZjZmOTIxNDgzMzI2OTg2YzUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly50YXJnZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L2xvZ3MK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOTklOR19QSUQK</text>
+        <text encoding="base64">Pj4+Pj4+PiA4N2FlODM3MjJkZTExZDA1M2M5ZTM4MWY2ZjkyMTQ4MzMyNjk4NmM1Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQojU3VuIEp1bCAyNCAxMzowODo1NyBTQVNUIDIwMTYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly5jbGFzc3BhdGgK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly5wcm9qZWN0Cg==</text>
+        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9IiIgbGV2ZWwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>42</text>
       </register>
     </registers>
     <search>
-      <last-search>module</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>module</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -729,33 +608,33 @@
         <entry>splitOn</entry>
         <entry>lapti</entry>
         <entry>Segment</entry>
-        <entry>mongo</entry>
-        <entry>play</entry>
-        <entry>path</entry>
-        <entry>mondule</entry>
-        <entry>module</entry>
+        <entry>*</entry>
+        <entry>Cast</entry>
+        <entry>bson</entry>
+        <entry>lock</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>49</entry>
-        <entry>4</entry>
+        <entry encoding="base64">JzwsJz4xNA==</entry>
         <entry>24</entry>
-        <entry>8</entry>
+        <entry>17</entry>
         <entry>11</entry>
-        <entry>13</entry>
-        <entry>25</entry>
-        <entry>35</entry>
-        <entry>6</entry>
-        <entry>10</entry>
-        <entry>19</entry>
-        <entry>20</entry>
-        <entry>t,</entry>
-        <entry>t.</entry>
-        <entry>W</entry>
+        <entry>145</entry>
         <entry>12</entry>
-        <entry>2</entry>
-        <entry>d</entry>
+        <entry>18</entry>
+        <entry>21</entry>
+        <entry>t,</entry>
+        <entry>30</entry>
+        <entry>14</entry>
+        <entry>13</entry>
         <entry>1</entry>
+        <entry>6</entry>
+        <entry>4</entry>
+        <entry>8</entry>
+        <entry>t.</entry>
         <entry>w</entry>
+        <entry>22</entry>
+        <entry>42</entry>
       </history-cmd>
       <history-expr />
       <history-input />
