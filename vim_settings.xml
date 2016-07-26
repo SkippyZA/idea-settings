@@ -338,10 +338,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469517355395">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="1" />
-        <mark key="." line="54" column="1" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469519183773">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="37" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1469359604292">
         <mark key="[" line="3" column="0" />
@@ -556,7 +557,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gICAgICBlbnVtZXJhdG9yLnJ1bihwcm9jZXNzRG9jdW1lbnRzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -568,34 +569,34 @@
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gICAgICBlbnVtZXJhdG9yLnJ1bihwcm9jZXNzRG9jdW1lbnRzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcm9jZXNzKG9wKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIG9wbG9nQ3Vyc29yID0gb3Bsb2dDb2xsZWN0aW9uLmZsYXRNYXAoXy5maW5kKHF1ZXJ5KS5jdXJzb3JbSnNPYmplY3RdKFJlYWRQcmVmZXJlbmNlLlByaW1hcnkpKQoK</text>
+        <text encoding="base64">CiAgICBwcm9jZXNzKG9wKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIG9wbG9nQ3Vyc29yID0gb3Bsb2dDb2xsZWN0aW9uLmZsYXRNYXAoXy5maW5kKHF1ZXJ5KS5jdXJzb3JbSnNPYmplY3RdKFJlYWRQcmVmZXJlbmNlLlByaW1hcnkpKQoK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByb2Nlc3MK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>}</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>QueryOpts</text>
-      </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>QueryOpts</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
