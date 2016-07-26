@@ -61,7 +61,7 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/EmbedService.scala" timestamp="1469364384822">
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/EmbedService.scala" timestamp="1469515608037">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -264,6 +264,7 @@
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/GlobalOplogTailInitializer.java" timestamp="1469433766320">
         <mark key="[" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/srcs/reactivemongo_2.11-0.11.14-sources.jar!/api/cursor.scala" timestamp="1469515670276" />
       <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/parser/SessionResultParserTest.scala" timestamp="1467566093034">
         <mark key="[" line="23" column="77" />
         <mark key="]" line="23" column="90" />
@@ -337,11 +338,10 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469470084040">
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="6" />
-        <mark key="^" line="37" column="6" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469517355395">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="1" />
+        <mark key="." line="54" column="1" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1469359604292">
         <mark key="[" line="3" column="0" />
@@ -556,10 +556,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHQK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -568,37 +568,37 @@
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHQK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZXIgewogICAgICAgIF8ufD4+PigpCiAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICBwcm9jZXNzKG9wKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>()</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIG9wbG9nQ3Vyc29yID0gb3Bsb2dDb2xsZWN0aW9uLmZsYXRNYXAoXy5maW5kKHF1ZXJ5KS5jdXJzb3JbSnNPYmplY3RdKFJlYWRQcmVmZXJlbmNlLlByaW1hcnkpKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXIobyA9PiBvLm1hcChfLnZhbHVlKSkK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MK</text>
       </register>
       <register name="5" type="4">
-        <text>development</text>
+        <text>}</text>
       </register>
       <register name="6" type="4">
-        <text>steven:d6kFkjLTYfK9@lamppost.8.mongolayer.com:10303</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcy5maWx0ZXIK</text>
+      <register name="8" type="4">
+        <text>QueryOpts</text>
       </register>
       <register name="9" type="4">
-        <text>url here</text>
+        <text>{</text>
       </register>
       <register name=":" type="4">
-        <text>25</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -646,12 +646,12 @@
         <entry>21</entry>
         <entry>6</entry>
         <entry>3</entry>
-        <entry>1</entry>
         <entry>20</entry>
         <entry>13</entry>
         <entry>t.</entry>
-        <entry>w</entry>
         <entry>25</entry>
+        <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
