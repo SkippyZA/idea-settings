@@ -383,6 +383,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469600427950" />
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="59" />
@@ -407,11 +408,6 @@
         <mark key="]" line="34" column="29" />
         <mark key="^" line="34" column="29" />
         <mark key="." line="34" column="29" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/production.conf" timestamp="1469468014810">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/logback.xml" timestamp="1469358388082">
         <mark key="[" line="34" column="0" />
