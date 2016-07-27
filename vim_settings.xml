@@ -312,11 +312,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469563223443">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="15" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469606024618">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="0" column="29" />
-        <mark key="." line="16" column="15" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
         <mark key="[" line="7" column="11" />
@@ -605,7 +605,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0KICBdLAo=</text>
+        <text encoding="base64">bW9uZ29kYi51cmkgPSAibW9uZ29kYjovL2xvY2FsaG9zdC9kZXZlbG9wbWVudCIK</text>
       </register>
       <register name="-" type="4">
         <text>1234</text>
@@ -617,34 +617,34 @@
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0KICBdLAo=</text>
+        <text encoding="base64">bW9uZ29kYi51cmkgPSAibW9uZ29kYjovL2xvY2FsaG9zdC9kZXZlbG9wbWVudCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIkhvc3REaXJlY3RvcnkiOiAiL3Zhci9hcHAvbXlkYiIsCiAgICAgICJDb250YWluZXJEaXJlY3RvcnkiOiAiL2V0Yy9teXNxbCIK</text>
+        <text encoding="base64">ICAgIH0KICBdLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIkhvc3REaXJlY3RvcnkiOiAiL3Zhci9hcHAvbXlkYiIsCiAgICAgICJDb250YWluZXJEaXJlY3RvcnkiOiAiL2V0Yy9teXNxbCIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAiVm9sdW1lcyI6IFsKICAgIHsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>1234</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJVcGRhdGUiOiAidHJ1ZSIKICB9LAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAiSW1hZ2UiOiB7CiAgICAiTmFtZSI6ICJqYW5lZG9lL2ltYWdlIiwK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>l</text>
       </register>
-      <register name="8" type="4">
-        <text>Channe</text>
-      </register>
       <register name="9" type="4">
-        <text>ERROR</text>
+        <text>Channe</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
