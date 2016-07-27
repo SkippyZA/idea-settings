@@ -173,7 +173,7 @@
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1469604616300">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1469609733270">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="4" column="27" />
@@ -312,7 +312,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469606024618">
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469610130784">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="0" column="29" />
@@ -389,7 +389,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469600427950" />
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="59" />
@@ -408,7 +407,6 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/srcs/reactivemongo_2.11-0.11.14-sources.jar!/api/cursor.scala" timestamp="1469522236058" />
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Playlist.scala" timestamp="1469563476273">
         <mark key="[" line="34" column="16" />
         <mark key="]" line="34" column="29" />
@@ -456,7 +454,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/target/docker/stage/opt/docker/bin/crowdcaster-embed-service" timestamp="1469466782760" />
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/iRacingCredentials.scala" timestamp="1467580684155">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="22" />
