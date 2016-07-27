@@ -313,10 +313,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469610130784">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
         <mark key="^" line="0" column="29" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
         <mark key="[" line="7" column="11" />
@@ -342,7 +339,7 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1469623147561">
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1469624593798">
         <mark key="[" line="112" column="62" />
         <mark key="]" line="112" column="62" />
         <mark key="^" line="44" column="53" />
