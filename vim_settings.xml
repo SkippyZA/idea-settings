@@ -264,6 +264,9 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469649711421">
+        <mark key="[" line="23" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1469549760888">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -298,10 +301,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469637922620">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="34" />
         <mark key="^" line="0" column="29" />
-        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
         <mark key="[" line="7" column="11" />
@@ -374,6 +374,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="57" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469648631378">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
@@ -584,10 +590,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:27017</text>
+        <text>, Message</text>
       </register>
       <register name="-" type="4">
-        <text>:27017</text>
+        <text>, Message</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -596,37 +602,37 @@
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>:27017</text>
+        <text>, Message</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="2" type="4">
+        <text>(encoders = {JacksonEncoder.class}, decoders = {JacksonDecoder.class})</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="3" type="4">
+        <text>Message</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">TWVzc2FnZSA=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Iiwg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2UuZ2V0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>show</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIExvZ2dlcgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci5pbmZvKHMiJHttZXNzYWdlLmdldEF1dGhvcigpfSIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>23</text>
       </register>
     </registers>
     <search>
@@ -660,9 +666,6 @@
         <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
-        <entry>39</entry>
-        <entry>36</entry>
         <entry>209</entry>
         <entry>20</entry>
         <entry>83</entry>
@@ -678,8 +681,11 @@
         <entry>6</entry>
         <entry>26</entry>
         <entry>t.</entry>
-        <entry>3</entry>
         <entry>1</entry>
+        <entry>28</entry>
+        <entry>7</entry>
+        <entry>3</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
