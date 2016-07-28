@@ -363,12 +363,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1469690823272">
-        <mark key="'" line="124" column="2" />
-        <mark key="[" line="128" column="36" />
-        <mark key="]" line="128" column="36" />
-        <mark key="^" line="136" column="31" />
-        <mark key="." line="128" column="36" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1469695275192">
+        <mark key="'" line="135" column="2" />
+        <mark key="[" line="64" column="36" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
+        <mark key="^" line="64" column="39" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469357679234">
         <mark key="[" line="59" column="18" />
@@ -622,10 +622,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>limit</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>limit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -634,37 +634,43 @@
         <text encoding="base64">Q21kKCJGUk9NIixXcmFwcGVkQXJyYXkoamF2YTpsYXRlc3QpKSwgQ21kKCJNQUlOVEFJTkVSIixXcmFwcGVkQXJyYXkoIlN0ZXZlbiBJbnNraXAgPHNraXBweUBub25hY3JlYXRpdmUuY29tPiIpKSwgQ21kKCJXT1JLRElSIixXcmFwcGVkQXJyYXkoIi9vcHQvZG9ja2VyIikpLCBDbWQoIkFERCIsV3JhcHBlZEFycmF5KCJvcHQgL29wdCIpKSwgRXhlY0NtZCgiUlVOIixMaXN0KCJjaG93biIsICItUiIsICJkYWVtb246ZGFlbW9uIiwgIi4iKSksIENtZCgiRVhQT1NFIixXcmFwcGVkQXJyYXkoOTAwMCkpLCBDbWQoIlVTRVIiLFdyYXBwZWRBcnJheShkYWVtb24pKSwgRXhlY0NtZCgiRU5UUllQT0lOVCIsTGlzdChiaW4vY3Jvd2RjYXN0ZXItZW1iZWQtc2VydmljZSkpLCAiRXhlY0NtZChDTUQsTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>limit</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IERlZmF1bHRzIHRvIDEw</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBKc29uLm9iaigicHVibGlzaGVkU3RhdHVzIiAtPiAicHVibGlzaGVkIiksCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbWl0Lm9yRWxzZQo=</text>
+      <register name="3" type="4">
+        <text>podcast</text>
       </register>
       <register name="4" type="4">
-        <text>limit</text>
+        <text>clip</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>limit.getOrElse(Int.MaxValue)</text>
+        <text>published</text>
       </register>
       <register name="7" type="4">
-        <text>max</text>
+        <text>/*
+&quot;$and&quot;: [
+  { type: { $in: [&quot;clip&quot;, &quot;podcast&quot;] } },
+  { publishedStatus: { $in: [&quot;draft&quot;, &quot;published&quot;] } },
+  {
+]
+ */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>ids</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEpzLgo=</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>134</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -698,7 +704,6 @@
         <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>28</entry>
         <entry>7</entry>
         <entry>3</entry>
         <entry>23</entry>
@@ -718,6 +723,7 @@
         <entry>32</entry>
         <entry>w</entry>
         <entry>134</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
