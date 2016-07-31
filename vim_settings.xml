@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1469702338655">
+        <mark key="'" line="232" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
+        <mark key="[" line="609" column="1" />
+        <mark key="]" line="610" column="0" />
+        <mark key="^" line="610" column="0" />
+        <mark key="." line="610" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/play-scala/app/test.sc" timestamp="1468947611516">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="5" column="4" />
@@ -20,11 +29,28 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1467892105826">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/iframe.js" timestamp="1467103280620">
         <mark key="[" line="12" column="13" />
@@ -32,11 +58,42 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467472516498">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/EmbedService.scala" timestamp="1469703288917">
+        <mark key="'" line="46" column="57" />
+        <mark key="[" line="48" column="49" />
+        <mark key="]" line="48" column="57" />
+        <mark key="." line="48" column="57" />
+        <mark key="^" line="48" column="57" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469650793285">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="62" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Message.scala" timestamp="1469650651647">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1469689568676">
+        <mark key="[" line="2" column="106" />
+        <mark key="]" line="2" column="124" />
+        <mark key="." line="2" column="124" />
+        <mark key="^" line="2" column="124" />
+      </file>
+      <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467472474273">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466962716268">
         <mark key="[" line="4" column="0" />
@@ -44,17 +101,56 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="61" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469980177425">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="35" column="53" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469982713058">
+        <mark key="'" line="37" column="52" />
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+        <mark key="^" line="43" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469356894185">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaRepository.scala" timestamp="1469783153032">
         <mark key="[" line="68" column="42" />
         <mark key="]" line="69" column="5" />
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Show.scala" timestamp="1469535470736">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/Globals.scala" timestamp="1469687928404">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1469093922203">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/OplogTailInitializer.scala" timestamp="1469434706804">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469794920681">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1469358334440">
         <mark key="[" line="9" column="0" />
@@ -65,6 +161,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1469621819221">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/template.json" timestamp="1466578949712">
         <mark key="[" line="85" column="0" />
@@ -78,6 +180,25 @@
         <mark key="^" line="45" column="100" />
         <mark key="." line="45" column="100" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" timestamp="1469356771375">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1469795020828">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="174" column="45" />
+        <mark key="." line="174" column="45" />
+        <mark key="^" line="174" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
         <mark key="]" line="26" column="3" />
@@ -90,12 +211,59 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.atmosphere/atmosphere-play/srcs/atmosphere-play-2.3.0-sources.jar!/org/atmosphere/play/AtmosphereCoordinator.java" timestamp="1469686906022" />
+      <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469357679234">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="31" />
+        <mark key="^" line="59" column="31" />
+        <mark key="." line="59" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/key-generator.js" timestamp="1467270836522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/source-factory-spec.js" timestamp="1467009383080">
         <mark key="[" line="51" column="2" />
         <mark key="]" line="51" column="2" />
         <mark key="." line="51" column="2" />
         <mark key="^" line="78" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466489856679">
+        <mark key="[" line="108" column="3" />
+        <mark key="]" line="109" column="42" />
+        <mark key="." line="109" column="42" />
+        <mark key="^" line="109" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/LapTimeTest.scala" timestamp="1467618161991">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="21" />
+        <mark key="^" line="54" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/controller/helloworld.js" timestamp="1467029620548">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/test.sc" timestamp="1467580332911">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466599953857">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="57" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469648631378">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Media.scala" timestamp="1469554530124">
         <mark key="[" line="24" column="0" />
@@ -121,6 +289,12 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="59" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466159498662">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -132,10 +306,22 @@
         <mark key="]" line="29" column="8" />
         <mark key="." line="29" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1467580387252">
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="46" />
+        <mark key="." line="53" column="46" />
+        <mark key="^" line="53" column="46" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/Filters.scala" timestamp="1469562726648">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" timestamp="1467411778915">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/application.conf" timestamp="1469359618988">
         <mark key="[" line="19" column="0" />
@@ -176,11 +362,21 @@
         <mark key="^" line="27" column="63" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/play-scala/conf/logback.xml" timestamp="1469358388082">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1466408987903">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/build.sbt" timestamp="1469118010958">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466148939003">
         <mark key="[" line="32" column="11" />
@@ -194,279 +390,23 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1469095206776">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="13" column="56" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466961923772">
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/lib/load-controllers.js" timestamp="1467030384649">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/media-repository.js" timestamp="1467109747828">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/lib/get-mongo-connection-string.js" timestamp="1467892321652">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="12" column="75" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/TagPlaylist.scala" timestamp="1469555203258">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
-        <mark key="[" line="15" column="61" />
-        <mark key="]" line="15" column="61" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="15" column="61" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/EmbedController.scala" timestamp="1469690792723">
-        <mark key="[" line="32" column="61" />
-        <mark key="]" line="32" column="61" />
-        <mark key="." line="32" column="61" />
-        <mark key="^" line="32" column="61" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1469702338655">
-        <mark key="'" line="232" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
-        <mark key="[" line="609" column="1" />
-        <mark key="]" line="610" column="0" />
-        <mark key="^" line="610" column="0" />
-        <mark key="." line="610" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1467892105826">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467472516498">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/EmbedService.scala" timestamp="1469703288917">
-        <mark key="'" line="46" column="57" />
-        <mark key="[" line="48" column="49" />
-        <mark key="]" line="48" column="57" />
-        <mark key="." line="48" column="57" />
-        <mark key="^" line="48" column="57" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469650793285">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="45" />
-        <mark key="." line="24" column="45" />
-        <mark key="^" line="24" column="62" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1469689568676">
-        <mark key="[" line="2" column="106" />
-        <mark key="]" line="2" column="124" />
-        <mark key="." line="2" column="124" />
-        <mark key="^" line="2" column="124" />
-      </file>
-      <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467472474273">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="16" column="40" />
-      </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469356894185">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Show.scala" timestamp="1469535470736">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/Globals.scala" timestamp="1469687928404">
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1469093922203">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/OplogTailInitializer.scala" timestamp="1469434706804">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/application.conf" timestamp="1469794920681">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1469611634063" />
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1469621819221">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" timestamp="1469356771375">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="30" column="45" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1469795020828">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="174" column="45" />
-        <mark key="." line="174" column="45" />
-        <mark key="^" line="174" column="45" />
-      </file>
-      <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469357679234">
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="31" />
-        <mark key="^" line="59" column="31" />
-        <mark key="." line="59" column="31" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/key-generator.js" timestamp="1467270836522">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466489856679">
-        <mark key="[" line="108" column="3" />
-        <mark key="]" line="109" column="42" />
-        <mark key="." line="109" column="42" />
-        <mark key="^" line="109" column="42" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/LapTimeTest.scala" timestamp="1467618161991">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="21" />
-        <mark key="." line="54" column="21" />
-        <mark key="^" line="54" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/embed-service/src/controller/helloworld.js" timestamp="1467029620548">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/test.sc" timestamp="1467580332911">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/sync.js" timestamp="1466599953857">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="57" column="50" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/build.sbt" timestamp="1469648631378">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="59" />
-        <mark key="^" line="23" column="59" />
-        <mark key="." line="23" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" timestamp="1467580387252">
-        <mark key="[" line="53" column="41" />
-        <mark key="]" line="53" column="46" />
-        <mark key="." line="53" column="46" />
-        <mark key="^" line="53" column="46" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/index.html" timestamp="1467411778915">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/srcs/reactivemongo_2.11-0.11.14-sources.jar!/api/cursor.scala" timestamp="1469522236058" />
-      <file name="$USER_HOME$/Development/play-scala/conf/logback.xml" timestamp="1469358388082">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/play-scala/build.sbt" timestamp="1469118010958">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/ShowPlaylist.scala" timestamp="1469562602691">
         <mark key="[" line="40" column="18" />
         <mark key="]" line="40" column="31" />
         <mark key="^" line="40" column="31" />
         <mark key="." line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469794990707">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="42" />
-        <mark key="." line="15" column="42" />
-        <mark key="^" line="15" column="42" />
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1469095206776">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="13" column="56" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469982244303">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1469359604292">
         <mark key="[" line="3" column="0" />
@@ -485,12 +425,23 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/target/docker/stage/opt/docker/bin/crowdcaster-embed-service" timestamp="1469466782760" />
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaRepositoryFactory.scala" timestamp="1469792070673">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466961923772">
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/lib/load-controllers.js" timestamp="1467030384649">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/iRacingCredentials.scala" timestamp="1467580684155">
         <mark key="[" line="6" column="21" />
@@ -510,10 +461,44 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/media-repository.js" timestamp="1467109747828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/source/source-factory.js" timestamp="1466500342357">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/lib/get-mongo-connection-string.js" timestamp="1467892321652">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="12" column="75" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/TagPlaylist.scala" timestamp="1469555203258">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Cast.scala" timestamp="1469535590134">
         <mark key="[" line="20" column="0" />
@@ -521,11 +506,23 @@
         <mark key="^" line="19" column="77" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="30" column="5" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/EmbedController.scala" timestamp="1469690792723">
+        <mark key="[" line="32" column="61" />
+        <mark key="]" line="32" column="61" />
+        <mark key="." line="32" column="61" />
+        <mark key="^" line="32" column="61" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/project/build.properties" timestamp="1469359597616">
         <mark key="[" line="2" column="0" />
@@ -539,10 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="33" filename="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" />
-      <jump line="89" column="36" filename="$USER_HOME$/Development/yazimedia/spec/unit/destinaion/has-offers-spec.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
-      <jump line="139" column="32" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="172" column="27" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
       <jump line="37" column="75" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/identity-processor-spec.js" />
@@ -639,64 +632,67 @@
       <jump line="2" column="7" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/MediaItem.scala" />
       <jump line="32" column="4" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
       <jump line="18" column="78" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
+      <jump line="2" column="20" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
+      <jump line="26" column="13" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
+      <jump line="30" column="53" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
+      <jump line="38" column="52" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkubW9kdWxlcy5yZWFjdGl2ZW1vbmdvLmpzb24uQlNPTkZvcm1hdHMuXwppbXBvcnQgcmVhY3RpdmVtb25nby5ic29uLkJTT05EYXRlVGltZQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Format</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBcPg==</text>
+        <text>InternalTimestamp</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LyoqCiAgICAqIE1hcnNoYWwganNvbiBvYmplY3QgdG8gTWVkaWFJdGVtLgogICAgKi8KICBpbXBsaWNpdCB2YWwgaW1wbGljaXRNZWRpYUl0ZW1SZWFkcyA9IG5ldyBSZWFkc1tNZWRpYUl0ZW1dIHsKICAgIGRlZiByZWFkcyhqc29uOiBKc1ZhbHVlKTogSnNSZXN1bHRbTWVkaWFJdGVtXSA9IHsKICAgICAgZm9yIHsKICAgICAgICBpZCA8LSAoanNvbiBcICJfaWQiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgbWVkaWFUeXBlIDwtIChqc29uIFwgInR5cGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgdGl0bGUgPC0gKGpzb24gXCAidGl0bGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgYXV0aG9yIDwtIChqc29uIFwgImNyZWF0b3JOYW1lIikudmFsaWRhdGVbU3RyaW5nXQogICAgICAgIHB1Ymxpc2hlZEF0IDwtIChqc29uIFwgImNyZWF0ZWRBdCIpLnZhbGlkYXRlW0JTT05EYXRlVGltZV0KCiAgICAgICAgZGVzY3JpcHRpb24gPC0gKGpzb24gXCAiZGVzY3JpcHRpb24iKS52YWxpZGF0ZU9wdFtTdHJpbmddCiAgICAgICAgZHVyYXRpb24gPC0gKGpzb24gXCAibGVuZ3RoIikudmFsaWRhdGVPcHRbSnNOdW1iZXJdCiAgICAgICAgd2F2ZWZvcm0gPC0gKGpzb24gXCAibG93RmlkZWxpdHlXYXZlZm9ybSIpLnZhbGlkYXRlT3B0W0xpc3RbRmxvYXRdXQogICAgICAgIHRhZ3MgPC0gKGpzb24gXCAidGFncyIpLnZhbGlkYXRlT3B0W0xpc3RbU3RyaW5nXV0KICAgICAgICBpbWFnZVVybCA8LSAoanNvbiBcICJpbWFnZVVybCIpLnZhbGlkYXRlT3B0W1N0cmluZ10KICAgICAgICBzaG93UGxheWxpc3QgPC0gKGpzb24gXCAic2hvd1BsYXlsaXN0IikudmFsaWRhdGVPcHRbTGlzdFtQbGF5bGlzdENhc3RdXQogICAgICB9IHlpZWxkIE1lZGlhSXRlbSgKICAgICAgICBpZCwgbWVkaWFUeXBlLCB0aXRsZSwgYXV0aG9yLCBuZXcgRGF0ZVRpbWUocHVibGlzaGVkQXQudmFsdWUpLAogICAgICAgIGRlc2NyaXB0aW9uLCBkdXJhdGlvbi5tYXAoXy52YWx1ZS50b0ludCksIHdhdmVmb3JtLCB0YWdzLCBpbWFnZVVybCwgc2hvd1BsYXlsaXN0CiAgICAgICkKICAgIH0KICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkubW9kdWxlcy5yZWFjdGl2ZW1vbmdvLmpzb24uQlNPTkZvcm1hdHMuXwppbXBvcnQgcmVhY3RpdmVtb25nby5ic29uLkJTT05EYXRlVGltZQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5PcGxvZy5JbnRlcm5hbFRpbWVzdGFtcAo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkubW9kdWxlcy5yZWFjdGl2ZW1vbmdvLmpzb24uQlNPTkZvcm1hdHMuXwppbXBvcnQgcmVhY3RpdmVtb25nby5ic29uLkJTT05EYXRlVGltZQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlcm5hbFRpbWVzdGFtcERhdGUgPC0gKGpzb24gXCAidHMiKS52YWxpZGF0ZVtCU09ORGF0ZVRpbWVdCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>Format</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>InternalTimestamp</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>null</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>internalTimestamp</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICoKICAgICogQHBhcmFtICR0aW1lCiAgICAqIEBwYXJhbSAkaQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>5</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBcPg==</last-search>
+      <last-search>InternalTimestamp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>InternalTimestamp</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>generateTracking</entry>
         <entry>trackingUrlGenere</entry>
         <entry>generate</entry>
         <entry>processPaused</entry>
@@ -716,11 +712,9 @@
         <entry>bson</entry>
         <entry>lock</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry>InternalTimestamp</entry>
       </history-search>
       <history-cmd>
-        <entry>51</entry>
-        <entry>136</entry>
-        <entry>!37</entry>
         <entry>137</entry>
         <entry>25</entry>
         <entry>168</entry>
@@ -738,6 +732,9 @@
         <entry>w</entry>
         <entry>t.</entry>
         <entry>5</entry>
+        <entry>45</entry>
+        <entry>10</entry>
+        <entry>3</entry>
       </history-cmd>
       <history-expr />
       <history-input />
