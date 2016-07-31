@@ -101,12 +101,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="61" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469982713058">
-        <mark key="'" line="37" column="52" />
-        <mark key="[" line="43" column="46" />
-        <mark key="]" line="43" column="48" />
-        <mark key="." line="43" column="48" />
-        <mark key="^" line="43" column="48" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469985420748">
+        <mark key="'" line="38" column="52" />
+        <mark key="[" line="45" column="99" />
+        <mark key="]" line="45" column="108" />
+        <mark key="." line="45" column="108" />
+        <mark key="^" line="45" column="108" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469356894185">
         <mark key="[" line="21" column="0" />
@@ -191,13 +191,6 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="30" column="45" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1469795020828">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="174" column="45" />
-        <mark key="." line="174" column="45" />
-        <mark key="^" line="174" column="45" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
@@ -402,11 +395,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469982244303">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469985303113">
+        <mark key="'" line="24" column="42" />
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1469359604292">
         <mark key="[" line="3" column="0" />
@@ -595,7 +589,6 @@
       <jump line="9" column="63" filename="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" />
       <jump line="2400" column="117" filename="$USER_HOME$/Development/play-scala/logs/application.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/play-scala/logs/application.log" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
       <jump line="37" column="54" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaRepository.scala" />
       <jump line="19" column="52" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/EmbedService.scala" />
       <jump line="41" column="13" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaRepository.scala" />
@@ -636,13 +629,14 @@
       <jump line="26" column="13" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
       <jump line="30" column="53" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
       <jump line="38" column="52" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
+      <jump line="23" column="42" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci53YXJuKChzdGFydCAqIDEwMDBMKS50b1N0cmluZykK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1000L</text>
       </register>
       <register name="/" type="4">
         <text>InternalTimestamp</text>
@@ -651,37 +645,37 @@
         <text encoding="base64">LyoqCiAgICAqIE1hcnNoYWwganNvbiBvYmplY3QgdG8gTWVkaWFJdGVtLgogICAgKi8KICBpbXBsaWNpdCB2YWwgaW1wbGljaXRNZWRpYUl0ZW1SZWFkcyA9IG5ldyBSZWFkc1tNZWRpYUl0ZW1dIHsKICAgIGRlZiByZWFkcyhqc29uOiBKc1ZhbHVlKTogSnNSZXN1bHRbTWVkaWFJdGVtXSA9IHsKICAgICAgZm9yIHsKICAgICAgICBpZCA8LSAoanNvbiBcICJfaWQiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgbWVkaWFUeXBlIDwtIChqc29uIFwgInR5cGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgdGl0bGUgPC0gKGpzb24gXCAidGl0bGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgYXV0aG9yIDwtIChqc29uIFwgImNyZWF0b3JOYW1lIikudmFsaWRhdGVbU3RyaW5nXQogICAgICAgIHB1Ymxpc2hlZEF0IDwtIChqc29uIFwgImNyZWF0ZWRBdCIpLnZhbGlkYXRlW0JTT05EYXRlVGltZV0KCiAgICAgICAgZGVzY3JpcHRpb24gPC0gKGpzb24gXCAiZGVzY3JpcHRpb24iKS52YWxpZGF0ZU9wdFtTdHJpbmddCiAgICAgICAgZHVyYXRpb24gPC0gKGpzb24gXCAibGVuZ3RoIikudmFsaWRhdGVPcHRbSnNOdW1iZXJdCiAgICAgICAgd2F2ZWZvcm0gPC0gKGpzb24gXCAibG93RmlkZWxpdHlXYXZlZm9ybSIpLnZhbGlkYXRlT3B0W0xpc3RbRmxvYXRdXQogICAgICAgIHRhZ3MgPC0gKGpzb24gXCAidGFncyIpLnZhbGlkYXRlT3B0W0xpc3RbU3RyaW5nXV0KICAgICAgICBpbWFnZVVybCA8LSAoanNvbiBcICJpbWFnZVVybCIpLnZhbGlkYXRlT3B0W1N0cmluZ10KICAgICAgICBzaG93UGxheWxpc3QgPC0gKGpzb24gXCAic2hvd1BsYXlsaXN0IikudmFsaWRhdGVPcHRbTGlzdFtQbGF5bGlzdENhc3RdXQogICAgICB9IHlpZWxkIE1lZGlhSXRlbSgKICAgICAgICBpZCwgbWVkaWFUeXBlLCB0aXRsZSwgYXV0aG9yLCBuZXcgRGF0ZVRpbWUocHVibGlzaGVkQXQudmFsdWUpLAogICAgICAgIGRlc2NyaXB0aW9uLCBkdXJhdGlvbi5tYXAoXy52YWx1ZS50b0ludCksIHdhdmVmb3JtLCB0YWdzLCBpbWFnZVVybCwgc2hvd1BsYXlsaXN0CiAgICAgICkKICAgIH0KICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy5PcGxvZy5JbnRlcm5hbFRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgIExvZ2dlci53YXJuKChzdGFydCAqIDEwMDBMKS50b1N0cmluZykK</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEpzb24ub2JqKCJ0cyIgLT4gSnNvbi5vYmooIiRndGUiIC0+IHN0YXJ0LnRvU3RyaW5nKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIEpzb24ub2JqKCJ0cyIgLT4gSnNvbi5vYmooIiRndGUiIC0+IERhdGVUaW1lLmdldE1pbGxpcygpKCkpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkubW9kdWxlcy5yZWFjdGl2ZW1vbmdvLmpzb24uQlNPTkZvcm1hdHMuXwppbXBvcnQgcmVhY3RpdmVtb25nby5ic29uLkJTT05EYXRlVGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5PcGxvZy5JbnRlcm5hbFRpbWVzdGFtcAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkubW9kdWxlcy5yZWFjdGl2ZW1vbmdvLmpzb24uQlNPTkZvcm1hdHMuXwppbXBvcnQgcmVhY3RpdmVtb25nby5ic29uLkJTT05EYXRlVGltZQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlcm5hbFRpbWVzdGFtcERhdGUgPC0gKGpzb24gXCAidHMiKS52YWxpZGF0ZVtCU09ORGF0ZVRpbWVdCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Format</text>
-      </register>
-      <register name="7" type="4">
-        <text>InternalTimestamp</text>
-      </register>
-      <register name="8" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="4">
-        <text>internalTimestamp</text>
-      </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -729,12 +723,12 @@
         <entry>14</entry>
         <entry>:13</entry>
         <entry>13</entry>
-        <entry>w</entry>
         <entry>t.</entry>
         <entry>5</entry>
         <entry>45</entry>
         <entry>10</entry>
         <entry>3</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
