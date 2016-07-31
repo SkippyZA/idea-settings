@@ -44,11 +44,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="61" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469782955744">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="21" />
-        <mark key="^" line="43" column="21" />
-        <mark key="." line="43" column="21" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469980177425">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="35" column="53" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/repositories/MediaRepository.scala" timestamp="1469783153032">
         <mark key="[" line="68" column="42" />
@@ -641,23 +641,11 @@
       <jump line="18" column="78" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>//mongodb {
-//  credentials {
-//    username = &quot;production&quot;,
-//    password = &quot;g0URhEsolyLBdDhqdynERl5dOQTeC81IT2VpotlX&quot;,
-//  }
-//  servers = [
-//    &quot;lamppost.8.mongolayer.com:10303&quot;,
-//    &quot;lamppost.9.mongolayer.com:10307&quot;
-//  ]
-//  db = &quot;production&quot;
-//}
-
-m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkubW9kdWxlcy5yZWFjdGl2ZW1vbmdvLmpzb24uQlNPTkZvcm1hdHMuXwppbXBvcnQgcmVhY3RpdmVtb25nby5ic29uLkJTT05EYXRlVGltZQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Format</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -665,50 +653,38 @@ m</text>
       <register name="0" type="4">
         <text encoding="base64">LyoqCiAgICAqIE1hcnNoYWwganNvbiBvYmplY3QgdG8gTWVkaWFJdGVtLgogICAgKi8KICBpbXBsaWNpdCB2YWwgaW1wbGljaXRNZWRpYUl0ZW1SZWFkcyA9IG5ldyBSZWFkc1tNZWRpYUl0ZW1dIHsKICAgIGRlZiByZWFkcyhqc29uOiBKc1ZhbHVlKTogSnNSZXN1bHRbTWVkaWFJdGVtXSA9IHsKICAgICAgZm9yIHsKICAgICAgICBpZCA8LSAoanNvbiBcICJfaWQiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgbWVkaWFUeXBlIDwtIChqc29uIFwgInR5cGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgdGl0bGUgPC0gKGpzb24gXCAidGl0bGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgYXV0aG9yIDwtIChqc29uIFwgImNyZWF0b3JOYW1lIikudmFsaWRhdGVbU3RyaW5nXQogICAgICAgIHB1Ymxpc2hlZEF0IDwtIChqc29uIFwgImNyZWF0ZWRBdCIpLnZhbGlkYXRlW0JTT05EYXRlVGltZV0KCiAgICAgICAgZGVzY3JpcHRpb24gPC0gKGpzb24gXCAiZGVzY3JpcHRpb24iKS52YWxpZGF0ZU9wdFtTdHJpbmddCiAgICAgICAgZHVyYXRpb24gPC0gKGpzb24gXCAibGVuZ3RoIikudmFsaWRhdGVPcHRbSnNOdW1iZXJdCiAgICAgICAgd2F2ZWZvcm0gPC0gKGpzb24gXCAibG93RmlkZWxpdHlXYXZlZm9ybSIpLnZhbGlkYXRlT3B0W0xpc3RbRmxvYXRdXQogICAgICAgIHRhZ3MgPC0gKGpzb24gXCAidGFncyIpLnZhbGlkYXRlT3B0W0xpc3RbU3RyaW5nXV0KICAgICAgICBpbWFnZVVybCA8LSAoanNvbiBcICJpbWFnZVVybCIpLnZhbGlkYXRlT3B0W1N0cmluZ10KICAgICAgICBzaG93UGxheWxpc3QgPC0gKGpzb24gXCAic2hvd1BsYXlsaXN0IikudmFsaWRhdGVPcHRbTGlzdFtQbGF5bGlzdENhc3RdXQogICAgICB9IHlpZWxkIE1lZGlhSXRlbSgKICAgICAgICBpZCwgbWVkaWFUeXBlLCB0aXRsZSwgYXV0aG9yLCBuZXcgRGF0ZVRpbWUocHVibGlzaGVkQXQudmFsdWUpLAogICAgICAgIGRlc2NyaXB0aW9uLCBkdXJhdGlvbi5tYXAoXy52YWx1ZS50b0ludCksIHdhdmVmb3JtLCB0YWdzLCBpbWFnZVVybCwgc2hvd1BsYXlsaXN0CiAgICAgICkKICAgIH0KICB9</text>
       </register>
-      <register name="1" type="4">
-        <text>//mongodb {
-//  credentials {
-//    username = &quot;production&quot;,
-//    password = &quot;g0URhEsolyLBdDhqdynERl5dOQTeC81IT2VpotlX&quot;,
-//  }
-//  servers = [
-//    &quot;lamppost.8.mongolayer.com:10303&quot;,
-//    &quot;lamppost.9.mongolayer.com:10307&quot;
-//  ]
-//  db = &quot;production&quot;
-//}
-
-m</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkubW9kdWxlcy5yZWFjdGl2ZW1vbmdvLmpzb24uQlNPTkZvcm1hdHMuXwppbXBvcnQgcmVhY3RpdmVtb25nby5ic29uLkJTT05EYXRlVGltZQo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9uZ29kYi50YQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbFRpbWVzdGFtcERhdGUgPC0gKGpzb24gXCAidHMiKS52YWxpZGF0ZVtCU09ORGF0ZVRpbWVdCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dGFpbGFibGUubWVkaWEubmFtZXNwYWNlID0gImNyb3dkY2FzdGVyLm1lZGlhIgoK</text>
+      <register name="3" type="4">
+        <text>Format</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bW9uZ29kYi5kYiA9ICJjcm93ZGNhc3RlciIK</text>
+      <register name="4" type="4">
+        <text>InternalTimestamp</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bW9uZ29kYi51cmkgPSAibW9uZ29kYjovL2xvY2FsaG9zdC9jcm93ZGNhc3RlciIKbW9uZ29kYi5kYiA9ICJjcm93ZGNhc3RlciIK</text>
+      <register name="5" type="4">
+        <text>null</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>internalTimestamp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuTG9nZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>test</text>
+        <text encoding="base64">ICAgICoKICAgICogQHBhcmFtICR0aW1lCiAgICAqIEBwYXJhbSAkaQ==</text>
       </register>
-      <register name="9" type="4">
-        <text>.debug</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>13</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
@@ -742,11 +718,8 @@ m</text>
         <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>!7</entry>
         <entry>51</entry>
         <entry>136</entry>
-        <entry>5</entry>
-        <entry>w</entry>
         <entry>!37</entry>
         <entry>137</entry>
         <entry>25</entry>
@@ -762,6 +735,9 @@ m</text>
         <entry>14</entry>
         <entry>:13</entry>
         <entry>13</entry>
+        <entry>w</entry>
+        <entry>t.</entry>
+        <entry>5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
