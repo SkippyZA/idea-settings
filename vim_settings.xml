@@ -31,11 +31,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/PushController.scala" timestamp="1470042232802">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="51" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/PushController.scala" timestamp="1470054673978">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="57" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
         <mark key="[" line="16" column="46" />
@@ -92,11 +92,11 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1469689568676">
-        <mark key="[" line="2" column="106" />
-        <mark key="]" line="2" column="124" />
-        <mark key="." line="2" column="124" />
-        <mark key="^" line="2" column="124" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1470054604451">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="61" />
+        <mark key="^" line="3" column="61" />
       </file>
       <file name="$USER_HOME$/Development/groundzero-scala/src/main/scala/webapp/TutorialApp.scala" timestamp="1467472474273">
         <mark key="[" line="8" column="3" />
@@ -242,11 +242,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed-service/test.html" timestamp="1470043125739">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="37" column="35" />
-        <mark key="." line="37" column="35" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/test.html" timestamp="1470054998519">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469315716490">
         <mark key="[" line="61" column="0" />
@@ -551,10 +551,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
         <text>InternalTimestamp</text>
@@ -563,34 +563,34 @@
         <text encoding="base64">LyoqCiAgICAqIE1hcnNoYWwganNvbiBvYmplY3QgdG8gTWVkaWFJdGVtLgogICAgKi8KICBpbXBsaWNpdCB2YWwgaW1wbGljaXRNZWRpYUl0ZW1SZWFkcyA9IG5ldyBSZWFkc1tNZWRpYUl0ZW1dIHsKICAgIGRlZiByZWFkcyhqc29uOiBKc1ZhbHVlKTogSnNSZXN1bHRbTWVkaWFJdGVtXSA9IHsKICAgICAgZm9yIHsKICAgICAgICBpZCA8LSAoanNvbiBcICJfaWQiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgbWVkaWFUeXBlIDwtIChqc29uIFwgInR5cGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgdGl0bGUgPC0gKGpzb24gXCAidGl0bGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgYXV0aG9yIDwtIChqc29uIFwgImNyZWF0b3JOYW1lIikudmFsaWRhdGVbU3RyaW5nXQogICAgICAgIHB1Ymxpc2hlZEF0IDwtIChqc29uIFwgImNyZWF0ZWRBdCIpLnZhbGlkYXRlW0JTT05EYXRlVGltZV0KCiAgICAgICAgZGVzY3JpcHRpb24gPC0gKGpzb24gXCAiZGVzY3JpcHRpb24iKS52YWxpZGF0ZU9wdFtTdHJpbmddCiAgICAgICAgZHVyYXRpb24gPC0gKGpzb24gXCAibGVuZ3RoIikudmFsaWRhdGVPcHRbSnNOdW1iZXJdCiAgICAgICAgd2F2ZWZvcm0gPC0gKGpzb24gXCAibG93RmlkZWxpdHlXYXZlZm9ybSIpLnZhbGlkYXRlT3B0W0xpc3RbRmxvYXRdXQogICAgICAgIHRhZ3MgPC0gKGpzb24gXCAidGFncyIpLnZhbGlkYXRlT3B0W0xpc3RbU3RyaW5nXV0KICAgICAgICBpbWFnZVVybCA8LSAoanNvbiBcICJpbWFnZVVybCIpLnZhbGlkYXRlT3B0W1N0cmluZ10KICAgICAgICBzaG93UGxheWxpc3QgPC0gKGpzb24gXCAic2hvd1BsYXlsaXN0IikudmFsaWRhdGVPcHRbTGlzdFtQbGF5bGlzdENhc3RdXQogICAgICB9IHlpZWxkIE1lZGlhSXRlbSgKICAgICAgICBpZCwgbWVkaWFUeXBlLCB0aXRsZSwgYXV0aG9yLCBuZXcgRGF0ZVRpbWUocHVibGlzaGVkQXQudmFsdWUpLAogICAgICAgIGRlc2NyaXB0aW9uLCBkdXJhdGlvbi5tYXAoXy52YWx1ZS50b0ludCksIHdhdmVmb3JtLCB0YWdzLCBpbWFnZVVybCwgc2hvd1BsYXlsaXN0CiAgICAgICkKICAgIH0KICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zYnQucGFja2FnZXIuZG9ja2VyLl8K</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYWNoZSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvblJlYWR5OiBVbml0KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjYWNoZSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zYnQucGFja2FnZXIuZG9ja2VyLl8K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjYWNoZSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvblJlYWR5OiBVbml0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjYWNoZSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci53YXJuKChzdGFydCAqIDEwMDBMKS50b1N0cmluZykK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zYnQucGFja2FnZXIuZG9ja2VyLl8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEpzb24ub2JqKCJ0cyIgLT4gSnNvbi5vYmooIiRndGUiIC0+IHN0YXJ0LnRvU3RyaW5nKSwK</text>
+        <text encoding="base64">ICAgIExvZ2dlci53YXJuKChzdGFydCAqIDEwMDBMKS50b1N0cmluZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEpzb24ub2JqKCJ0cyIgLT4gSnNvbi5vYmooIiRndGUiIC0+IERhdGVUaW1lLmdldE1pbGxpcygpKCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEpzb24ub2JqKCJ0cyIgLT4gSnNvbi5vYmooIiRndGUiIC0+IHN0YXJ0LnRvU3RyaW5nKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
