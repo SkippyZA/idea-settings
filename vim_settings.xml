@@ -295,6 +295,7 @@
         <mark key="." line="23" column="90" />
         <mark key="^" line="23" column="90" />
       </file>
+      <file name="$USER_HOME$/Development/ws-redis-pubsub/conf/application.conf" timestamp="1470296771838" />
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.7.0/core-modules/child_process.js" timestamp="1469093237512">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="20" />
