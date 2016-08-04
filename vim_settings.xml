@@ -27,7 +27,7 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470308948058" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470309567977" />
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/PushController.scala" timestamp="1470295403208">
         <mark key="[" line="25" column="51" />
         <mark key="]" line="25" column="51" />
@@ -285,10 +285,10 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1470308808875">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1470309576259">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="14" column="43" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Oplog.scala" timestamp="1470304354060">
@@ -621,28 +621,28 @@
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuQWN0b3IuUmVjZWl2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuQWN0b3IuUmVjZWl2ZQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIHBvc3RTdG9wKCkgPSB7CiAgICAvLyBXaGVuIHRoZSBjb25uZWN0aW9uIGhhcyBjbG9zZWQsIFNvY2tKUyB3aWxsIHN0b3AgdGhlIGFjdG9yLgogICAgLy8gVGhpcyBtZXRob2QgY2FuIGJlIG92ZXJyaWRkZW4gdG8gY2xlYW4gdXAgcmVzb3VyY2VzLgogIH0=</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIHBvc3RTdG9wKCkgPSB7CiAgICAvLyBXaGVuIHRoZSBjb25uZWN0aW9uIGhhcyBjbG9zZWQsIFNvY2tKUyB3aWxsIHN0b3AgdGhlIGFjdG9yLgogICAgLy8gVGhpcyBtZXRob2QgY2FuIGJlIG92ZXJyaWRkZW4gdG8gY2xlYW4gdXAgcmVzb3VyY2VzLgogIH0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Cm9iamVjdCBNeVNvY2tKU0FjdG9yIHsKICBkZWYgcHJvcHMob3V0OiBBY3RvclJlZikgPSBQcm9wcyhuZXcgTXlTb2NrSlNBY3RvcihvdXQpKQp9CgpjbGFzcyBNeVNvY2tKU0FjdG9yKG91dDogQWN0b3JSZWYpIGV4dGVuZHMgQWN0b3IgewovLyAgZGVmIHJlY2VpdmUgPSB7Ci8vICAgIGNhc2UgbXNnOiBTdHJpbmcgPT4gewovLyAgICAgIExvZ2dlci5kZWJ1Zyhtc2cpCi8vICAgICAgb3V0ICEgKCJJIHJlY2VpdmVkIHlvdXIgbWVzc2FnZTogIiArIG1zZykKLy8gICAgfQovLyAgfQoKLy8gIG92ZXJyaWRlIGRlZiBwb3N0U3RvcCgpID0gewovLyAgICAvLyBXaGVuIHRoZSBjb25uZWN0aW9uIGhhcyBjbG9zZWQsIFNvY2tKUyB3aWxsIHN0b3AgdGhlIGFjdG9yLgovLyAgICAvLyBUaGlzIG1ldGhvZCBjYW4gYmUgb3ZlcnJpZGRlbiB0byBjbGVhbiB1cCByZXNvdXJjZXMuCi8vICB9Cn0K</text>
+        <text>}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cm9iamVjdCBNeVNvY2tKU0FjdG9yIHsKICBkZWYgcHJvcHMob3V0OiBBY3RvclJlZikgPSBQcm9wcyhuZXcgTXlTb2NrSlNBY3RvcihvdXQpKQp9CgpjbGFzcyBNeVNvY2tKU0FjdG9yKG91dDogQWN0b3JSZWYpIGV4dGVuZHMgQWN0b3IgewovLyAgZGVmIHJlY2VpdmUgPSB7Ci8vICAgIGNhc2UgbXNnOiBTdHJpbmcgPT4gewovLyAgICAgIExvZ2dlci5kZWJ1Zyhtc2cpCi8vICAgICAgb3V0ICEgKCJJIHJlY2VpdmVkIHlvdXIgbWVzc2FnZTogIiArIG1zZykKLy8gICAgfQovLyAgfQoKLy8gIG92ZXJyaWRlIGRlZiBwb3N0U3RvcCgpID0gewovLyAgICAvLyBXaGVuIHRoZSBjb25uZWN0aW9uIGhhcyBjbG9zZWQsIFNvY2tKUyB3aWxsIHN0b3AgdGhlIGFjdG9yLgovLyAgICAvLyBUaGlzIG1ldGhvZCBjYW4gYmUgb3ZlcnJpZGRlbiB0byBjbGVhbiB1cCByZXNvdXJjZXMuCi8vICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
