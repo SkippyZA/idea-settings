@@ -385,10 +385,10 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470321517602">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470395682055">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/Development/ws-redis-pubsub/app/views/pubsub.scala.html" timestamp="1470298561974">
@@ -606,11 +606,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/logs/application.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjYXNlIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -649,7 +649,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgZmxvdyA9IAoK</text>
       </register>
       <register name=":" type="4">
-        <text>28</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -696,13 +696,13 @@
         <entry>26</entry>
         <entry>1</entry>
         <entry>16</entry>
-        <entry>w</entry>
         <entry>2</entry>
         <entry>40</entry>
         <entry>14</entry>
         <entry>6</entry>
         <entry>t.</entry>
         <entry>28</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
