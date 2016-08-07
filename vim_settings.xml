@@ -34,11 +34,10 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470434699207">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470580061233">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1469609733270">
         <mark key="[" line="7" column="0" />
@@ -275,10 +274,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/OplogActor.scala" timestamp="1470569339126">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/OplogActor.scala" timestamp="1470579747139">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469315716490">
         <mark key="[" line="61" column="0" />
@@ -392,7 +391,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470569237568">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470579704280">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -618,8 +617,8 @@
       <jump line="19" column="44" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBzZWFsZWQgdHJhaXQgU29ja2V0TWVzc2FnZQogIGNhc2UgY2xhc3MgTWVzc2FnZShtc2c6IFN0cmluZykgZXh0ZW5kcyBTb2NrZXRNZXNzYWdlCiAgY2FzZSBjbGFzcyBPcGVuKCkgZXh0ZW5kcyBTb2NrZXRNZXNzYWdlCiAgY2FzZSBjbGFzcyBDbG9zZSgpIGV4dGVuZHMgU29ja2V0TWVzc2FnZQogIGNhc2UgY2xhc3MgRXJyb3IoKSBleHRlbmRzIFNvY2tldE1lc3NhZ2UKCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -630,38 +629,38 @@
       <register name="0" type="4">
         <text encoding="base64">LyoqCiAgICAqIE1hcnNoYWwganNvbiBvYmplY3QgdG8gTWVkaWFJdGVtLgogICAgKi8KICBpbXBsaWNpdCB2YWwgaW1wbGljaXRNZWRpYUl0ZW1SZWFkcyA9IG5ldyBSZWFkc1tNZWRpYUl0ZW1dIHsKICAgIGRlZiByZWFkcyhqc29uOiBKc1ZhbHVlKTogSnNSZXN1bHRbTWVkaWFJdGVtXSA9IHsKICAgICAgZm9yIHsKICAgICAgICBpZCA8LSAoanNvbiBcICJfaWQiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgbWVkaWFUeXBlIDwtIChqc29uIFwgInR5cGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgdGl0bGUgPC0gKGpzb24gXCAidGl0bGUiKS52YWxpZGF0ZVtTdHJpbmddCiAgICAgICAgYXV0aG9yIDwtIChqc29uIFwgImNyZWF0b3JOYW1lIikudmFsaWRhdGVbU3RyaW5nXQogICAgICAgIHB1Ymxpc2hlZEF0IDwtIChqc29uIFwgImNyZWF0ZWRBdCIpLnZhbGlkYXRlW0JTT05EYXRlVGltZV0KCiAgICAgICAgZGVzY3JpcHRpb24gPC0gKGpzb24gXCAiZGVzY3JpcHRpb24iKS52YWxpZGF0ZU9wdFtTdHJpbmddCiAgICAgICAgZHVyYXRpb24gPC0gKGpzb24gXCAibGVuZ3RoIikudmFsaWRhdGVPcHRbSnNOdW1iZXJdCiAgICAgICAgd2F2ZWZvcm0gPC0gKGpzb24gXCAibG93RmlkZWxpdHlXYXZlZm9ybSIpLnZhbGlkYXRlT3B0W0xpc3RbRmxvYXRdXQogICAgICAgIHRhZ3MgPC0gKGpzb24gXCAidGFncyIpLnZhbGlkYXRlT3B0W0xpc3RbU3RyaW5nXV0KICAgICAgICBpbWFnZVVybCA8LSAoanNvbiBcICJpbWFnZVVybCIpLnZhbGlkYXRlT3B0W1N0cmluZ10KICAgICAgICBzaG93UGxheWxpc3QgPC0gKGpzb24gXCAic2hvd1BsYXlsaXN0IikudmFsaWRhdGVPcHRbTGlzdFtQbGF5bGlzdENhc3RdXQogICAgICB9IHlpZWxkIE1lZGlhSXRlbSgKICAgICAgICBpZCwgbWVkaWFUeXBlLCB0aXRsZSwgYXV0aG9yLCBuZXcgRGF0ZVRpbWUocHVibGlzaGVkQXQudmFsdWUpLAogICAgICAgIGRlc2NyaXB0aW9uLCBkdXJhdGlvbi5tYXAoXy52YWx1ZS50b0ludCksIHdhdmVmb3JtLCB0YWdzLCBpbWFnZVVybCwgc2hvd1BsYXlsaXN0CiAgICAgICkKICAgIH0KICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBzZWFsZWQgdHJhaXQgU29ja2V0TWVzc2FnZQogIGNhc2UgY2xhc3MgTWVzc2FnZShtc2c6IFN0cmluZykgZXh0ZW5kcyBTb2NrZXRNZXNzYWdlCiAgY2FzZSBjbGFzcyBPcGVuKCkgZXh0ZW5kcyBTb2NrZXRNZXNzYWdlCiAgY2FzZSBjbGFzcyBDbG9zZSgpIGV4dGVuZHMgU29ja2V0TWVzc2FnZQogIGNhc2UgY2xhc3MgRXJyb3IoKSBleHRlbmRzIFNvY2tldE1lc3NhZ2UKCg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIC8vICAgICAgTG9nZ2VyLmRlYnVnKHRlc3QudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYXZhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICBMb2dnZXIuaW5mbygiaGVsbG8gd29ybGQiKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgcHJvcHMob3V0OiBBY3RvclJlZikgPSBQcm9wcyhuZXcgT3Bsb2dBY3RvcihvdXQpKQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgPz8/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgbWVkaWFSZXBvc2l0b3J5Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgZGVmIHNvY2tqcyA9IFNvY2tKUy5hY2NlcHRbU3RyaW5nLCBTdHJpbmddIHsgaW1wbGljaXQgcmVxdWVzdCA9PgogICAgQWN0b3JGbG93LmFjdG9yUmVmKG91dCA9PiBXZWJTb2NrZXRBY3Rvci5wcm9wcyhvdXQsICJoZWxsbyIpKQogIH0=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgc29ja2pzID0gU29ja0pTLmFjY2VwdFdpdGhBY3RvcigpCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIC8vICAgICAgTG9nZ2VyLmRlYnVnKHRlc3QudG9TdHJpbmcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>22</text>
       </register>
     </registers>
     <search>
@@ -695,7 +694,6 @@
         <entry>AbstractModule</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
         <entry>27</entry>
         <entry>33</entry>
         <entry>25</entry>
@@ -715,6 +713,7 @@
         <entry>20</entry>
         <entry>t.</entry>
         <entry>1</entry>
+        <entry>22</entry>
       </history-cmd>
       <history-expr />
       <history-input />
