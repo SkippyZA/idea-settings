@@ -1,0 +1,8 @@
+<code_scheme name="Default (3)">
+  <ScalaCodeStyleSettings>
+    <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
