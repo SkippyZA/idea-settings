@@ -50,12 +50,7 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientMediaActor.scala" timestamp="1470662479738">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientMediaActor.scala" timestamp="1470663592904" />
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
@@ -92,6 +87,7 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/srcs/akka-actor_2.11-2.4.4-sources.jar!/akka/actor/Actor.scala" timestamp="1470663352494" />
       <file name="$USER_HOME$/Development/groundzero-scala/scalajs-tutorial-fastopt.html" timestamp="1467472516498">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="39" />
@@ -232,11 +228,11 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="78" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470662351844">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="7" column="1" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470665334891">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/rules.js" timestamp="1466489856679">
         <mark key="[" line="108" column="3" />
@@ -291,11 +287,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/OplogActor.scala" timestamp="1470662070714">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="14" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="24" column="14" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/OplogActor.scala" timestamp="1470663753313">
+        <mark key="e" line="12" column="57" />
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="73" />
+        <mark key="^" line="12" column="73" />
+        <mark key="." line="12" column="73" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/services/EmbedService.scala" timestamp="1469315716490">
         <mark key="[" line="61" column="0" />
@@ -321,11 +318,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1470660008753">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="13" column="50" />
-        <mark key="^" line="13" column="50" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1470665291651">
+        <mark key="'" line="55" column="43" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Oplog.scala" timestamp="1470314337469">
         <mark key="[" line="21" column="14" />
@@ -362,6 +360,12 @@
         <mark key="]" line="23" column="90" />
         <mark key="." line="23" column="90" />
         <mark key="^" line="23" column="90" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470664236084">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/GlobalOplogTailInitializer.scala" timestamp="1469434659969">
         <mark key="[" line="5" column="0" />
@@ -409,16 +413,18 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470661157053">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470665580258">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="51" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/Module.scala" timestamp="1470661282438">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="39" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/Module.scala" timestamp="1470664244862">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="52" />
       </file>
       <file name="$USER_HOME$/Development/ws-redis-pubsub/app/views/pubsub.scala.html" timestamp="1470298561974">
         <mark key="[" line="29" column="58" />
@@ -533,8 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="67" filename="$USER_HOME$/Development/yazimedia/src/source/source-factory.js" />
-      <jump line="85" column="23" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="87" column="14" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="98" column="20" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
       <jump line="120" column="23" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
@@ -633,13 +637,15 @@
       <jump line="34" column="69" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
       <jump line="35" column="58" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
       <jump line="37" column="8" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
+      <jump line="15" column="14" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/Module.scala" />
+      <jump line="26" column="43" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzCg==</text>
+        <text encoding="base64">Ly8gIG1lZGlhUmVwb3NpdG9yeS53YXRjaE1lZGlhLm1hcCB7IGVudW1lcmF0b3IgPT4KLy8gICAgZW51bWVyYXRvciB8Pj4+IHNlbmREb2N1bWVudAovLyAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -648,39 +654,37 @@
         <text encoding="base64">ICAvKgogICAgLy8gVGhlIGJyb2FkY2FzdCBtZXRob2QgY3JlYXRlcyBhIEVudW1lcmF0b3Igd2UgY2FsbCAic3RyZWFtIiwgYW5kIGEgY2hhbm5lbC4KICAgIC8vIFRoaXMgaXMgcHJldHR5IG11Y2ggbGlrZSBhIHB1Yi1zdWIgcGF0dGVybi4KICAgIHZhbCAoc3RyZWFtLCBjaGFubmVsKSA9IENvbmN1cnJlbnQuYnJvYWRjYXN0W1N0YXR1c1VwZGF0ZV0oKQoKICAgIC8vIFdlIHB1c2ggc3R1ZmYgaW50byB0aGUgY2hhbm5lbCAocHViKQogICAgLy8gbm90ZSB0aGF0IGNoYW5uZWxzIGFyZSB0eXBlZC4gV2UgY2FuIG9ubHkgcHVzaCBTdGF0dXNVcGRhdGUgaW5zdGFuY2VzIHRvIHRoaXMgb25lLgogICAgY2hhbm5lbC5wdXNoKFN0YXR1c1VwZGF0ZSh1c2VyID0gInBhYmxvIiwgc3RhdHVzID0gInB1c2hpbmcgc3R1ZmYgaW50byBhIGNoYW5uZWwiKSkKCiAgICAvLyBhcyB3ZSdsbCBmaW5kIG91dCBpbiBhIHNlY29uZCwgdGhlICdzdHJlYW0nIHJlY2VpdmVzIHRoZSBTdGF0dXNVcGRhdGUuCiAgICBzdHJlYW0KICAgKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzCg==</text>
+        <text encoding="base64">Ly8gIG1lZGlhUmVwb3NpdG9yeS53YXRjaE1lZGlhLm1hcCB7IGVudW1lcmF0b3IgPT4KLy8gICAgZW51bWVyYXRvciB8Pj4+IHNlbmREb2N1bWVudAovLyAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB0eXBlIFJlY2VpdmUgPSBSZWNlaXZlCg==</text>
+        <text encoding="base64">ICAgICogCiAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoK</text>
-      </register>
-      <register name="4" type="4">
-        <text>*
-  * Created by steven on 2016/08/08.
-  */</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzZWxmKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgYmluZEFjdG9yCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgogICAgLy8gIHZhbCBwcm9jZXNzRG9jdW1lbnQ6IEl0ZXJhdGVlW09wbG9nLCBVbml0XSA9CiAgICAvLyAgICBJdGVyYXRlZS5mb3JlYWNoIHsgdGVzdCA9PgogICAgLy8gICAgICBMb2dnZXIuZGVidWcodGVzdC50b1N0cmluZykKICAgIC8vICAgIH0KICAgIC8vCiAgICAvLyAgbWVkaWFSZXBvc2l0b3J5LndhdGNoTWVkaWEubWFwIHsgZW51bWVyYXRvciA9PgogICAgLy8gICAgZW51bWVyYXRvciB8Pj4+IHByb2Nlc3NEb2N1bWVudAogICAgLy8gIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzZWFsZWQgdHJhaXQgRXZlbnRzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkuTG9nZ2VyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gIHZhbCBwcm9jZXNzRG9jdW1lbnQ6IEl0ZXJhdGVlW09wbG9nLCBVbml0XSA9Ci8vICAgIEl0ZXJhdGVlLmZvcmVhY2ggeyB0ZXN0ID0+Ci8vICAgICAgTG9nZ2VyLmRlYnVnKHRlc3QudG9TdHJpbmcpCi8vICAgIH0KLy8KLy8gIG1lZGlhUmVwb3NpdG9yeS53YXRjaE1lZGlhLm1hcCB7IGVudW1lcmF0b3IgPT4KLy8gICAgZW51bWVyYXRvciB8Pj4+IHByb2Nlc3NEb2N1bWVudAovLyAgfQp9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGJpbmRBY3RvcltPcGxvZ0FjdG9yXSgib3Bsb2ctYWN0b3IiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAc2NhbGEudGhyb3dzW0V4Y2VwdGlvbl0oY2xhc3NPZltFeGNlcHRpb25dKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>16</text>
+        <text>17</text>
       </register>
     </registers>
     <search>
@@ -714,26 +718,26 @@
         <entry>level</entry>
       </history-search>
       <history-cmd>
-        <entry>11</entry>
-        <entry>3</entry>
-        <entry>26</entry>
-        <entry>2</entry>
-        <entry>40</entry>
         <entry>28</entry>
         <entry>22</entry>
         <entry>20</entry>
-        <entry>8</entry>
         <entry>t</entry>
-        <entry>1</entry>
         <entry>14</entry>
         <entry>6</entry>
         <entry>w</entry>
         <entry>5</entry>
         <entry>15</entry>
+        <entry>3</entry>
+        <entry>12</entry>
         <entry>t.</entry>
         <entry>4</entry>
-        <entry>12</entry>
+        <entry>23</entry>
+        <entry>7</entry>
+        <entry>1</entry>
         <entry>16</entry>
+        <entry>18</entry>
+        <entry>8</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
