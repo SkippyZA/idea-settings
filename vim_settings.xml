@@ -257,11 +257,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="133" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1470833713916">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="24" column="55" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1470837186692">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1469609733270">
         <mark key="[" line="7" column="0" />
@@ -302,6 +301,12 @@
         <mark key="^" line="24" column="62" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.github.fdimuccio/play2-sockjs_2.11/srcs/play2-sockjs_2.11-0.5.0-sources.jar!/play/sockjs/api/SockJSRouter.scala" timestamp="1470524140448" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ActorLogger.scala" timestamp="1470836810455">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1470054604451">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="61" />
@@ -314,12 +319,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" timestamp="1470833439782">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="32" column="78" />
-        <mark key="]" line="32" column="79" />
-        <mark key="^" line="32" column="79" />
-        <mark key="." line="32" column="79" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" timestamp="1470835835891">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Show.scala" timestamp="1469535470736">
         <mark key="[" line="13" column="15" />
@@ -345,10 +349,11 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470834033015">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470836446325">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
         <mark key="[" line="27" column="28" />
@@ -380,7 +385,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470813720009">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470836700818">
         <mark key="[" line="27" column="44" />
         <mark key="]" line="27" column="61" />
         <mark key="." line="27" column="61" />
@@ -543,8 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="17" filename="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/proxied-request-spec.js" />
-      <jump line="21" column="124" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
       <jump line="13" column="22" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
       <jump line="6" column="6" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/SessionResult.scala" />
       <jump line="59" column="32" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapTime.scala" />
@@ -633,7 +636,6 @@
       <jump line="19" column="44" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" />
       <jump line="24" column="20" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" />
       <jump line="29" column="36" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
-      <jump line="32" column="58" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
       <jump line="33" column="69" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
       <jump line="34" column="69" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
       <jump line="35" column="58" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
@@ -643,13 +645,16 @@
       <jump line="44" column="6" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/frames.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/test.html" />
+      <jump line="32" column="79" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
+      <jump line="45" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFjdG9yTG9nZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG1lc3NhZ2Vz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWN0b3JMb2dnaW5nLCA=</text>
+        <text encoding="base64">IG1lc3NhZ2Vz</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -658,37 +663,37 @@
         <text encoding="base64">PGRpdj4KICAgIDxkaXYgc3R5bGU9IndpZHRoOiA1MCUiPjxpZnJhbWUgc3JjPSJ0ZXN0Lmh0bWwiPjwvaWZyYW1lPjwvZGl2PgogICAgPGRpdiBzdHlsZT0id2lkdGg6IDUwJSI+PGlmcmFtZSBzcmM9InRlc3QuaHRtbCI+PC9pZnJhbWU+PC9kaXY+CjwvZGl2Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFjdG9yTG9nZ2VyCg==</text>
+        <text encoding="base64">CiAgPGxvZ2dlciBuYW1lPSJha2thLmV2ZW50LnNsZjRqLlNsZjRqTG9nZ2VyIiBsZXZlbD0iREVCVUciIGFkZGl0aXZpdHk9ImZhbHNlIiAvPgo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuZXZlbnQuTG9nZ2luZwo=</text>
+        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImFjdG9yIiBsZXZlbD0iREVCVUciIC8+CiAgPGxvZ2dlciBuYW1lPSJhY3Rvci5DbGllbnRNYW5hZ2VyIiBsZXZlbD0iREVCVUciIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHN0ZXZlbiBvbiAyMDE2LzA4LzEwLgogICovCgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gU2V0IGxvZ2dpbmcgZm9yIGFsbCBBa2thIGxpYnJhcnkgY2xhc3NlcyB0byBJTkZPIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQWN0b3JMb2dnaW5nIHsKCn0K</text>
+        <text encoding="base64">ICBsb2dsZXZlbCA9IERFQlVHCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgbG9nID0gTG9nZ2luZ2Rkayhjb250ZXh0LnN5c3RlbSwgdGhpcykK</text>
+        <text encoding="base64">ICBldmVudC1oYW5kbGVycyA9IFsiYWtrYS5ldmVudC5zbGY0ai5TbGY0akV2ZW50SGFuZGxlciJdCiAgbG9nZ2luZy1maWx0ZXIgPSAiYWtrYS5ldmVudC5zbGY0ai5TbGY0akxvZ2dpbmdGaWx0ZXIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuTG9nZ2VyCg==</text>
+        <text encoding="base64">ICAKICBsb2dnZXJzID0gWyJha2thLmV2ZW50LnNsZjRqLlNsZjRqTG9nZ2VyIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2ctY29uZmlnLW9uLXN0YXJ0ID0gb24K</text>
+        <text encoding="base64">PCEtLSBodHRwczovL3d3dy5wbGF5ZnJhbWV3b3JrLmNvbS9kb2N1bWVudGF0aW9uL2xhdGVzdC9TZXR0aW5nc0xvZ2dlciAtLT4KPGNvbmZpZ3VyYXRpb24+CgogIDxjb252ZXJzaW9uUnVsZSBjb252ZXJzaW9uV29yZD0iY29sb3JlZExldmVsIiBjb252ZXJ0ZXJDbGFzcz0icGxheS5hcGkubGlicy5sb2diYWNrLkNvbG9yZWRMZXZlbCIgLz4KCiAgPGFwcGVuZGVyIG5hbWU9IkZJTEUiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLkZpbGVBcHBlbmRlciI+CiAgICA8ZmlsZT4ke2FwcGxpY2F0aW9uLmhvbWU6LS59L2xvZ3MvYXBwbGljYXRpb24ubG9nPC9maWxlPgogICAgPGVuY29kZXI+CiAgICAgIDxwYXR0ZXJuPiVkYXRlIFslbGV2ZWxdIGZyb20gJWxvZ2dlciBpbiAldGhyZWFkIC0gJW1lc3NhZ2UlbiV4RXhjZXB0aW9uPC9wYXR0ZXJuPgogICAgPC9lbmNvZGVyPgogIDwvYXBwZW5kZXI+CgogIDxhcHBlbmRlciBuYW1lPSJTVERPVVQiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLkNvbnNvbGVBcHBlbmRlciI+CiAgICA8ZW5jb2Rlcj4KICAgICAgPHBhdHRlcm4+JWNvbG9yZWRMZXZlbCAlbG9nZ2VyezE1fSAtICVtZXNzYWdlJW4leEV4Y2VwdGlvbnsxMH08L3BhdHRlcm4+CiAgICA8L2VuY29kZXI+CiAgPC9hcHBlbmRlcj4KCiAgPGFwcGVuZGVyIG5hbWU9IkFTWU5DRklMRSIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNsYXNzaWMuQXN5bmNBcHBlbmRlciI+CiAgICA8YXBwZW5kZXItcmVmIHJlZj0iRklMRSIgLz4KICA8L2FwcGVuZGVyPgoKICA8YXBwZW5kZXIgbmFtZT0iQVNZTkNTVERPVVQiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLkFzeW5jQXBwZW5kZXIiPgogICAgPGFwcGVuZGVyLXJlZiByZWY9IlNURE9VVCIgLz4KICA8L2FwcGVuZGVyPgoKICA8bG9nZ2VyIG5hbWU9InBsYXkiIGxldmVsPSJJTkZPIiAvPgogIDxsb2dnZXIgbmFtZT0iYXBwbGljYXRpb24iIGxldmVsPSJERUJVRyIgLz4KICA8bG9nZ2VyIG5hbWU9ImFra2EiIGxldmVsPSJERUJVRyIgLz4KICA8bG9nZ2VyIG5hbWU9ImFjdG9yIiBsZXZlbD0iREVCVUciIC8+CiAgPGxvZ2dlciBuYW1lPSJhY3Rvci5DbGllbnRNYW5hZ2VyIiBsZXZlbD0iREVCVUciIC8+CgogIDxsb2dnZXIgbmFtZT0iYWtrYS5ldmVudC5zbGY0ai5TbGY0akxvZ2dlciIgbGV2ZWw9IkRFQlVHIiBhZGRpdGl2aXR5PSJmYWxzZSIgLz4KCiAgPCEtLSBPZmYgdGhlc2Ugb25lcyBhcyB0aGV5IGFyZSBhbm5veWluZywgYW5kIGFueXdheSB3ZSBtYW5hZ2UgY29uZmlndXJhdGlvbiBvdXJzZWx2ZXMgLS0+CiAgPGxvZ2dlciBuYW1lPSJjb20uYXZhamUuZWJlYW4uY29uZmlnLlByb3BlcnR5TWFwTG9hZGVyIiBsZXZlbD0iT0ZGIiAvPgogIDxsb2dnZXIgbmFtZT0iY29tLmF2YWplLmViZWFuaW50ZXJuYWwuc2VydmVyLmNvcmUuWG1sQ29uZmlnTG9hZGVyIiBsZXZlbD0iT0ZGIiAvPgogIDxsb2dnZXIgbmFtZT0iY29tLmF2YWplLmViZWFuaW50ZXJuYWwuc2VydmVyLmxpYi5CYWNrZ3JvdW5kVGhyZWFkIiBsZXZlbD0iT0ZGIiAvPgogIDxsb2dnZXIgbmFtZT0iY29tLmdhcmdveWxlc29mdHdhcmUuaHRtbHVuaXQuamF2YXNjcmlwdCIgbGV2ZWw9Ik9GRiIgLz4KCiAgPHJvb3QgbGV2ZWw9IldBUk4iPgogICAgPGFwcGVuZGVyLXJlZiByZWY9IkFTWU5DRklMRSIgLz4KICAgIDxhcHBlbmRlci1yZWYgcmVmPSJBU1lOQ1NURE9VVCIgLz4KICA8L3Jvb3Q+Cgo8L2NvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2dnZXJzID0gWyJha2thLmV2ZW50LnNsZjRqLlNsZjRqTG9nZ2VyIl0K</text>
+        <text encoding="base64">aW1wb3J0IEFjdG9yTG9nZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dsZXZlbCA9ICJERUJVRyIK</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuZXZlbnQuTG9nZ2luZwo=</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -722,7 +727,6 @@
         <entry>level</entry>
       </history-search>
       <history-cmd>
-        <entry>10</entry>
         <entry>t,</entry>
         <entry>4</entry>
         <entry>3</entry>
@@ -742,6 +746,7 @@
         <entry>1</entry>
         <entry>30</entry>
         <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
