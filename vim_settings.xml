@@ -350,11 +350,11 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470847078968">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="36" column="3" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470863059979">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
         <mark key="[" line="27" column="28" />
@@ -386,7 +386,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470847400182">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470863177679">
         <mark key="[" line="9" column="93" />
         <mark key="]" line="10" column="3" />
         <mark key="." line="10" column="3" />
@@ -470,11 +470,11 @@
         <mark key="^" line="40" column="31" />
         <mark key="." line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470847191046">
-        <mark key="[" line="21" column="95" />
-        <mark key="]" line="21" column="100" />
-        <mark key="^" line="21" column="100" />
-        <mark key="." line="21" column="100" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470862983651">
+        <mark key="[" line="23" column="87" />
+        <mark key="]" line="23" column="109" />
+        <mark key="^" line="23" column="109" />
+        <mark key="." line="23" column="109" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/Module.scala" timestamp="1470808820860">
         <mark key="'" line="11" column="14" />
@@ -645,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFJpZ2h0KEFjdG9yRmxvdy5hY3RvclJlZihvdXQgPT4gUHJvcHMobmV3IENsaWVudEFjdG9yKG91dCwgY2xpZW50TWFuYWdlciwgbWVkaWFUeXBlLmdldCwgdmFsdWUuZ2V0KSkpKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5PcGxvZwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PiA=</text>
+        <text>OplogUpdate</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -657,34 +657,34 @@
         <text encoding="base64">PGRpdj4KICAgIDxkaXYgc3R5bGU9IndpZHRoOiA1MCUiPjxpZnJhbWUgc3JjPSJ0ZXN0Lmh0bWwiPjwvaWZyYW1lPjwvZGl2PgogICAgPGRpdiBzdHlsZT0id2lkdGg6IDUwJSI+PGlmcmFtZSBzcmM9InRlc3QuaHRtbCI+PC9pZnJhbWU+PC9kaXY+CjwvZGl2Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFJpZ2h0KEFjdG9yRmxvdy5hY3RvclJlZihvdXQgPT4gUHJvcHMobmV3IENsaWVudEFjdG9yKG91dCwgY2xpZW50TWFuYWdlciwgbWVkaWFUeXBlLmdldCwgdmFsdWUuZ2V0KSkpKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5PcGxvZwo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFjdG9ycy5DbGllbnRNYW5hZ2VyLk9wbG9nVXBkYXRlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFJpZ2h0KEFjdG9yRmxvdy5hY3RvclJlZihvdXQgPT4gUHJvcHMobmV3IENsaWVudEFjdG9yKG91dCwgY2xpZW50TWFuYWdlciwgbWVkaWFUeXBlLmdldCwgdmFsdWUuZ2V0KSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuTG9nZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IGFjdG9ycy5DbGllbnRNYW5hZ2VyLk9wbG9nVXBkYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgY2FzZSBjbGFzcyBPcGxvZ1VwZGF0ZShvcGxvZzogT3Bsb2cpIGV4dGVuZHMgRXZlbnQK</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuTG9nZ2VyCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CiAgY2FzZSBjbGFzcyBPcGxvZ1VwZGF0ZShvcGxvZzogT3Bsb2cpIGV4dGVuZHMgRXZlbnQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IAogICAgLyoqCiAgICAgICogT3Bsb2cgdXBkYXRlCiAgICAgICovCiAgICBjYXNlIE9wbG9nVXBkYXRlKG9wbG9nKSA9PgogICAgICBzZWxmICEgUHVibGlzaCgidGFnUGxheWxpc3Q6c3RvcmllcyIsIG9wbG9nKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgPGxvZ2dlciBuYW1lPSJha2thLmV2ZW50LnNsZjRqLlNsZjRqTG9nZ2VyIiBsZXZlbD0iREVCVUciIGFkZGl0aXZpdHk9ImZhbHNlIiAvPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImFjdG9yIiBsZXZlbD0iREVCVUciIC8+CiAgPGxvZ2dlciBuYW1lPSJhY3Rvci5DbGllbnRNYW5hZ2VyIiBsZXZlbD0iREVCVUciIC8+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU2V0IGxvZ2dpbmcgZm9yIGFsbCBBa2thIGxpYnJhcnkgY2xhc3NlcyB0byBJTkZPIC0tPgo=</text>
+        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImFjdG9yIiBsZXZlbD0iREVCVUciIC8+CiAgPGxvZ2dlciBuYW1lPSJhY3Rvci5DbGllbnRNYW5hZ2VyIiBsZXZlbD0iREVCVUciIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
