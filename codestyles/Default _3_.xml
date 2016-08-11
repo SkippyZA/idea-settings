@@ -1,6 +1,9 @@
 <code_scheme name="Default (3)">
   <ScalaCodeStyleSettings>
     <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
+    <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
+    <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
+    <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />

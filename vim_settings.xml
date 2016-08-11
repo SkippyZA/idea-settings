@@ -159,6 +159,12 @@
         <mark key="^" line="23" column="90" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/Filters.scala" timestamp="1470846893015" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Playlist.scala" timestamp="1470901017609">
+        <mark key="[" line="49" column="2" />
+        <mark key="]" line="49" column="49" />
+        <mark key="^" line="49" column="49" />
+        <mark key="." line="49" column="49" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
         <mark key="[" line="9" column="14" />
       </file>
@@ -252,12 +258,7 @@
         <mark key="^" line="610" column="0" />
         <mark key="." line="610" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1470897477356">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="133" column="30" />
-      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1470900852851" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1470896970843">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -649,10 +650,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Future</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -661,34 +662,34 @@
         <text encoding="base64">PGRpdj4KICAgIDxkaXYgc3R5bGU9IndpZHRoOiA1MCUiPjxpZnJhbWUgc3JjPSJ0ZXN0Lmh0bWwiPjwvaWZyYW1lPjwvZGl2PgogICAgPGRpdiBzdHlsZT0id2lkdGg6IDUwJSI+PGlmcmFtZSBzcmM9InRlc3QuaHRtbCI+PC9pZnJhbWU+PC9kaXY+CjwvZGl2Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5Kc09iamVjdAo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0LkltcGxpY2l0cy5nbG9iYWwK</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5Kc09iamVjdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuUHJvcHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFjdG9ycy5NZWRpYU1hbmFnQWN0b3Iue0NsaWVudENvbm5lY3RlZCwgQ2xpZW50RGlzY29ubmVjdGVkfQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0LkltcGxpY2l0cy5nbG9iYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgbWVkaWFNYW5hZ2VyQWN0b3IgISBDbGllbnRDb25uZWN0ZWQoc2VsZikKPj4+Pj4+PiA5OTRiMWZmZmNhNGNkMzIxMTZkZDg5MTA0ODBmYzMwN2RmODAyMjlkCg==</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuUHJvcHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IGFjdG9ycy5NZWRpYU1hbmFnQWN0b3Iue0NsaWVudENvbm5lY3RlZCwgQ2xpZW50RGlzY29ubmVjdGVkfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQpjbGFzcyBDbGllbnRBY3Rvcih3ZWJTb2NrZXQ6IEFjdG9yUmVmLCBtZWRpYU1hbmFnZXJBY3RvcjogQWN0b3JSZWYpIGV4dGVuZHMgQWN0b3Igewo+Pj4+Pj4+IDk5NGIxZmZmY2E0Y2QzMjExNmRkODkxMDQ4MGZjMzA3ZGY4MDIyOWQK</text>
+        <text encoding="base64">PT09PT09PQogICAgbWVkaWFNYW5hZ2VyQWN0b3IgISBDbGllbnRDb25uZWN0ZWQoc2VsZikKPj4+Pj4+PiA5OTRiMWZmZmNhNGNkMzIxMTZkZDg5MTA0ODBmYzMwN2RmODAyMjlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>2</text>
