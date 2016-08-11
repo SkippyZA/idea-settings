@@ -2,6 +2,7 @@
   <ScalaCodeStyleSettings>
     <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
     <option name="SPACES_IN_IMPORTS" value="true" />
+    <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />

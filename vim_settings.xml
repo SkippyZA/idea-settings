@@ -9,7 +9,6 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-streams_2.11/srcs/play-streams_2.11-2.5.4-sources.jar!/play/api/libs/streams/ActorFlow.scala" timestamp="1470810588400" />
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/source/pause.json" timestamp="1467702534810">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="28" />
@@ -43,7 +42,6 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/srcs/akka-actor_2.11-2.4.4-sources.jar!/akka/actor/Actor.scala" timestamp="1470663352494" />
       <file name="$USER_HOME$/Development/idm-leads/app/config/database.php" timestamp="1470050824503">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="11" />
@@ -158,7 +156,6 @@
         <mark key="." line="23" column="90" />
         <mark key="^" line="23" column="90" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/Filters.scala" timestamp="1470846893015" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Playlist.scala" timestamp="1470901017609">
         <mark key="[" line="49" column="2" />
         <mark key="]" line="49" column="49" />
@@ -258,7 +255,6 @@
         <mark key="^" line="610" column="0" />
         <mark key="." line="610" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1470900852851" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1470896970843">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -275,8 +271,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientMediaActor.scala" timestamp="1470663592904" />
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/EmbedController.scala" timestamp="1470693037363" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/EmbedController.scala" timestamp="1470901660591" />
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
@@ -307,7 +302,6 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.github.fdimuccio/play2-sockjs_2.11/srcs/play2-sockjs_2.11-0.5.0-sources.jar!/play/sockjs/api/SockJSRouter.scala" timestamp="1470524140448" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ActorLogger.scala" timestamp="1470836810455">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="9" column="33" />
@@ -356,11 +350,11 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470894782361">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470901631510">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="39" />
+        <mark key="^" line="41" column="39" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/package.json" timestamp="1467190021144">
         <mark key="[" line="27" column="28" />
@@ -649,11 +643,11 @@
       <jump line="45" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
