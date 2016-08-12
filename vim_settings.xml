@@ -46,11 +46,11 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1471018834634">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="23" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1471020221929">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="52" column="3" />
+        <mark key="." line="52" column="3" />
+        <mark key="^" line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/.gitignore" timestamp="1470912448762">
         <mark key="[" line="7" column="12" />
@@ -231,11 +231,11 @@
       <jump line="34" column="22" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: Unit = super.preStart()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: Unit = super.preStart()</text>
+        <text encoding="base64">IHsg</text>
       </register>
       <register name="/" type="4">
         <text>MediaUpdated</text>
@@ -244,34 +244,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAc2NhbGEudGhyb3dzW0V4Y2VwdGlvbl0oY2xhc3NPZltFeGNlcHRpb25dKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwueyBGYWlsdXJlLCBTdWNjZXNzIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGZ1dHVyZU1lZGlhID0gCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgY2FzZSBvcGxvZzogT3Bsb2cgPT4gZW1iZWRTZXJ2aWNlLmZldGNoKHRvcGljLm1lZGlhVHlwZSwgdG9waWMudmFsdWUsIE5vbmUpLmZvcmVhY2ggeyBtZWRpYSA9PgovLyAgICAgIGNvbnRleHQucGFyZW50ICEgTWVkaWFVcGRhdGVkKHRvcGljLCBtZWRpYSkKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgY2FjaGVkTWVkaWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfS5mb3JlYWNoIHsgbWVkaWEgPT4KICAgICAgICAK</text>
+        <text encoding="base64">ICBkZWYgZmV0Y2hNZWRpYSgpOiBGdXR1cmVbTWVkaWFdID0gZW1iZWRTZXJ2aWNlLmZldGNoKHRvcGljLm1lZGlhVHlwZSwgdG9waWMudmFsdWUsIE5vbmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIjMiKQogICAgICAgIGxvZy5kZWJ1ZyhtZWRpYS50b1N0cmluZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZy5kZWJ1ZygiMiIpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ci8vICBkZWYgZmV0Y2hDYWNoZWRNZWRpYSgpOiBGdXR1cmVbT3B0aW9uW01lZGlhXV0gPSB7Ci8vICAgIHZhbCBmdXR1cmVNZWRpYTogRnV0dXJlW01lZGlhXSA9IGVtYmVkU2VydmljZS5mZXRjaCh0b3BpYy5tZWRpYVR5cGUsIHRvcGljLnZhbHVlLCBOb25lKQovLwovLyAgICBmdXR1cmVNZWRpYS5tYXAgeyBtZWRpYSA9PgovLyAgICAgIGxvZy5lcnJvcihjYWNoZWRNZWRpYS5jb250YWlucyhtZWRpYSkudG9TdHJpbmcpCi8vCi8vICAgICAgaWYgKCFjYWNoZWRNZWRpYS5jb250YWlucyhtZWRpYSkpIHsKLy8gICAgICAgIGNhY2hlZE1lZGlhID0gU29tZShtZWRpYSkKLy8gICAgICAgIGNvbnRleHQucGFyZW50ICEgTWVkaWFVcGRhdGVkKHRvcGljLCBjYWNoZWRNZWRpYS5nZXQpCi8vICAgICAgfQovLwovLyAgICAgIGNhY2hlZE1lZGlhCi8vICAgIH0KLy8gIH0=</text>
       </register>
       <register name=":" type="4">
         <text>38</text>
