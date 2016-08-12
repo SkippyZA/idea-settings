@@ -3,15 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1470992747664">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/EmbedService.scala" timestamp="1470913439490">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="51" column="41" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test.html" timestamp="1470911743814">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="15" column="0" />
@@ -23,39 +14,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/test.html" timestamp="1470984175643">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="43" />
-        <mark key="m" line="24" column="51" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1470919398225">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/.gitignore" timestamp="1470912448762">
-        <mark key="[" line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
-        <mark key="[" line="9" column="14" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1470913509558" />
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/frames.html" timestamp="1470912064032">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="16" column="111" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Cast.scala" timestamp="1470906822682" />
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1470991007897">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.github.fdimuccio/play2-sockjs_2.11/srcs/play2-sockjs_2.11-0.5.0-sources.jar!/play/sockjs/api/SockJSSettings.scala" timestamp="1470914130715" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1470992672187">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="39" />
@@ -67,33 +25,52 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1470992747664">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470580061233">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" timestamp="1470993341087">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/test.html" timestamp="1470984175643">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="43" />
+        <mark key="m" line="24" column="51" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1470994690666">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="55" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/.gitignore" timestamp="1470912448762">
+        <mark key="[" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
+        <mark key="[" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/EmbedService.scala" timestamp="1470913439490">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="51" column="41" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/frames.html" timestamp="1470912064032">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="16" column="111" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" timestamp="1470994590494">
         <mark key="'" line="36" column="65" />
         <mark key="[" line="37" column="64" />
         <mark key="]" line="37" column="64" />
         <mark key="." line="37" column="64" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/MediaItem.scala" timestamp="1470901815964" />
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470992635792">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="85" column="52" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470904795874">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.github.fdimuccio/play2-sockjs_2.11/srcs/play2-sockjs_2.11-0.5.0-sources.jar!/play/sockjs/api/SockJS.scala" timestamp="1470916779671" />
-      <file name="$USER_HOME$/.ivy2/cache/io.netty/netty-codec-http/srcs/netty-codec-http-4.0.36.Final-sources.jar!/io/netty/handler/codec/http/websocketx/WebSocket08FrameEncoder.java" timestamp="1470992939643" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/WatchService.scala" timestamp="1470907763008">
         <mark key="[" line="22" column="75" />
         <mark key="]" line="22" column="76" />
@@ -106,6 +83,23 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="17" column="33" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470994621042">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="85" column="52" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470904795874">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1470991007897">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1470846872677">
         <mark key="[" line="0" column="0" />
@@ -215,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>08</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>08</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -227,34 +221,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC53ZWJzb2NrZXR4LldlYlNvY2tldDA4RnJhbWVEZWNvZGVyIiBsZXZlbD0iSU5GTyIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC53ZWJzb2NrZXR4LldlYlNvY2tldDA4RnJhbWVEZWNvZGVyIiBsZXZlbD0iSU5GTyIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuZnVuY3Rpb25hbC5zeW50YXguXwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9jYXNlIGNsYXNzIE9wbG9nKGludGVybmFsVGltZXN0YW1wOiBJbnRlcm5hbFRpbWVzdGFtcCwgaGFzaDogTG9uZywgdmVyc2lvbjogSW50LCBvcGVyYXRpb246IFN0cmluZywgbmFtZXNwYWNlOiBTdHJpbmcsIHVwZGF0ZURvY3VtZW50SWQ6IE9wdGlvbltKc1ZhbHVlXSwgZG9jdW1lbnQ6IEpzT2JqZWN0KQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuZnVuY3Rpb25hbC5zeW50YXguXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+        <text encoding="base64">Ly9jYXNlIGNsYXNzIE9wbG9nKGludGVybmFsVGltZXN0YW1wOiBJbnRlcm5hbFRpbWVzdGFtcCwgaGFzaDogTG9uZywgdmVyc2lvbjogSW50LCBvcGVyYXRpb246IFN0cmluZywgbmFtZXNwYWNlOiBTdHJpbmcsIHVwZGF0ZURvY3VtZW50SWQ6IE9wdGlvbltKc1ZhbHVlXSwgZG9jdW1lbnQ6IEpzT2JqZWN0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGV4dHJhY3RVcGRhdGVJZChvYmo6IEpzT2JqZWN0KSA9IG9iai5maWVsZHMuZmlsdGVyKF8uXzEgPT0gIl9pZCIpLmhlYWQuXzIuYXNbU3RyaW5nXQo=</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGV4dHJhY3RVcGRhdGVJZDogKEpzT2JqZWN0KSA9IF8uZmllbGRzLmZpbHRlcihfLl8xID09ICJfaWQiKS5oZWFkLl8yLmFzW1N0cmluZ10K</text>
+        <text encoding="base64">ICAgICAgZGVmIGV4dHJhY3RVcGRhdGVJZChvYmo6IEpzT2JqZWN0KSA9IG9iai5maWVsZHMuZmlsdGVyKF8uXzEgPT0gIl9pZCIpLmhlYWQuXzIuYXNbU3RyaW5nXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVmIGV4dHJhY3RVcGRhdGVJZDogKEpzT2JqZWN0KSA9IF8uZmllbGRzLmZpbHRlcihfLl8xID09ICJfaWQiKS5oZWFkLl8yLmFzW1N0cmluZ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>t.</text>
