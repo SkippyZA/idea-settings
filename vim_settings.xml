@@ -40,11 +40,10 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1470994690666">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="55" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1471000264504">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/.gitignore" timestamp="1470912448762">
         <mark key="[" line="7" column="12" />
@@ -58,6 +57,7 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1470999486965" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/frames.html" timestamp="1470912064032">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -84,11 +84,11 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470994621042">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="85" column="52" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1470999817606">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="19" />
+        <mark key="." line="78" column="19" />
+        <mark key="^" line="78" column="19" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470904795874">
         <mark key="[" line="2" column="0" />
@@ -96,10 +96,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1470991007897">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1471000394287">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="52" column="76" />
       </file>
       <file name="/fragment.java" timestamp="1470846872677">
         <mark key="[" line="0" column="0" />
@@ -208,11 +209,11 @@
       <jump line="36" column="65" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICBjbGllbnRNYW5hZ2VyICEgUHVibGlzaCgidGFnUGxheWxpc3Q6c3RvcmllcyIsIG9wbG9nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">Zm9yd2FyZCA=</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -221,37 +222,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBjbGllbnRNYW5hZ2VyICEgUHVibGlzaCgidGFnUGxheWxpc3Q6c3RvcmllcyIsIG9wbG9nKQo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC53ZWJzb2NrZXR4LldlYlNvY2tldDA4RnJhbWVEZWNvZGVyIiBsZXZlbD0iSU5GTyIgLz4K</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiSSByZWNpZXZlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuZnVuY3Rpb25hbC5zeW50YXguXwo=</text>
+        <text encoding="base64">Ly8gICAgICB0b3BpY0FjdG9yLmZvcmVhY2goY29udGV4dCBzdG9wKQovLyAgICAgIG1lZGlhQWN0b3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9jYXNlIGNsYXNzIE9wbG9nKGludGVybmFsVGltZXN0YW1wOiBJbnRlcm5hbFRpbWVzdGFtcCwgaGFzaDogTG9uZywgdmVyc2lvbjogSW50LCBvcGVyYXRpb246IFN0cmluZywgbmFtZXNwYWNlOiBTdHJpbmcsIHVwZGF0ZURvY3VtZW50SWQ6IE9wdGlvbltKc1ZhbHVlXSwgZG9jdW1lbnQ6IEpzT2JqZWN0KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgdG9waWNBY3Rvci5yZW1vdgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGV4dHJhY3RVcGRhdGVJZChvYmo6IEpzT2JqZWN0KSA9IG9iai5maWVsZHMuZmlsdGVyKF8uXzEgPT0gIl9pZCIpLmhlYWQuXzIuYXNbU3RyaW5nXQo=</text>
+        <text encoding="base64">ICAgICAgICBhY3RvciAhIAogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGV4dHJhY3RVcGRhdGVJZDogKEpzT2JqZWN0KSA9IF8uZmllbGRzLmZpbHRlcihfLl8xID09ICJfaWQiKS5oZWFkLl8yLmFzW1N0cmluZ10K</text>
+        <text encoding="base64">CiAgICAgICAgbWVkaWFBY3RvcnMuZm9yZWFjaCh4ID0+IGxvZy5pbmZvKHgudG9TdHJpbmcpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -301,10 +302,10 @@
         <entry>56</entry>
         <entry>48</entry>
         <entry>3</entry>
-        <entry>w</entry>
         <entry>54</entry>
         <entry>r.</entry>
         <entry>t.</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
