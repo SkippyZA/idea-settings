@@ -39,12 +39,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/test.html" timestamp="1470984175643">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="43" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/test.html" timestamp="1471021007700">
+        <mark key="[" line="27" column="13" />
         <mark key="m" line="24" column="51" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+        <mark key="." line="27" column="24" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1471020221929">
         <mark key="[" line="51" column="20" />
