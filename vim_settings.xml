@@ -20,10 +20,17 @@
         <mark key="." line="13" column="39" />
         <mark key="^" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1470896970843">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1471004133664">
+        <mark key="[" line="71" column="99" />
+        <mark key="]" line="71" column="110" />
+        <mark key="." line="71" column="110" />
+        <mark key="^" line="71" column="110" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1471010288375">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1470992747664">
         <mark key="[" line="0" column="0" />
@@ -40,10 +47,11 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1471000264504">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1471005843050">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/.gitignore" timestamp="1470912448762">
         <mark key="[" line="7" column="12" />
@@ -51,13 +59,20 @@
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
         <mark key="[" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/EmbedService.scala" timestamp="1470913439490">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/EmbedService.scala" timestamp="1471005101840">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="^" line="51" column="41" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1470999486965" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1471011481433">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1471011830642">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/frames.html" timestamp="1470912064032">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -84,32 +99,36 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1471000457580">
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="19" />
-        <mark key="." line="78" column="19" />
-        <mark key="^" line="78" column="19" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1471012226005">
+        <mark key="[" line="93" column="19" />
+        <mark key="]" line="93" column="41" />
+        <mark key="." line="93" column="41" />
+        <mark key="^" line="93" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1470904795874">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1471011377669">
+        <mark key="'" line="35" column="22" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+        <mark key="." line="35" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1471000394287">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="52" column="76" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1471010034237">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470846872677">
+      <file name="/fragment.java" timestamp="1471002833705">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Topic.scala" timestamp="1471003300259">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="32" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapTime.scala" />
-      <jump line="4" column="15" filename="$USER_HOME$/Development/iracing-scraping/test.sc" />
-      <jump line="14" column="62" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" />
       <jump line="3" column="18" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/main.js" />
@@ -207,65 +226,66 @@
       <jump line="45" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
       <jump line="15" column="28" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" />
       <jump line="36" column="65" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" />
+      <jump line="34" column="22" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICBjbGllbnRNYW5hZ2VyICEgUHVibGlzaCgidGFnUGxheWxpc3Q6c3RvcmllcyIsIG9wbG9nKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsaWVudCBpcyBjcmVhdGVk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yd2FyZCA=</text>
+        <text encoding="base64">IGNsaWVudCBpcyBjcmVhdGVk</text>
       </register>
       <register name="/" type="4">
-        <text>level</text>
+        <text>MediaUpdated</text>
       </register>
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBjbGllbnRNYW5hZ2VyICEgUHVibGlzaCgidGFnUGxheWxpc3Q6c3RvcmllcyIsIG9wbG9nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiSSByZWNpZXZlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgdG9waWNDbGllbnRzQ29ubmVjdGlvblBvb2wuZ2V0KHRvcGljKS5mb3JlYWNoKF8uZm9yZWFjaChfICEgTWVkaWFVcGRhdGVkKHRvcGljLCBtZXNzYWdlLmFzSW5zdGFuY2VPZltNZWRpYV0pKSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICB0b3BpY0FjdG9yLmZvcmVhY2goY29udGV4dCBzdG9wKQovLyAgICAgIG1lZGlhQWN0b3JzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICApKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdG9waWNBY3Rvci5yZW1vdgo=</text>
+        <text encoding="base64">Ly8gICAgICB3ZWJTb2NrZXQgISBPdXRFdmVudCgidXBkYXRlIiwgSnNvbi5vYmooCi8vICAgICAgICAibWVkaWFUeWUiIC0+IHQubWVkaWFUeXBlLAovLyAgICAgICAgImRhdGEiIC0+IG0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RvciAhIAogICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">SnNvbi5vYmooCiAgICAgICAgIm1lZGlhVHllIiAtPiB0Lm1lZGlhVHlwZSwKICAgICAgICAiZGF0YSIgLT4gbQogICAgICAp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgbWVkaWFBY3RvcnMuZm9yZWFjaCh4ID0+IGxvZy5pbmZvKHgudG9TdHJpbmcpKQo=</text>
+        <text encoding="base64">ICAgICAgbG9nLndhcm4ocyJJIGdvdCBzb21ldGhpbmcgZm9yICR7dC50b1N0cmluZ30iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgeDogQW55ID0+IGxvZy5lcnJvcih4LmdldENsYXNzLnRvU3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>6</text>
       </register>
     </registers>
     <search>
-      <last-search>level</last-search>
+      <last-search>MediaUpdated</last-search>
       <last-offset />
-      <last-pattern>level</last-pattern>
+      <last-pattern>MediaUpdated</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry>tracking</entry>
         <entry>get</entry>
         <entry>'get</entry>
         <entry>fit</entry>
@@ -284,28 +304,30 @@
         <entry>AbstractModule</entry>
         <entry>akka</entry>
         <entry>level</entry>
+        <entry>models</entry>
+        <entry>MediaUpdated</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
-        <entry>32</entry>
-        <entry>16</entry>
-        <entry>38</entry>
-        <entry>28</entry>
-        <entry>39</entry>
-        <entry>73</entry>
-        <entry>47</entry>
         <entry>37</entry>
-        <entry>71</entry>
-        <entry>17</entry>
-        <entry>1</entry>
-        <entry>t</entry>
-        <entry>56</entry>
+        <entry>38</entry>
+        <entry>40</entry>
+        <entry>80</entry>
+        <entry>33</entry>
+        <entry>18</entry>
+        <entry>42</entry>
+        <entry>22</entry>
+        <entry>13</entry>
+        <entry>7</entry>
+        <entry>19</entry>
         <entry>48</entry>
-        <entry>3</entry>
-        <entry>54</entry>
-        <entry>r.</entry>
+        <entry>650</entry>
+        <entry>50</entry>
+        <entry>11</entry>
+        <entry>t,</entry>
         <entry>t.</entry>
-        <entry>w</entry>
+        <entry>1</entry>
+        <entry>9</entry>
+        <entry>6</entry>
       </history-cmd>
       <history-expr />
       <history-input />
