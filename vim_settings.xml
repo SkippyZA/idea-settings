@@ -150,11 +150,11 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Oplog.scala" timestamp="1470949790336">
-        <mark key="[" line="55" column="83" />
-        <mark key="]" line="55" column="84" />
-        <mark key="." line="55" column="84" />
-        <mark key="^" line="55" column="84" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Oplog.scala" timestamp="1470984617026">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+        <mark key="^" line="39" column="40" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466159498662">
         <mark key="[" line="9" column="0" />
@@ -168,7 +168,7 @@
         <mark key="." line="23" column="90" />
         <mark key="^" line="23" column="90" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/test.html" timestamp="1470934785147">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/test.html" timestamp="1470984175643">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="43" />
         <mark key="m" line="24" column="51" />
@@ -678,10 +678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>updateDocumentId</text>
+        <text>JsValue</text>
       </register>
       <register name="-" type="4">
-        <text>updateDocumentId</text>
+        <text>JsValue</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
