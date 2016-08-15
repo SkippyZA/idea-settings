@@ -14,8 +14,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1471250130642" />
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1471250784945">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1471256148348">
+        <mark key="[" line="79" column="53" />
+        <mark key="]" line="79" column="54" />
+        <mark key="^" line="79" column="54" />
+        <mark key="." line="79" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1471255966180">
         <mark key="[" line="71" column="42" />
         <mark key="]" line="71" column="46" />
         <mark key="." line="71" column="46" />
@@ -91,32 +96,18 @@
         <mark key="." line="22" column="76" />
         <mark key="^" line="22" column="76" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/Module.scala" timestamp="1470907699822">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientManager.scala" timestamp="1471014092012">
         <mark key="[" line="38" column="19" />
         <mark key="]" line="38" column="35" />
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1471250494813">
-        <mark key="'" line="36" column="22" />
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="39" column="48" />
-        <mark key="." line="39" column="48" />
-        <mark key="^" line="39" column="48" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1471015649734">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1471255855633">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="58" column="26" />
-        <mark key="]" line="59" column="3" />
-        <mark key="." line="59" column="3" />
-        <mark key="^" line="59" column="3" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="109" />
+        <mark key="." line="41" column="109" />
+        <mark key="^" line="41" column="109" />
       </file>
       <file name="/fragment.java" timestamp="1471002833705">
         <mark key="[" line="0" column="0" />
@@ -238,7 +229,7 @@
         <text>value</text>
       </register>
       <register name="/" type="4">
-        <text>showMedia</text>
+        <text>l1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnRleHQucGFyZW50ICEgTWVkaWFVcGRhdGVkKHRvcGljLCBtZWRpYSwgbGltaXQpCg==</text>
@@ -278,15 +269,14 @@
       </register>
     </registers>
     <search>
-      <last-search>showMedia</last-search>
+      <last-search>l1</last-search>
       <last-offset />
-      <last-pattern>showMedia</last-pattern>
+      <last-pattern>l1</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fit</entry>
         <entry>retries request</entry>
         <entry>splitOn</entry>
         <entry>lapti</entry>
@@ -306,6 +296,7 @@
         <entry>MediaUpdated</entry>
         <entry>showMesia</entry>
         <entry>showMedia</entry>
+        <entry>l1</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
