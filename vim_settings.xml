@@ -20,11 +20,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1471255966180">
-        <mark key="[" line="71" column="42" />
-        <mark key="]" line="71" column="46" />
-        <mark key="." line="71" column="46" />
-        <mark key="^" line="71" column="46" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1471502729918">
+        <mark key="[" line="80" column="41" />
+        <mark key="]" line="80" column="41" />
+        <mark key="." line="80" column="41" />
+        <mark key="^" line="80" column="43" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1471015071814">
         <mark key="[" line="0" column="0" />
@@ -173,11 +173,11 @@
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1471434627165">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="36" column="62" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/ClientActor.scala" timestamp="1471502727975">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/UserMongoRespository.scala" timestamp="1471422174504">
         <mark key="[" line="5" column="18" />
@@ -323,10 +323,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IH0=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IH0=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>l1</text>
@@ -335,7 +335,7 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnRleHQucGFyZW50ICEgTWVkaWFVcGRhdGVkKHRvcGljLCBtZWRpYSwgbGltaXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBpbXBsaWNpdCB2YWwgbWVkaWFXcml0ZXMgPSBKc29uLndyaXRlc1tNZWRpYV0K</text>
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -367,31 +367,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICogCiAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqIAogICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBsaW1pdDogSW50ID0gcmVxdWVzdC5nZXRRdWVyeVN0cmluZygibGltaXQiKS5nZXRPckVsc2UoSW50ZWdlci5NQVhfVkFMVUUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5fCgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8qKgogICogVXNlciBzaW5nbGV0b24gb2JqZWN0LgogICovCm9iamVjdCBVc2VyIHsKCgp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICBpbXBsaWNpdCB2YWwgbWVkaWFXcml0ZXMgPSBKc29uLndyaXRlc1tNZWRpYV0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ci8vICBpbXBsaWNpdCB2YWwgdXNlcldyaXRlcyA9IG5ldyBXcml0ZXNbVXNlcl0gewovLyAgICBkZWYgd3JpdGVzKHVzZXI6IFVzZXIpOiBKc1ZhbHVlID0gSnNvbi5vYmooCi8vICAgICAgImRpc3BsYXlOYW1lIiAtPiB1c2VyLmRpc3BsYXlOYW1lLAovLyAgICAgICJwcmltYXJ5RW1haWwiIC0+IHVzZXIucHJpbWFyeUVtYWlsCi8vICAgICkKLy8gIH0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICogCiAgICAqIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAqIAogICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi57IEpzb24sIFdyaXRlcyB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5fCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>7</text>
+        <text>60</text>
       </register>
     </registers>
     <search>
@@ -425,7 +425,6 @@
         <entry>l1</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
         <entry>1</entry>
         <entry>15</entry>
         <entry>56</entry>
@@ -445,6 +444,7 @@
         <entry>20</entry>
         <entry>13</entry>
         <entry>7</entry>
+        <entry>60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
