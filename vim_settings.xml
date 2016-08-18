@@ -92,6 +92,7 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1471521465490" />
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1471520257739" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Topic.scala" timestamp="1471014866622">
         <mark key="[" line="16" column="0" />
@@ -167,6 +168,7 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1471521492617" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Meta.scala" timestamp="1471433847178">
         <mark key="[" line="79" column="51" />
         <mark key="]" line="80" column="5" />
