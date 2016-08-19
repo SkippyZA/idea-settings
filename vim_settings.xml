@@ -41,6 +41,9 @@
       <file name="/Dummy.scala" timestamp="1471011830642">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1471596786937">
+        <mark key="'" line="78" column="8" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/UserMeta.scala" timestamp="1471433040139">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="30" />
@@ -85,7 +88,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1471595846665" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1471596767625">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1471595454654">
         <mark key="[" line="317" column="53" />
         <mark key="]" line="317" column="52" />
@@ -210,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="9" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
       <jump line="9" column="40" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
       <jump line="85" column="14" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
@@ -310,22 +316,23 @@
       <jump line="16" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/UserMongoRepository.scala" />
       <jump line="5" column="58" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/models/User.scala" />
       <jump line="10" column="18" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Meta.scala" />
+      <jump line="78" column="8" filename="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQHBhcmFtIHNvdXJjZU9mZmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Mutated offer</text>
       </register>
       <register name="/" type="4">
-        <text>l1</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnRleHQucGFyZW50ICEgTWVkaWFVcGRhdGVkKHRvcGljLCBtZWRpYSwgbGltaXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICogQHBhcmFtIHNvdXJjZU9mZmVyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,43 +364,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBsaW1pdDogSW50ID0gcmVxdWVzdC5nZXRRdWVyeVN0cmluZygibGltaXQiKS5nZXRPckVsc2UoSW50ZWdlci5NQVhfVkFMVUUpCg==</text>
+        <text encoding="base64">ICogU3luY3MgY3JpdGljYWwgZmllbGRzIGZyb20gdGhlIHNvdXJjZSB0byB0aGUgZGVzdGluYXRpb24gb2ZmZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICBpbXBsaWNpdCB2YWwgbWVkaWFXcml0ZXMgPSBKc29uLndyaXRlc1tNZWRpYV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogCiAgICAqIAo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqIAogICogCg==</text>
+        <text encoding="base64">ICAgIC5kb09uTmV4dCgoKSA9PiB7IGxvZ2dlci5pbmZvKHsgb2ZmZXI6IG9mZmVyIH0sICcnKTsgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5fCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
       </register>
     </registers>
     <search>
-      <last-search>l1</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>l1</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>retries request</entry>
         <entry>splitOn</entry>
         <entry>lapti</entry>
         <entry>Segment</entry>
@@ -413,6 +419,7 @@
         <entry>showMesia</entry>
         <entry>showMedia</entry>
         <entry>l1</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
