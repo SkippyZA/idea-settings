@@ -41,13 +41,6 @@
       <file name="/Dummy.scala" timestamp="1471011830642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" timestamp="1471424605436">
-        <mark key="'" line="36" column="65" />
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="^" line="39" column="18" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/UserMeta.scala" timestamp="1471433040139">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="30" />
@@ -92,8 +85,13 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1471521465490" />
-      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1471520257739" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/identity-processor.js" timestamp="1471594015314" />
+      <file name="$USER_HOME$/Development/yazimedia/src/services/process-pipeline.js" timestamp="1471593965217">
+        <mark key="[" line="317" column="53" />
+        <mark key="]" line="317" column="52" />
+        <mark key="^" line="317" column="52" />
+        <mark key="." line="317" column="52" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Topic.scala" timestamp="1471014866622">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -181,13 +179,6 @@
         <mark key="." line="22" column="76" />
         <mark key="^" line="22" column="76" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/Module.scala" timestamp="1471430851893">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="11" column="85" />
-        <mark key="]" line="12" column="90" />
-        <mark key="." line="12" column="90" />
-        <mark key="^" line="12" column="90" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Media.scala" timestamp="1471433561520">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -200,18 +191,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/sync.js" timestamp="1471593601403" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/MediaResponse.scala" timestamp="1471428736612">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="49" />
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
-      </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" timestamp="1471255855633">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="109" />
-        <mark key="." line="41" column="109" />
-        <mark key="^" line="41" column="109" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/User.scala" timestamp="1471434067442">
         <mark key="'" line="0" column="58" />
