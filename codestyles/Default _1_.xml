@@ -16,6 +16,9 @@
     <option name="SPACES_IN_IMPORTS" value="true" />
     <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
   </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
