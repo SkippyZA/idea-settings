@@ -418,11 +418,11 @@
         <mark key="^" line="610" column="0" />
         <mark key="." line="610" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1471881485295">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1471882663244">
         <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="29" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470580061233">
         <mark key="[" line="6" column="0" />
@@ -488,6 +488,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" timestamp="1471882734387">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="39" column="19" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469356894185">
         <mark key="[" line="21" column="0" />
@@ -910,10 +916,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SLICK_DRIVER</text>
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>SLICK_DRIVER</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
