@@ -409,11 +409,10 @@
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1470992672187">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="13" column="39" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1471868881660">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
         <mark key="[" line="609" column="1" />
@@ -913,8 +912,8 @@
       <jump line="36" column="65" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Should become paused from advertiser 4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Should become paused from advertiser 4</text>
@@ -926,42 +925,40 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAgKiAKICAgICAgKiBAcGFyYW0gbWVkaWFJdGVtcwogICAgICAqIEBwYXJhbSBpZAogICAgICAqIEByZXR1cm4KICAgICAgKi8=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RldmVuIG9uIDIwMTYvMDgvMjIuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGl0Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RldmVuIG9uIDIwMTYvMDgvMjIuCiAqLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGl0Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgZml0KCcyIHRvIDEnLCAoKSA9PiB7CiAgICBjb25zdCBzb3VyY2VPZmZlciA9IG5ldyBPZmZlcih7CiAgICAgIHNvdXJjZV9pZDogMSwKICAgICAgc3RhdHVzOiAnYWN0aXZlJywKICAgICAgYWR2ZXJ0aXNlcl9pZDogNTQ0LAogICAgICBuYW1lOiAnQWN0aXZlIG9mZmVyJywKICAgICAgcGF5b3V0OiAwLjEsCiAgICAgIGRlc2NyaXB0aW9uOiAnQWN0aXZlIG9mZmVyIGRlc2NyaXB0aW9uJywKICAgICAgcHJldmlld191cmw6ICdodHRwOi8vbG9jYWxob3N0LycsCiAgICAgIG9mZmVyX3VybDogJ2h0dHA6Ly9sb2NhbGhvc3QvJywKICAgICAgZXhwaXJhdGlvbl9kYXRlOiAnMjAzMC0wMy0xNSAyMzo1OTo1OScKICAgIH0sIHsKICAgICAgJ1VTJzoge30KICAgIH0pOwoKICAgIGNvbnN0IGRlc3RpbmF0aW9uT2ZmZXIgPSBuZXcgT2ZmZXIoewogICAgICBzb3VyY2VfaWQ6IDEsCiAgICAgIHN0YXR1czogJ2FjdGl2ZScsCiAgICAgIGFkdmVydGlzZXJfaWQ6IDU0NCwKICAgICAgbmFtZTogJ0FjdGl2ZSBvZmZlcicsCiAgICAgIHBheW91dDogMC4xLAogICAgICBkZXNjcmlwdGlvbjogJ0FjdGl2ZSBvZmZlciBkZXNjcmlwdGlvbicsCiAgICAgIHByZXZpZXdfdXJsOiAnaHR0cDovL2xvY2FsaG9zdC8nLAogICAgICBvZmZlcl91cmw6ICdodHRwOi8vbG9jYWxob3N0LycsCiAgICAgIGV4cGlyYXRpb25fZGF0ZTogJzIwMzAtMDMtMTUgMjM6NTk6NTknCiAgICB9LCB7CiAgICAgICdVUyc6IHt9CiAgICB9KTsKCiAgICBjb25zdCByYXRpbyA9IHJ1bGVzLmNvdW50cnlSYXRpbyhzb3VyY2VPZmZlciwgZGVzdGluYXRpb25PZmZlcik7CgogICAgZXhwZWN0KHJhdGlvKS50b0JlKDAuNSk7CiAgfSk7</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>,
       'ZA': {},
       'AU': {},
       'DE': {}</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-      'ZA': {},
-      'NZ': {}</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgaXQoJ3BpY2tzIDEgb2ZmZXIgZnJvbSAyJywgKCkgPT4gewogICAgY29uc3QKICB9KQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>278</text>
+        <text>53</text>
       </register>
     </registers>
     <search>
@@ -995,7 +992,6 @@
         <entry>synchro</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>4</entry>
         <entry>10</entry>
         <entry>3</entry>
@@ -1015,6 +1011,7 @@
         <entry>391</entry>
         <entry>t.</entry>
         <entry>278</entry>
+        <entry>53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
