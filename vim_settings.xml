@@ -53,7 +53,6 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.5.4-sources.jar!/play/api/libs/json/Json.scala" timestamp="1471418788725" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1471864033947">
         <mark key="[" line="391" column="4" />
         <mark key="]" line="391" column="3" />
@@ -356,7 +355,6 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/sync.js" timestamp="1471801995045" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -420,11 +418,11 @@
         <mark key="^" line="610" column="0" />
         <mark key="." line="610" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1470896970843">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="22" column="28" />
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/conf/application.conf" timestamp="1471876823167">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470580061233">
         <mark key="[" line="6" column="0" />
@@ -443,7 +441,6 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaRepository.scala" timestamp="1471417662090" />
       <file name="$USER_HOME$/Development/embed-service/src/lib/rename-keys.js" timestamp="1467190147189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="27" />
@@ -912,11 +909,11 @@
       <jump line="36" column="65" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SLICK_DRIVER</text>
       </register>
       <register name="-" type="4">
-        <text>Should become paused from advertiser 4</text>
+        <text>SLICK_DRIVER</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
