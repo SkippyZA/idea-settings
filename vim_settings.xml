@@ -527,6 +527,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/play-slick/samples/computer-database/app/dao/CompaniesDAO.scala" timestamp="1472156944124">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/UserMeta.scala" timestamp="1471433040139">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="30" />
@@ -909,7 +915,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lmluago=</text>
       </register>
       <register name="-" type="4">
         <text>.firstname</text>
@@ -921,34 +927,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lmluago=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vICB2YWwgcSA9IHBhdGllbnRzLmZpbHRlcihfLmdlbmRlciA9PSBHZW5kZXJFbnVtLk1BTEUpCgogIC8qCiAgdmFsIHEgPSBmb3IgKGMgPC0gY29mZmVlcykgeWllbGQgYy5uYW1lCiAgdmFsIGEgPSBxLnJlc3VsdAogIHZhbCBmOiBGdXR1cmVbU2VxW1N0cmluZ11dID0gZGIucnVuKGEpCiAgICovCgogIHZhbCBxID0gZm9yIChjIDwtIHBhdGllbnRzKSB5aWVsZCBjCiAgdmFsIGEgPSBxLnJlc3VsdA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwYXRpZW50cy5tYXAoXy5yZXN1bHQpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>.firstname</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vICB2YWwgcSA9IHBhdGllbnRzLmZpbHRlcihfLmdlbmRlciA9PSBHZW5kZXJFbnVtLk1BTEUpCgogIC8qCiAgdmFsIHEgPSBmb3IgKGMgPC0gY29mZmVlcykgeWllbGQgYy5uYW1lCiAgdmFsIGEgPSBxLnJlc3VsdAogIHZhbCBmOiBGdXR1cmVbU2VxW1N0cmluZ11dID0gZGIucnVuKGEpCiAgICovCgogIHZhbCBxID0gZm9yIChjIDwtIHBhdGllbnRzKSB5aWVsZCBjCiAgdmFsIGEgPSBxLnJlc3VsdA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwYXRpZW50cy5tYXAoXy5yZXN1bHQpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>.firstname</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAgKiAKICAgICAgKiBAcGFyYW0gbWVkaWFJdGVtcwogICAgICAqIEBwYXJhbSBpZAogICAgICAqIEByZXR1cm4KICAgICAgKi8=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RldmVuIG9uIDIwMTYvMDgvMjIuCiAqLwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>53</text>
