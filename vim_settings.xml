@@ -260,11 +260,11 @@
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
         <mark key="[" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/HomeController.scala" timestamp="1472322865730">
-        <mark key="[" line="15" column="81" />
-        <mark key="]" line="15" column="82" />
-        <mark key="." line="15" column="82" />
-        <mark key="^" line="15" column="40" />
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/HomeController.scala" timestamp="1472325313043">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1471248949165">
         <mark key="[" line="23" column="13" />
@@ -909,10 +909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>patient_</text>
+        <text>println(_)</text>
       </register>
       <register name="-" type="4">
-        <text>patient_</text>
+        <text>println(_)</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -921,7 +921,7 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="4">
-        <text>patient_</text>
+        <text>println(_)</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
@@ -930,25 +930,25 @@
         <text>patient_</text>
       </register>
       <register name="3" type="4">
-        <text>INFO</text>
+        <text>patient_</text>
       </register>
       <register name="4" type="4">
-        <text>DEBUG</text>
+        <text>INFO</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Tk9UIA==</text>
+        <text>DEBUG</text>
       </register>
       <register name="6" type="4">
-        <text>UNIQUE</text>
+        <text encoding="base64">Tk9UIA==</text>
       </register>
       <register name="7" type="4">
-        <text>WARN</text>
+        <text>UNIQUE</text>
       </register>
       <register name="8" type="4">
-        <text>done//</text>
+        <text>WARN</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>done//</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
