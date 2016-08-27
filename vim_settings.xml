@@ -260,8 +260,10 @@
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
         <mark key="[" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/HomeController.scala" timestamp="1472327953382">
-        <mark key="[" line="15" column="95" />
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/HomeController.scala" timestamp="1472331342946">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1471248949165">
         <mark key="[" line="23" column="13" />
@@ -364,6 +366,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/models/Patient.scala" timestamp="1472331331445" />
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -780,12 +783,12 @@
         <mark key="^" line="19" column="77" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1472327717520">
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1472331357213">
         <mark key="j" line="46" column="25" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="39" column="19" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
@@ -905,8 +908,8 @@
       <jump line="35" column="16" filename="$USER_HOME$/Development/helios/svc-patient/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICB2YWwgcGF0aWVudEIgPSBQYXRpZW50KE5vbmUsICJTdGV2ZW4iLCAiSW5za2lwIiwgbmV3IERhdGUoMTE2LCA4LCAyNiksIEdlbmRlckVudW0uTUFMRSkKICAgIHBhdGllbnRSZXBvc2l0b3J5Lmluc2VydChwYXRpZW50QikKICAgICAgLm1hcChfID0+IHByaW50bG4oImRvbmUgQiIpKQoK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEdlbmRlckVudW0uR2VuZGVyRW51bQo=</text>
       </register>
       <register name="-" type="4">
         <text>§</text>
@@ -917,38 +920,38 @@
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICB2YWwgcGF0aWVudEIgPSBQYXRpZW50KE5vbmUsICJTdGV2ZW4iLCAiSW5za2lwIiwgbmV3IERhdGUoMTE2LCA4LCAyNiksIEdlbmRlckVudW0uTUFMRSkKICAgIHBhdGllbnRSZXBvc2l0b3J5Lmluc2VydChwYXRpZW50QikKICAgICAgLm1hcChfID0+IHByaW50bG4oImRvbmUgQiIpKQoK</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IEdlbmRlckVudW0uR2VuZGVyRW51bQo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="4">
-        <text>§</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHRhYmxlcy5HZW5kZXJFbnVtCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHRhYmxlcy5HZW5kZXJFbnVtCg==</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text encoding="base64">CiAgICB2YWwgcGF0aWVudEIgPSBQYXRpZW50KE5vbmUsICJTdGV2ZW4iLCAiSW5za2lwIiwgbmV3IERhdGUoMTE2LCA4LCAyNiksIEdlbmRlckVudW0uTUFMRSkKICAgIHBhdGllbnRSZXBvc2l0b3J5Lmluc2VydChwYXRpZW50QikKICAgICAgLm1hcChfID0+IHByaW50bG4oImRvbmUgQiIpKQoK</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>§</text>
       </register>
       <register name="6" type="4">
-        <text>1472327679111L</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>Date</text>
+        <text>2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRhdGUK</text>
+      <register name="8" type="4">
+        <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRhdGUK</text>
+      <register name="9" type="4">
+        <text>1472327679111L</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
@@ -982,7 +985,6 @@
         <entry>synchro</entry>
       </history-search>
       <history-cmd>
-        <entry>391</entry>
         <entry>278</entry>
         <entry>53</entry>
         <entry>6</entry>
@@ -1002,6 +1004,7 @@
         <entry>12</entry>
         <entry>t.</entry>
         <entry>w</entry>
+        <entry>10</entry>
       </history-cmd>
       <history-expr />
       <history-input />
