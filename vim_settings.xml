@@ -260,11 +260,8 @@
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
         <mark key="[" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/HomeController.scala" timestamp="1472317207378">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="37" />
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/HomeController.scala" timestamp="1472320652806">
+        <mark key="[" line="18" column="43" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1471248949165">
         <mark key="[" line="23" column="13" />
@@ -498,6 +495,13 @@
         <mark key="]" line="21" column="10" />
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/helios/svc-patient/conf/logback.xml" timestamp="1472320510043">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/destination/has-offers.js" timestamp="1471600612837">
         <mark key="[" line="20" column="20" />
@@ -776,12 +780,12 @@
         <mark key="^" line="19" column="77" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1472317084436">
-        <mark key="j" line="37" column="25" />
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="67" />
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1472320466055">
+        <mark key="j" line="36" column="25" />
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="5" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
@@ -799,7 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="15" filename="$USER_HOME$/Development/iracing-scraping/test.sc" />
       <jump line="14" column="62" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" />
       <jump line="3" column="18" filename="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/waveforms.js" />
@@ -899,13 +902,14 @@
       <jump line="15" column="28" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManager.scala" />
       <jump line="36" column="65" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
       <jump line="11" column="2" filename="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/Development/helios/svc-patient/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nil</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -913,35 +917,35 @@
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
-      <register name="1" type="4">
-        <text>nil</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="4">
-        <text>null</text>
+        <text>INFO</text>
       </register>
       <register name="3" type="4">
-        <text>None</text>
+        <text>WARN</text>
       </register>
-      <register name="4" type="4">
-        <text>[</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyeSAK</text>
       </register>
-      <register name="5" type="4">
-        <text>Option</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>id: Option[</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>]</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>]</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
