@@ -29,8 +29,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/PatientController.scala" timestamp="1472485776234">
-        <mark key="[" line="32" column="43" />
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/PatientController.scala" timestamp="1472488114794">
+        <mark key="[" line="42" column="73" />
+        <mark key="]" line="42" column="74" />
+        <mark key="." line="42" column="74" />
+        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
@@ -327,11 +330,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/conf/application.conf" timestamp="1472404959167">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="53" />
+      <file name="$USER_HOME$/Development/helios/svc-patient/conf/application.conf" timestamp="1472486472278">
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/ChannelMongoRepository.scala" timestamp="1471434094307">
         <mark key="[" line="16" column="27" />
@@ -791,9 +794,12 @@
         <mark key="^" line="19" column="77" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1472406240706">
-        <mark key="j" line="46" column="25" />
-        <mark key="[" line="51" column="45" />
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1472486989842">
+        <mark key="j" line="57" column="25" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/gulpfile.js" timestamp="1466683235592">
         <mark key="[" line="13" column="0" />
@@ -913,11 +919,11 @@
       <jump line="35" column="16" filename="$USER_HOME$/Development/helios/svc-patient/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>println</text>
       </register>
       <register name="-" type="4">
-        <text>Created</text>
+        <text>println</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
@@ -925,38 +931,38 @@
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>println</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vICAgIHZhbCBwYXRpZW50ID0gZm9yIHsKLy8gICAgICBmaXJzdG5hbWUgPC0gKHJlcXVlc3QuYm9keSBcICJmaXJzdG5hbWUiKS5hc09wdFtTdHJpbmddCi8vICAgICAgbGFzdG5hbWUgPC0gKHJlcXVlc3QuYm9keSBcICJsYXN0bmFtZSIpLmFzT3B0W1N0cmluZ10KLy8gICAgICBkYXRlT2ZCaXJ0aCA8LSAocmVxdWVzdC5ib2R5IFwgImRhdGVPZkJpcnRoIikuYXNPcHRbU3RyaW5nXQovLyAgICAgIGdlbmRlciA8LSAocmVxdWVzdC5ib2R5IFwgImdlbmRlciIpLmFzT3B0W1N0cmluZ10KLy8gICAgfSB5aWVsZCB7Ci8vICAgICAgdmFsIHBhdGllbnQgPSBQYXRpZW50KE5vbmUsIGZpcnN0bmFtZSwgbGFzdG5hbWUsIGphdmEuc3FsLkRhdGUudmFsdWVPZihkYXRlT2ZCaXJ0aCksIEdlbmRlckVudW0ud2l0aE5hbWUoZ2VuZGVyKSkKLy8gICAgICBwYXRpZW50UmVwb3NpdG9yeS5pbnNlcnQocGF0aWVudCkKLy8gICAgfQovLyAgICBwYXRpZW50Lm1hcChfID0+IENyZWF0ZWQoIkNyZWF0ZWQgbmV3IHBhdGllbnQiKSkuZ2V0T3JFbHNlKEJhZFJlcXVlc3QoIkludmFsaWQgSlNPTiByZXF1ZXN0IikpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAubWFwKGYgPT4gZi5tYXAocHJpbnRsbikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgIHBhdGllbnQubWFwKHBhdGllbnRSZXBvc2l0b3J5Lmluc2VydCkK</text>
+        <text encoding="base64">ICAgICAgLm1hcChwYXRpZW50UmVwb3NpdG9yeS5pbnNlcnQpCiAgICAgIC5tYXAocHJpbnRsbikK</text>
       </register>
       <register name="4" type="4">
-        <text>Created</text>
+        <text>flatM</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">Ly8gICAgPz8/Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGllbnQubWFwIHsgcCA9PgogICAgICAK</text>
+      <register name="6" type="4">
+        <text>flatMap</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">LmZsYXRNYXAoeCA9PiB4KQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -1006,10 +1012,10 @@
         <entry>1</entry>
         <entry>24</entry>
         <entry>17</entry>
-        <entry>t.</entry>
         <entry>39</entry>
         <entry>9</entry>
         <entry>w</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
