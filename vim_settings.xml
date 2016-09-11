@@ -18,11 +18,22 @@
       <file name="/a.dummy" timestamp="1470992747664">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/embed-service/spec/unit/models/validators/crowdCaster/media-spec.js" timestamp="1467105170576">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/source/pause.json" timestamp="1467702534810">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="28" />
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/PatientController.scala" timestamp="1473611817267">
+        <mark key="'" line="5" column="23" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
@@ -87,6 +98,21 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/ChannelRepository.scala" timestamp="1471434142246">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/ChannelFactory.scala" timestamp="1471429757961">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/Module.scala" timestamp="1469358334440">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/conf/evolutions/helios-patent/1.sql" timestamp="1471121966852">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -98,6 +124,11 @@
         <mark key="]" line="6" column="44" />
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/styles/style.scss" timestamp="1467410614532">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/conf/evolutions/default/1.sql" timestamp="1472322803441">
         <mark key="[" line="11" column="15" />
@@ -180,6 +211,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="27" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Oplog.scala" timestamp="1470992545886">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" timestamp="1471858858520">
         <mark key="[" line="90" column="3" />
         <mark key="]" line="92" column="422" />
@@ -198,6 +234,21 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="97" column="20" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/get-url.js" timestamp="1467016745938">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/Filters.scala" timestamp="1469562726648">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/conf/application.conf" timestamp="1469359618988">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/models/Screening.scala" timestamp="1473545348194">
         <mark key="'" line="29" column="28" />
         <mark key="[" line="10" column="37" />
@@ -210,6 +261,11 @@
         <mark key="]" line="23" column="90" />
         <mark key="." line="23" column="90" />
         <mark key="^" line="23" column="90" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/Module.scala" timestamp="1469785397939">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaActor.scala" timestamp="1470919398225">
         <mark key="[" line="8" column="21" />
@@ -232,8 +288,19 @@
         <mark key="." line="68" column="19" />
         <mark key="^" line="58" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/controllers/ScreeningController.scala" timestamp="1473611854738">
+        <mark key="[" line="42" column="44" />
+        <mark key="]" line="42" column="44" />
+        <mark key="." line="42" column="44" />
+        <mark key="^" line="42" column="44" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" timestamp="1470897156882">
         <mark key="[" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/controllers/HomeController.scala" timestamp="1472393694106">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1471248949165">
         <mark key="[" line="23" column="13" />
@@ -247,11 +314,15 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/repositories/ScreeningRepository.scala" timestamp="1473546927703">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Development/embed-service/src/controller/index.js" timestamp="1467892541003">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/repositories/ScreeningRepository.scala" timestamp="1473608335873">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.7.0/core-modules/child_process.js" timestamp="1469093237512">
         <mark key="[" line="16" column="21" />
@@ -331,11 +402,11 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-glaucoma/conf/routes" timestamp="1473547809024">
-        <mark key="[" line="3" column="69" />
-        <mark key="]" line="3" column="70" />
-        <mark key="^" line="3" column="70" />
-        <mark key="." line="3" column="70" />
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/conf/routes" timestamp="1473611334413">
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="4" column="75" />
+        <mark key="^" line="4" column="75" />
+        <mark key="." line="4" column="75" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/frontend/controllers/sync-controller.js" timestamp="1469095206776">
         <mark key="[" line="19" column="0" />
@@ -373,11 +444,21 @@
         <mark key="." line="31" column="13" />
         <mark key="^" line="18" column="124" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/config-spec.js" timestamp="1466579992441">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/build.sbt" timestamp="1466970212500">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/media-repository.js" timestamp="1467109747828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
         <mark key="[" line="5" column="25" />
@@ -421,6 +502,11 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/MediaMongoRepository.scala" timestamp="1471868881660">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
         <mark key="[" line="609" column="1" />
         <mark key="]" line="610" column="0" />
@@ -432,6 +518,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/WebSocketActor.scala" timestamp="1470580061233">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/conf/routes" timestamp="1473509401247">
         <mark key="[" line="1" column="6" />
@@ -457,6 +548,11 @@
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/embed-service/src/config.js" timestamp="1467892105826">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/conf/evolutions/default/1.sql" timestamp="1473514164392">
         <mark key="'" line="4" column="0" />
@@ -495,6 +591,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="16" column="40" />
       </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469356894185">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/Module.scala" timestamp="1473547063637">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -519,6 +620,16 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/frontend/routes/sync-routes.js" timestamp="1469093922203">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/OplogTailInitializer.scala" timestamp="1469434706804">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/play-slick/samples/computer-database/app/dao/CompaniesDAO.scala" timestamp="1472156944124">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="1" column="0" />
@@ -536,6 +647,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/app/models/Clip.scala" timestamp="1468936387892">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/services/process-pipeline-spec.js" timestamp="1471864048378">
         <mark key="[" line="277" column="32" />
@@ -680,11 +796,16 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/traits/Repository.scala" timestamp="1473546670262">
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="6" column="78" />
-        <mark key="." line="6" column="78" />
-        <mark key="^" line="6" column="78" />
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/lindy-test/destination.json" timestamp="1471865277382">
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="169" column="26" />
+        <mark key="." line="169" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/traits/Repository.scala" timestamp="1473603739989">
+        <mark key="[" line="10" column="106" />
+        <mark key="]" line="10" column="116" />
+        <mark key="." line="10" column="116" />
+        <mark key="^" line="10" column="116" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/app/controllers/HomeController.scala" timestamp="1473509373242">
         <mark key="[" line="13" column="54" />
@@ -709,8 +830,18 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/play-scala/conf/logback.xml" timestamp="1469358388082">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1473518124366">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/build.sbt" timestamp="1469118010958">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/lindy-test/source1.json" timestamp="1471864918676">
         <mark key="[" line="58" column="21" />
@@ -718,8 +849,8 @@
         <mark key="." line="58" column="22" />
         <mark key="^" line="58" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/controllers/HomeController.scala" timestamp="1473547933821">
-        <mark key="[" line="17" column="35" />
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/controllers/HomeController.scala" timestamp="1473604028820">
+        <mark key="[" line="10" column="6" />
         <mark key="]" line="17" column="35" />
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="46" />
@@ -741,6 +872,11 @@
         <mark key="]" line="22" column="76" />
         <mark key="." line="22" column="76" />
         <mark key="^" line="22" column="76" />
+      </file>
+      <file name="$USER_HOME$/Development/play-scala/conf/routes" timestamp="1469359604292">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Media.scala" timestamp="1471433561520">
         <mark key="[" line="2" column="0" />
@@ -790,6 +926,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/src/source/source-factory.js" timestamp="1466500342357">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/MediaResponse.scala" timestamp="1471428736612">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="49" />
@@ -802,7 +943,7 @@
         <mark key="^" line="19" column="77" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1473546855801">
+      <file name="$USER_HOME$/Development/helios/svc-patient/app/repositories/PatientRepository.scala" timestamp="1473604152702">
         <mark key="j" line="34" column="25" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -821,10 +962,13 @@
       <file name="/fragment.java" timestamp="1473181142262">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/play-scala/project/build.properties" timestamp="1469359597616">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="40" filename="$USER_HOME$/Development/embed-service/src/controller/embed.js" />
-      <jump line="85" column="14" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
       <jump line="82" column="20" filename="$USER_HOME$/Development/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
       <jump line="17" column="4" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
       <jump line="19" column="3" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
@@ -923,13 +1067,15 @@
       <jump line="25" column="8" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/tables/ScreeningsTable.scala" />
       <jump line="8" column="34" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/models/Screening.scala" />
       <jump line="29" column="28" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/models/Screening.scala" />
+      <jump line="6" column="20" filename="$USER_HOME$/Development/helios/svc-patient/app/controllers/PatientController.scala" />
+      <jump line="5" column="23" filename="$USER_HOME$/Development/helios/svc-patient/app/controllers/PatientController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getOrElse(1)</text>
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text>.getOrElse(1)</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text>asymm</text>
@@ -938,37 +1084,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="4">
-        <text>.getOrElse(1)</text>
+        <text>???</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>.asOpt</text>
       </register>
       <register name="3" type="4">
-        <text>Option[</text>
+        <text>update</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">V3JpdGVzIA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>writes</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBpZDIgPSBpZC5vckVsc2UoMSkK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBzY3JlZW5pbmdXcml0ZXMgPSBKc29uLndyaXRlc1tTY3JlZW5pbmddCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PT4g</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">ICBpbXBsaWNpdCAK</text>
       </register>
       <register name=":" type="4">
-        <text>8</text>
+        <text>18</text>
       </register>
     </registers>
     <search>
@@ -1002,7 +1148,6 @@
         <entry>asymm</entry>
       </history-search>
       <history-cmd>
-        <entry>76</entry>
         <entry>82</entry>
         <entry>12</entry>
         <entry>21</entry>
@@ -1022,6 +1167,7 @@
         <entry>29</entry>
         <entry>5</entry>
         <entry>8</entry>
+        <entry>18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
