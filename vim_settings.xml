@@ -166,14 +166,13 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="78" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/node_modules/node-logitio/lib/index.js" timestamp="1473768433756" />
       <file name="$USER_HOME$/Development/helios/svc-patient/app/traits/Db.scala" timestamp="1473018493975">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/src/config.js" timestamp="1473768679877">
+      <file name="$USER_HOME$/Development/cc-digestor/src/config.js" timestamp="1473924084574">
         <mark key="[" line="14" column="57" />
         <mark key="]" line="15" column="46" />
         <mark key="^" line="15" column="46" />
@@ -340,7 +339,7 @@
         <mark key="^" line="16" column="111" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" timestamp="1473768565025">
+      <file name="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" timestamp="1473924087574">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -351,7 +350,7 @@
         <mark key="." line="41" column="28" />
         <mark key="^" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1473758483419">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1473924057947">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
@@ -787,7 +786,6 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/src/Trending/trending-service.js" timestamp="1473761702100" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/ChannelMeta.scala" timestamp="1471430244980">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -856,11 +854,12 @@
         <mark key="^" line="40" column="31" />
         <mark key="." line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/src/index.js" timestamp="1473768419283">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="34" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Development/cc-digestor/src/index.js" timestamp="1473924524040">
+        <mark key="'" line="61" column="5" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="60" column="10" />
+        <mark key="^" line="60" column="10" />
+        <mark key="." line="60" column="10" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" timestamp="1469794990707">
         <mark key="[" line="15" column="26" />
@@ -964,7 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
       <jump line="19" column="3" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
       <jump line="31" column="11" filename="$USER_HOME$/Development/play-scala/app/controllers/EmbedController.scala" />
       <jump line="41" column="61" filename="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" />
@@ -1064,13 +1062,14 @@
       <jump line="6" column="20" filename="$USER_HOME$/Development/helios/svc-patient/app/controllers/PatientController.scala" />
       <jump line="5" column="23" filename="$USER_HOME$/Development/helios/svc-patient/app/controllers/PatientController.scala" />
       <jump line="12" column="54" filename="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" />
+      <jump line="61" column="5" filename="$USER_HOME$/Development/cc-digestor/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>log.info('Completed')</text>
       </register>
       <register name="-" type="4">
-        <text>logEvent.msg,</text>
+        <text>log.info('Completed')</text>
       </register>
       <register name="/" type="4">
         <text>logHost</text>
@@ -1109,7 +1108,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>9</text>
+        <text>62</text>
       </register>
     </registers>
     <search>
@@ -1143,8 +1142,6 @@
         <entry>logHost</entry>
       </history-search>
       <history-cmd>
-        <entry>28</entry>
-        <entry>8</entry>
         <entry>19</entry>
         <entry>17</entry>
         <entry>36</entry>
@@ -1163,6 +1160,8 @@
         <entry>35</entry>
         <entry>52</entry>
         <entry>9</entry>
+        <entry>59</entry>
+        <entry>62</entry>
       </history-cmd>
       <history-expr />
       <history-input />
