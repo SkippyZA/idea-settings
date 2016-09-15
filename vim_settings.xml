@@ -172,12 +172,6 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/src/config.js" timestamp="1473924084574">
-        <mark key="[" line="14" column="57" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="46" />
-      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Media.scala" timestamp="1469554530124">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -339,11 +333,7 @@
         <mark key="^" line="16" column="111" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" timestamp="1473924087574">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" timestamp="1473925723997" />
       <file name="$USER_HOME$/Development/helios/svc-glaucoma/conf/evolutions/default/1.sql" timestamp="1473545325241">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="28" />
