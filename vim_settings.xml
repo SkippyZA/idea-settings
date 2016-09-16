@@ -38,7 +38,6 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/mediclinic/importer.js" timestamp="1474004921394" />
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="23" />
@@ -167,7 +166,6 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="78" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/cc-digestor/node_modules/node-logitio/lib/index.js" timestamp="1473931569291" />
       <file name="$USER_HOME$/Development/helios/svc-patient/app/traits/Db.scala" timestamp="1473018493975">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
@@ -566,6 +564,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="45" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" timestamp="1474027472066">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1469689568676">
         <mark key="[" line="2" column="106" />
         <mark key="]" line="2" column="124" />
@@ -675,6 +678,12 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/routes" timestamp="1474027425203">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469357679234">
         <mark key="[" line="59" column="18" />
@@ -869,6 +878,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/build.sbt" timestamp="1474027517054">
+        <mark key="[" line="8" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Media.scala" timestamp="1471433561520">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1062,10 +1074,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bG9nLmluZm8oJ0xvZ2dpbmcgaW5mbycsIHsgaG9zdDogY29uZmlnLmxvZ0hvc3QsIHBvcnQ6IGNvbmZpZy5sb2dQb3J0IH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLl8K</text>
       </register>
       <register name="-" type="4">
-        <text>logApp</text>
+        <text encoding="base64">QEluamVjdCgpIA==</text>
       </register>
       <register name="/" type="4">
         <text>mailCandidateStream</text>
@@ -1074,34 +1086,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nLmluZm8oJ0xvZ2dpbmcgaW5mbycsIHsgaG9zdDogY29uZmlnLmxvZ0hvc3QsIHBvcnQ6IGNvbmZpZy5sb2dQb3J0IH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLl8K</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbG9nUHJvY2Vzc2VkRW1haWwgPSBSLmNvbXBvc2UoUi5iaW5kKGxvZy5kZWJ1ZywgbG9nKSwgUi5wcm9wKCdlbWFpbCcpKTsK</text>
+        <text encoding="base64">bG9nLmluZm8oJ0xvZ2dpbmcgaW5mbycsIHsgaG9zdDogY29uZmlnLmxvZ0hvc3QsIHBvcnQ6IGNvbmZpZy5sb2dQb3J0IH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAneF9tZXRhX3NlcnZpY2UnOiBjb25maWcubG9nU2VydmljZSwK</text>
+        <text encoding="base64">Y29uc3QgbG9nUHJvY2Vzc2VkRW1haWwgPSBSLmNvbXBvc2UoUi5iaW5kKGxvZy5kZWJ1ZywgbG9nKSwgUi5wcm9wKCdlbWFpbCcpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbG9nU3RyZWFtID0gcmVxdWlyZSgnTG9nZ2VyJykuc3RyZWFtOwo=</text>
+        <text encoding="base64">ICAneF9tZXRhX3NlcnZpY2UnOiBjb25maWcubG9nU2VydmljZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuZmluYWxseSgoKSA9PiB7CiAgICBsb2dTdHJlYW0uY2xvc2UoKTsKICB9KQo=</text>
+        <text encoding="base64">Y29uc3QgbG9nU3RyZWFtID0gcmVxdWlyZSgnTG9nZ2VyJykuc3RyZWFtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dzdGFzaExvZ0xldmVsOiBlbnYuRElHRVNUT1JfTE9HU1RBU0hfTE9HX0xFVkVMIHx8ICdpbmZvJywK</text>
+        <text encoding="base64">ICAuZmluYWxseSgoKSA9PiB7CiAgICBsb2dTdHJlYW0uY2xvc2UoKTsKICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2dBcHA6IGVudi5ESUdFU1RPUl9BUFBfTkFNRSB8fCAnZGlnZXN0b3InLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICBsb2dzdGFzaExvZ0xldmVsOiBlbnYuRElHRVNUT1JfTE9HU1RBU0hfTE9HX0xFVkVMIHx8ICdpbmZvJywK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsb2dBcHA6IGVudi5ESUdFU1RPUl9BUFBfTkFNRSB8fCAnZGlnZXN0b3InLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dBcHA6IGVudi5ESUdFU1RPUl9BUFBfTkFNRSB8fCAnZGlnZXN0b3InLAogIGxvZ1NlcnZpY2U6IGVudi5ESUdFU1RPUl9TRVJWSUNFX05BTUUgfHwgJ2RpZ2VzdG9yLXNlcnZpY2UnLAo=</text>
+        <text encoding="base64">ICBsb2dzdGFzaExvZ0xldmVsOiBlbnYuRElHRVNUT1JfTE9HU1RBU0hfTE9HX0xFVkVMIHx8ICdpbmZvJywK</text>
       </register>
       <register name=":" type="4">
         <text>55</text>
