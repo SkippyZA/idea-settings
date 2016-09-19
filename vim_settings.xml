@@ -523,6 +523,11 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1474267856669">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
@@ -564,10 +569,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" timestamp="1474027472066">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" timestamp="1474267818794">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1469689568676">
         <mark key="[" line="2" column="106" />
@@ -679,11 +685,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/routes" timestamp="1474027425203">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="^" line="2" column="54" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/routes" timestamp="1474267830325">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469357679234">
         <mark key="[" line="59" column="18" />
@@ -878,8 +884,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/build.sbt" timestamp="1474027517054">
-        <mark key="[" line="8" column="28" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/build.sbt" timestamp="1474267686242">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Media.scala" timestamp="1471433561520">
         <mark key="[" line="2" column="0" />
@@ -1074,10 +1083,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QEluamVjdCgpIA==</text>
+        <text>views.html.index(&quot;Your new application is ready.&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>mailCandidateStream</text>
@@ -1086,37 +1095,46 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bG9nLmluZm8oJ0xvZ2dpbmcgaW5mbycsIHsgaG9zdDogY29uZmlnLmxvZ0hvc3QsIHBvcnQ6IGNvbmZpZy5sb2dQb3J0IH0pOwo=</text>
+      <register name="2" type="4">
+        <text>/**
+ * This class is a Guice module that tells Guice how to bind several
+ * different types. This Guice module is created when the Play
+ * application starts.
+
+ * Play will automatically use any class called `Module` that is in
+ * the root package. You can create modules in other locations by
+ * adding `play.modules.enabled` settings to the `application.conf`
+ * configuration file.
+ */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgbG9nUHJvY2Vzc2VkRW1haWwgPSBSLmNvbXBvc2UoUi5iaW5kKGxvZy5kZWJ1ZywgbG9nKSwgUi5wcm9wKCdlbWFpbCcpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAneF9tZXRhX3NlcnZpY2UnOiBjb25maWcubG9nU2VydmljZSwK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5DbG9jawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbG9nU3RyZWFtID0gcmVxdWlyZSgnTG9nZ2VyJykuc3RyZWFtOwo=</text>
+        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgc3lzdGVtIGNsb2NrIGFzIHRoZSBkZWZhdWx0IGltcGxlbWVudGF0aW9uIG9mIENsb2NrCiAgICBiaW5kKGNsYXNzT2ZbQ2xvY2tdKS50b0luc3RhbmNlKENsb2NrLnN5c3RlbURlZmF1bHRab25lKQogICAgLy8gQXNrIEd1aWNlIHRvIGNyZWF0ZSBhbiBpbnN0YW5jZSBvZiBBcHBsaWNhdGlvblRpbWVyIHdoZW4gdGhlCiAgICAvLyBhcHBsaWNhdGlvbiBzdGFydHMuCiAgICBiaW5kKGNsYXNzT2ZbQXBwbGljYXRpb25UaW1lcl0pLmFzRWFnZXJTaW5nbGV0b24oKQogICAgLy8gU2V0IEF0b21pY0NvdW50ZXIgYXMgdGhlIGltcGxlbWVudGF0aW9uIGZvciBDb3VudGVyLgogICAgYmluZChjbGFzc09mW0NvdW50ZXJdKS50byhjbGFzc09mW0F0b21pY0NvdW50ZXJdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuZmluYWxseSgoKSA9PiB7CiAgICBsb2dTdHJlYW0uY2xvc2UoKTsKICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLntBcHBsaWNhdGlvblRpbWVyLCBBdG9taWNDb3VudGVyLCBDb3VudGVyfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2dzdGFzaExvZ0xldmVsOiBlbnYuRElHRVNUT1JfTE9HU1RBU0hfTE9HX0xFVkVMIHx8ICdpbmZvJywK</text>
+        <text encoding="base64">IyB+fn5+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2dBcHA6IGVudi5ESUdFU1RPUl9BUFBfTkFNRSB8fCAnZGlnZXN0b3InLAo=</text>
+        <text encoding="base64">CiMgQW4gZXhhbXBsZSBjb250cm9sbGVyIHNob3dpbmcgYSBzYW1wbGUgaG9tZSBwYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dzdGFzaExvZ0xldmVsOiBlbnYuRElHRVNUT1JfTE9HU1RBU0hfTE9HX0xFVkVMIHx8ICdpbmZvJywK</text>
+        <text encoding="base64">IyBUaGlzIGZpbGUgZGVmaW5lcyBhbGwgYXBwbGljYXRpb24gcm91dGVzIChIaWdoZXIgcHJpb3JpdHkgcm91dGVzIGZpcnN0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -1150,9 +1168,6 @@
         <entry>mailCandidateStream</entry>
       </history-search>
       <history-cmd>
-        <entry>17</entry>
-        <entry>36</entry>
-        <entry>20</entry>
         <entry>1-</entry>
         <entry>12</entry>
         <entry>31</entry>
@@ -1170,6 +1185,9 @@
         <entry>59</entry>
         <entry>62</entry>
         <entry>55</entry>
+        <entry>4</entry>
+        <entry>18</entry>
+        <entry>2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
