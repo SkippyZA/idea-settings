@@ -401,6 +401,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/README.md" timestamp="1474270541193">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/LapDetails.scala" timestamp="1466961923772">
         <mark key="[" line="49" column="18" />
         <mark key="]" line="49" column="26" />
@@ -569,11 +574,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" timestamp="1474267818794">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="9" column="20" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" timestamp="1474269804890">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/conf/routes" timestamp="1469689568676">
         <mark key="[" line="2" column="106" />
@@ -597,6 +603,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HelloController.scala" timestamp="1474269292458">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Show.scala" timestamp="1469535470736">
         <mark key="[" line="13" column="15" />
@@ -685,11 +697,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/routes" timestamp="1474267830325">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/routes" timestamp="1474270214393">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Playlist.scala" timestamp="1469357679234">
         <mark key="[" line="59" column="18" />
@@ -980,7 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="24" filename="$USER_HOME$/Development/play-scala/app/repositories/MediaRepository.scala" />
       <jump line="87" column="0" filename="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" />
       <jump line="5" column="21" filename="$USER_HOME$/Development/play-scala/app/models/MediaItem.scala" />
       <jump line="3" column="45" filename="$USER_HOME$/Development/yazimedia/src/skip-test.js" />
@@ -1080,13 +1091,14 @@
       <jump line="89" column="41" filename="$USER_HOME$/Development/mediclinic/src/services/mailer.js" />
       <jump line="63" column="8" filename="$USER_HOME$/Development/mediclinic/src/services/mailer.js" />
       <jump line="69" column="21" filename="$USER_HOME$/Development/mediclinic/src/services/mailer.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgUnVubmluZyBpbiBkZXZlbG9wbWVudCBtb2RlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>views.html.index(&quot;Your new application is ready.&quot;)</text>
+        <text>require</text>
       </register>
       <register name="/" type="4">
         <text>mailCandidateStream</text>
@@ -1095,46 +1107,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgUnVubmluZyBpbiBkZXZlbG9wbWVudCBtb2RlCg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
- * This class is a Guice module that tells Guice how to bind several
- * different types. This Guice module is created when the Play
- * application starts.
-
- * Play will automatically use any class called `Module` that is in
- * the root package. You can create modules in other locations by
- * adding `play.modules.enabled` settings to the `application.conf`
- * configuration file.
- */</text>
+      <register name="2" type="2">
+        <text encoding="base64">VE9ETwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgUHJvZHVjdGlvbgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5DbG9jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgc3lzdGVtIGNsb2NrIGFzIHRoZSBkZWZhdWx0IGltcGxlbWVudGF0aW9uIG9mIENsb2NrCiAgICBiaW5kKGNsYXNzT2ZbQ2xvY2tdKS50b0luc3RhbmNlKENsb2NrLnN5c3RlbURlZmF1bHRab25lKQogICAgLy8gQXNrIEd1aWNlIHRvIGNyZWF0ZSBhbiBpbnN0YW5jZSBvZiBBcHBsaWNhdGlvblRpbWVyIHdoZW4gdGhlCiAgICAvLyBhcHBsaWNhdGlvbiBzdGFydHMuCiAgICBiaW5kKGNsYXNzT2ZbQXBwbGljYXRpb25UaW1lcl0pLmFzRWFnZXJTaW5nbGV0b24oKQogICAgLy8gU2V0IEF0b21pY0NvdW50ZXIgYXMgdGhlIGltcGxlbWVudGF0aW9uIGZvciBDb3VudGVyLgogICAgYmluZChjbGFzc09mW0NvdW50ZXJdKS50byhjbGFzc09mW0F0b21pY0NvdW50ZXJdKQo=</text>
+        <text encoding="base64">CiMjIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLntBcHBsaWNhdGlvblRpbWVyLCBBdG9taWNDb3VudGVyLCBDb3VudGVyfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB+fn5+Cg==</text>
+        <text encoding="base64">JCBzYnQgcnVuCmBgYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgQW4gZXhhbXBsZSBjb250cm9sbGVyIHNob3dpbmcgYSBzYW1wbGUgaG9tZSBwYWdlCg==</text>
+        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUaGlzIGZpbGUgZGVmaW5lcyBhbGwgYXBwbGljYXRpb24gcm91dGVzIChIaWdoZXIgcHJpb3JpdHkgcm91dGVzIGZpcnN0KQo=</text>
+        <text encoding="base64">ClRvIHJ1biB0aGlzIHNlcnZpY2UgaW4gYSBkZXZlbG9wbWVudCBtb2RlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>2</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
@@ -1176,8 +1179,6 @@
         <entry>21</entry>
         <entry>374</entry>
         <entry>37</entry>
-        <entry>7</entry>
-        <entry>w</entry>
         <entry>53</entry>
         <entry>35</entry>
         <entry>52</entry>
@@ -1185,9 +1186,11 @@
         <entry>59</entry>
         <entry>62</entry>
         <entry>55</entry>
-        <entry>4</entry>
         <entry>18</entry>
         <entry>2</entry>
+        <entry>7</entry>
+        <entry>w</entry>
+        <entry>4</entry>
       </history-cmd>
       <history-expr />
       <history-input />
