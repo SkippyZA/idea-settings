@@ -92,7 +92,6 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.8-sources.jar!/play/api/Logger.scala" timestamp="1474289909823" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/ChannelRepository.scala" timestamp="1471434142246">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -114,7 +113,6 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" timestamp="1474284718232" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Channel.scala" timestamp="1471433519096">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="44" />
@@ -812,7 +810,6 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.github.karelcemus/play-redis_2.11/srcs/play-redis_2.11-1.3.0-M1-sources.jar!/play/api/cache/redis/CacheApi.scala" timestamp="1474283461744" />
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/ChannelMeta.scala" timestamp="1471430244980">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -969,7 +966,7 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1474373504010">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1474437931770">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="34" />
         <mark key="^" line="41" column="34" />
