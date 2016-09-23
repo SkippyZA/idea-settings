@@ -44,11 +44,11 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenProvider.scala" timestamp="1474648552153">
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="64" column="22" />
-        <mark key="." line="64" column="22" />
-        <mark key="^" line="64" column="29" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenProvider.scala" timestamp="1474666439920">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/iframe.js" timestamp="1467103280620">
         <mark key="[" line="12" column="13" />
@@ -148,11 +148,11 @@
         <mark key="^" line="45" column="100" />
         <mark key="." line="45" column="100" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/logback.xml" timestamp="1474289908507">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="28" column="26" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/logback.xml" timestamp="1474666483690">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/src/embedable-player.js" timestamp="1467010610448">
         <mark key="[" line="26" column="3" />
@@ -1193,10 +1193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filter().foreach(println)</text>
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>filter().foreach(println)</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
@@ -1205,37 +1205,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4odXJpLnF1ZXJ5U3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgaGVhZGVycy5zZXEuZm9yZWFjaChsb2cuaW5mbyBfLnRvU3RyaW5nKQo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVyaS4K</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0KFVyaSkK</text>
+        <text encoding="base64">ICAvKioKICAgICogQHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nCg==</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2UgSHR0cFJlc3BvbnNlKFN0YXR1c0NvZGVzLkZvdW5kLCBoZWFkZXJzLCBlbnRpdHksIF8pID0+CiAgICAgIGxvZwo=</text>
+        <text encoding="base64">ICAgICogUmVxdWVzdCBhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYWtrYS5wYXR0ZXJuLnBpcGUK</text>
+        <text encoding="base64">ICAgIHByaW50bG4odXJpLnF1ZXJ5U3RyaW5nKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVyaS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYWtrYS5wYXR0ZXJuLmFzawo=</text>
+        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0KFVyaSkK</text>
       </register>
       <register name=":" type="4">
-        <text>62</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -1276,7 +1276,6 @@
         <entry>32</entry>
         <entry>6</entry>
         <entry>17</entry>
-        <entry>t.</entry>
         <entry>19</entry>
         <entry>7</entry>
         <entry>9</entry>
@@ -1289,6 +1288,7 @@
         <entry>45</entry>
         <entry>48</entry>
         <entry>62</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
