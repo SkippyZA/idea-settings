@@ -863,12 +863,12 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/EldoScadaRequestActor.scala" timestamp="1474628402971">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/EldoScadaRequestActor.scala" timestamp="1474628500981">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="24" column="47" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="24" column="18" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="22" column="66" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/ChannelMeta.scala" timestamp="1471430244980">
         <mark key="[" line="2" column="0" />
@@ -1189,8 +1189,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/actors/EldoScadaRequestActor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TokenProvider</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gIHByaXZhdGUgdmFyIGN1cnJlbnRUb2tlbjogT3B0aW9uW1JlcXVlc3RUb2tlbl0gPSBOb25lCgo=</text>
       </register>
       <register name="-" type="4">
         <text>TokenProvider</text>
@@ -1202,34 +1202,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHByaXZhdGUgdmFyIGN1cnJlbnRUb2tlbjogT3B0aW9uW1JlcXVlc3RUb2tlbl0gPSBOb25lCgo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcHJvcHMoKSA9IFByb3BzKG5ldyBFbGRvU2NhZGFSZXF1ZXN0QWN0b3IpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgcHJvcHMoKSA9IFByb3BzKG5ldyBFbGRvU2NhZGFSZXF1ZXN0QWN0b3IpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5zeXN0ZW0uYWN0b3JPZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3lzdGVtLgo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dC5zeXN0ZW0uYWN0b3JPZigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5zeXMK</text>
+        <text encoding="base64">ICAgICAgc3lzdGVtLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dC5zeXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIFRva2VuKHJlcXVlc3RUb2tlbjogUmVxdWVzdFRva2VuKSBleHRlbmRzIE1lc3NhZ2VFdmVudHMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIFRva2VuKHJlcXVlc3RUb2tlbjogUmVxdWVzdFRva2VuKSBleHRlbmRzIE1lc3NhZ2VFdmVudHMK</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
