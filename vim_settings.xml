@@ -44,11 +44,11 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenProvider.scala" timestamp="1474635180478">
-        <mark key="[" line="50" column="47" />
-        <mark key="]" line="50" column="48" />
-        <mark key="." line="50" column="48" />
-        <mark key="^" line="50" column="48" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenProvider.scala" timestamp="1474648552153">
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="64" column="22" />
+        <mark key="." line="64" column="22" />
+        <mark key="^" line="64" column="29" />
       </file>
       <file name="$USER_HOME$/Development/embed-service/src/controller/iframe.js" timestamp="1467103280620">
         <mark key="[" line="12" column="13" />
@@ -778,7 +778,6 @@
         <mark key="." line="109" column="42" />
         <mark key="^" line="109" column="42" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/srcs/akka-actor_2.11-2.4.10-sources.jar!/akka/actor/Actor.scala" timestamp="1474633908276" />
       <file name="$USER_HOME$/Development/iracing-scraping/src/test/scala/com/complex/iracing/model/LapTimeTest.scala" timestamp="1467618161991">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="21" />
@@ -1194,10 +1193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>REDIRECT</text>
+        <text>filter().foreach(println)</text>
       </register>
       <register name="-" type="4">
-        <text>REDIRECT</text>
+        <text>filter().foreach(println)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
@@ -1206,37 +1205,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4odXJpLnF1ZXJ5U3RyaW5nKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYWtrYS5wYXR0ZXJuLnBpcGUK</text>
+        <text encoding="base64">ICAgIHVyaS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0KFVyaSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYWtrYS5wYXR0ZXJuLmFzawo=</text>
+        <text encoding="base64">ICAgICAgbG9nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYWtrYS51dGlsLlRpbWVvdXQuXwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgSHR0cFJlc3BvbnNlKFN0YXR1c0NvZGVzLkZvdW5kLCBoZWFkZXJzLCBlbnRpdHksIF8pID0+CiAgICAgIGxvZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgbGlicmFyeS5SZXF1ZXN0VG9rZW4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vICAgICAgdG9rZW4uZm9yZWFjaCh0ID0+IGxvZy5pbmZvKHQudG9TdHJpbmcpKQovLwovLyAgICAgIGNvbnRleHQuc2VuZGVyICEgcyJSZWNlaXZlZCAkdXJsIgo=</text>
+        <text encoding="base64">ICBpbXBvcnQgYWtrYS5wYXR0ZXJuLnBpcGUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29uY3VycmVudC5kdXJhdGlvbi5fCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgYWtrYS5wYXR0ZXJuLmFzawo=</text>
       </register>
       <register name=":" type="4">
-        <text>48</text>
+        <text>62</text>
       </register>
     </registers>
     <search>
@@ -1270,7 +1269,6 @@
         <entry encoding="base64">XDxkZWZcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>21</entry>
         <entry>25</entry>
         <entry>5</entry>
         <entry>28</entry>
@@ -1290,6 +1288,7 @@
         <entry>43</entry>
         <entry>45</entry>
         <entry>48</entry>
+        <entry>62</entry>
       </history-cmd>
       <history-expr />
       <history-input />
