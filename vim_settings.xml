@@ -349,8 +349,10 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" timestamp="1474756791570">
-        <mark key="'" line="96" column="13" />
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" timestamp="1474807387302">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1466408987903">
         <mark key="[" line="13" column="34" />
@@ -1127,8 +1129,8 @@
       <jump line="96" column="13" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>§</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>§</text>
@@ -1139,35 +1141,35 @@
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
-      <register name="1" type="4">
-        <text>§</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="4">
-        <text>DEBUG</text>
+        <text encoding="base64">CgoKLy8gZ2V0IG5hbWUsCi8vYWJzdHJhY3QgY2xhc3MgU2NyZWVuaW5nRmllbGQoKQovLwovL2Nhc2UgY2xhc3MgQWdlKCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgRmFtaWx5SGlzdG9yeSgpIGV4dGVuZHMgU2NyZWVuaW5nRmllbGQKLy9jYXNlIGNsYXNzIFRyYXVtYUhpc3RvcnkoKSBleHRlbmRzIFNjcmVlbmluZ0ZpZWxkCi8vY2FzZSBjbGFzcyBCQ1ZBKCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgTXlPcGlhKCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgUHNldWRvRXhmb2xpYXRpb24oKSBleHRlbmRzIFNjcmVlbmluZ0ZpZWxkCi8vY2FzZSBjbGFzcyBJT1AoKSBleHRlbmRzIFNjcmVlbmluZ0ZpZWxkCi8vY2FzZSBjbGFzcyBJT1BEaWZmKCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgQ0RSKCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgQXN5bW1ldHJ5KCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgRGlzY1BpdCgpIGV4dGVuZHMgU2NyZWVuaW5nRmllbGQKLy9jYXNlIGNsYXNzIERpc2NIZW1vcnJoYWdlKCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgRGlzY05vdGNoKCkgZXh0ZW5kcyBTY3JlZW5pbmdGaWVsZAovL2Nhc2UgY2xhc3MgSXNudCgpIGV4dGVuZHMgU2NyZWVuaW5nRmllbGQKLy9jYXNlIGNsYXNzIFBQQXRyb3BoeSgpIGV4dGVuZHMgU2NyZWVuaW5nRmllbGQKLy9jYXNlIGNsYXNzIENDVCgpIGV4dGVuZHMgU2NyZWVuaW5nRmllbGQK</text>
       </register>
       <register name="3" type="4">
-        <text>WARN</text>
+        <text>§</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Cm9iamVjdCBBbnN3ZXJQcm9maWxlIHsKICB2YWwgQUdFXzEgPSAwCiAgdmFsIEFHRV8yID0gMQogIHZhbCBBR0VfMyA9IDIKICB2YWwgRkFNSUxZX0hJU1RPUlkgPSA0CiAgdmFsIFRSQVVNQV9ISVNUT1JZID0gMQogIHZhbCBCQ1ZBXzEgPSAwCiAgdmFsIEJDVkFfMiA9IDEKICB2YWwgQkNWQV8zID0gMgogIHZhbCBNWU9QSUEgPSAxCiAgdmFsIFBTRVVET19FWEZPTElBVE9OID0gMQogIHZhbCBJT1BfMSA9IDAKICB2YWwgSU9QXzIgPSAyCiAgdmFsIElPUF8zID0gNgogIHZhbCBJT1BfRElGRiA9IDIKICB2YWwgQ0RSXzEgPSAwCiAgdmFsIENEUl8yID0gMgogIHZhbCBDRFJfMyA9IDMKICB2YWwgQVNZTU1FVFJZID0gMgogIHZhbCBESVNDX1BJVCA9IDMKICB2YWwgRElTQ19IRU1PUlJIQUdFID0gMgogIHZhbCBESVNDX05PVENIID0gNQogIHZhbCBJU05UXzEgPSAwCiAgdmFsIElTTlRfMiA9IDMKICB2YWwgUFBfQVRST1BIWSA9IDIKICB2YWwgQ0NUXzEgPSAxCiAgdmFsIENDVF8yID0gMAogIHZhbCBDQ1RfMyA9IDEKfQ==</text>
+        <text>WARN</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBBbnN3ZXJQcm9maWxlLl8KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpYWdub3NpcyArPSBJT1Aoc2NyZWVuaW5nLmlvcCkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cm9iamVjdCBBbnN3ZXJQcm9maWxlIHsKICB2YWwgQUdFXzEgPSAwCiAgdmFsIEFHRV8yID0gMQogIHZhbCBBR0VfMyA9IDIKICB2YWwgRkFNSUxZX0hJU1RPUlkgPSA0CiAgdmFsIFRSQVVNQV9ISVNUT1JZID0gMQogIHZhbCBCQ1ZBXzEgPSAwCiAgdmFsIEJDVkFfMiA9IDEKICB2YWwgQkNWQV8zID0gMgogIHZhbCBNWU9QSUEgPSAxCiAgdmFsIFBTRVVET19FWEZPTElBVE9OID0gMQogIHZhbCBJT1BfMSA9IDAKICB2YWwgSU9QXzIgPSAyCiAgdmFsIElPUF8zID0gNgogIHZhbCBJT1BfRElGRiA9IDIKICB2YWwgQ0RSXzEgPSAwCiAgdmFsIENEUl8yID0gMgogIHZhbCBDRFJfMyA9IDMKICB2YWwgQVNZTU1FVFJZID0gMgogIHZhbCBESVNDX1BJVCA9IDMKICB2YWwgRElTQ19IRU1PUlJIQUdFID0gMgogIHZhbCBESVNDX05PVENIID0gNQogIHZhbCBJU05UXzEgPSAwCiAgdmFsIElTTlRfMiA9IDMKICB2YWwgUFBfQVRST1BIWSA9IDIKICB2YWwgQ0NUXzEgPSAxCiAgdmFsIENDVF8yID0gMAogIHZhbCBDQ1RfMyA9IDEKfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBBbnN3ZXJQcm9maWxlLl8KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpYWdub3NpcyArPSBJT1Aoc2NyZWVuaW5nLmlvcCkK</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
