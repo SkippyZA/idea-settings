@@ -12,6 +12,7 @@
     </value>
   </option>
   <ScalaCodeStyleSettings>
+    <option name="importMembersUsingUnderScore" value="false" />
     <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
     <option name="SPACES_IN_IMPORTS" value="true" />
     <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
