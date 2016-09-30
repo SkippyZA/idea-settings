@@ -572,12 +572,12 @@
       <file name="/Dummy.scala" timestamp="1474875281096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1475258177718">
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1475258486608">
         <mark key="'" line="83" column="34" />
-        <mark key="[" line="92" column="5" />
-        <mark key="]" line="94" column="17" />
-        <mark key="^" line="94" column="17" />
-        <mark key="." line="94" column="17" />
+        <mark key="[" line="55" column="59" />
+        <mark key="]" line="55" column="59" />
+        <mark key="^" line="55" column="59" />
+        <mark key="." line="55" column="59" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469980177425">
         <mark key="[" line="4" column="0" />
@@ -1253,11 +1253,11 @@
       <jump line="83" column="34" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHVybFdpdGhDcmVkcyA9IGlSYWNpbmdFbmRwb2ludHMuTE9HSU5fVEFSR0VUICsgIj91c2VybmFtZT0iICsgY3JlZHMuZW1haWwgKyAiJnBhc3N3b3JkPSIgKyBjcmVkcy5wYXNzd29yZAo=</text>
+      <register name="&quot;" type="4">
+        <text>).</text>
       </register>
       <register name="-" type="4">
-        <text>${</text>
+        <text>).</text>
       </register>
       <register name="/" type="4">
         <text>1.2</text>
@@ -1265,20 +1265,20 @@
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHVybFdpdGhDcmVkcyA9IGlSYWNpbmdFbmRwb2ludHMuTE9HSU5fVEFSR0VUICsgIj91c2VybmFtZT0iICsgY3JlZHMuZW1haWwgKyAiJnBhc3N3b3JkPSIgKyBjcmVkcy5wYXNzd29yZAo=</text>
+      <register name="1" type="4">
+        <text>).</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="4">
-        <text>${</text>
+        <text>(</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IiArIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHVybFdpdGhDcmVkcyA9IGlSYWNpbmdFbmRwb2ludHMuTE9HSU5fVEFSR0VUICsgIj91c2VybmFtZT0iICsgY3JlZHMuZW1haWwgKyAiJnBhc3N3b3JkPSIgKyBjcmVkcy5wYXNzd29yZAo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICsgIg==</text>
+        <text>${</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IiArIA==</text>
@@ -1287,13 +1287,13 @@
         <text encoding="base64">ICsgIg==</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text encoding="base64">IiArIA==</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text encoding="base64">ICsgIg==</text>
       </register>
       <register name="9" type="4">
-        <text>spaces</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>t.</text>
