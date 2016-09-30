@@ -85,7 +85,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/library/patient/repositories/PatientHttpRepository.scala" timestamp="1475257576513">
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/library/patient/repositories/PatientHttpRepository.scala" timestamp="1475257866684">
         <mark key="[" line="61" column="17" />
         <mark key="]" line="61" column="17" />
         <mark key="^" line="61" column="17" />
@@ -572,12 +572,12 @@
       <file name="/Dummy.scala" timestamp="1474875281096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1475257771823">
+      <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1475258177718">
         <mark key="'" line="83" column="34" />
-        <mark key="[" line="45" column="74" />
-        <mark key="]" line="45" column="74" />
-        <mark key="^" line="45" column="74" />
-        <mark key="." line="45" column="74" />
+        <mark key="[" line="92" column="5" />
+        <mark key="]" line="94" column="17" />
+        <mark key="^" line="94" column="17" />
+        <mark key="." line="94" column="17" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" timestamp="1469980177425">
         <mark key="[" line="4" column="0" />
@@ -1253,11 +1253,11 @@
       <jump line="83" column="34" filename="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHVybFdpdGhDcmVkcyA9IGlSYWNpbmdFbmRwb2ludHMuTE9HSU5fVEFSR0VUICsgIj91c2VybmFtZT0iICsgY3JlZHMuZW1haWwgKyAiJnBhc3N3b3JkPSIgKyBjcmVkcy5wYXNzd29yZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>${</text>
       </register>
       <register name="/" type="4">
         <text>1.2</text>
@@ -1265,38 +1265,38 @@
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHVybFdpdGhDcmVkcyA9IGlSYWNpbmdFbmRwb2ludHMuTE9HSU5fVEFSR0VUICsgIj91c2VybmFtZT0iICsgY3JlZHMuZW1haWwgKyAiJnBhc3N3b3JkPSIgKyBjcmVkcy5wYXNzd29yZAo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>${</text>
       </register>
       <register name="3" type="4">
-        <text>spaces</text>
+        <text encoding="base64">IiArIA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGNvbXBpbGUtdHM=</text>
+        <text encoding="base64">ICsgIg==</text>
       </register>
       <register name="5" type="4">
-        <text>false</text>
+        <text encoding="base64">IiArIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicmVtb3ZlQ29tbWVudHMiOiB0cnVlLAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICsgIg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0cy1ucG0tbGludCI6ICJeMC4xLjAiLAo=</text>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0cy1ucG0tbGludCI6ICJeMC4xLjAiLAo=</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC5waXBlKCk7Cg==</text>
+      <register name="9" type="4">
+        <text>spaces</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -1344,12 +1344,12 @@
         <entry>65</entry>
         <entry>16</entry>
         <entry>57</entry>
-        <entry>t.</entry>
         <entry>w</entry>
         <entry>1</entry>
         <entry>51</entry>
         <entry>#</entry>
         <entry>3</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
