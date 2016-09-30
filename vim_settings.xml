@@ -416,6 +416,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/package.json" timestamp="1475254854190">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="30" />
+        <mark key="." line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/conf/evolutions/default/2.sql" timestamp="1473182891409">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -643,6 +649,12 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/gulpfile.js" timestamp="1475254255323">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="41" />
+      </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/eldo/ScadaRequestToken.scala" timestamp="1474616133717">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -849,11 +861,11 @@
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1475252051660">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="4" />
+      <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1475254560419">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
         <mark key="[" line="609" column="1" />
@@ -1236,10 +1248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>../</text>
+        <text encoding="base64">IGNvbXBpbGUtdHM=</text>
       </register>
       <register name="-" type="4">
-        <text>../</text>
+        <text encoding="base64">IGNvbXBpbGUtdHM=</text>
       </register>
       <register name="/" type="4">
         <text>IOP</text>
@@ -1248,37 +1260,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="4">
-        <text>../</text>
+        <text encoding="base64">IGNvbXBpbGUtdHM=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="4">
-        <text>any</text>
+        <text>false</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJyeCI6ICJyZWdpc3RyeTpkdC9yeCMwLjAuMCsyMDE2MDMxNzEyMDY1NCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAicmVtb3ZlQ29tbWVudHMiOiB0cnVlLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>globals/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJ0cy1ucG0tbGludCI6ICJeMC4xLjAiLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>../</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJ0cy1ucG0tbGludCI6ICJeMC4xLjAiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
+        <text encoding="base64">ICAgIC5waXBlKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>globals/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJ0cy1ucG0tbGludCI6ICJeMC4xLjAiLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iCg==</text>
-      </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>../</text>
       </register>
+      <register name="9" type="4">
+        <text>any</text>
+      </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>51</text>
       </register>
     </registers>
     <search>
@@ -1312,7 +1324,6 @@
         <entry>LocalDateTime</entry>
       </history-search>
       <history-cmd>
-        <entry>7</entry>
         <entry>18</entry>
         <entry>26</entry>
         <entry>25</entry>
@@ -1332,6 +1343,7 @@
         <entry>t.</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>51</entry>
       </history-cmd>
       <history-expr />
       <history-input />
