@@ -582,6 +582,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/typings.json" timestamp="1475250882787">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/conf/evolutions/default/1.sql" timestamp="1472322803441">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="15" />
@@ -829,6 +835,12 @@
         <mark key="]" line="32" column="61" />
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
+      </file>
+      <file name="$USER_HOME$/Development/rx-amqplib/tsconfig.json" timestamp="1475250938680">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/model/test.js" timestamp="1467837106598">
         <mark key="[" line="609" column="1" />
@@ -1211,10 +1223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oY29uZmlnKQoK</text>
+        <text encoding="base64">ICAgICJmaWxlc0dsb2IiOiBbCiAgICAgICAgInNyYy8qKi8qLnRzIgogICAgXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.typesafe.config.Cdonfig</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>IOP</text>
@@ -1223,37 +1235,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oY29uZmlnKQoK</text>
+        <text encoding="base64">ICAgICJmaWxlc0dsb2IiOiBbCiAgICAgICAgInNyYy8qKi8qLnRzIgogICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQKCg==</text>
+      <register name="2" type="4">
+        <text>+</text>
       </register>
       <register name="3" type="4">
-        <text>com.typesafe.config.Cdonfig</text>
+        <text>+</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZwo=</text>
+      <register name="4" type="4">
+        <text>+</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>+</text>
       </register>
       <register name="7" type="4">
-        <text>https</text>
+        <text>+</text>
       </register>
       <register name="8" type="4">
-        <text>https(&quot;/</text>
+        <text>+</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
-        <text>t.</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1304,9 +1316,9 @@
         <entry>65</entry>
         <entry>16</entry>
         <entry>57</entry>
+        <entry>t.</entry>
         <entry>1</entry>
         <entry>w</entry>
-        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
