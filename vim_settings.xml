@@ -333,11 +333,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/Module.scala" timestamp="1475339195884">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/Module.scala" timestamp="1475357055586">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HelloController.scala" timestamp="1474269292458">
         <mark key="[" line="6" column="6" />
@@ -1259,11 +1258,11 @@
       <jump line="61" column="6" filename="$USER_HOME$/.ivy2/cache/com.google.inject/guice/srcs/guice-4.0-sources.jar!/com/google/inject/AbstractModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLkFwcGxpY2F0aW9uCmltcG9ydCBwbGF5LntDb25maWd1cmF0aW9uLCBQbGF5fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.api</text>
+        <text encoding="base64">IEBJbmplY3QoKShhcHA6IEFwcGxpY2F0aW9uKQ==</text>
       </register>
       <register name="/" type="4">
         <text>bindings</text>
@@ -1271,35 +1270,35 @@
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
-      <register name="1" type="4">
-        <text>.api</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLkFwcGxpY2F0aW9uCmltcG9ydCBwbGF5LntDb25maWd1cmF0aW9uLCBQbGF5fQo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5JbmplY3QKCg==</text>
+        <text encoding="base64">CiAgICBwcmludGxuKGFwcC5jb25maWd1cmF0aW9uKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkue0NvbmZpZ3VyYXRpb24sIFBsYXl9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IEBJbmplY3QoKShhcHA6IEFwcGxpY2F0aW9uKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASW5qZWN0IHZhbCBjb25maWd1cmF0aW9uOiBDb25maWd1cmF0aW9uID0gUGxheS5hcHBsaWNhdGlvbigpLmluamVjdG9yKCkuaW5zdGFuY2VPZihjbGFzc09mW0NvbmZpZ3VyYXRpb25dKQoK</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcmludGxuKGNvbmZpZ3VyYXRpb24udG9TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIGFwcGxpY2EK</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFBsYXkuYXBwbGljYXRpb24uY29uZmlndXJhdGlvbigpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
-      <register name="8" type="4">
-        <text>.current</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oY29uZmlndXJhdGlvbikK</text>
       </register>
       <register name="9" type="4">
-        <text>()</text>
+        <text encoding="base64">KGNvbmZpZ3VyYXRpb246IENvbmZpZ3VyYXRpb24pIA==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
