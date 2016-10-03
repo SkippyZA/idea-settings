@@ -462,12 +462,8 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/EmbedService.scala" timestamp="1475063297410">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenProvider.scala" timestamp="1474959515318">
+      <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/services/EmbedService.scala" timestamp="1475473890915" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenProvider.scala" timestamp="1475474781056">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="52" column="97" />
@@ -871,10 +867,7 @@
         <mark key="." line="310" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Feed.scala" timestamp="1474997850827">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="82" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="8" column="0" />
+        <mark key="]" line="2" column="82" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
