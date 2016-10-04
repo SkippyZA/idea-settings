@@ -223,7 +223,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadeRequestService.scala" timestamp="1475483289791">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadeRequestService.scala" timestamp="1475568175207">
         <mark key="'" line="18" column="32" />
         <mark key="[" line="24" column="33" />
         <mark key="]" line="24" column="34" />
@@ -300,6 +300,12 @@
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/AccountController.scala" timestamp="1475568909849">
+        <mark key="[" line="22" column="106" />
+        <mark key="]" line="22" column="106" />
+        <mark key="." line="22" column="106" />
+        <mark key="^" line="22" column="69" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1475564380798">
         <mark key="[" line="19" column="6" />
@@ -1246,10 +1252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.api</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>.api</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>findBy</text>
@@ -1258,37 +1264,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGltZW91dAo=</text>
+        <text encoding="base64">ICAgIHZhbCBmcm9tID0gc3RhcnQuZmxhdE1hcChBcGlDb252ZXJzaW9ucy5kYXRlRnJvbVN0cmluZykgZ2V0T3JFbHNlIHN0YXJ0T2ZNb250aAoK</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRmluaXRlRHVyYXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29uY3VycmVudC5maW5pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmZvcmVhY2gocHJpbnRsbikK</text>
+        <text encoding="base64">ICAgIGYubWFwKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmID0gc3RhcnQubWFwKEFwaUNvbnZlcnNpb25zLmRhdGVGcm9tU3RyaW5nKS5vckVsc2UoU29tZShzdGFydE9mTW9udGgoKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRnV0dXJlCg==</text>
+        <text encoding="base64">ICAgIGYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgdmFsIGYgPSBzdGFydC5tYXAoQXBpQ29udmVyc2lvbnMuZGF0ZUZyb21TdHJpbmcpLmdldE9yRWxzZShzdGFydE9mTW9udGgoKSkKICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZSB7CiAgICAgIE9rKEpzb24ub2JqKCJoZWxsbyIgLT4gIndvcmxkIikpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGYubWFwKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGYubWFwKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>9</text>
+        <text>34</text>
       </register>
     </registers>
     <search>
@@ -1334,7 +1340,6 @@
         <entry>38</entry>
         <entry>46</entry>
         <entry>36</entry>
-        <entry>34</entry>
         <entry>!</entry>
         <entry>3</entry>
         <entry>5</entry>
@@ -1342,6 +1347,7 @@
         <entry>10</entry>
         <entry>1</entry>
         <entry>9</entry>
+        <entry>34</entry>
       </history-cmd>
       <history-expr />
       <history-input />
