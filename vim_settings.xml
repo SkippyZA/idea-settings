@@ -277,8 +277,8 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1475577976515">
-        <mark key="[" line="6" column="30" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1475662756791">
+        <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="44" />
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
@@ -307,11 +307,11 @@
         <mark key="." line="22" column="106" />
         <mark key="^" line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1475660041198">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1475663422868">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="37" column="77" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469650793285">
         <mark key="[" line="24" column="44" />
@@ -1252,7 +1252,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>findBy</text>
@@ -1266,29 +1266,29 @@
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFjdG9ycy5Ub2tlbkFjdG9yLgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgIC8qCiAgICAgIHRva2VuIG1hdGNoIHsKICAgICAgICBjYXNlIFRva2VuUmVzcG9uc2UodCkgPT4gbG9nLmRlYnVnKHMiUmVjZWl2ZWQgdG9rZW46ICR7dC50b1N0cmluZ30iKQogICAgICAgIGNhc2UgXyA9PiBsb2cuZXJyb3IoIkludmFsaWQgdG9rZW4gcmVzcG9uc2UgcmV0dXJuZWQgZnJvbSBUb2tlbkFjdG9yIikKICAgICAgfQogICAgICAqLw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIHNlbmRlciAhIFRva2VuUmVzcG9uc2UodG9rZW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIAogICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgIHRva2VuLmZvcmVhY2gocHJpbnRsbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlcXVlc3RUb2tlbiA9IHRva2VuCg==</text>
+        <text encoding="base64">aW1wb3J0IGFjdG9ycy5Ub2tlbkFjdG9yLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHQgPSBFbGRvU2NhZGFSZXF1ZXN0VG9rZW4odG9rZW4uZ2V0T3JFbHNlKHsiIn0pKQoK</text>
+        <text encoding="base64">CiAgICAgIHNlbmRlciAhIFRva2VuUmVzcG9uc2UodG9rZW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiYWJjIgo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIAogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
