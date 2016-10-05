@@ -650,11 +650,11 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenActor.scala" timestamp="1475670075607">
-        <mark key="[" line="45" column="67" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
-        <mark key="^" line="46" column="7" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenActor.scala" timestamp="1475671694305">
+        <mark key="[" line="42" column="65" />
+        <mark key="]" line="42" column="65" />
+        <mark key="." line="42" column="65" />
+        <mark key="^" line="42" column="65" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test.html" timestamp="1470911743814">
         <mark key="[" line="14" column="6" />
@@ -1248,11 +1248,11 @@
       <jump line="16" column="32" filename="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadeRequestService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGh0dHAK</text>
+      <register name="&quot;" type="4">
+        <text>memh</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>memh</text>
       </register>
       <register name="/" type="4">
         <text>findBy</text>
@@ -1261,37 +1261,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGh0dHAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlcXVlc3RUb2tlbgo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW5WYWx1ZS5mbGF0TWFwIHsgdCA9PgoKICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgUmlnaHQobWVtaCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA/Pz8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA/Pz8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZW1oLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgci5tYXAoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIC8qCiAgICAgIHRva2VuIG1hdGNoIHsKICAgICAgICBjYXNlIFRva2VuUmVzcG9uc2UodCkgPT4gbG9nLmRlYnVnKHMiUmVjZWl2ZWQgdG9rZW46ICR7dC50b1N0cmluZ30iKQogICAgICAgIGNhc2UgXyA9PiBsb2cuZXJyb3IoIkludmFsaWQgdG9rZW4gcmVzcG9uc2UgcmV0dXJuZWQgZnJvbSBUb2tlbkFjdG9yIikKICAgICAgfQogICAgICAqLw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBocjogSHR0cFJlc3BvbnNlID0+IHByaW50bG4oaHIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGh0dHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIHRva2VuLmZvcmVhY2gocHJpbnRsbikK</text>
+        <text encoding="base64">ICAgICAgdG9rZW5WYWx1ZS5mbGF0TWFwIHsgdCA9PgoKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>23</text>
+        <text>55</text>
       </register>
     </registers>
     <search>
@@ -1325,13 +1325,11 @@
         <entry>findBy</entry>
       </history-search>
       <history-cmd>
-        <entry>92</entry>
         <entry>17</entry>
         <entry>39</entry>
         <entry>38</entry>
         <entry>36</entry>
         <entry>!</entry>
-        <entry>5</entry>
         <entry>4</entry>
         <entry>10</entry>
         <entry>1</entry>
@@ -1345,6 +1343,8 @@
         <entry>46</entry>
         <entry>22</entry>
         <entry>23</entry>
+        <entry>5</entry>
+        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
