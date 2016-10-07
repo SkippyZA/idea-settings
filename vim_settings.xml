@@ -207,11 +207,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/application.conf" timestamp="1475823974964">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="45" column="40" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/application.conf" timestamp="1475831100902">
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/UserRepository.scala" timestamp="1471434160911">
         <mark key="[" line="7" column="9" />
@@ -224,7 +224,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadeRequestService.scala" timestamp="1475824598341">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadeRequestService.scala" timestamp="1475831469907">
         <mark key="'" line="17" column="32" />
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="22" />
@@ -278,11 +278,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1475823645309">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="11" column="67" />
-        <mark key="." line="11" column="67" />
-        <mark key="^" line="11" column="67" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1475830680930">
+        <mark key="[" line="10" column="116" />
+        <mark key="]" line="10" column="152" />
+        <mark key="." line="10" column="152" />
+        <mark key="^" line="10" column="152" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
         <mark key="[" line="16" column="46" />
@@ -308,11 +308,11 @@
         <mark key="." line="22" column="106" />
         <mark key="^" line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1475827636904">
-        <mark key="[" line="47" column="46" />
-        <mark key="]" line="47" column="46" />
-        <mark key="^" line="47" column="46" />
-        <mark key="." line="47" column="46" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1475831448151">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="41" />
+        <mark key="." line="52" column="41" />
+        <mark key="^" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469650793285">
         <mark key="[" line="24" column="44" />
@@ -326,11 +326,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" timestamp="1475755603483">
-        <mark key="[" line="21" column="85" />
-        <mark key="]" line="21" column="85" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/HomeController.scala" timestamp="1475831478497">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="62" />
         <mark key="^" line="21" column="118" />
-        <mark key="." line="21" column="85" />
+        <mark key="." line="21" column="62" />
       </file>
       <file name="$USER_HOME$/Development/play-scala/app/models/Cast.scala" timestamp="1469356894185">
         <mark key="[" line="21" column="0" />
@@ -651,11 +651,11 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenActor.scala" timestamp="1475824219794">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="64" column="43" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/TokenActor.scala" timestamp="1475830948695">
+        <mark key="[" line="90" column="47" />
+        <mark key="]" line="90" column="58" />
+        <mark key="." line="90" column="58" />
+        <mark key="^" line="90" column="58" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test.html" timestamp="1470911743814">
         <mark key="[" line="14" column="6" />
@@ -724,6 +724,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/BasicCredentials.scala" timestamp="1475830795201">
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="2" column="77" />
+        <mark key="^" line="2" column="77" />
+        <mark key="." line="2" column="77" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" timestamp="1474807387302">
         <mark key="[" line="84" column="0" />
@@ -1247,10 +1253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text encoding="base64">TE9HSU49ZWxkby5ub25hY3JlYXRpdmUm</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">TE9HSU49ZWxkby5ub25hY3JlYXRpdmUm</text>
       </register>
       <register name="/" type="4">
         <text>findBy</text>
@@ -1259,37 +1265,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCByZXEgPSB1cmkud2l0aFF1ZXJ5KFVyaS5RdWVyeSgiaGVsbG8iIC0+ICJ3b3JsZCIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHsgcSA9PgogICAgICAgICAgcmVxICs9IHEKICAgICAgICB9</text>
+        <text encoding="base64">IHRva2VuID0+CiAgICAgICAgdmFsIHJlcXVlc3RVcmkgPSB1cmkud2l0aFF1ZXJ5KGF1dGhRdWVyeVBhcmFtcyh0b2tlbi5fMiwgdG9rZW4uXzEudG9rZW4oKSkpCiAgICAgICAgCgogICAgICAgIGxvZy5kZWJ1ZyhzIlJlcSB1cmk6ICR7IHVyaS53aXRoUXVlcnkocmVxKSB9IikKCiAgICAgICAgc291cmNlU2VuZGVyICEgdG9rZW4uXzEudG9rZW4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxID0gdXJpLnF1ZXJ5KCkubmV3QnVpbGRlciArPSAoImFiYyIgLT4gIjEyMyIpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHRva2VuID0+CiAgICAgICAgdmFsIHJlcXVlc3RVcmkgPSB1cmkud2l0aFF1ZXJ5KGF1dGhRdWVyeVBhcmFtcyh0b2tlbi5fMiwgdG9rZW4uXzEudG9rZW4oKSkpCiAgICAgICAgCgogICAgICAgIGxvZy5kZWJ1ZyhzIlJlcSB1cmk6ICR7IHVyaS53aXRoUXVlcnkocmVxKSB9IikKCiAgICAgICAgc291cmNlU2VuZGVyICEgdG9rZW4uXzEudG9rZW4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXEucmVzdWx0KCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgbG9nLndhcm4ocyJSZXEgdXJpOiAkeyB1cmkud2l0aFF1ZXJ5KHJlcSkgfSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgdXJpLnF1ZXJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICByZXEuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXEuKz0odXJpLnF1ZXJ5KCkudG9NYXApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuKz0odXJpLnF1ZXJ5LnR1cGxlZCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>42</text>
+        <text>92</text>
       </register>
     </registers>
     <search>
@@ -1323,11 +1329,6 @@
         <entry>findBy</entry>
       </history-search>
       <history-cmd>
-        <entry>52</entry>
-        <entry>27</entry>
-        <entry>62</entry>
-        <entry>33</entry>
-        <entry>34</entry>
         <entry>38</entry>
         <entry>23</entry>
         <entry>5</entry>
@@ -1341,8 +1342,13 @@
         <entry>41</entry>
         <entry>67</entry>
         <entry>21</entry>
-        <entry>12</entry>
         <entry>42</entry>
+        <entry>12</entry>
+        <entry>!</entry>
+        <entry>1</entry>
+        <entry>8</entry>
+        <entry>52</entry>
+        <entry>92</entry>
       </history-cmd>
       <history-expr />
       <history-input />
