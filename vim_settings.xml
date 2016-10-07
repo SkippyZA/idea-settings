@@ -308,11 +308,11 @@
         <mark key="." line="22" column="106" />
         <mark key="^" line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1475826246817">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="46" column="41" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1475827636904">
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="47" column="46" />
+        <mark key="^" line="47" column="46" />
+        <mark key="." line="47" column="46" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469650793285">
         <mark key="[" line="24" column="44" />
@@ -1246,11 +1246,11 @@
       <jump line="44" column="8" filename="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxID0gdXJpLnF1ZXJ5KCkubmV3QnVpbGRlciArPSAoImFiYyIgLT4gIjEyMyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>findBy</text>
@@ -1259,34 +1259,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxID0gdXJpLnF1ZXJ5KCkubmV3QnVpbGRlciArPSAoImFiYyIgLT4gIjEyMyIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCByZXEgPSB1cmkud2l0aFF1ZXJ5KFVyaS5RdWVyeSgiaGVsbG8iIC0+ICJ3b3JsZCIpKQo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXEucmVzdWx0KCkK</text>
+        <text encoding="base64">ICAgICAgICByZXEK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsgcSA9PgogICAgICAgICAgcmVxICs9IHEKICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgdXJpLnF1ZXJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVxID0gdXJpLnF1ZXJ5KCkubmV3QnVpbGRlciArPSAoImFiYyIgLT4gIjEyMyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXEuKz0odXJpLnF1ZXJ5KCkudG9NYXApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuKz0odXJpLnF1ZXJ5LnR1cGxlZCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxID0gdXJpLis9ICgiIiAtPiAiIikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXEucmVzdWx0KCkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgdXJpLnF1ZXJ5KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXEuKz0odXJpLnF1ZXJ5KCkudG9NYXApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlcSkK</text>
+        <text encoding="base64">ICAgICAgICByZXEuKz0odXJpLnF1ZXJ5LnR1cGxlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
