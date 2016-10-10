@@ -307,12 +307,11 @@
         <mark key="." line="22" column="106" />
         <mark key="^" line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1476085435460">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="72" column="61" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1476087306200">
+        <mark key="[" line="77" column="84" />
+        <mark key="]" line="78" column="5" />
+        <mark key="." line="78" column="5" />
+        <mark key="^" line="78" column="5" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469650793285">
         <mark key="[" line="24" column="44" />
@@ -535,7 +534,7 @@
         <mark key="." line="3" column="50" />
         <mark key="^" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadaRequestService.scala" timestamp="1476084281681">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadaRequestService.scala" timestamp="1476086653736">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="22" column="19" />
@@ -1260,10 +1259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Request</text>
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>Request</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>findBy</text>
@@ -1272,34 +1271,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuU3VjY2Vzcwo=</text>
+        <text encoding="base64">ICAgICogTWFrZSB0aGUgcmVxdWVzdCBhbmQgcmV0dXJuIAo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5Kc29uCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuU3VjY2Vzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAubWFwKHhtbCA9PiBPayhKc29uLm9iaigicmVzcG9uc2UiIC0+IHhtbCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLkxvZ2dlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5Kc29uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAubWFwKHhtbCA9PiBPayhKc29uLm9iaigicmVzcG9uc2UiIC0+IHhtbCkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBGdXR1cmUuc3VjY2Vzc2Z1bCgiRmFrZSByZXNwb25zZSBmcm9tIEVsZG9TY2FkYVJlcXVlc3RTZXJ2aWNlIikK</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLkxvZ2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmZvcmVhY2goeG1sID0+IExvZ2dlci5lcnJvcih4bWwudG9TdHJpbmcpKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNvdXJjZVNlbmRlciAhIHhtbAo=</text>
+        <text encoding="base64">CiAgICBGdXR1cmUuc3VjY2Vzc2Z1bCgiRmFrZSByZXNwb25zZSBmcm9tIEVsZG9TY2FkYVJlcXVlc3RTZXJ2aWNlIikK</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
