@@ -307,11 +307,11 @@
         <mark key="." line="22" column="106" />
         <mark key="^" line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1476087306200">
-        <mark key="[" line="77" column="84" />
-        <mark key="]" line="78" column="5" />
-        <mark key="." line="78" column="5" />
-        <mark key="^" line="78" column="5" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1476095467653">
+        <mark key="[" line="74" column="30" />
+        <mark key="]" line="74" column="37" />
+        <mark key="." line="74" column="37" />
+        <mark key="^" line="74" column="37" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed-service/app/controllers/TestWebsocketController.scala" timestamp="1469650793285">
         <mark key="[" line="24" column="44" />
@@ -534,7 +534,7 @@
         <mark key="." line="3" column="50" />
         <mark key="^" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadaRequestService.scala" timestamp="1476086653736">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadaRequestService.scala" timestamp="1476094284565">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="22" column="19" />
@@ -1259,10 +1259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text encoding="base64">b2N1cnJlZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text encoding="base64">b2N1cnJlZCA=</text>
       </register>
       <register name="/" type="4">
         <text>findBy</text>
@@ -1271,37 +1271,39 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogTWFrZSB0aGUgcmVxdWVzdCBhbmQgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB1cmkud2l0aFF1ZXJ5KGF1dGhRdWVyeVBhcmFtcyh0b2tlbi5kb21haW4sIHRva2VuLnRva2VuLnRva2VuKCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuU3VjY2Vzcwo=</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHNvdXJjZVNlbmRlcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>{
+          
+        }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuanNvbi5Kc29uCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgIGNhc2UgCiAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAubWFwKHhtbCA9PiBPayhKc29uLm9iaigicmVzcG9uc2UiIC0+IHhtbCkpKQo=</text>
+        <text encoding="base64">ICAgIAogICAgeC5tYXAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLkxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgIAogICAgeC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHguCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBGdXR1cmUuc3VjY2Vzc2Z1bCgiRmFrZSByZXNwb25zZSBmcm9tIEVsZG9TY2FkYVJlcXVlc3RTZXJ2aWNlIikK</text>
+        <text encoding="base64">ICAgIHguCg==</text>
       </register>
       <register name=":" type="4">
-        <text>6</text>
+        <text>67</text>
       </register>
     </registers>
     <search>
@@ -1335,7 +1337,6 @@
         <entry>findBy</entry>
       </history-search>
       <history-cmd>
-        <entry>42</entry>
         <entry>12</entry>
         <entry>!</entry>
         <entry>1</entry>
@@ -1347,7 +1348,6 @@
         <entry>66</entry>
         <entry>71</entry>
         <entry>30</entry>
-        <entry>67</entry>
         <entry>60</entry>
         <entry>35</entry>
         <entry>68</entry>
@@ -1355,6 +1355,8 @@
         <entry>13</entry>
         <entry>9</entry>
         <entry>6</entry>
+        <entry>73</entry>
+        <entry>67</entry>
       </history-cmd>
       <history-expr />
       <history-input />
