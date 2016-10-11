@@ -273,11 +273,11 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/AccountController.scala" timestamp="1475575331890">
-        <mark key="[" line="22" column="106" />
-        <mark key="]" line="22" column="106" />
-        <mark key="." line="22" column="106" />
-        <mark key="^" line="22" column="69" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/controllers/AccountController.scala" timestamp="1476186382906">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" timestamp="1476165815478">
         <mark key="[" line="117" column="2" />
@@ -841,7 +841,7 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/routes" timestamp="1474874093817">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/routes" timestamp="1476186378946">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="13" />
@@ -1131,14 +1131,14 @@
       <jump line="14" column="19" filename="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>Ok(xml))</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>Ok(xml))</text>
       </register>
       <register name="/" type="4">
-        <text>getDuration</text>
+        <text>NodeSeq</text>
       </register>
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
@@ -1183,15 +1183,14 @@
       </register>
     </registers>
     <search>
-      <last-search>getDuration</last-search>
+      <last-search>NodeSeq</last-search>
       <last-offset />
-      <last-pattern>getDuration</last-pattern>
+      <last-pattern>NodeSeq</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
         <entry>models</entry>
         <entry>MediaUpdated</entry>
         <entry>showMesia</entry>
@@ -1211,6 +1210,7 @@
         <entry>futureTime</entry>
         <entry>future</entry>
         <entry>getDuration</entry>
+        <entry>NodeSeq</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
