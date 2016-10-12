@@ -21,6 +21,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1476256610422">
+        <mark key="[" line="85" column="2" />
+        <mark key="]" line="85" column="2" />
+        <mark key="^" line="85" column="2" />
+        <mark key="." line="85" column="2" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/logger.js" timestamp="1466578313222">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="23" />
@@ -493,6 +499,12 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1476256677175">
+        <mark key="[" line="55" column="999" />
+        <mark key="]" line="55" column="36" />
+        <mark key="." line="55" column="999" />
+        <mark key="^" line="55" column="36" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1466408987903">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="13" column="35" />
@@ -655,7 +667,7 @@
         <mark key="." line="41" column="28" />
         <mark key="^" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1476253502155">
+      <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1476256379989">
         <mark key="'" line="41" column="23" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -1133,67 +1145,61 @@
       <jump line="76" column="23" filename="$USER_HOME$/Development/yazimedia/src/lib/has-offers/tracking-url-generator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFmZl9zdWI6ICJ7dHJhbnNhY3Rpb25faWR9IiwK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>Ok(xml))</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>NodeSeq</text>
+        <text>aff_id</text>
       </register>
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFmZl9zdWI6ICJ7dHJhbnNhY3Rpb25faWR9IiwK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IodXJsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgYWZmX3N1YjogJ3t0cmFuc2FjdGlvbl9pZH0nLAogICAgICAgICAgICAgIHN1Yl9pZDogJ3thZmZfc3ViNH0nLAogICAgICAgICAgICAgIHB1Yl9pZDogJ3tzb3VyY2V9JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFmZl9zdWI6ICJ7dHJhbnNhY3Rpb25faWR9IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>//    val scadaCredentials = ScadaConnectionCredentials(
-//      scadaConfig.getString(&quot;host&quot;),
-//      scadaConfig.getString(&quot;username&quot;),
-//      scadaConfig.getString(&quot;password&quot;),
-//      scadaConfig.getString(&quot;login-domain&quot;)
-//    )</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>42</text>
+        <text>92</text>
       </register>
     </registers>
     <search>
-      <last-search>NodeSeq</last-search>
+      <last-search>aff_id</last-search>
       <last-offset />
-      <last-pattern>NodeSeq</last-pattern>
+      <last-pattern>aff_id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>models</entry>
         <entry>MediaUpdated</entry>
         <entry>showMesia</entry>
         <entry>showMedia</entry>
@@ -1213,14 +1219,12 @@
         <entry>future</entry>
         <entry>getDuration</entry>
         <entry>NodeSeq</entry>
+        <entry>aff_id</entry>
       </history-search>
       <history-cmd>
-        <entry>41</entry>
-        <entry>13</entry>
         <entry>73</entry>
         <entry>67</entry>
         <entry>79</entry>
-        <entry>40</entry>
         <entry>24</entry>
         <entry>31</entry>
         <entry>t.</entry>
@@ -1235,6 +1239,9 @@
         <entry>!</entry>
         <entry>1</entry>
         <entry>42</entry>
+        <entry>36</entry>
+        <entry>40</entry>
+        <entry>92</entry>
       </history-cmd>
       <history-expr />
       <history-input />
