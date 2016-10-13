@@ -295,11 +295,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476341684499">
-        <mark key="[" line="85" column="18" />
-        <mark key="]" line="85" column="19" />
-        <mark key="." line="85" column="19" />
-        <mark key="^" line="111" column="28" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476342970191">
+        <mark key="[" line="111" column="10" />
+        <mark key="]" line="111" column="11" />
+        <mark key="." line="111" column="11" />
+        <mark key="^" line="111" column="9" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1476271249744">
         <mark key="'" line="15" column="19" />
@@ -1316,11 +1316,11 @@
       <jump line="14" column="35" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QW4g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzcG9uc2Ug</text>
+        <text encoding="base64">QW4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlcPg==</text>
