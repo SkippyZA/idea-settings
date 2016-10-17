@@ -545,7 +545,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476692520646">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476698969169">
         <mark key="[" line="87" column="18" />
         <mark key="]" line="88" column="105" />
         <mark key="." line="88" column="105" />
@@ -857,6 +857,11 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1476699130280">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/tokens/EldoScadaRequestToken.scala" timestamp="1474473499878">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="23" />
@@ -1158,7 +1163,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdAo=</text>
+        <text encoding="base64">Ly92YWwgc2MgPSBuZXcgamF2YS51dGlsLlNjYW5uZXIgKFN5c3RlbS5pbik7Ci8vdmFyIG4gPSBzYy5uZXh0SW50KCk7Ci8vdmFyIGsgPSBzYy5uZXh0SW50KCk7Ci8vdmFyIGEgPSBuZXcgQXJyYXlbSW50XShuKTsKCgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiBCb29sZWFuIA==</text>
@@ -1170,34 +1175,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdAo=</text>
+        <text encoding="base64">Ly92YWwgc2MgPSBuZXcgamF2YS51dGlsLlNjYW5uZXIgKFN5c3RlbS5pbik7Ci8vdmFyIG4gPSBzYy5uZXh0SW50KCk7Ci8vdmFyIGsgPSBzYy5uZXh0SW50KCk7Ci8vdmFyIGEgPSBuZXcgQXJyYXlbSW50XShuKTsKCgo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">CnZhbCBuID0gNQp2YWwgayA9IDMKdmFyIGEgPSBBcnJheSgxLCAyLCAzLCA0LCA1KQoKZGVmIHJvdGF0ZShhOiBBcnJheVtJbnRdLCBrOiBJbnQpOiBBcnJheVtJbnRdID0gewogIGlmKGsgPiAwKSB7CiAgICByb3RhdGUoYS50YWlsICsrIEFycmF5KGEuaGVhZCksIGsgLSAxKQogIH0gZWxzZSB7CiAgICBhCiAgfQp9CgpwcmludGxuKHJvdGF0ZShhLCBrKS5ta1N0cmluZygiICIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmQoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cm9iamVjdCBTY2FkYVJlcXVlc3RBZGFwdGVyIHsKICB0cmFpdCBGYWN0b3J5IHsKICAgIGRlZiBhcHBseSh0aW1lb3V0OiBUaW1lb3V0KTogQWN0b3IKICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yKGFfaSA8LSAwIHRvIG4tMSkgewogIGEoYV9pKSA9IHNjLm5leHRJbnQoKTsKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmVxdWVzdAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgID8/Pwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRpbWVvdXQgZm9yIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRpbWVvdXQgZm9yIAogICAgYmluZChjbGFzc09mW1RpbWVvdXRdKS5hbm5vdGF0ZWRXaXRoKE5hbWVzLm5hbWVkKCJ0aW1lb3V0IikpLnRvSW5zdGFuY2UodGltZW91dCkK</text>
+        <text encoding="base64">ICAgIGJpbmQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>88</text>
