@@ -545,11 +545,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476684709751">
-        <mark key="[" line="14" column="57" />
-        <mark key="]" line="14" column="56" />
-        <mark key="." line="14" column="56" />
-        <mark key="^" line="14" column="56" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476692520646">
+        <mark key="[" line="87" column="18" />
+        <mark key="]" line="88" column="105" />
+        <mark key="." line="88" column="105" />
+        <mark key="^" line="88" column="105" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1476445266005">
         <mark key="'" line="19" column="19" />
@@ -1157,11 +1157,11 @@
       <jump line="102" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVxdWVzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">OiBCb29sZWFuIA==</text>
       </register>
       <register name="/" type="4">
         <text>assisted</text>
@@ -1170,37 +1170,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdAo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmQoKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cm9iamVjdCBTY2FkYVJlcXVlc3RBZGFwdGVyIHsKICB0cmFpdCBGYWN0b3J5IHsKICAgIGRlZiBhcHBseSh0aW1lb3V0OiBUaW1lb3V0KTogQWN0b3IKICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJpbmQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRpbWVvdXQgZm9yIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cm9iamVjdCBTY2FkYVJlcXVlc3RBZGFwdGVyIHsKICB0cmFpdCBGYWN0b3J5IHsKICAgIGRlZiBhcHBseSh0aW1lb3V0OiBUaW1lb3V0KTogQWN0b3IKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRpbWVvdXQgZm9yIAogICAgYmluZChjbGFzc09mW1RpbWVvdXRdKS5hbm5vdGF0ZWRXaXRoKE5hbWVzLm5hbWVkKCJ0aW1lb3V0IikpLnRvSW5zdGFuY2UodGltZW91dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIC8vIFRpbWVvdXQgZm9yIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICAqIAo=</text>
+        <text encoding="base64">ICAgIC8vIFRpbWVvdXQgZm9yIAogICAgYmluZChjbGFzc09mW1RpbWVvdXRdKS5hbm5vdGF0ZWRXaXRoKE5hbWVzLm5hbWVkKCJ0aW1lb3V0IikpLnRvSW5zdGFuY2UodGltZW91dCkK</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>88</text>
       </register>
     </registers>
     <search>
@@ -1234,8 +1234,6 @@
         <entry>assisted</entry>
       </history-search>
       <history-cmd>
-        <entry>57</entry>
-        <entry>25</entry>
         <entry>76</entry>
         <entry>69</entry>
         <entry>5</entry>
@@ -1254,6 +1252,8 @@
         <entry>12</entry>
         <entry>29</entry>
         <entry>3</entry>
+        <entry>84</entry>
+        <entry>88</entry>
       </history-cmd>
       <history-expr />
       <history-input />
