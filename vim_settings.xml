@@ -503,11 +503,11 @@
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/XmlHttpRequest.scala" timestamp="1476431256383">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/XmlHttpRequest.scala" timestamp="1476685668649">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/app/traits/Database.scala" timestamp="1473018589413">
         <mark key="[" line="7" column="25" />
@@ -815,6 +815,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/XmlHttpRequester.scala" timestamp="1476685741139">
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1466576942442">
         <mark key="[" line="23" column="59" />
