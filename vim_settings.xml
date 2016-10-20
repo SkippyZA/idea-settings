@@ -545,11 +545,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476953956301">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476961197434">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
         <mark key="^" line="112" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1476445266005">
         <mark key="'" line="19" column="19" />
@@ -1162,8 +1162,8 @@
       <jump line="102" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sender</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sender</text>
@@ -1175,34 +1175,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CgoKCgogICAgLy8gRG8gd2UgaGF2ZSBhIGN1cnJlbnQgdG9rZW4/CiAgICAvLyBObyAtIFJlcXVlc3QgYW5kIGJsb2NrCiAgICAvLyBZZXMKICAgIC8vIC0gZG9lcyBpdCBuZWVkIHRvIGJlIHJlZnJlc2hlZD8KICAgIC8vICAgLSByZXF1ZXN0IGFzeW5jIGFuZCByZXBsYWNlIHRva2VuCiAgICAvLyAtIHJldHVybiBrZXkKCiAgICAvLyAgICAgIC8vIFVzZSB0aGUgdG9rZW4sIG9yIHJlcXVlc3QgYSBuZXcgb25lIGlmIGl0IGRvZXMgbm90IGV4aXN0LgogICAgLy8gICAgICByZXF1ZXN0VG9rZW4gb3JFbHNlIHsKICAgIC8vICAgICAgICAvLyBSZXF1ZXN0IGEgbmV3IHRva2VuLiBXZSBzaGFsbCBibG9jayB1bnRpbCB3ZSBnZXQgYSByZXNwb25zZSBzbyB3ZSBjYW4gc2VuZCBiYWNrIGEgdmFsaWQgdG9rZW4gcmVzcG9uc2UsIG9yCiAgICAvLyAgICAgICAgLy8gbm90aWZ5IHRoZSBzZW5kZXIgdGhhdCB0aGUgdG9rZW4gaXMgaW52YWxpZC4KICAgIC8vICAgICAgICB2YWwgbmV3VG9rZW4gPSByZXF1ZXN0TmV3VG9rZW4oKS5tYXAoXy5mb2xkKAogICAgLy8gICAgICAgICAgZXJyID0+IHsKICAgIC8vICAgICAgICAgICAgbG9nLmVycm9yKHMiVW5hYmxlIHRvIGZldGNoIHJlcXVlc3QgdG9rZW4gZnJvbSBFbGRvJ3Mgc2NhZGEgc2VydmljZS4gUmVjZWl2ZWQgcmVzcG9uc2U6ICRlcnIiKQogICAgLy8gICAgICAgICAgICBOb25lCiAgICAvLyAgICAgICAgICB9LAogICAgLy8gICAgICAgICAgbWVtaCA9PiB7CiAgICAvLyAgICAgICAgICAgIHJlcXVlc3RUb2tlbiA9IFNvbWUoRWxkb1NjYWRhUmVxdWVzdFRva2VuKG1lbWgpKQogICAgLy8gICAgICAgICAgICByZXF1ZXN0VG9rZW4KICAgIC8vICAgICAgICAgIH0KICAgIC8vICAgICAgICApKQogICAgLy8KICAgIC8vICAgICAgICAvLyBBd2FpdCB0aGUgcmVzdWx0LCBtYWtpbmcgdGhpcyBibG9jawogICAgLy8gICAgICAgIEF3YWl0LnJlc3VsdChuZXdUb2tlbiwgdGltZW91dCkKICAgIC8vICAgICAgfSBtYXRjaCB7CiAgICAvLyAgICAgICAgY2FzZSBTb21lKHQpID0+IHNlbmRlciAhIFZhbGlkVG9rZW4odCwgY3JlZGVudGlhbHMuZG9tYWluKQogICAgLy8gICAgICAgIGNhc2UgTm9uZSA9PiBzZW5kZXIgISBJbnZhbGlkVG9rZW4KICAgIC8vICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHsKICAgICAgICBjYXNlIAogICAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">dG9rZW4gPT4KICAgICAgICB0b2s=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaWYoaXNUb2tlblZhbGlkKHJlcXVlc3RUb2tlbikpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdFRva2VuLmZpbHRlck5vdChpc1Rva2VuVmFsaWQpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gVGhpcyBlbnN1cmVzIHRva2VuIGFsd2EK</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdFRva2VuLmZpbHRlck5vdChpc1Rva2VuVmFsaWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>123</text>
