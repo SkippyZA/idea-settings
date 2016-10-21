@@ -412,6 +412,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1477036980405">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadeRequestService.scala" timestamp="1476083421045">
         <mark key="'" line="17" column="32" />
         <mark key="[" line="23" column="42" />
@@ -545,12 +551,13 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477035467810">
-        <mark key="e" line="112" column="23" />
-        <mark key="[" line="146" column="8" />
-        <mark key="]" line="146" column="11" />
-        <mark key="." line="146" column="11" />
-        <mark key="^" line="146" column="11" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477037618235">
+        <mark key="e" line="116" column="23" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="108" column="48" />
+        <mark key="]" line="108" column="56" />
+        <mark key="." line="108" column="56" />
+        <mark key="^" line="108" column="56" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1476445266005">
         <mark key="'" line="19" column="19" />
@@ -1061,7 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
       <jump line="18" column="78" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/services/WatchService.scala" />
       <jump line="2" column="20" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
       <jump line="26" column="13" filename="$USER_HOME$/Development/crowdcaster-embed-service/app/models/Oplog.scala" />
@@ -1161,64 +1167,64 @@
       <jump line="118" column="111" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" />
       <jump line="102" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>1 * 60 * 1000</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>1 * 60 * 1000</text>
       </register>
       <register name="/" type="4">
-        <text>assisted</text>
+        <text>Interval</text>
       </register>
       <register name="0" type="4">
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZy5lcnJvcihpbnRlcnZhbC50b0R1cmF0aW9uLmdldE1pbGxpcy50b1N0cmluZykKCg==</text>
+        <text encoding="base64">dmFsIGludGVydmFsID0gbmV3IEludGVydmFsKCkK</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuU3VjY2VzcwovL2ltcG9ydCBsaWJyYXJ5LlNjYWRhUmVxdWVzdEFkYXB0ZXIuYWN0b3JzLlRva2VuQWN0b3Iue0ludmFsaWRUb2tlbiwgUmVxdWVzdFRva2VuLCBWYWxpZFRva2VufQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2cudHJhY2UoIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0VG9rZW4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgoKCgogICAgLy8gRG8gd2UgaGF2ZSBhIGN1cnJlbnQgdG9rZW4/CiAgICAvLyBObyAtIFJlcXVlc3QgYW5kIGJsb2NrCiAgICAvLyBZZXMKICAgIC8vIC0gZG9lcyBpdCBuZWVkIHRvIGJlIHJlZnJlc2hlZD8KICAgIC8vICAgLSByZXF1ZXN0IGFzeW5jIGFuZCByZXBsYWNlIHRva2VuCiAgICAvLyAtIHJldHVybiBrZXkKCiAgICAvLyAgICAgIC8vIFVzZSB0aGUgdG9rZW4sIG9yIHJlcXVlc3QgYSBuZXcgb25lIGlmIGl0IGRvZXMgbm90IGV4aXN0LgogICAgLy8gICAgICByZXF1ZXN0VG9rZW4gb3JFbHNlIHsKICAgIC8vICAgICAgICAvLyBSZXF1ZXN0IGEgbmV3IHRva2VuLiBXZSBzaGFsbCBibG9jayB1bnRpbCB3ZSBnZXQgYSByZXNwb25zZSBzbyB3ZSBjYW4gc2VuZCBiYWNrIGEgdmFsaWQgdG9rZW4gcmVzcG9uc2UsIG9yCiAgICAvLyAgICAgICAgLy8gbm90aWZ5IHRoZSBzZW5kZXIgdGhhdCB0aGUgdG9rZW4gaXMgaW52YWxpZC4KICAgIC8vICAgICAgICB2YWwgbmV3VG9rZW4gPSByZXF1ZXN0TmV3VG9rZW4oKS5tYXAoXy5mb2xkKAogICAgLy8gICAgICAgICAgZXJyID0+IHsKICAgIC8vICAgICAgICAgICAgbG9nLmVycm9yKHMiVW5hYmxlIHRvIGZldGNoIHJlcXVlc3QgdG9rZW4gZnJvbSBFbGRvJ3Mgc2NhZGEgc2VydmljZS4gUmVjZWl2ZWQgcmVzcG9uc2U6ICRlcnIiKQogICAgLy8gICAgICAgICAgICBOb25lCiAgICAvLyAgICAgICAgICB9LAogICAgLy8gICAgICAgICAgbWVtaCA9PiB7CiAgICAvLyAgICAgICAgICAgIHJlcXVlc3RUb2tlbiA9IFNvbWUoRWxkb1NjYWRhUmVxdWVzdFRva2VuKG1lbWgpKQogICAgLy8gICAgICAgICAgICByZXF1ZXN0VG9rZW4KICAgIC8vICAgICAgICAgIH0KICAgIC8vICAgICAgICApKQogICAgLy8KICAgIC8vICAgICAgICAvLyBBd2FpdCB0aGUgcmVzdWx0LCBtYWtpbmcgdGhpcyBibG9jawogICAgLy8gICAgICAgIEF3YWl0LnJlc3VsdChuZXdUb2tlbiwgdGltZW91dCkKICAgIC8vICAgICAgfSBtYXRjaCB7CiAgICAvLyAgICAgICAgY2FzZSBTb21lKHQpID0+IHNlbmRlciAhIFZhbGlkVG9rZW4odCwgY3JlZGVudGlhbHMuZG9tYWluKQogICAgLy8gICAgICAgIGNhc2UgTm9uZSA9PiBzZW5kZXIgISBJbnZhbGlkVG9rZW4KICAgIC8vICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGxvZy5lcnJvcihpbnRlcnZhbC50b0R1cmF0aW9uLmdldE1pbGxpcy50b1N0cmluZykKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>123</text>
+        <text>108</text>
       </register>
     </registers>
     <search>
-      <last-search>assisted</last-search>
+      <last-search>Interval</last-search>
       <last-offset />
-      <last-pattern>assisted</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Interval</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>l1</entry>
         <entry>update</entry>
         <entry>service</entry>
         <entry>synchro</entry>
@@ -1238,10 +1244,9 @@
         <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry>private</entry>
         <entry>assisted</entry>
+        <entry>Interval</entry>
       </history-search>
       <history-cmd>
-        <entry>27</entry>
-        <entry>12</entry>
         <entry>29</entry>
         <entry>3</entry>
         <entry>128</entry>
@@ -1253,13 +1258,15 @@
         <entry>87</entry>
         <entry>100</entry>
         <entry>96</entry>
-        <entry>t.</entry>
         <entry>101</entry>
         <entry>82</entry>
         <entry>104</entry>
         <entry>109</entry>
         <entry>w</entry>
         <entry>123</entry>
+        <entry>1</entry>
+        <entry>t.</entry>
+        <entry>108</entry>
       </history-cmd>
       <history-expr />
       <history-input />
