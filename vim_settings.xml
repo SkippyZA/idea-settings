@@ -551,13 +551,13 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477037618235">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477039697352">
         <mark key="e" line="116" column="23" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="48" />
-        <mark key="]" line="108" column="56" />
-        <mark key="." line="108" column="56" />
-        <mark key="^" line="108" column="56" />
+        <mark key="[" line="108" column="45" />
+        <mark key="]" line="108" column="45" />
+        <mark key="." line="108" column="45" />
+        <mark key="^" line="108" column="45" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1476445266005">
         <mark key="'" line="19" column="19" />
@@ -1171,10 +1171,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1 * 60 * 1000</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>1 * 60 * 1000</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>Interval</text>
