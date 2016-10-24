@@ -96,6 +96,7 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/rxamqptest/src/test.js" timestamp="1477289955852" />
       <file name="$USER_HOME$/Development/helios/svc-patient/conf/evolutions/helios-patent/1.sql" timestamp="1471121966852">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -138,7 +139,7 @@
         <mark key="^" line="45" column="100" />
         <mark key="." line="45" column="100" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/logback.xml" timestamp="1477051768211">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/logback.xml" timestamp="1477289544102">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="19" />
@@ -332,7 +333,6 @@
         <mark key="^" line="16" column="111" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" timestamp="1477051608630" />
       <file name="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" timestamp="1473933715231">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -539,6 +539,12 @@
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/rxamqptest/node_modules/rx-amqplib/package.json" timestamp="1477289998944">
+        <mark key="[" line="80" column="11" />
+        <mark key="]" line="80" column="11" />
+        <mark key="." line="80" column="11" />
+        <mark key="^" line="80" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1469609733270">
         <mark key="[" line="7" column="0" />
@@ -853,6 +859,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/rxamqptest/node_modules/rx-amqplib/index.js" timestamp="1477289923678">
+        <mark key="[" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/tokens/EldoScadaRequestToken.scala" timestamp="1474473499878">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="23" />
@@ -1154,10 +1163,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INFO</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Interval</text>
