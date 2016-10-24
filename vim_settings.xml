@@ -1015,6 +1015,11 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/rxamqptest/package.json" timestamp="1477290909141">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1476271223375">
         <mark key="'" line="26" column="40" />
         <mark key="[" line="18" column="32" />
