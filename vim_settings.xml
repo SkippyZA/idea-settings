@@ -552,11 +552,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477302516615">
-        <mark key="[" line="86" column="55" />
-        <mark key="]" line="86" column="73" />
-        <mark key="^" line="86" column="73" />
-        <mark key="." line="86" column="73" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477305345991">
+        <mark key="[" line="99" column="14" />
+        <mark key="]" line="100" column="33" />
+        <mark key="^" line="100" column="33" />
+        <mark key="." line="100" column="33" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/conf/routes" timestamp="1473509401247">
         <mark key="[" line="1" column="6" />
@@ -1172,10 +1172,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>abcd</text>
+        <text encoding="base64">d2l0aCBBY3RvckxvZ2dlciA=</text>
       </register>
       <register name="-" type="4">
-        <text>abcd</text>
+        <text encoding="base64">d2l0aCBBY3RvckxvZ2dlciA=</text>
       </register>
       <register name="/" type="4">
         <text>Interval</text>
@@ -1184,37 +1184,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBzb3VyY2VTZW5kZXIgISBWYWxpZFRva2VuKEVsZG9TY2FkYVJlcXVlc3RUb2tlbigiMTI4NDk3ODQwNTMzMDM5NzUzMCIpLCBjcmVkZW50aWFscy5kb21haW4pCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHNvdXJjZVNlbmRlciA9IHNlbmRlcgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgcmVjZWl2ZSA9IHsKICAgIGNhc2UgVG9rZW5BY3Rvci5SZXF1ZXN0VG9rZW4gPT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzdGF0ZSA9IFRva2VuU3RhdGUuSW52YWxpZFRva2VuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGFydFdpdGgoTm9Ub2tlbiwgKQoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIERhdGEoaTogSW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuRlNNLlN0YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>90</text>
+        <text>78</text>
       </register>
     </registers>
     <search>
@@ -1248,8 +1248,6 @@
         <entry>Interval</entry>
       </history-search>
       <history-cmd>
-        <entry>82</entry>
-        <entry>104</entry>
         <entry>109</entry>
         <entry>w</entry>
         <entry>123</entry>
@@ -1268,6 +1266,8 @@
         <entry>72</entry>
         <entry>143</entry>
         <entry>90</entry>
+        <entry>95</entry>
+        <entry>78</entry>
       </history-cmd>
       <history-expr />
       <history-input />
