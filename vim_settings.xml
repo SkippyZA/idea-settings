@@ -97,6 +97,11 @@
         <mark key="^" line="69" column="5" />
       </file>
       <file name="$USER_HOME$/Development/rxamqptest/src/test.js" timestamp="1477289955852" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/eldo/EldoScadaRequestToken.scala" timestamp="1477475649249">
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/conf/evolutions/helios-patent/1.sql" timestamp="1471121966852">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -393,12 +398,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/application.conf" timestamp="1477471771105">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/conf/application.conf" timestamp="1477477599673">
         <mark key="'" line="42" column="12" />
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="47" column="35" />
-        <mark key="." line="47" column="35" />
-        <mark key="^" line="47" column="35" />
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Meta.scala" timestamp="1475053701587">
         <mark key="[" line="37" column="53" />
@@ -557,17 +562,23 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477472607801">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="87" column="5" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477478045552">
+        <mark key="[" line="88" column="8" />
+        <mark key="]" line="88" column="13" />
+        <mark key="^" line="88" column="13" />
+        <mark key="." line="88" column="13" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/conf/routes" timestamp="1473509401247">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/Module.scala" timestamp="1477477821743">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="98" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="42" column="44" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
         <mark key="[" line="16" column="46" />
@@ -1036,11 +1047,11 @@
         <mark key="^" line="40" column="34" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/RequestToken.scala" timestamp="1476184385917">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="50" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/RequestToken.scala" timestamp="1477475581826">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadaRequestService.scala" timestamp="1476176432705">
         <mark key="[" line="14" column="19" />
@@ -1176,11 +1187,11 @@
       <jump line="69" column="12" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgdG9rZW5SZWZyZXNoVGltZTogT3B0aW9uW0RhdGVUaW1lXSA9IE5vbmUK</text>
+      <register name="&quot;" type="4">
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text>Interval</text>
@@ -1189,37 +1200,37 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgdG9rZW5SZWZyZXNoVGltZTogT3B0aW9uW0RhdGVUaW1lXSA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY291bnQgPSBjb3VudCArIDEKCiAgICAgIGlmKGNvdW50ID4gNSkgewogICAgICAgIGNvdW50ID0gMAogICAgICAgIHJlcXVlc3RUb2tlbiA9IE5vbmUKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCB0b2tlblR0bCA9IGNvbmZpZ3VyYXRpb24uZ2V0TWlsbGlzZWNvbmRzKCJoZXJtZXMuc2NhZGEudG9rZW4tdHRsIikubWFwKF8ubWlsbGlzZWNvbmRzKS5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgdmFyIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbmZpZyBiaW5kaW5ncwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2VybmFtZSA9ICIiCiAgcGFzc3dvcmQgPSAiIgogIGxvZ2luLWRvbWFpbiA9ICIiCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5tYXAgeyB4ID0+CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5tYXAgeyB4ID0+CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgeC5tYXAK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>46</text>
+        <text>89</text>
       </register>
     </registers>
     <search>
@@ -1253,15 +1264,8 @@
         <entry>Interval</entry>
       </history-search>
       <history-cmd>
-        <entry>108</entry>
-        <entry>1</entry>
-        <entry>50</entry>
-        <entry>25</entry>
-        <entry>3</entry>
-        <entry>119</entry>
         <entry>121</entry>
         <entry>134</entry>
-        <entry>6</entry>
         <entry>73</entry>
         <entry>74</entry>
         <entry>72</entry>
@@ -1273,6 +1277,13 @@
         <entry>98</entry>
         <entry>87</entry>
         <entry>46</entry>
+        <entry>6</entry>
+        <entry>22</entry>
+        <entry>15</entry>
+        <entry>86</entry>
+        <entry>110</entry>
+        <entry>50</entry>
+        <entry>89</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -1,47 +1,8 @@
 <code_scheme name="Default (1)">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="false" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
-    </value>
-  </option>
   <ScalaCodeStyleSettings>
-    <option name="importMembersUsingUnderScore" value="false" />
-    <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
-    <option name="SPACES_IN_IMPORTS" value="true" />
     <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
+    <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
+    <option name="SD_KEEP_BLANK_LINES_BETWEEN_TAGS" value="true" />
+    <option name="SD_PRESERVE_SPACES_IN_TAGS" value="true" />
   </ScalaCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
-  <codeStyleSettings language="HTML">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Scala">
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-  </codeStyleSettings>
-  <codeStyleSettings language="XML">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
