@@ -561,11 +561,10 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477904578654">
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="88" column="13" />
-        <mark key="^" line="88" column="13" />
-        <mark key="." line="88" column="13" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1477990720522">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/conf/routes" timestamp="1473509401247">
         <mark key="[" line="1" column="6" />
@@ -1185,8 +1184,8 @@
       <jump line="69" column="12" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>???</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgSHR0cFJlcXVlc3RTZXJ2aWNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>???</text>
@@ -1198,34 +1197,34 @@
         <text>Oplog.apply, unlift(Oplog.unapply)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgSHR0cFJlcXVlc3RTZXJ2aWNlCg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB0b2tlblR0bCA9IGNvbmZpZ3VyYXRpb24uZ2V0TWlsbGlzZWNvbmRzKCJoZXJtZXMuc2NhZGEudG9rZW4tdHRsIikubWFwKF8ubWlsbGlzZWNvbmRzKS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbmZpZyBiaW5kaW5ncwoK</text>
+        <text encoding="base64">ICAgIHZhbCB0b2tlblR0bCA9IGNvbmZpZ3VyYXRpb24uZ2V0TWlsbGlzZWNvbmRzKCJoZXJtZXMuc2NhZGEudG9rZW4tdHRsIikubWFwKF8ubWlsbGlzZWNvbmRzKS5nZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbmZpZyBiaW5kaW5ncwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
