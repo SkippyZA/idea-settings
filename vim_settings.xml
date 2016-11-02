@@ -344,10 +344,11 @@
         <mark key="^" line="16" column="111" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" timestamp="1477471635635">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" timestamp="1478076142797">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="31" column="72" />
+        <mark key="." line="31" column="72" />
+        <mark key="^" line="31" column="72" />
       </file>
       <file name="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" timestamp="1473933715231">
         <mark key="[" line="7" column="0" />
@@ -574,12 +575,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1478073354157">
-        <mark key="'" line="123" column="4" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="55" column="92" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1478076099163">
+        <mark key="'" line="127" column="4" />
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="61" column="109" />
+        <mark key="." line="61" column="109" />
+        <mark key="^" line="61" column="109" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/conf/routes" timestamp="1473509401247">
         <mark key="[" line="1" column="6" />
@@ -1241,7 +1242,7 @@
         <text encoding="base64">dHJhaXQgQWtrYQo=</text>
       </register>
       <register name=":" type="4">
-        <text>131</text>
+        <text>31</text>
       </register>
     </registers>
     <search>
@@ -1275,7 +1276,6 @@
         <entry>Interval</entry>
       </history-search>
       <history-cmd>
-        <entry>74</entry>
         <entry>72</entry>
         <entry>143</entry>
         <entry>90</entry>
@@ -1295,6 +1295,7 @@
         <entry>155</entry>
         <entry>16</entry>
         <entry>131</entry>
+        <entry>31</entry>
       </history-cmd>
       <history-expr />
       <history-input />
