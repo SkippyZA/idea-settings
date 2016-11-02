@@ -575,11 +575,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1478084375283">
-        <mark key="'" line="130" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1478084482896">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="177" />
+        <mark key="." line="75" column="0" />
         <mark key="^" line="60" column="121" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/conf/routes" timestamp="1473509401247">
@@ -1243,7 +1243,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>31</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
@@ -1277,7 +1277,6 @@
         <entry>Interval</entry>
       </history-search>
       <history-cmd>
-        <entry>72</entry>
         <entry>143</entry>
         <entry>90</entry>
         <entry>78</entry>
@@ -1297,6 +1296,7 @@
         <entry>16</entry>
         <entry>131</entry>
         <entry>31</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
