@@ -5,4 +5,11 @@
     <option name="SD_KEEP_BLANK_LINES_BETWEEN_TAGS" value="true" />
     <option name="SD_PRESERVE_SPACES_IN_TAGS" value="true" />
   </ScalaCodeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
