@@ -885,11 +885,6 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1476699742878">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/rxamqptest/node_modules/rx-amqplib/index.js" timestamp="1477289923678">
         <mark key="[" line="0" column="13" />
       </file>
@@ -1034,6 +1029,7 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/Hi.scala" timestamp="1478778424687" />
       <file name="$USER_HOME$/Development/embed-service/spec/unit/lib/key-generator-spec.js" timestamp="1467276040018">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1045,11 +1041,6 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/rxamqptest/package.json" timestamp="1477290909141">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1476271223375">
         <mark key="'" line="26" column="40" />
