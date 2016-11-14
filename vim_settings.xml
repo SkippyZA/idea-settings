@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/DaySampleCollection.scala" timestamp="1479104291056">
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/DaySampleCollection.scala" timestamp="1479106765581">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="5" />
@@ -479,12 +479,12 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/Hi.scala" timestamp="1478865398395">
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/Hi.scala" timestamp="1479106853288">
         <mark key="'" line="30" column="61" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="42" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/RequestToken.scala" timestamp="1477475581826">
         <mark key="[" line="15" column="0" />
@@ -531,11 +531,11 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/models/CcvSampleRepositoryTest.scala" timestamp="1478866848660">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="35" column="73" />
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/models/CcvSampleRepositoryTest.scala" timestamp="1479106611430">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="47" column="74" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1471864033947">
         <mark key="[" line="391" column="4" />
@@ -756,12 +756,12 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/CcvSampleRepository.scala" timestamp="1479104380100">
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/CcvSampleRepository.scala" timestamp="1479106785917">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="46" column="56" />
+        <mark key="[" line="6" column="90" />
+        <mark key="]" line="6" column="90" />
+        <mark key="^" line="6" column="90" />
+        <mark key="." line="6" column="90" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/assets/js/classList.polyfill.js" timestamp="1467412927410">
         <mark key="[" line="15" column="61" />
@@ -1189,11 +1189,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/CcvSampleRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[Integer]</text>
       </register>
       <register name="-" type="4">
-        <text>, 0, 0</text>
+        <text>[Integer]</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
@@ -1211,28 +1211,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAiYWJjIiBzaG91bGQgInh5eiIgaW4gewogICAgICBhc3NlcnQoZmFsc2UpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB1bnJvdW5kZWRNaW51dGVzID0gdGltZS5nZXRNaW51dGUKICAgIHZhbCBtb2QgPSB1bnJvdW5kZWRNaW51dGVzICUgMzAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzYW1wbGUgPSAKCiAgICBzYW1wbGUgbXVzdEJlIFNvbWUoMSkK</text>
+        <text encoding="base64">ICAgIHZhbCBjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdFJlc3VsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qCiAgICAgIERhdGUgd2hhdGV2ZXJEYXRlWW91V2FudCA9IG5ldyBEYXRlKCk7CiAgICAgIENhbGVuZGFyIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgY2FsZW5kYXIuc2V0VGltZSh3aGF0ZXZlckRhdGVZb3VXYW50KTsKCiAgICAgIGludCB1bnJvdW5kZWRNaW51dGVzID0gY2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1JTlVURSk7CiAgICAgIGludCBtb2QgPSB1bnJvdW5kZWRNaW51dGVzICUgMTU7CiAgICAgIGNhbGVuZGFyLmFkZChDYWxlbmRhci5NSU5VVEUsIG1vZCA8IDggPyAtbW9kIDogKDE1LW1vZCkpOwogICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlRWFjaCgpOiBVbml0ID0gewoKICB9Cgo=</text>
+        <text encoding="base64">ICAgIHRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name=":" type="4">
-        <text>9</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1280,12 +1280,12 @@
         <entry>!5</entry>
         <entry>15</entry>
         <entry>3</entry>
-        <entry>w</entry>
-        <entry>38</entry>
         <entry>78</entry>
         <entry>7</entry>
         <entry>t.</entry>
         <entry>9</entry>
+        <entry>38</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
