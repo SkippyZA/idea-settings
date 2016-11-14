@@ -662,6 +662,12 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/GenerationSampleRepository.scala" timestamp="1479122910515">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="4" column="103" />
+        <mark key="." line="4" column="103" />
+        <mark key="^" line="4" column="103" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/FeedRepository.scala" timestamp="1474998733798">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="19" />
@@ -1247,11 +1253,11 @@
       <jump line="68" column="11" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/HashMapSampleRepositoryTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+      <register name="&quot;" type="4">
+        <text>import HashMapSampleRepository[Double]</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>import HashMapSampleRepository[Double]</text>
       </register>
       <register name="/" type="4">
         <text>userId</text>
@@ -1260,34 +1266,34 @@
         <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHN0ZXZlbiBvbiAyMDE2LzExLzE0LgogICovCg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAovLyAgICBmaWx0ZXJDb2xsZWN0aW9uKHNhbXBsZUNvbGxlY3Rpb24uZmlsdGVyS2V5cyhfID09IGFjY291bnRJZCkudmFsdWVzLmhlYWQsIGRhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAovLyAgICBmaWx0ZXJDb2xsZWN0aW9uKHNhbXBsZUNvbGxlY3Rpb24uZmlsdGVyS2V5cyhfID09IGFjY291bnRJZCkudmFsdWVzLmhlYWQsIGRhdGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAgZGVmIGRheVNhbXBsZXMoYWNjb3VudElkOiBBY2NvdW50SWQsIGRhdGU6IExvY2FsRGF0ZSk6IE9wdGlvbltIYXNoTWFwW0xvY2FsVGltZSwgVF1dID0gZmlsdGVyQ29sbGVjdGlvbihzYW1wbGVDb2xsZWN0aW9uLmhlYWQsIGRhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChhY2NvdW50MVNhbXBsZSA9PSAxKQo=</text>
+        <text encoding="base64">ICAvLyAgZGVmIGRheVNhbXBsZXMoYWNjb3VudElkOiBBY2NvdW50SWQsIGRhdGU6IExvY2FsRGF0ZSk6IE9wdGlvbltIYXNoTWFwW0xvY2FsVGltZSwgVF1dID0gZmlsdGVyQ29sbGVjdGlvbihzYW1wbGVDb2xsZWN0aW9uLmhlYWQsIGRhdGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChhY2NvdW50MVNhbXBsZSA9PSAxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHByb3RlY3RlZCBpbXBsaWNpdCBkZWYgY29udmVydFRvSW5BbmRJZ25vcmVNZXRob2RzKHJlc3VsdE9mU3RyaW5nUGFzc2VkVG9WZXJiOiBfcm9vdF8ub3JnLnNjYWxhdGVzdC53b3Jkcy5SZXN1bHRPZlN0cmluZ1Bhc3NlZFRvVmVyYik6IEhhc2hNYXBTYW1wbGVSZXBvc2l0b3J5VGVzdC50aGlzLkluQW5kSWdub3JlTWV0aG9kcyA9IHN1cGVyLmNvbnZlcnRUb0luQW5kSWdub3JlTWV0aG9kcygK</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHByb3RlY3RlZCBpbXBsaWNpdCBkZWYgY29udmVydFRvSW5BbmRJZ25vcmVNZXRob2RzKHJlc3VsdE9mU3RyaW5nUGFzc2VkVG9WZXJiOiBfcm9vdF8ub3JnLnNjYWxhdGVzdC53b3Jkcy5SZXN1bHRPZlN0cmluZ1Bhc3NlZFRvVmVyYik6IEhhc2hNYXBTYW1wbGVSZXBvc2l0b3J5VGVzdC50aGlzLkluQW5kSWdub3JlTWV0aG9kcyA9IHN1cGVyLmNvbnZlcnRUb0luQW5kSWdub3JlTWV0aG9kcygK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
