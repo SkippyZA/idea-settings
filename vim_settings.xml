@@ -264,6 +264,12 @@
         <mark key="^" line="72" column="25" />
         <mark key="." line="72" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/HashMapSampleRepository.scala" timestamp="1479109049552">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/src/lib/has-offers/find-all-to-offer.js" timestamp="1469430267514">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
@@ -396,6 +402,11 @@
         <mark key="]" line="35" column="18" />
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1476699742878">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/DailyBreakdownResponse.scala" timestamp="1478861287777">
         <mark key="'" line="77" column="2" />
@@ -666,6 +677,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="31" column="78" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/.gitignore" timestamp="1479108418150">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1471248949165">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="25" column="15" />
@@ -756,9 +772,9 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/CcvSampleRepository.scala" timestamp="1479106785917">
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/models/CcvSampleRepository.scala" timestamp="1479109004999">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="90" />
+        <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="90" />
         <mark key="^" line="6" column="90" />
         <mark key="." line="6" column="90" />
@@ -1006,6 +1022,12 @@
         <mark key="." line="10" column="116" />
         <mark key="^" line="10" column="116" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/models/HashMapSampleRepositoryTest.scala" timestamp="1479109089986">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-diabetic/app/controllers/HomeController.scala" timestamp="1473509373242">
         <mark key="[" line="13" column="54" />
         <mark key="]" line="13" column="54" />
@@ -1078,6 +1100,11 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/rxamqptest/package.json" timestamp="1477290909141">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/ScadaRequestAdapter/models/ScadaConnectionCredentials.scala" timestamp="1476177287513">
         <mark key="[" line="26" column="7" />
@@ -1190,10 +1217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[Integer]</text>
+        <text encoding="base64">Q0NWIA==</text>
       </register>
       <register name="-" type="4">
-        <text>[Integer]</text>
+        <text encoding="base64">Q0NWIA==</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
@@ -1202,34 +1229,34 @@
         <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly5pZGVhX21vZHVsZXMK</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly5pZGVhCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB1bnJvdW5kZWRNaW51dGVzID0gdGltZS5nZXRNaW51dGUKICAgIHZhbCBtb2QgPSB1bnJvdW5kZWRNaW51dGVzICUgMzAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBjCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIC8qCiAgICAgIERhdGUgd2hhdGV2ZXJEYXRlWW91V2FudCA9IG5ldyBEYXRlKCk7CiAgICAgIENhbGVuZGFyIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgY2FsZW5kYXIuc2V0VGltZSh3aGF0ZXZlckRhdGVZb3VXYW50KTsKCiAgICAgIGludCB1bnJvdW5kZWRNaW51dGVzID0gY2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1JTlVURSk7CiAgICAgIGludCBtb2QgPSB1bnJvdW5kZWRNaW51dGVzICUgMTU7CiAgICAgIGNhbGVuZGFyLmFkZChDYWxlbmRhci5NSU5VVEUsIG1vZCA8IDggPyAtbW9kIDogKDE1LW1vZCkpOwogICAgICovCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCB1bnJvdW5kZWRNaW51dGVzID0gdGltZS5nZXRNaW51dGUKICAgIHZhbCBtb2QgPSB1bnJvdW5kZWRNaW51dGVzICUgMzAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIC8qCiAgICAgIERhdGUgd2hhdGV2ZXJEYXRlWW91V2FudCA9IG5ldyBEYXRlKCk7CiAgICAgIENhbGVuZGFyIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgY2FsZW5kYXIuc2V0VGltZSh3aGF0ZXZlckRhdGVZb3VXYW50KTsKCiAgICAgIGludCB1bnJvdW5kZWRNaW51dGVzID0gY2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1JTlVURSk7CiAgICAgIGludCBtb2QgPSB1bnJvdW5kZWRNaW51dGVzICUgMTU7CiAgICAgIGNhbGVuZGFyLmFkZChDYWxlbmRhci5NSU5VVEUsIG1vZCA8IDggPyAtbW9kIDogKDE1LW1vZCkpOwogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
