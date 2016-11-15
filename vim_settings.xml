@@ -97,6 +97,12 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/App.scala" timestamp="1479199821396" />
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/main/Hi.scala" timestamp="1479199321381">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/ScadaRequestAdapter.scala" timestamp="1476176570808">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -505,12 +511,12 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/Hi.scala" timestamp="1479111356412">
-        <mark key="'" line="30" column="61" />
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="28" column="40" />
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/Hi.scala" timestamp="1479199227390">
+        <mark key="'" line="34" column="61" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/RequestToken.scala" timestamp="1477475581826">
         <mark key="[" line="15" column="0" />
@@ -662,11 +668,11 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/GenerationSampleRepository.scala" timestamp="1479194389793">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-        <mark key="^" line="8" column="10" />
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/GenerationSampleRepository.scala" timestamp="1479197613782">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="72" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/repositories/FeedRepository.scala" timestamp="1474998733798">
         <mark key="[" line="17" column="19" />
@@ -685,6 +691,13 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/CsvSampleRepository.scala" timestamp="1479200526316">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="7" column="71" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Playlist.scala" timestamp="1471432089879">
         <mark key="[" line="8" column="49" />
@@ -930,6 +943,12 @@
         <mark key="^" line="277" column="35" />
         <mark key="." line="277" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/MainApp.scala" timestamp="1479199925275">
+        <mark key="[" line="4" column="116" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/crowdcaster-embeddable-player/webpack.config.js" timestamp="1469621819221">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="32" column="3" />
@@ -1151,9 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/Development/crowdcaster-embed/service/conf/logback.xml" />
-      <jump line="15" column="14" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/Module.scala" />
-      <jump line="26" column="43" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/controllers/PushController.scala" />
       <jump line="44" column="6" filename="$USER_HOME$/Development/crowdcaster-embed/service/app/actors/MediaManagerActor.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/frames.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/crowdcaster-embed/service/test.html" />
@@ -1251,65 +1267,66 @@
       <jump line="25" column="26" filename="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/SampleRepository.scala" />
       <jump line="65" column="22" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/HashMapSampleRepositoryTest.scala" />
       <jump line="68" column="11" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/HashMapSampleRepositoryTest.scala" />
+      <jump line="8" column="102" filename="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/GenerationSampleRepository.scala" />
+      <jump line="12" column="68" filename="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/main/Hi.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/CsvSampleRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Nothing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgZ2VuZXJhdGlvblJlcG9zaXRvcnkuY3N2UGF0aAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Nothing</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>userId</text>
+        <text>csv</text>
       </register>
       <register name="0" type="4">
         <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9jYXNlIGNsYXNzIEhhc2hNYXBTYW1wbGVSZXBvc2l0b3J5W1RdKHNhbXBsZUNvbGxlY3Rpb246IEhhc2hNYXBbQWNjb3VudElkLCBICg==</text>
+        <text encoding="base64">CiAgZ2VuZXJhdGlvblJlcG9zaXRvcnkuY3N2UGF0aAo=</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
-      <register name="2" type="4">
-        <text>ashMap[LocalDate, HashMap[LocalTime, T]]])
-//  extends SampleRepository[T] {</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHN0ZXZlbiBvbiAyMDE2LzExLzE0LgogICovCg==</text>
+        <text encoding="base64">ICBnZW5lcmF0aW9uUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHN0ZXZlbiBvbiAyMDE2LzExLzE0LgogICovCg==</text>
+        <text encoding="base64">ICB2YWwgZ2VuZXJhdGlvblNhbXBsZVJlcG9zaXRvcnkgPSBDc3ZTYW1wbGVSZXBvc2l0b3J5KCIvVXNlcnMvc3RldmVuL0RldmVsb3BtZW50L2VsZG8vc3ZjLXZlY3Rvci9zYW1wbGVzL2dlbmVyYXRpb24uY3N2IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+        <text encoding="base64">ICB2YWwgZ2VuZXJhdGlvbkNzdlNvdXJjZSA9IAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW5lcmF0aW9uQ3N2U291cmNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAovLyAgICBmaWx0ZXJDb2xsZWN0aW9uKHNhbXBsZUNvbGxlY3Rpb24uZmlsdGVyS2V5cyhfID09IGFjY291bnRJZCkudmFsdWVzLmhlYWQsIGRhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHZhLm5ldC5VUkkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyAgZGVmIGRheVNhbXBsZXMoYWNjb3VudElkOiBBY2NvdW50SWQsIGRhdGU6IExvY2FsRGF0ZSk6IE9wdGlvbltIYXNoTWFwW0xvY2FsVGltZSwgVF1dID0gZmlsdGVyQ29sbGVjdGlvbihzYW1wbGVDb2xsZWN0aW9uLmhlYWQsIGRhdGUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSSQo=</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>8</text>
       </register>
     </registers>
     <search>
-      <last-search>userId</last-search>
+      <last-search>csv</last-search>
       <last-offset />
-      <last-pattern>userId</last-pattern>
+      <last-pattern>csv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getDuration</entry>
         <entry>NodeSeq</entry>
         <entry>aff_id</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
@@ -1329,14 +1346,11 @@
         <entry>Acc</entry>
         <entry>1</entry>
         <entry>userId</entry>
+        <entry>csv</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
-        <entry>6</entry>
-        <entry>!5</entry>
         <entry>15</entry>
         <entry>78</entry>
-        <entry>9</entry>
         <entry>38</entry>
         <entry>23</entry>
         <entry>27</entry>
@@ -1346,11 +1360,15 @@
         <entry>t.</entry>
         <entry>w</entry>
         <entry>28</entry>
-        <entry>1</entry>
         <entry>7</entry>
         <entry>11</entry>
-        <entry>8</entry>
+        <entry>32</entry>
+        <entry>10</entry>
+        <entry>9</entry>
+        <entry>1</entry>
+        <entry>#</entry>
         <entry>3</entry>
+        <entry>8</entry>
       </history-cmd>
       <history-expr />
       <history-input />
