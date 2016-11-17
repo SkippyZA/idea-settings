@@ -692,11 +692,11 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/CsvSampleRepository.scala" timestamp="1479296227720">
-        <mark key="[" line="26" column="119" />
-        <mark key="]" line="26" column="119" />
-        <mark key="." line="26" column="119" />
-        <mark key="^" line="26" column="119" />
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/CsvSampleRepository.scala" timestamp="1479363745841">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Playlist.scala" timestamp="1471432089879">
         <mark key="[" line="8" column="49" />
@@ -1273,10 +1273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
