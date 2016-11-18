@@ -91,12 +91,12 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/SampleRepository.scala" timestamp="1479456923422">
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/SampleRepository.scala" timestamp="1479463066566">
         <mark key="'" line="38" column="26" />
-        <mark key="[" line="51" column="6" />
-        <mark key="]" line="51" column="5" />
-        <mark key="." line="51" column="5" />
-        <mark key="^" line="51" column="5" />
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="62" column="31" />
+        <mark key="." line="62" column="31" />
+        <mark key="^" line="62" column="31" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Channel.scala" timestamp="1471433519096">
         <mark key="[" line="6" column="22" />
@@ -254,6 +254,12 @@
         <mark key="]" line="2" column="23" />
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/InMemorySampleRepositoryTest.scala" timestamp="1479462872038">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="15" />
+        <mark key="^" line="53" column="15" />
+        <mark key="." line="53" column="15" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/app/traits/Database.scala" timestamp="1473018589413">
         <mark key="[" line="7" column="25" />
@@ -438,11 +444,12 @@
         <mark key="." line="77" column="54" />
         <mark key="^" line="77" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/InMemorySampleRepository.scala" timestamp="1479453599273">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/InMemorySampleRepository.scala" timestamp="1479463103918">
+        <mark key="'" line="78" column="15" />
+        <mark key="[" line="78" column="2" />
+        <mark key="]" line="78" column="89" />
+        <mark key="." line="78" column="89" />
+        <mark key="^" line="78" column="89" />
       </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/app/tables/RaceTable.scala" timestamp="1473181358286">
         <mark key="[" line="24" column="6" />
@@ -1176,7 +1183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="5" filename="$USER_HOME$/Development/cc-digestor/src/index.js" />
       <jump line="23" column="7" filename="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Development/cc-digestor/src/Logger/index.js" />
       <jump line="89" column="41" filename="$USER_HOME$/Development/mediclinic/src/services/mailer.js" />
@@ -1276,64 +1282,64 @@
       <jump line="8" column="0" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/CsvSampleRepositoryTest.scala" />
       <jump line="11" column="7" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/CsvSampleRepositoryTest.scala" />
       <jump line="42" column="0" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/CsvSampleRepositoryTest.scala" />
+      <jump line="78" column="15" filename="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/InMemorySampleRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHN0ZXZlbiBvbiAyMDE2LzExLzE4LgogICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
-        <text>4</text>
+        <text>accountSa</text>
       </register>
       <register name="0" type="4">
         <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHN0ZXZlbiBvbiAyMDE2LzExLzE4LgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>d2wwdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICB8IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGFzc2VydFIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgQWNjb3VudFNhbXBsZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8vICB2YWwgY3N2U291cmNlID0gU291cmNlLmZyb21TdHJpbmcoCi8vICAgICIiIgovLyAgICAgIHxBY2NvdW50IElELERhdGUsMDowMCwwOjMwLDE6MDAKLy8gICAgICB8MSwyMDE2LTAxLTAxLDEsMiwzCi8vICAgICAgfDEsMjAxNi0wMS0wMiw0LDUsNgovLyAgICAgIHwyLDIwMTYtMDEtMDEsNyw4LDkKLy8gICAgICB8MiwyMDE2LTAxLTAyLDEwLDExLDEyCi8vICAgICAgfCIiIi5zdHJpcE1hcmdpbignfCcpCi8vICApCi8vCi8vICB2YXIgY3N2U2FtcGxlUmVwb3NpdG9yeTogQ3N2U2FtcGxlUmVwb3NpdG9yeVtJbnRdID0gQ3N2U2FtcGxlUmVwb3NpdG9yeVtJbnRdKGNzdlNvdXJjZSwgSW50ZWdlci5wYXJzZUludCkKLy8KLy8gICJBIENTViBTYW1wbGUgUmVwb3NpdG9yeSIgc2hvdWxkICJyZXR1cm4gYSB2YWxpZCBpbnN0YW5jZSB3aGVuIGdpdmVuIHZhbGlkIENTViBkYXRhIiBpbiB7Ci8vICAgIGFzc2VydChjc3ZTYW1wbGVSZXBvc2l0b3J5LmlzSW5zdGFuY2VPZltDc3ZTYW1wbGVSZXBvc2l0b3J5W0ludF1dKQovLyAgfQovLwovLyAgaXQgc2hvdWxkICJyZXR1cm4gYSBzYW1wbGUgdmFsdWUgZm9yIGEgdmFsaWQgYWNjb3VudCwgZGF0ZSBhbmQgdGltZSIgaW4gewovLyAgICBhc3NlcnRSZXN1bHQoU29tZSgxKSkgewovLyAgICAgIGNzdlNhbXBsZVJlcG9zaXRvcnkuc2FtcGxlVmFsdWUoQWNjb3VudElkKDEpLCBMb2NhbERhdGVUaW1lLm9mKDIwMTYsIDEsIDEsIDAsIDApKQovLyAgICB9Ci8vICB9Ci8vCi8vICAiYWJjZCIgc2hvdWxkICJ4eXoiIGluIHsKLy8gICAgYXNzZXJ0KHRydWUpCi8vICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHN0ZXZlbiBvbiAyMDE2LzExLzE4LgogICovCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>50</text>
+        <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search>4</last-search>
+      <last-search>accountSa</last-search>
       <last-offset />
-      <last-pattern>4</last-pattern>
+      <last-pattern>accountSa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>filterColl</entry>
         <entry>Acc</entry>
         <entry>userId</entry>
         <entry>csv</entry>
@@ -1353,10 +1359,9 @@
         <entry>Big</entry>
         <entry>with</entry>
         <entry>4</entry>
+        <entry>accountSa</entry>
       </history-search>
       <history-cmd>
-        <entry>13</entry>
-        <entry>41</entry>
         <entry>18</entry>
         <entry>24</entry>
         <entry>10</entry>
@@ -1375,6 +1380,8 @@
         <entry>3</entry>
         <entry>11</entry>
         <entry>50</entry>
+        <entry>60</entry>
+        <entry>71</entry>
       </history-cmd>
       <history-expr />
       <history-input />
