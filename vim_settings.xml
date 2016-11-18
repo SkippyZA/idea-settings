@@ -555,7 +555,7 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1479382921260">
+      <file name="/fragment.java" timestamp="1479451833748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1476256677175">
@@ -803,6 +803,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/TariffRepository.scala" timestamp="1479452039602" />
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingEndpoints.scala" timestamp="1466962983584">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="6" column="1" />
