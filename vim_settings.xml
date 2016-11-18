@@ -91,12 +91,12 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/SampleRepository.scala" timestamp="1479453605077">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/SampleRepository.scala" timestamp="1479456923422">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="5" />
+        <mark key="." line="51" column="5" />
+        <mark key="^" line="51" column="5" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/app/models/Channel.scala" timestamp="1471433519096">
         <mark key="[" line="6" column="22" />
@@ -1321,7 +1321,7 @@
         <text encoding="base64">Ci8vICB2YWwgY3N2U291cmNlID0gU291cmNlLmZyb21TdHJpbmcoCi8vICAgICIiIgovLyAgICAgIHxBY2NvdW50IElELERhdGUsMDowMCwwOjMwLDE6MDAKLy8gICAgICB8MSwyMDE2LTAxLTAxLDEsMiwzCi8vICAgICAgfDEsMjAxNi0wMS0wMiw0LDUsNgovLyAgICAgIHwyLDIwMTYtMDEtMDEsNyw4LDkKLy8gICAgICB8MiwyMDE2LTAxLTAyLDEwLDExLDEyCi8vICAgICAgfCIiIi5zdHJpcE1hcmdpbignfCcpCi8vICApCi8vCi8vICB2YXIgY3N2U2FtcGxlUmVwb3NpdG9yeTogQ3N2U2FtcGxlUmVwb3NpdG9yeVtJbnRdID0gQ3N2U2FtcGxlUmVwb3NpdG9yeVtJbnRdKGNzdlNvdXJjZSwgSW50ZWdlci5wYXJzZUludCkKLy8KLy8gICJBIENTViBTYW1wbGUgUmVwb3NpdG9yeSIgc2hvdWxkICJyZXR1cm4gYSB2YWxpZCBpbnN0YW5jZSB3aGVuIGdpdmVuIHZhbGlkIENTViBkYXRhIiBpbiB7Ci8vICAgIGFzc2VydChjc3ZTYW1wbGVSZXBvc2l0b3J5LmlzSW5zdGFuY2VPZltDc3ZTYW1wbGVSZXBvc2l0b3J5W0ludF1dKQovLyAgfQovLwovLyAgaXQgc2hvdWxkICJyZXR1cm4gYSBzYW1wbGUgdmFsdWUgZm9yIGEgdmFsaWQgYWNjb3VudCwgZGF0ZSBhbmQgdGltZSIgaW4gewovLyAgICBhc3NlcnRSZXN1bHQoU29tZSgxKSkgewovLyAgICAgIGNzdlNhbXBsZVJlcG9zaXRvcnkuc2FtcGxlVmFsdWUoQWNjb3VudElkKDEpLCBMb2NhbERhdGVUaW1lLm9mKDIwMTYsIDEsIDEsIDAsIDApKQovLyAgICB9Ci8vICB9Ci8vCi8vICAiYWJjZCIgc2hvdWxkICJ4eXoiIGluIHsKLy8gICAgYXNzZXJ0KHRydWUpCi8vICB9</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
@@ -1355,8 +1355,6 @@
         <entry>4</entry>
       </history-search>
       <history-cmd>
-        <entry>40</entry>
-        <entry>14</entry>
         <entry>13</entry>
         <entry>41</entry>
         <entry>18</entry>
@@ -1375,6 +1373,8 @@
         <entry>w</entry>
         <entry>47</entry>
         <entry>3</entry>
+        <entry>11</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
