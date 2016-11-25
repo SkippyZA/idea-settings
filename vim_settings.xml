@@ -36,7 +36,7 @@
       <file name="/a.dummy" timestamp="1476359581553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/CsvSampleRepositoryTest.scala" timestamp="1479981451113">
+      <file name="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/CsvSampleRepositoryTest.scala" timestamp="1480062074062">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -103,11 +103,6 @@
         <mark key="]" line="6" column="44" />
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
-      </file>
-      <file name="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/main/Hi.scala" timestamp="1479199321381">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/ScadaRequestAdapter.scala" timestamp="1476176570808">
         <mark key="[" line="20" column="0" />
@@ -439,6 +434,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingTest.scala" timestamp="1480062175802">
+        <mark key="[" line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/Development/helios/svc-patient/conf/evolutions/default/2.sql" timestamp="1473182891409">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -457,6 +455,7 @@
         <mark key="^" line="68" column="0" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.github.karelcemus/play-redis_2.11/srcs/play-redis_2.11-1.3.0-M1-sources.jar!/play/api/cache/redis/CacheApi.scala" timestamp="1480064050835" />
       <file name="$USER_HOME$/Development/helios/svc-glaucoma/conf/logback.xml" timestamp="1474757222923">
         <mark key="[" line="35" column="15" />
         <mark key="]" line="35" column="18" />
@@ -558,12 +557,15 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1476271223375">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1480062342753">
+        <mark key="'" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1480063857941">
         <mark key="'" line="26" column="40" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="40" column="34" />
-        <mark key="." line="18" column="33" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="6" />
+        <mark key="^" line="54" column="6" />
+        <mark key="." line="54" column="6" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/RequestToken.scala" timestamp="1477475581826">
         <mark key="[" line="15" column="0" />
@@ -595,7 +597,7 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1479451833748">
+      <file name="/fragment.java" timestamp="1480062152838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1476256677175">
@@ -616,11 +618,21 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="47" column="74" />
       </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" timestamp="1480064607943">
+        <mark key="'" line="39" column="45" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="37" column="115" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1471864033947">
         <mark key="[" line="391" column="4" />
         <mark key="]" line="391" column="3" />
         <mark key="^" line="391" column="3" />
         <mark key="." line="391" column="3" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1480063781948">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/iracing-scraping/src/main/scala/com/complex/iracing/iRacingStats.scala" timestamp="1466962716268">
         <mark key="[" line="4" column="0" />
@@ -764,6 +776,13 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="31" column="78" />
+      </file>
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1480064147391">
+        <mark key="'" line="51" column="30" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Development/crowdcaster-embed/service/test-tools/frames.html" timestamp="1471248949165">
         <mark key="[" line="23" column="13" />
@@ -1219,14 +1238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="15" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" />
-      <jump line="97" column="13" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" />
-      <jump line="42" column="11" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" />
-      <jump line="77" column="11" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" />
-      <jump line="96" column="13" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/library/screening/models/ScreeningField.scala" />
-      <jump line="22" column="0" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/controllers/TestController.scala" />
-      <jump line="13" column="35" filename="$USER_HOME$/Development/helios/svc-glaucoma/app/controllers/TestController.scala" />
-      <jump line="16" column="32" filename="$USER_HOME$/Development/eldo/svc-hermes/app/services/EldoScadeRequestService.scala" />
       <jump line="39" column="14" filename="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" />
       <jump line="44" column="8" filename="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" />
       <jump line="67" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/app/actors/RequestManager.scala" />
@@ -1319,22 +1330,30 @@
       <jump line="85" column="58" filename="$USER_HOME$/Development/eldo/svc-vector/src/main/scala/repositories/InMemorySampleRepository.scala" />
       <jump line="60" column="2" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/InMemorySampleRepositoryTest.scala" />
       <jump line="54" column="0" filename="$USER_HOME$/Development/eldo/svc-vector/src/test/scala/repositories/CsvSampleRepositoryTest.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/test/repositories/TariffRepositorySpec.scala" />
+      <jump line="22" column="67" filename="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" />
+      <jump line="19" column="8" filename="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" />
+      <jump line="27" column="30" filename="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" />
+      <jump line="2" column="20" filename="$USER_HOME$/Development/eldo/svc-hermes/test/services/ScadaServiceImplSpec.scala" />
+      <jump line="51" column="30" filename="$USER_HOME$/Development/eldo/svc-hermes/test/services/ScadaServiceImplSpec.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" />
+      <jump line="40" column="45" filename="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRSZXN1bHQoU29tZShCaWdEZWNpbWFsKDguOCkpKSB7CiAgICAgICAgICBjc3ZTYW1wbGVSZXBvc2l0b3J5LnNhbXBsZVZhbHVlKEFjY291bnRJZCgyKSwgTG9jYWxEYXRlVGltZS5vZigyMDE2LCAxLCAxLCAwLCAzMCkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmNhY2hlLnJlZGlzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>1234</text>
       </register>
       <register name="/" type="4">
-        <text>(1</text>
+        <text>Int</text>
       </register>
       <register name="0" type="4">
         <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRSZXN1bHQoU29tZShCaWdEZWNpbWFsKDguOCkpKSB7CiAgICAgICAgICBjc3ZTYW1wbGVSZXBvc2l0b3J5LnNhbXBsZVZhbHVlKEFjY291bnRJZCgyKSwgTG9jYWxEYXRlVGltZS5vZigyMDE2LCAxLCAxLCAwLCAzMCkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmNhY2hlLnJlZGlzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1367,47 +1386,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFJlc3VsdChTb21lKDEpKSB7Ci8vICAgICAgICAgIGNzdlNhbXBsZVJlcG9zaXRvcnkuc2FtcGxlVmFsdWUoQWNjb3VudElkKDEpLCBMb2NhbERhdGVUaW1lLm9mKDIwMTYsIDEsIDEsIDAsIDApKQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmNhY2hlLnJlZGlzCmltcG9ydCBwbGF5LmFwaS5jYWNoZS5yZWRpcy5DYWNoZUFzeW5jQXBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgIGFzc2VydFJlc3VsdChleHBlY3RlZFNhbXBsZXMpIHsKLy8gICAgICBpbk1lbW9yeVNhbXBsZVJlcG9zaXRvcnkuYWNjb3VudFNhbXBsZXMoTG9jYWxEYXRlVGltZS5vZigyMDAwLCAxLCAxLCAwLCAwKSkKLy8gICAgfQo=</text>
+        <text encoding="base64">Ly8KLy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2FtcGxlCg==</text>
+        <text encoding="base64">Ly8gICAgICBjYWNoZS5nZXRPckVsc2VbVF0obmFtZSwgdHRsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWMK</text>
+        <text encoding="base64">Ly8gICAgICB3aGVuKGNhY2hlQXN5bmNBcGkuZ2V0T3JFbHNlW0ludGVnZXJdKCJzeW5jIiwgRHVyYXRpb24uSW5mKSkgdGhlblJldHVybiAxMjM0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2FtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzLmFueQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFJlc3VsdChleHBlY3RlZFNhbXBsZXMpIHsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text>8</text>
       </register>
     </registers>
     <search>
-      <last-search>(1</last-search>
+      <last-search>Int</last-search>
       <last-offset />
-      <last-pattern>(1</last-pattern>
+      <last-pattern>Int</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>String</entry>
-        <entry>2</entry>
-        <entry>[</entry>
-        <entry>Hash</entry>
-        <entry>1</entry>
         <entry>user</entry>
         <entry>sample</entry>
         <entry>_</entry>
@@ -1423,28 +1437,33 @@
         <entry>List</entry>
         <entry>T</entry>
         <entry>(1</entry>
+        <entry>abc</entry>
+        <entry>when</entry>
+        <entry>any</entry>
+        <entry>Integer</entry>
+        <entry>Int</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
-        <entry>5</entry>
-        <entry>39</entry>
-        <entry>26</entry>
-        <entry>53</entry>
-        <entry>20</entry>
-        <entry>w</entry>
-        <entry>47</entry>
+        <entry encoding="base64">JzwsJz4xMDY=</entry>
+        <entry>!3</entry>
+        <entry>14</entry>
+        <entry>12</entry>
+        <entry>23</entry>
+        <entry>19</entry>
+        <entry>13</entry>
+        <entry>34</entry>
         <entry>3</entry>
-        <entry>11</entry>
-        <entry>50</entry>
-        <entry>60</entry>
-        <entry>71</entry>
-        <entry>61</entry>
-        <entry>74</entry>
-        <entry>84</entry>
-        <entry>106</entry>
-        <entry>9</entry>
-        <entry>29</entry>
-        <entry>55</entry>
+        <entry>6</entry>
+        <entry>1</entry>
+        <entry>35</entry>
+        <entry>37</entry>
+        <entry>t.</entry>
+        <entry>52</entry>
+        <entry>5</entry>
+        <entry>2</entry>
+        <entry>28</entry>
+        <entry>39</entry>
+        <entry>8</entry>
       </history-cmd>
       <history-expr />
       <history-input />
