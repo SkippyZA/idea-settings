@@ -560,12 +560,12 @@
       <file name="$USER_HOME$/Development/eldo/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1480062342753">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1480076826663">
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" timestamp="1480318669904">
         <mark key="'" line="37" column="6" />
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="12" />
-        <mark key="^" line="32" column="29" />
+        <mark key="[" line="37" column="7" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/library/RequestToken.scala" timestamp="1477475581826">
         <mark key="[" line="15" column="0" />
@@ -618,10 +618,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="47" column="74" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" timestamp="1480313861817">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" timestamp="1480319054876">
+        <mark key="'" line="51" column="72" />
+        <mark key="[" line="54" column="46" />
+        <mark key="]" line="54" column="46" />
+        <mark key="." line="54" column="46" />
+        <mark key="^" line="53" column="52" />
       </file>
       <file name="$USER_HOME$/Development/yazimedia/spec/unit/lib/has-offers/rules-spec.js" timestamp="1471864033947">
         <mark key="[" line="391" column="4" />
@@ -1236,7 +1238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="975" column="29" filename="$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.3.0-sources.jar!/com/typesafe/config/Config.java" />
       <jump line="984" column="15" filename="$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.3.0-sources.jar!/com/typesafe/config/Config.java" />
       <jump line="988" column="29" filename="$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.3.0-sources.jar!/com/typesafe/config/Config.java" />
       <jump line="995" column="19" filename="$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.3.0-sources.jar!/com/typesafe/config/Config.java" />
@@ -1336,22 +1337,23 @@
       <jump line="35" column="0" filename="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" />
       <jump line="54" column="6" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" />
       <jump line="37" column="6" filename="$USER_HOME$/Development/eldo/svc-hermes/app/library/Caching.scala" />
+      <jump line="49" column="72" filename="$USER_HOME$/Development/eldo/svc-hermes/test/library/CachingSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Abv</text>
+        <text encoding="base64">XDwvXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>c</text>
+        <text>////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1384,43 +1386,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmVyaWZ5KG1vY2tDYWNoZUFzeW5jQXBpKS5nZXRPckVsc2UuYXBwbHkoKSgpCg==</text>
+        <text encoding="base64">ICAgICAgcmVwb25zCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlc3BvbnNlMiA9IHRlc3RDYWNoZS5jYWNoZVJlc3VsdCgidGVzdCIpKCgpID0+IHsgMTIzNCB9KQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKICAgICAgICAKICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmVyaWZ5KFVuaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgICBhc3NlcnQoMSkKICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIHZlcmlmeShtb2NrQ2FjaGVBc3luY0FwaSwgdGltZXMoMSkpLmdldE9yRWxzZVtJbnRlZ2VyXSgic3luYyIsIER1cmF0aW9uLkluZm8pKDQzNCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgZGVmIGFzeW5jU3VjY2VzcygpID0gY2FjaGVGdXR1cmVSZXN1bHRbSW50ZWdlcl0oImFzeW5jIikge30KLy8gICAgZGVmIGFzeW5jRmFpbHVyZSgpID0gY2FjaGVGdXR1cmVSZXN1bHRbSW50ZWdlcl0oImFzeW5jIikgeyAoKSA9PiBGdXR1cmUuZmFpbGVkKHRocm93IG5ldyBFeGNlcHRpb24oIkZhaWxlZCIpKSB9Ci8vCi8vICAgIGRlZiBzdWNjZXNzU3luYygpOiBJbnRlZ2VyID0gY2FjaGVSZXN1bHRbSW50ZWdlcl0oInN5bmMiKSB7ICgpID0+IDQzMjEgfQo=</text>
+        <text encoding="base64">CiAgICAgIHJlc3BvbnNlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KHJlc3BvbnNlID09IDEwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBwcm90ZWN0ZWQgZGVmIGJlZm9yZUVhY2goKSA9IHsKCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KG1vY2tDYWNoZUFzeW5jQXBpLmdldE9yRWxzZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>t.</text>
       </register>
     </registers>
     <search>
-      <last-search>Abv</last-search>
+      <last-search encoding="base64">XDwvXD4=</last-search>
       <last-offset />
-      <last-pattern>Abv</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>(1</entry>
         <entry>abc</entry>
         <entry>when</entry>
         <entry>Integer</entry>
@@ -1440,19 +1441,15 @@
         <entry encoding="base64">XDxjYWNoZVJlc3VsdFw+</entry>
         <entry>get</entry>
         <entry>Abv</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>6</entry>
-        <entry>1</entry>
-        <entry>35</entry>
-        <entry>52</entry>
         <entry>5</entry>
         <entry>2</entry>
         <entry>28</entry>
         <entry>8</entry>
         <entry>40</entry>
         <entry>33</entry>
-        <entry>t.</entry>
         <entry>25</entry>
         <entry>39</entry>
         <entry>42</entry>
@@ -1462,6 +1459,11 @@
         <entry>16</entry>
         <entry>4</entry>
         <entry>37</entry>
+        <entry>27</entry>
+        <entry>3</entry>
+        <entry>36</entry>
+        <entry>50</entry>
+        <entry>t.</entry>
       </history-cmd>
       <history-expr />
       <history-input />
