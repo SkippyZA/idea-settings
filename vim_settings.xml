@@ -104,6 +104,7 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
+      <file name="$USER_HOME$/Development/mediclinic/everlytic-newsletters.json" timestamp="1480493000038" />
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/services/ScadaRequestAdapter.scala" timestamp="1476176570808">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -458,7 +459,6 @@
         <mark key="^" line="68" column="0" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.github.karelcemus/play-redis_2.11/srcs/play-redis_2.11-1.3.0-M1-sources.jar!/play/api/cache/redis/CacheApi.scala" timestamp="1480075806620" />
       <file name="$USER_HOME$/Development/helios/svc-glaucoma/conf/logback.xml" timestamp="1474757222923">
         <mark key="[" line="35" column="15" />
         <mark key="]" line="35" column="18" />
@@ -697,7 +697,6 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/eldo/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1480324013712" />
       <file name="$USER_HOME$/Development/eldo/svc-hermes/app/eldo/ScadaRequestToken.scala" timestamp="1474616133717">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
